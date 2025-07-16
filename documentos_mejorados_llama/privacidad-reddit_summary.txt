@@ -1,0 +1,91 @@
+**POLÍTICA SIMPLIFICADA DE PRIVACIDAD DE REDDIT**
+
+**Fecha de última actualización: 16 de agosto de 2024**
+
+**Propósito:** Explicamos cómo recopilamos, usamos y protegemos tu información personal en Reddit.
+
+**1. Introducción**
+
+En Reddit, creemos que la privacidad es un derecho. Queremos que tengas control sobre tu información personal y que sepas cómo la usamos. Esta política de privacidad te ayudará a entender cómo recopilamos, usamos y compartimos información sobre ti cuando usas nuestros servicios.
+
+**2. Qué tipo de información recopilamos**
+
+Recopilamos información que nos proporcionas directamente, como:
+
+* Información de cuenta (nombre de usuario, contraseña, etc.)
+* Contenido no público (borradores de publicaciones, mensajes privados, etc.)
+* Acciones que realizas en nuestros servicios (votar, guardar, ocultar, etc.)
+* Información sobre transacciones (compras, pagos, etc.)
+
+También recopilamos información automáticamente, como:
+
+* Datos de registro y uso (dirección IP, tipo de navegador, etc.)
+* Información recopilada a partir de cookies y tecnologías similares
+* Información sobre la ubicación
+
+**3. Cómo utilizamos la información**
+
+Usamos la información sobre ti para:
+
+* Proporcionar, mantener y mejorar nuestros servicios
+* Personalizar los servicios y el contenido
+* Ayudar a proteger la seguridad de Reddit y de nuestros usuarios
+* Proporcionar servicio al cliente
+* Comunicarnos contigo sobre productos y servicios
+
+**4. Cómo compartimos tu información**
+
+Compartimos información de las siguientes maneras:
+
+* Con tu consentimiento
+* Con servicios vinculados (si vinculas tu cuenta de Reddit con otro servicio)
+* Con nuestros proveedores de servicios (para llevar a cabo el trabajo para nosotros)
+* Para cumplir con la ley
+* En caso de emergencia
+* Para hacer cumplir nuestros derechos y promover la seguridad
+
+**5. Cómo protegemos tu información**
+
+Tomamos medidas para ayudar a proteger la información sobre ti de la pérdida, el robo, el mal uso y el acceso no autorizado.
+
+**6. Tus derechos y opciones**
+
+Tienes opciones sobre cómo proteger y limitar la recopilación, el uso y el intercambio de información sobre ti. Puedes:
+
+* Acceder y modificar tu información
+* Eliminar tu cuenta
+* Controlar el acceso de los servicios vinculados a tu cuenta
+* Controlar la publicidad personalizada
+* Controlar el uso de cookies
+* Controlar las comunicaciones promocionales
+* Controlar las notificaciones móviles
+
+**7. Transferencias internacionales de datos**
+
+Reddit es una empresa global y procesamos y almacenamos información en servidores ubicados en diferentes países.
+
+**8. Información adicional para usuarios del EEE y del Reino Unido**
+
+Si vives en el Espacio Económico Europeo (EEE) o en el Reino Unido, hay información adicional que debes saber sobre tus derechos y cómo podemos procesar tu información.
+
+**9. Información adicional para usuarios de California**
+
+Si eres residente de California, hay información adicional que debes saber sobre tus derechos y cómo podemos procesar tu información.
+
+**10. Niños**
+
+Los niños menores de 13 años no pueden crear una cuenta ni usar nuestros servicios de otra manera.
+
+**11. Cambios en esta política**
+
+Es posible que modifiquemos esta política de privacidad de vez en cuando. Si lo hacemos, te lo haremos saber revisando la fecha en la parte superior de la política.
+
+**12. Contáctanos**
+
+Si tienes preguntas sobre esta política de privacidad, puedes contactarnos en:
+
+Reddit, Inc.
+548 Market St. #16093
+San Francisco, California 94104
+
+o en nuestra Oficina de Protección de Datos en [dpo@reddit.com](mailto:dpo@reddit.com).

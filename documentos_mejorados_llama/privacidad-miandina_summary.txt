@@ -1,0 +1,73 @@
+**POLÍTICA DE PRIVACIDAD Y PROTECCIÓN DE DATOS PERSONALES**
+
+**Fecha de última actualización: [Fecha]**
+
+**Propósito:** En Embotelladora Andina S.A., nos comprometemos a proteger la privacidad y seguridad de nuestros usuarios. Esta política explica cómo recopilamos, usamos y protegemos su información personal.
+
+**1. Información personal recopilada**
+
+Recopilamos información personal cuando usted accede y/o usa nuestro sitio web, incluyendo:
+
+* Nombre completo
+* Número de identificación fiscal (rol único tributario o cédula nacional de identidad)
+* Domicilio
+* Correo electrónico
+* Teléfono
+* Preferencias del usuario
+* Otros datos personales necesarios para llevar a cabo la actividad que el usuario quiera ejecutar en el sitio web
+
+**2. Uso de la información personal**
+
+La información personal recopilada se utiliza para:
+
+* Ayudar a establecer y verificar la identidad del usuario
+* Mantener una cuenta del usuario y sus estados de pago
+* Prestar servicios y asistencia
+* Enviar actualizaciones sobre oferta de productos o servicios
+* Desarrollar estudios y análisis sobre los intereses y hábitos de consumo de los usuarios
+* Mejorar el sitio web y la experiencia del usuario
+* Gestionar el despacho de compras
+* Generar información estadística y anonimizada
+
+**3. Seguridad de la información personal**
+
+Mantemos altos estándares de seguridad para proteger la información personal, incluyendo:
+
+* Cifrado con protocolo SSL
+* SSL Certificate
+* Firewall de Amazon Web Service (AWS)
+* Almacenamiento encriptado de las cookies enviadas
+* Servicios administrados por AWS con sus respectivos mecanismos y con acceso únicamente a través de perfiles
+
+**4. Derechos del usuario**
+
+Usted tiene derecho a:
+
+* Acceder a su información personal
+* Pedir la rectificación de datos personales
+* Pedir la cancelación, eliminación o que sean borrados sus datos personales
+* Pedir la limitación o restricción del procesamiento de datos personales
+* Oponerse u objetar el procesamiento de datos personales
+* Recibir los datos personales en un formato estructurado de uso común y lectura mecánica
+* Presentar una queja o reclamo ante la autoridad supervisora de protección de datos personales
+
+**5. Cambios a la política de privacidad**
+
+Podemos modificar y actualizar esta política de privacidad en cualquier momento. Los cambios serán notificados en el sitio web para su aceptación por parte del usuario o cliente.
+
+**6. Domicilio, legislación aplicable y competencia judicial**
+
+Los términos y condiciones se regirán e interpretarán conforme a las leyes de la República de Chile. Todo conflicto derivado de estos términos y condiciones se someterá al conocimiento de los juzgados y tribunales competentes de la República de Chile.
+
+**Contacto**
+
+Si tiene alguna pregunta o inquietud sobre nuestra política de privacidad, por favor no dude en contactarnos:
+
+Dirección: Embotelladora Andina S.A. - Av. Miraflores 9153, Renca, Santiago - Chile
+Teléfono: 600 360 3600
+Links importantes:
+Redes
+miCoca-Cola.cl
+miAndina.cl
+Términos y Condiciones
+Política de privacidad de datos

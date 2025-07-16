@@ -1,0 +1,66 @@
+POLÍTICA SIMPLIFICADA DE PRIVACIDAD Y USO DE BANCOESTADO
+
+**Fecha de última actualización:** [Fecha de actualización]
+
+**Propósito:** En BancoEstado, nos comprometemos a proteger su privacidad y seguridad en línea. Esta política explica cómo recopilamos, usamos y protegemos su información personal al utilizar nuestros servicios en línea.
+
+**Definiciones**
+
+* **Banco:** Banco del Estado de Chile o BancoEstado.
+* **Portal:** El sitio web de BancoEstado.
+* **Usuario:** Persona que visita el portal de BancoEstado.
+* **Cookies:** Pequeñas piezas de código que se almacenan en su computadora para identificarlo como usuario.
+
+**Disponibilidad del portal**
+
+Nuestro portal está disponible para cualquier persona que desee acceder a información y utilizar nuestros servicios. Sin embargo, algunos servicios pueden estar reservados para clientes que posean una clave de acceso.
+
+**Operaciones reservadas a clientes**
+
+Los clientes que posean una clave de acceso pueden realizar operaciones y acceder a información reservada. Estas operaciones están sujetas a las condiciones establecidas en los contratos celebrados entre el cliente y el Banco.
+
+**Garantía de continuidad**
+
+Nos esforzamos por mantener nuestro portal disponible de manera permanente. Sin embargo, debido a la naturaleza de la tecnología utilizada en Internet, no podemos garantizar la continuidad del servicio.
+
+**Modificaciones**
+
+Podemos modificar nuestro portal, la información disponible en él y las condiciones generales en cualquier momento.
+
+**Utilización de la información**
+
+Los usuarios deben utilizar nuestro portal y los servicios que ofrecemos de acuerdo con las condiciones generales y con pleno respeto a la ley y las buenas costumbres.
+
+**Datos de carácter personal**
+
+Los datos personales que nos proporcione serán tratados bajo reserva y solo para los fines propios del Banco. Puede solicitar la eliminación de sus datos personales de nuestra base de datos en cualquier momento.
+
+**Políticas de privacidad y datos de carácter personal**
+
+Al ingresar sus datos personales en nuestra publicación de Facebook, está reconociendo y aceptando que BancoEstado efectúe tratamiento de los mismos y los incorpore a sus bases de datos.
+
+**Oferta de productos**
+
+Las solicitudes que dirija al Banco mediante el portal no implican aprobación de las mismas. Todas las ofertas se entienden hechas bajo la condición de que el solicitante reúna los requisitos exigidos por el Banco.
+
+**Uso de cookies**
+
+Utilizamos cookies para propósitos administrativos, tales como reconocer a los usuarios que ya han seleccionado su portal por omisión y evitar que tengan que hacer nuevamente esa selección.
+
+**Responsabilidad**
+
+La utilización de Internet está expuesta a la intervención maliciosa o negligente de terceros. El usuario asume bajo su responsabilidad y cargo los riesgos de los eventuales daños y perjuicios a los que se vean expuestos.
+
+**Encriptación**
+
+En cada oportunidad que las operaciones requieran mantener la privacidad de la información que circula entre el computador del usuario y el servidor web, se solicitará la autenticación del usuario y se dispondrá de un ambiente seguro usando protocolos estandarizados de encriptación (SSL).
+
+**Recomendaciones de seguridad**
+
+* La responsabilidad del uso seguro de las claves de acceso a medios automatizados es suya.
+* Cuide la privacidad de su clave secreta y no la comparta con terceros.
+* Cambie periódicamente los códigos personales de identificación (PIN) y utilice diferentes códigos secretos para los servicios del banco que lo requieran.
+
+**Legislación y jurisdicción**
+
+Cualquier conflicto que se genere con motivo de la utilización de la información, los servicios o la realización de operaciones disponibles por parte del usuario, será resuelto en conformidad con la legislación vigente y aplicable en Chile y por los tribunales chilenos.

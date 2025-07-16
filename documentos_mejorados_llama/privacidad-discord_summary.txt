@@ -1,0 +1,83 @@
+**POLÍTICA DE PRIVACIDAD DE DISCORD**
+
+**Fecha de última actualización: 15 de marzo de 2024**
+
+**Propósito:** Explicamos cómo recopilamos, usamos y protegemos tu información personal.
+
+**1. Información que recopilamos**
+
+Recopilamos información que nos aportas, información que recopilamos de manera automática e información que recibimos de otros medios.
+
+*   **Información que nos aportas:**
+    *   Información de la cuenta (nombre de usuario, contraseña, fecha de nacimiento, etc.)
+    *   Contenido que creas (mensajes, publicaciones, archivos, etc.)
+    *   Información de pago (método de pago, información de facturación, etc.)
+    *   Información de las acciones que realizas (amigos que agregas, servidores que te unes, etc.)
+    *   Información de funciones opcionales (sincronización de contactos, integraciones de terceros, etc.)
+*   **Información que recopilamos de manera automática:**
+    *   Información sobre tu dispositivo (dirección IP, sistema operativo, navegador, etc.)
+    *   Información sobre cómo usas aplicaciones o sitios web (registros de eventos, etc.)
+    *   Otra información que recopilamos de manera automática (cookies, etc.)
+*   **Información que recibimos de otros medios:**
+    *   Información de otros usuarios y terceros
+
+**2. Cómo usamos tu información**
+
+Usamos la información que recopilamos para:
+
+*   **Cumplir nuestro contrato contigo:** Ofrecerte servicios, cumplir con nuestras obligaciones legales, etc.
+*   **Proteger nuestros servicios:** Mantener seguros nuestros servicios, evitar su mal uso, etc.
+*   **Informar sobre el rendimiento de nuestra compañía:** Rastrear métricas fundamentales de nuestro negocio, etc.
+*   **Personalizar el producto:** Personalizar nuestros servicios y tu experiencia en Discord, etc.
+*   **Mejorar nuestros servicios:** Entender cómo interactúan los usuarios con nuestros servicios, etc.
+*   **Publicitar nuestros servicios:** Notificarte sobre nuestros servicios de pago y otras funciones, etc.
+
+**3. Cómo revelamos tu información**
+
+Revelamos tu información a:
+
+*   **Nuestros proveedores:** Procesadores de pagos, proveedores en la nube, etc.
+*   **Terceros:** Desarrolladores externos, plataformas de anuncios, etc.
+*   **Fuerzas de seguridad:** Cumplir con requisitos de seguridad nacionales o fuerzas policiales, etc.
+*   **En caso de emergencia:** Evitar un daño grave a una persona, etc.
+
+**4. Retención de datos**
+
+Retenemos la información hasta que consideramos que ya no es necesaria para los fines de procesamiento por los cuales la recolectamos o para cumplir requisitos legales.
+
+**5. Cómo protegemos tu información**
+
+Realizamos varios pasos para proteger tu información, incluyendo la encriptación de datos y controles de acceso técnicos y administrativos.
+
+**6. Cómo controlar tu privacidad**
+
+Puedes:
+
+*   **Personalizar tus ajustes personales en Discord:** Limitar nuestra capacidad para usar tus datos, etc.
+*   **Desactivar o eliminar tu cuenta:** Detener el procesamiento de datos nuevos, etc.
+*   **Administrar tu contenido y tus servidores:** Editar o borrar partes específicas de tu información, etc.
+*   **Acceder a tu información:** Solicitar una copia de tu data, etc.
+
+**7. Transferencias internacionales de datos**
+
+Procesamos y almacenamos la información en servidores ubicados en los Estados Unidos y otros países.
+
+**8. Servicios que ofrecen terceros**
+
+Hemos autorizado a desarrolladores externos para que generen algunas funciones u otros servicios y los ofrezcan dentro de los servicios de Discord.
+
+**9. Oficial de protección de datos**
+
+Puedes comunicarte con el oficial de protección de datos de Discord Netherlands BV al correo dpo@discord.com.
+
+**10. Información sobre las leyes locales de privacidad**
+
+Algunas leyes locales, como el Reglamento General de Protección de Datos (RGPD) de la Unión Europea, exigen que los servicios aporten información sobre los datos que recopilan, cómo los usan y la base legal para procesarlos.
+
+**11. Cambios a esta Política de Privacidad**
+
+Actualizaremos esta Política de Privacidad de vez en cuando.
+
+**12. Contáctanos**
+
+Escríbenos a privacy@discord.com si

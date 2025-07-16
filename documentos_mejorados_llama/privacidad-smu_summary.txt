@@ -1,0 +1,60 @@
+Política Simplificada de Protección de Datos Personales
+
+**Título:** Política de Protección de Datos Personales de SMU S.A. y sus filiales
+**Fecha de última actualización:** [Fecha de actualización]
+**Propósito:** Proteger los datos personales de nuestros trabajadores, clientes, proveedores y otros individuos relacionados con nuestra empresa, garantizando su privacidad y seguridad.
+
+**1. Principios para el tratamiento de datos personales**
+
+* **Licitación**: Los datos personales se tratarán de acuerdo con la ley y con el consentimiento del titular.
+* **Finalidad**: Los datos personales se recolectarán con fines específicos y lícitos.
+* **Calidad**: Los datos personales deben ser exactos, completos y actualizados.
+* **Transparencia**: Se informará a los titulares sobre el tratamiento de sus datos personales y se les dará acceso a la información que les concierne.
+* **Seguridad**: Se adoptarán medidas de seguridad para proteger los datos personales contra el acceso no autorizado, la pérdida, la filtración, el daño o la destrucción.
+* **Confidencialidad**: Los destinatarios de la política deberán guardar secreto acerca de los datos personales a los que accedan.
+* **Minimización**: Se evaluará si el tratamiento de datos personales es realmente necesario para alcanzar el objetivo deseado.
+* **Proporcionalidad**: Se recolectarán y tratarán solo los datos personales que sean necesarios para cumplir con los fines del tratamiento.
+
+**2. Bases de licitud para el tratamiento de datos personales**
+
+* **Autorización legal**: El tratamiento de datos personales estará amparado en una base de licitud, como la autorización legal o el consentimiento del titular.
+* **Consentimiento del titular**: Se obtendrá el consentimiento del titular para el tratamiento de sus datos personales, salvo que exista una autorización u obligación legal aplicable.
+
+**3. Derechos de los titulares**
+
+* **Derecho de acceso**: Los titulares tienen derecho a acceder a la información sobre sus datos personales.
+* **Derecho de rectificación**: Los titulares tienen derecho a rectificar sus datos personales si son erróneos o inexactos.
+* **Derecho de cancelación**: Los titulares tienen derecho a cancelar sus datos personales si no son necesarios para el fin para el que fueron recolectados.
+* **Derecho de bloqueo**: Los titulares tienen derecho a bloquear el tratamiento de sus datos personales si no desean que se les utilice para comunicaciones comerciales.
+
+**4. Seguridad y confidencialidad**
+
+* **Medidas de seguridad**: Se adoptarán medidas de seguridad para proteger los datos personales contra el acceso no autorizado, la pérdida, la filtración, el daño o la destrucción.
+* **Acceso a datos personales**: Solo se permitirá el acceso a los datos personales a las personas que necesiten conocerlos para realizar sus funciones.
+
+**5. Formación y conciencia**
+
+* **Plan de formación**: Se implementará un plan de formación para crear y mantener una cultura de protección de datos personales.
+
+**6. Cesión y comunicación de datos personales**
+
+* **Cesión de datos personales**: Se informará a los titulares si se ceden sus datos personales a terceros.
+* **Comunicación de datos personales**: Se comunicarán los datos personales a terceros solo si es necesario para el fin para el que fueron recolectados.
+
+**7. Transferencia internacional de datos personales**
+
+* **Transferencia internacional**: Se informará a los titulares si se transfieren sus datos personales a terceros países.
+
+**8. Privacidad desde el diseño y por defecto**
+
+* **Análisis de cumplimiento**: Se realizará un análisis de cumplimiento de la regulación aplicable antes de implementar nuevos proyectos.
+
+**9. Roles y responsabilidades**
+
+* **Encargado de Protección de Datos**: Será responsable de supervisar el cumplimiento de la política y la regulación aplicable.
+* **Responsables de la Actividad de Tratamiento**: Serán responsables de coordinar y supervisar el cumplimiento de la política en su área.
+* **Comité de Protección de Datos**: Estará conformado por el Encargado de Protección de Datos, los Responsables de la Actividad de Tratamiento y otros miembros.
+
+**10. Denuncias y consultas**
+
+* **Canal de denuncias y consultas**: Se dispone de un canal de denuncias y consultas para dirigirse al Enc
