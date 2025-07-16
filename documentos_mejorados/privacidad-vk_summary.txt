@@ -1,0 +1,157 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada de VK.com para Chile
+**Fecha de última actualización:** 4 de Febrero de 2024
+**Propósito:** Te explicamos de forma clara cómo VK (LLC "VKontakte", con domicilio en Rusia) recopila, usa, comparte y protege tu información personal cuando usas nuestra plataforma vk.com y sus servicios relacionados en Chile. Queremos que entiendas tus derechos y cómo cuidamos tus datos.
+
+---
+
+**1. Información General: Quiénes Somos y De Qué Se Trata Esto**
+
+*   **Quiénes somos:** Somos VK (LLC "VKontakte"), la empresa detrás de la red social VK.com.
+*   **Qué es este documento:** Estas son las reglas sobre cómo manejamos tu información personal y la de otros usuarios. Nuestro objetivo es proteger tu privacidad y evitar que accedan a tu información sin permiso.
+*   **Tu acuerdo:** Al registrarte y usar VK, aceptas estas reglas. Si no estás de acuerdo, por favor deja de usar el sitio inmediatamente.
+*   **Actualizaciones:** Podemos cambiar estas reglas. Si lo hacemos, publicaremos la nueva versión en vk.com/privacy al menos 10 días antes de que los cambios entren en vigor. Siempre podrás encontrar la versión actual allí.
+*   **Base legal:** Usamos y desarrollamos estas reglas de acuerdo con los Términos de Servicio de VK.com (vk.com/terms). Si hay alguna contradicción, estos Términos de Servicio prevalecen.
+*   **Consentimientos específicos:** Si alguna vez necesitamos tu permiso específico para algo relacionado con tus datos (aparte del uso normal del sitio), te lo pediremos directamente para esa situación.
+
+**2. Qué Esperamos de Ti**
+
+Al usar VK, confiamos en que:
+
+*   Tienes la edad y capacidad legal para usar la plataforma.
+*   La información que nos das sobre ti es verdadera y necesaria.
+*   Entiendes que la información que publicas puede ser vista, copiada y compartida por otros usuarios.
+*   Sabes que cierta información que compartes no puede ser eliminada por nosotros si otros ya la han copiado.
+*   Has leído y aceptas estas reglas y entiendes tus derechos y responsabilidades.
+*   **Importante:** Generalmente no verificamos la información que nos das, a menos que sea necesario para cumplir con nuestras obligaciones contigo (por ejemplo, para verificar tu identidad si pierdes acceso a tu cuenta).
+
+**3. Para Qué Usamos Tu Información**
+
+Recopilamos y usamos tu información personal principalmente para:
+
+*   Permitirte usar VK.com y todos sus servicios.
+*   Cumplir con nuestras obligaciones contigo como usuario.
+*   Mejorar nuestros servicios y desarrollar nuevas funcionalidades.
+*   Mantener la seguridad de la plataforma.
+*   Mostrarte contenido relevante para ti (dentro del Ecosistema VK, ver más abajo).
+
+**4. Qué Información Recopilamos Sobre Ti**
+
+Recopilamos diferentes tipos de información:
+
+*   **Información que tú nos entregas directamente:**
+    *   **Al registrarte:** Tu número de teléfono móvil y/o correo electrónico (esto es lo mínimo necesario).
+    *   **En tu perfil (opcional):** Nombre, apellido, fecha de nacimiento, ciudad, estado civil, familia, dirección, información de contacto, educación, trabajo, etc. Tú decides qué compartir.
+    *   **Si te lo pedimos (para verificar identidad):** A veces, como para recuperar tu cuenta, podríamos pedirte una copia de tu documento de identidad u otra información para confirmar quién eres.
+    *   **Para servicios específicos (ej. VK Health):** Si usas servicios como VK Health, podríamos recopilar datos de actividad física (pasos, distancia, calorías) con tu permiso, siguiendo las reglas específicas de ese servicio.
+
+*   **Información que recopilamos automáticamente cuando usas VK:**
+    *   **Datos técnicos:** Tu dirección IP, tipo de sistema operativo, navegador, proveedor de internet.
+    *   **Datos de interacción:** Qué haces en el sitio (clics, páginas visitadas, historial de actividad).
+    *   **Cookies:** Pequeños archivos que nos ayudan a reconocerte y mejorar tu experiencia (puedes gestionarlos en tu navegador).
+    *   **Acceso a funciones del dispositivo (con tu permiso):** Cámara, micrófono, contactos (por ejemplo, para subir fotos, grabar audio, encontrar amigos).
+
+*   **Información que tú creas o compartes en VK:**
+    *   Publicaciones en tu muro, fotos, videos, música, comentarios, mensajes, grupos a los que te unes, etc.
+
+*   **Información sobre ti que resulta de tus acciones o las de otros:**
+    *   Tu lista de amigos, suscripciones, participación en eventos.
+    *   Menciones o etiquetas en fotos/videos que otros usuarios publican sobre ti.
+
+*   **Información especial (Filtros faciales):**
+    *   Cuando usas filtros o máscaras en la cámara de la app móvil, usamos tecnología para detectar tu rostro en tiempo real y aplicar el efecto. **Importante:** No guardamos ni compartimos la información de tu rostro para esto; solo la procesamos momentáneamente para que el filtro funcione.
+
+**5. Cómo Usamos, Guardamos y Compartimos Tu Información**
+
+Tratamos tu información siguiendo estos principios:
+
+*   **Legalidad y buena fe:** Siempre actuamos de forma legal y justa.
+*   **Propósito claro:** Solo usamos tu información para los fines que te explicamos aquí y para los que nos das permiso.
+*   **Necesidad:** Solo recopilamos y usamos la información necesaria para esos fines.
+*   **No mezclar:** No combinamos bases de datos creadas para fines incompatibles.
+
+*   **Base para usar tu información:** Usamos tus datos principalmente para cumplir nuestro acuerdo contigo (los Términos de Servicio) y permitirte usar VK. Por ley (Artículo 6 de la Ley Federal Rusa "Sobre Datos Personales"), generalmente no necesitamos un consentimiento adicional para esto, ya que es parte del servicio que aceptas usar.
+
+*   **Cómo la recopilamos:** Obtenemos información cuando te registras, cuando completas tu perfil, cuando usas el sitio y cuando nos la proporcionas voluntariamente.
+
+*   **Dónde y cómo la guardamos:** Guardamos tu información principalmente en formato electrónico y usamos medidas de seguridad para protegerla. Solo la procesamos de forma no automatizada (manual) si es estrictamente necesario por ley.
+
+*   **Con quién compartimos tu información:**
+    *   **Regla general:** No compartimos tu información personal con terceros, excepto en los casos descritos aquí.
+    *   **Con tu consentimiento:** Podemos compartir información si tú nos das permiso explícito o realizas una acción que lo implique (por ejemplo, al usar aplicaciones de terceros dentro de VK). **¡Ojo!** Estas apps son de desarrolladores externos. Revisa sus propias políticas de privacidad antes de usarlas.
+    *   **Por obligación legal:** Si autoridades gubernamentales nos lo solicitan legalmente, podemos entregar tu información según lo exija la ley.
+    *   **Para mejorar el servicio y ofrecerte más:** Para darte acceso a todas las funciones, desarrollar nuevos servicios y personalizar tu experiencia, podemos analizar tu información (de forma automatizada, usando modelos matemáticos) para entender tus intereses y mostrarte contenido relevante. Esto puede incluir enviarte mensajes para pedir tu opinión.
+    *   **Dentro del Ecosistema VK:** VK.com es parte del "Ecosistema VK". Esto significa que, al usar VK, también aceptas el Acuerdo de Usuario del Ecosistema VK y su Política de Privacidad (disponible en vk.com/legal/rules y vk.com/legal/privacy). Para que herramientas como "VK ID" (tu cuenta única para varios servicios VK) funcionen y para ofrecerte una experiencia integrada, compartimos información sobre ti entre los diferentes servicios del Ecosistema VK. Esto nos permite, por ejemplo, mostrarte anuncios o contenidos más relevantes para ti en distintas plataformas de VK.
+    *   **Con nuestros proveedores:** Podemos encargar a otras empresas del grupo VK (como VK LLC en Rusia) que procesen tus datos en nuestro nombre, siguiendo nuestras instrucciones y esta política, para ayudarnos a mejorar los servicios.
+
+*   **Cómo puedes eliminar tu información:**
+    *   Puedes editar o eliminar información directamente desde tu perfil.
+    *   Puedes eliminar tu cuenta completa usando la opción en "Mi Configuración".
+    *   Nosotros podemos eliminar contenido si viola nuestros Términos de Servicio.
+    *   **Importante:** Si eliminas tu cuenta, guardaremos cierta información tuya en nuestros servidores por el tiempo que la ley rusa nos exija. Sin embargo, tienes un tiempo limitado (generalmente 7 meses) para restaurar tu cuenta si cambias de opinión. Puedes hacerlo desde la configuración.
+
+**6. Tus Derechos y Opciones Sobre Tu Información**
+
+Tienes los siguientes derechos sobre tu información personal:
+
+*   **Acceder a tu información:** Puedes ver tu información personal en cualquier momento iniciando sesión con tu usuario y contraseña, de forma gratuita.
+*   **Controlar tu privacidad:** Puedes ajustar quién puede ver la información que compartes (publicaciones, fotos, lista de amigos, etc.) usando las herramientas de configuración de privacidad en VK.
+*   **Corregir tu información:** Puedes editar y actualizar tu información directamente en tu perfil para asegurarte de que sea correcta y esté al día.
+*   **Eliminar tu información:** Puedes eliminar información de tu perfil o eliminar tu cuenta completa como se describe arriba.
+*   **Pedir corrección o bloqueo:** Si no puedes corregir o eliminar información tú mismo y crees que es incorrecta, incompleta, obsoleta o se obtuvo ilegalmente, puedes pedirnos que la actualicemos, bloqueemos o eliminemos.
+*   **Solicitar información:** Puedes preguntarnos sobre cómo estamos procesando tu información personal.
+
+**Información que siempre es pública (o casi siempre):**
+
+Para que VK funcione como red social, cierta información básica es visible para otros usuarios registrados:
+
+*   Tu nombre y apellido.
+*   Tu foto de perfil, fecha de nacimiento, ciudad, información de educación (si la proporcionaste).
+*   Tus suscripciones y quiénes te siguen.
+*   Tu lista de amigos (a menos que uses la opción de ocultar a algunos amigos específicos).
+
+**Ajustando tu privacidad:**
+
+*   Puedes elegir diferentes niveles de privacidad para la mayoría de tu contenido (fotos, publicaciones, etc.):
+    *   Visible para todos en VK.
+    *   Visible para todos excepto algunas personas.
+    *   Visible solo para tus amigos.
+    *   Visible solo para amigos de amigos.
+    *   Visible solo para algunos amigos específicos.
+    *   Visible solo para ti.
+*   Para tu perfil en general, puedes decidir si es visible para todos en internet (y si los buscadores como Google pueden encontrarlo) o solo para usuarios registrados en VK.
+*   **Importante:** No somos responsables si compartes información con ciertos usuarios (según tu configuración de privacidad) y ellos luego la divulgan.
+*   Si eliminas información de tu página, las copias que otros usuarios hayan hecho (por ejemplo, compartiendo tu publicación) pueden permanecer visibles.
+*   Te recomendamos revisar cómo ven tu perfil otros usuarios para asegurarte de que tu configuración de privacidad es la que deseas.
+
+**7. Cómo Protegemos Tu Información**
+
+Tomamos medidas para proteger tu información contra acceso no autorizado, pérdida o mal uso:
+
+*   **Medidas técnicas y organizativas:** Usamos diversas tecnologías y procedimientos de seguridad.
+*   **Seguridad de tu cuenta:** El acceso a tu cuenta depende de tu login (email o teléfono) y contraseña. **Es tu responsabilidad mantener tu contraseña segura y no compartirla con nadie.**
+*   **Vinculación al teléfono móvil:** Te recomendamos vincular tu cuenta a tu número de teléfono. Esto nos permite:
+    *   Ayudarte a recuperar tu cuenta si olvidas la contraseña (enviándote un código por SMS).
+    *   Añadir una capa extra de seguridad: si detectamos un inicio de sesión sospechoso (desde un lugar inusual), podemos pedirte una verificación adicional usando tu teléfono.
+    *   Usar verificación por "flash call": Podemos llamarte y pedirte que ingreses los últimos dígitos del número que te llamó para verificar tu identidad (con tu permiso, podríamos acceder al historial de llamadas para autocompletar el código y prevenir spam).
+*   **Historial de actividad:** Puedes ver desde dónde y cuándo se ha accedido a tu cuenta en la sección "Mi Configuración" -> "Seguridad" -> "Mostrar historial de actividad".
+
+**8. Límites de Esta Política**
+
+*   **Terceros:** Estas reglas no aplican a sitios web, servicios o acciones de terceros, incluso si encuentras enlaces a ellos en VK. No somos responsables de cómo ellos manejan tu información.
+*   **Información pública:** No somos responsables del uso que otros hagan de la información que tú decides hacer pública o compartes con otros usuarios según tu configuración de privacidad. Piensa bien qué información compartes y con quién.
+*   **API de YouTube:** Usamos la API de YouTube para ciertas funciones. Al usar esas funciones, también aceptas la Política de Privacidad de Google (http://www.google.com/policies/privacy).
+
+**9. Cómo Contactarnos y Hacer Consultas**
+
+*   Si tienes preguntas sobre tu información personal o quieres ejercer tus derechos (como solicitar información sobre el procesamiento), puedes contactarnos:
+    *   **Por correo electrónico (recomendado):** support@vk.com (Puedes enviar un documento electrónico firmado digitalmente si la ley lo requiere o permite).
+    *   **Por correo postal:** A la dirección de LLC "VKontakte" en San Petersburgo, Rusia (prem. 1-N, bld. 12-14, lit. A, Khersonskaya st., St. Petersburg, Russia, 191024).
+*   **Qué incluir en tu solicitud:** Para que podamos ayudarte, tu consulta debe incluir:
+    *   Tu número de documento de identidad (o el de tu representante legal).
+    *   Información sobre cuándo y quién emitió ese documento.
+    *   Prueba de tu relación con VK (por ejemplo, tu nombre de usuario o ID de perfil).
+    *   Tu firma (o la de tu representante).
+*   **Nuestra respuesta:** Revisaremos tu solicitud y te responderemos dentro de un plazo razonable (generalmente 30 días, según la ley aplicable).
+*   **Confidencialidad:** Toda la correspondencia que nos envíes es confidencial y no la compartiremos sin tu permiso, excepto si la ley nos obliga. Solo usaremos tu información de contacto para responder a tu consulta.

@@ -1,0 +1,188 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada para Usuarios en Chile
+**Fecha de última actualización:** 2 de enero de 2024
+**Propósito:** Aquí te explicamos de forma clara cómo recolectamos, usamos, compartimos y protegemos tu información personal cuando usas TikTok en Chile. Queremos que entiendas tus derechos y cómo manejamos tus datos.
+
+---
+
+**¿Quiénes somos?**
+
+La aplicación TikTok (“Plataforma”) te la entrega TikTok Pte. Ltd., una empresa con oficinas en Singapur (“TikTok”, “nosotros”). Nos importa mucho proteger tu privacidad. Si no estás de acuerdo con esta política, te recomendamos no usar la Plataforma.
+
+---
+
+**1. ¿Qué información tuya recopilamos?**
+
+Recopilamos información de distintas maneras:
+
+**A. Información que tú nos das directamente:**
+
+*   **Al crear tu cuenta:** Tu nombre de usuario, contraseña, fecha de nacimiento, correo electrónico o número de teléfono, y tu foto o video de perfil. También la información que pongas en tu biografía.
+*   **Contenido que creas:** Fotos, videos, audios, comentarios, hashtags, mensajes, opiniones y transmisiones en vivo que haces en TikTok. También guardamos datos sobre ese contenido (cuándo, dónde y quién lo creó). Ojo: aunque no tengas cuenta, podrías aparecer en contenido que otros usuarios suban. Guardamos borradores de tu contenido (incluso si no lo publicas) para darte mejores sugerencias (como música). Si usas efectos, podríamos guardar una versión del video sin el efecto.
+*   **Mensajes Directos:** Lo que escribes, envías o recibes por el chat de TikTok, incluyendo mensajes con vendedores dentro de la app. Guardamos el contenido y datos como cuándo se envió o leyó el mensaje. Recuerda que los usuarios a quienes les escribes pueden ver y compartir tus mensajes.
+*   **Portapapeles (si nos das permiso):** Si copias y pegas texto, imágenes o videos desde tu portapapeles a TikTok, accedemos a esa información para que puedas hacerlo.
+*   **Compras:** Si compras Monedas TikTok o productos en la app, guardamos datos de la compra (como datos de tarjeta, facturación, dirección de envío, qué compraste y tu información de contacto).
+*   **Contactos (si decides sincronizar):** Si sincronizas tus contactos del teléfono, accedemos a nombres, números y correos para conectarte con amigos en TikTok. Si sincronizas con redes sociales, vemos tu perfil público y lista de amigos de esa red.
+*   **Verificación de Edad o Identidad:** A veces te pediremos una prueba (como tu carnet) para usar funciones especiales (ej: transmisiones en vivo, cuentas verificadas) o para asegurarnos de que tienes la edad mínima para usar TikTok.
+*   **Cuando nos contactas:** Guardamos la información que nos mandas si pides ayuda, das tu opinión, participas en encuestas, concursos o promociones nuestras.
+
+**B. Información que recopilamos automáticamente:**
+
+*   **Cómo usas TikTok:** Qué videos ves, qué te gusta, qué guardas en favoritos, a quién sigues, qué buscas, los anuncios que ves y cómo interactúas con el contenido y otros usuarios.
+*   **Información que deducimos:** Tus posibles intereses, rango de edad y género, para mostrarte contenido más personalizado.
+*   **Datos técnicos de tu dispositivo:** Tu dirección IP (que da una idea general de tu ubicación), tipo de celular o computador, sistema operativo, operador de internet, zona horaria, identificadores para publicidad, resolución de pantalla, nombres de archivos y apps en tu dispositivo, patrones al teclear, nivel de batería y dispositivos de audio conectados. Si usas TikTok en varios dispositivos, podemos relacionar tu actividad entre ellos.
+*   **Tu ubicación:** Tu ubicación aproximada (basada en tu tarjeta SIM o IP). Si nos das permiso explícito, podemos usar tu ubicación más precisa (GPS). También si agregas una ubicación a tus videos (ej: un lugar turístico).
+*   **Análisis de tu contenido:** Podemos analizar tus videos, fotos y audios para identificar objetos, paisajes, características faciales o corporales (sin identificarte personalmente), el tipo de audio y las palabras dichas. Esto nos sirve para efectos de video, moderar contenido, clasificarlo, recomendarte cosas, mostrarte anuncios y otras funciones internas.
+*   **Cookies y tecnologías similares:** Usamos "cookies" (pequeños archivos) y tecnologías parecidas para entender cómo usas la app, medir qué tan populares son los contenidos y anuncios, mejorar tu experiencia, hacer que la app funcione bien y mostrarte publicidad relevante (incluso en otras páginas web). Nuestros socios también pueden usar cookies para esto. Puedes controlar algunas cookies desde la configuración de tu navegador o dispositivo (te explicamos más en "Tus Derechos y Opciones").
+
+**C. Información que obtenemos de otras fuentes:**
+
+*   **Redes Sociales:** Si te registras o inicias sesión con tu cuenta de Facebook, Google, etc., ellos nos dan acceso a tu nombre de usuario, perfil público y otros datos de esa cuenta. Nosotros también compartimos algo de info con ellos (ej: un identificador de la app).
+*   **Anunciantes y Socios:** Recibimos información tuya de anunciantes y otros socios sobre cosas que haces fuera de TikTok (ej: si visitas su web, usas su app o compras algo en sus tiendas físicas u online). Nos dan datos como identificadores de publicidad o correos para relacionar esa actividad con tu cuenta de TikTok. Algunos socios nos permiten recolectar esta info directamente desde sus sitios usando nuestras herramientas (como el "TikTok Pixel").
+*   **Empresas de nuestro grupo:** Podemos recibir información tuya de otras empresas que son parte del mismo grupo corporativo que TikTok.
+*   **Otras personas:** Podemos recibir información sobre ti si apareces o te mencionan en el video, mensaje, denuncia o comentario de otro usuario, o si alguien nos da tu contacto.
+*   **Fuentes públicas:** Podemos obtener información tuya que esté disponible públicamente.
+*   **Vendedores y Procesadores de Pago:** Si compras algo a través de TikTok, podemos recibir confirmación del pago e información sobre la entrega del producto.
+
+---
+
+**2. ¿Para qué usamos tu información?**
+
+Usamos tu información principalmente para:
+
+*   **Hacer funcionar TikTok:** Entregarte los servicios, funciones, soporte técnico y procesar tus solicitudes. También para analizar cómo funciona la app, hacer pruebas, investigaciones y pedirte tu opinión.
+*   **Permitir compras:** Facilitar que compres y recibas productos o servicios dentro de la app, compartiendo tu info con vendedores y empresas de pago y envío.
+*   **Personalizar tu experiencia:** Mostrarte videos, cuentas y anuncios que creemos que te pueden interesar, basados en lo que te gusta, dónde estás (según la configuración de país) y cómo usas la app.
+*   **Enviarte promociones:** Mandarte mensajes (si lo permites) con novedades nuestras o de socios confiables.
+*   **Mejorar TikTok:** Desarrollar nuevas funciones y mejorar las existentes.
+*   **Medir y mostrar publicidad:** Entender qué tan efectivos son los anuncios y mostrarte publicidad (a veces dirigida a tus intereses) dentro de TikTok.
+*   **Funciones sociales:** Ayudarte a conectar con amigos (ej: con la función "Encontrar amigos"), mostrar a tus amigos si estás activo (si lo permites), ofrecerte el servicio de mensajes, sugerirte cuentas y permitir que interactúes con el contenido de otros.
+*   **Programa de artículos virtuales:** Permitirte participar si compras o recibes regalos virtuales.
+*   **Funciones interactivas:** Permitir que otros usuarios usen tu contenido (ej: para hacer dúos o pegar videos), si tus ajustes lo permiten.
+*   **Promocionar TikTok:** Usar contenido público (como videos populares o hashtags) en nuestras campañas de marketing e invitarte a eventos.
+*   **Entender el uso:** Analizar cómo usas TikTok, incluso si lo haces desde distintos dispositivos.
+*   **Deducir más sobre ti:** Suponer tu rango de edad, género e intereses para personalizar más tu experiencia.
+*   **Seguridad y prevención de abusos:** Detectar y combatir fraudes, spam, actividades ilegales o que violen nuestras normas.
+*   **Optimizar la visualización:** Asegurarnos de que veas el contenido de la mejor manera en tu dispositivo.
+*   **Proteger la Plataforma:** Revisar contenido, mensajes y datos asociados para asegurarnos de que se cumplan nuestras reglas (Términos de Servicio, Normas de la Comunidad).
+*   **Investigación:** Facilitar estudios realizados por investigadores independientes aprobados.
+*   **Verificar tu identidad o edad:** Confirmar quién eres o cuántos años tienes cuando sea necesario.
+*   **Comunicarnos contigo:** Avisarte sobre cambios en nuestros servicios o responder a tus consultas.
+*   **Concursos y promociones:** Anunciarte como ganador (si las reglas lo permiten) y enviarte premios.
+*   **Cumplir nuestras reglas:** Hacer valer nuestros Términos de Servicio y otras políticas.
+*   **Servicios basados en ubicación:** Ofrecerte publicidad y contenido personalizado según tu ubicación (si nos das permiso).
+*   **Entrenar nuestra tecnología:** Mejorar nuestros algoritmos y sistemas de inteligencia artificial.
+
+---
+
+**3. ¿Con quién compartimos tu información?**
+
+Compartimos tu información solo en ciertas situaciones y con las siguientes partes:
+
+*   **Socios Comerciales:**
+    *   Si te registras usando una red social (Facebook, Google, etc.), compartimos algo de info con ellos (ej: un identificador de la app) y ellos nos dan datos tuyos (nombre, perfil público).
+    *   Si permites que otra app o servicio se conecte a tu cuenta de TikTok, compartiremos la información necesaria con ellos según los permisos que des.
+    *   Si compartes contenido de TikTok en otras redes sociales (ej: Instagram, WhatsApp), se compartirá el video/enlace, tu nombre de usuario y el texto que agregues.
+*   **Proveedores de Servicios:** Empresas que nos ayudan a operar TikTok, como:
+    *   Proveedores de almacenamiento en la nube (para guardar datos).
+    *   Servicios de moderación de contenido (para mantener la app segura).
+    *   Empresas que nos ayudan con marketing y análisis de datos.
+*   **Procesadores de Pago y Vendedores:** Si compras algo (ej: Monedas TikTok o productos), compartimos los datos necesarios con las empresas que procesan el pago y con los vendedores para completar la transacción.
+*   **Proveedores de Análisis:** Empresas que nos ayudan a entender cómo se usa TikTok y a mejorar la app. También nos ayudan a medir la efectividad de los anuncios.
+*   **Anunciantes y Socios de Medición:** Compartimos información general (ej: cuántos usuarios vieron un anuncio) o identificadores (como el ID de publicidad de tu celular) para mostrar anuncios relevantes y medir su impacto. No compartimos tu nombre o contacto directo con ellos para publicidad sin tu consentimiento explícito.
+*   **Investigadores Independientes:** Compartimos información con investigadores aprobados para estudios específicos sobre la plataforma.
+*   **Nuestro Grupo Corporativo:** Podemos compartir tu información con otras empresas del grupo TikTok para operar, mejorar y proteger la plataforma.
+*   **Por Razones Legales:** Compartiremos tu información con autoridades (policía, tribunales, etc.) u otras organizaciones si:
+    *   La ley nos obliga a hacerlo.
+    *   Es necesario para cumplir nuestros Términos de Servicio o investigar posibles violaciones.
+    *   Para detectar o prevenir fraudes, problemas de seguridad o técnicos.
+    *   Para proteger nuestros derechos, los tuyos, los de otros usuarios o del público en general, según lo permita la ley.
+*   **Tu Perfil Público:** Si tu cuenta es pública, cualquiera dentro o fuera de TikTok puede ver tu contenido (videos, perfil). Tus amigos y seguidores pueden compartirlo, y puede aparecer en buscadores o sitios de noticias. Puedes configurar tu cuenta como privada en los ajustes ("Administrar cuenta").
+*   **Cambios en la Empresa:** Si vendemos parte o toda la empresa, nos fusionamos con otra, o pasamos por una reorganización, tu información podría ser transferida como parte de la transacción.
+*   **Vendedores y Proveedores de Logística (para Compras):** Cuando compras productos físicos en TikTok, compartimos la información de tu pedido (qué compraste, tu dirección, contacto) con el vendedor y las empresas de envío para que puedan procesar y entregar tu compra. Ellos usarán esta información según sus propias políticas de privacidad.
+
+---
+
+**4. ¿Dónde guardamos tu información?**
+
+Tu información puede ser guardada y procesada en servidores que están fuera de Chile, por ejemplo, en Singapur, Malasia, Irlanda y Estados Unidos. Usamos servidores en distintas partes del mundo para que TikTok funcione de manera continua y global.
+
+---
+
+**5. Tus Derechos y Opciones (¡Importante!)**
+
+Tienes derechos sobre tu información personal. Según las leyes chilenas (como la Ley N° 19.628 sobre Protección de la Vida Privada), estos pueden incluir:
+
+*   **Acceder a tu información:** Saber qué datos tuyos tenemos.
+*   **Rectificar tu información:** Corregir datos si están incorrectos o incompletos.
+*   **Eliminar tu información:** Pedir que borremos tus datos (en ciertos casos).
+*   **Ser informado:** Entender cómo se usan tus datos (el propósito de esta política).
+*   **Oponerte al uso:** En algunos casos, puedes oponerte a que usemos tus datos para ciertos fines.
+*   **Presentar reclamos:** Si crees que no respetamos tus derechos, puedes reclamar ante la autoridad correspondiente (aunque te animamos a contactarnos primero).
+
+**¿Cómo ejercer tus derechos o controlar tu información?**
+
+*   **Solicitud Formal:** Puedes enviar una solicitud para ejercer tus derechos legales a través de este enlace: https://www.tiktok.com/legal/report/privacy.
+*   **Edita tu Perfil:** Puedes ver y cambiar gran parte de la información de tu perfil directamente en la app (en tu perfil y ajustes).
+*   **Elimina Contenido:** Puedes borrar los videos y otro contenido que hayas subido.
+*   **Ajustes de Privacidad:** En la sección "Ajustes y privacidad" de la app, puedes controlar:
+    *   Quién ve tus videos (público, amigos, solo tú).
+    *   Quién puede enviarte mensajes directos.
+    *   Quién puede comentar tus videos.
+    *   Convertir tu cuenta en "Privada" (solo seguidores aprobados verán tu contenido).
+*   **Eliminar tu Cuenta:** Puedes eliminar tu cuenta completa desde los ajustes ("Administrar cuenta").
+*   **Control de Cookies:** Puedes rechazar o deshabilitar algunas cookies cambiando la configuración de tu navegador web. Cada navegador es diferente, consulta sus instrucciones. Para la publicidad dirigida en la app móvil, puedes revisar los ajustes de privacidad de tu celular. Ten en cuenta que si bloqueas las cookies, algunas funciones de TikTok podrían no funcionar bien.
+
+---
+
+**6. La Seguridad de tu Información**
+
+Tomamos medidas para proteger tu información, como usar cifrado y controles técnicos y administrativos. Sin embargo, ninguna transmisión por internet es 100% segura. Aunque hacemos lo posible por proteger tus datos, no podemos garantizar una seguridad absoluta. Cualquier información que compartas es bajo tu propio riesgo.
+
+Si encuentras enlaces a sitios web de terceros en TikTok, recuerda que ellos tienen sus propias políticas de privacidad y no somos responsables por ellas. Revísalas antes de darles tu información.
+
+---
+
+**7. ¿Por cuánto tiempo guardamos tu información?**
+
+Guardamos tu información solo por el tiempo necesario para:
+
+*   Ofrecerte los servicios de TikTok.
+*   Cumplir con los propósitos descritos en esta política.
+*   Cumplir con obligaciones legales o contractuales.
+*   Mantener la seguridad y estabilidad de la app, mejorarla y desarrollarla.
+*   Resolver disputas legales o defender nuestros derechos.
+
+El tiempo exacto varía según el tipo de información y para qué la usamos. Por ejemplo:
+*   La información de tu perfil se guarda mientras tengas tu cuenta activa.
+*   Si incumples nuestras reglas (Términos de Servicio, Normas de la Comunidad), podemos eliminar tu perfil público de inmediato, pero podríamos guardar cierta información tuya por más tiempo para gestionar la infracción.
+
+---
+
+**8. Información sobre Niños y Adolescentes**
+
+TikTok **no está dirigido a menores de 13 años**. En algunos lugares, la edad mínima puede ser mayor por leyes locales. Si crees que un usuario es menor de la edad mínima permitida, por favor contáctanos aquí: https://www.tiktok.com/legal/report/privacy.
+
+Si eres padre, madre o tutor, te invitamos a revisar nuestra **Guía para Tutores**. Tiene información útil sobre TikTok y las herramientas de control disponibles.
+
+---
+
+**9. Cambios a esta Política de Privacidad**
+
+Podemos cambiar esta política de vez en cuando. Si lo hacemos, actualizaremos la fecha de "Última actualización" al inicio de esta página. Te avisaremos publicando la nueva política o mediante otro aviso si la ley lo requiere. Si sigues usando TikTok después de la actualización, significa que aceptas la nueva política. Si no estás de acuerdo, debes dejar de usar la app.
+
+---
+
+**10. ¿Tienes Preguntas? Contáctanos**
+
+Si tienes dudas, comentarios, quejas o solicitudes sobre esta política de privacidad, puedes contactarnos a través de este formulario:
+https://www.tiktok.com/legal/report/privacy
+
+Intentaremos responderte lo antes posible. Esto no limita tu derecho a presentar un reclamo ante la autoridad de protección de datos si lo consideras necesario.
+
+---
+
+**Nota sobre Términos Específicos para Chile:**
+
+Aunque esta política general aplica a Chile, no hay términos *adicionales* específicos para Chile en la sección "Términos complementarios específicos de la jurisdicción" del documento original (a diferencia de Argentina o México). Sin embargo, tus derechos bajo la ley chilena (mencionados en la sección 5) son plenamente reconocidos y puedes ejercerlos como se indica.

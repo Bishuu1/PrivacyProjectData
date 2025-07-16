@@ -1,0 +1,185 @@
+POLÍTICA SIMPLIFICADA:
+
+**Política de Privacidad Simplificada de Meteored Chile**
+
+**Fecha de última actualización:** Marzo de 2022 (basado en la última revisión mencionada en el documento original)
+
+**Propósito:** Queremos explicarte de forma clara y sencilla cómo recogemos, usamos y protegemos tu información personal cuando usas nuestros servicios en Meteored.cl. Nuestro objetivo es que entiendas tus derechos y cómo cuidamos tus datos, cumpliendo siempre con la ley.
+
+---
+
+**1. Quiénes somos y cómo contactarnos**
+
+*   **La Empresa Responsable:** ALPRED S.L. (nosotros, la "empresa"), con NIF/CIF B73088700, somos quienes operamos Meteored.cl y cuidamos tu información.
+*   **Nuestra Dirección:** C/ MAYOR 46, 30893 ALMENDRICOS (MURCIA), ESPAÑA.
+*   **Cómo Contactarnos:**
+    *   Teléfono: +34 968485304 (considera que es un número español)
+    *   Correo Electrónico: info@meteored.com
+
+*   **Cómo Obtenemos tu Información:** Recogemos información tuya a través de:
+    *   Formularios en nuestro sitio web (meteored.cl) y apps.
+    *   Correos electrónicos que nos envías.
+    *   Llamadas telefónicas.
+    *   Formularios en papel o correo postal (menos común).
+    *   Fuentes públicas (como diarios oficiales o medios de comunicación).
+
+*   **Qué Leyes Nos Rigen:** Aunque operamos en Chile, nuestra empresa es española. Por eso, seguimos principalmente el Reglamento Europeo 2016/679 (RGPD) y la Ley Orgánica Española 3/2018 sobre Protección de Datos.
+
+---
+
+**2. Para qué usamos tu información personal**
+
+Usamos tu información para diferentes fines, siempre relacionados con nuestros servicios y actividad. Los principales son:
+
+*   **Para que uses nuestros servicios:** Gestionar tu cuenta, mostrarte el pronóstico del tiempo, enviarte alertas, etc.
+*   **Para mejorar nuestros servicios:** Entender cómo usas Meteored, corregir problemas y desarrollar nuevas funciones.
+*   **Para comunicarnos contigo:** Responder tus preguntas, enviarte información importante o noticias sobre el clima.
+*   **Para temas administrativos:** Gestionar pagos (si aplica), contabilidad y temas internos de la empresa.
+*   **Para ofrecerte cosas de tu interés (Marketing):** Enviarte promociones, noticias o publicidad que creemos te puede gustar, a veces creando un "perfil comercial" basado en tus intereses para personalizar lo que ves.
+*   **Para gestionar recursos humanos:** Si postulas a un trabajo con nosotros, usamos tus datos (como tu currículum) para evaluar tu postulación.
+*   **Por seguridad:** Podemos usar cámaras de seguridad en nuestras oficinas físicas (en España).
+*   **Para cumplir con la ley:** Usar tu información si alguna ley u orden judicial nos lo exige.
+
+---
+
+**3. Qué información tuya recogemos**
+
+Recopilamos distintos tipos de información:
+
+*   **Información que tú nos das directamente:**
+    *   Cuando nos contactas (tu email, tu consulta).
+    *   Cuando envías comentarios, fotos o videos (por ejemplo, una foto de un fenómeno meteorológico).
+    *   Cuando reportas el clima en tu zona.
+    *   Cuando interactúas con publicidad (si respondes preguntas en un anuncio).
+    *   Cuando personalizas el servicio (por ejemplo, al guardar tu ciudad favorita).
+
+*   **Información que recogemos automáticamente cuando usas nuestros servicios:**
+    *   **Sobre tu dispositivo:** Qué tipo de aparato usas (celular, computador), sistema operativo (Android, iOS, Windows), navegador (Chrome, Safari).
+    *   **Sobre tu uso:** Qué páginas visitas en Meteored, qué funciones usas, cuánto tiempo te quedas.
+    *   **Identificadores:** Tu dirección IP (un número que identifica tu conexión a internet), identificadores de publicidad (códigos en tu celular para mostrarte anuncios), tu proveedor de internet o celular.
+
+*   **Información de ubicación:**
+    *   **Para qué la usamos:** Para darte el pronóstico de tu zona, enviarte alertas de clima severo relevantes para donde estás, mostrarte publicidad local y mejorar nuestros servicios.
+    *   **Cómo la obtenemos:**
+        *   **En la web:** Podemos detectar tu ubicación general (ciudad/región). Tu navegador podría preguntarte si quieres compartir tu ubicación exacta. Si dices que no, solo usaremos la general o la que tú escribas manualmente (ej: "Santiago").
+        *   **En la app móvil:** Si nos das permiso, podemos obtener tu ubicación precisa usando GPS, redes móviles, etc. Esto nos permite enviarte alertas del tiempo justo donde estás. Podemos recogerla incluso si la app está en segundo plano (funcionando sin que la tengas abierta) para enviarte alertas importantes.
+    *   **Tú tienes el control:** Puedes desactivar el permiso de ubicación en cualquier momento desde los ajustes de tu celular o desinstalando la app. Si lo haces, seguirás recibiendo alertas para las ciudades que hayas guardado manualmente.
+
+*   **Información para Alertas y Notificaciones:** Si activas las notificaciones push (mensajes que aparecen en tu pantalla), podemos necesitar tu email, información del dispositivo o tu código postal para enviártelas. Puedes desactivarlas cuando quieras desde los ajustes de tu celular o de la app.
+
+*   **Información de otras fuentes:**
+    *   **Socios y Terceros:** Podemos recibir información tuya de nuestros socios (publicitarios, de análisis) si ellos tienen una base legal para compartirla. A veces combinamos esta información con la que ya tenemos.
+    *   **Redes Sociales:** Si interactúas con Meteored a través de redes sociales (ej: Facebook, Twitter), nos autorizas a recoger, guardar y usar información según esta política. Nosotros podemos:
+        *   Ver tu información pública del perfil.
+        *   Publicar en tu perfil (si tú lo permites).
+        *   Enviarte mensajes privados por la red social.
+        *   Informarte sobre nuestras actividades o productos.
+    *   **Importante sobre Redes Sociales:** Tú controlas tu privacidad en tus redes sociales (ajustes de privacidad). Recuerda que lo que publicas puede ser visto por otros. Nosotros no guardamos las fotos que publicas en la red social, pero sí pueden permanecer allí. Se prohíbe publicar contenido ofensivo, ilegal o que viole derechos de otros en nuestras redes. Nos reservamos el derecho a eliminar contenido y bloquear usuarios si es necesario.
+
+*   **Tipos generales de información que podríamos manejar:**
+    *   Identificación (nombre, RUT si es necesario para algo específico).
+    *   Imagen (si nos envías fotos o videos).
+    *   Datos de contacto (email, teléfono, dirección).
+    *   Características personales o profesionales (si postulas a un trabajo).
+    *   Datos académicos (en currículums).
+    *   Datos económicos (si hubiera alguna transacción).
+
+---
+
+**4. Por cuánto tiempo guardamos tu información**
+
+*   Guardamos tu información personal mientras tengas una relación con nosotros (seas usuario, cliente, etc.), mientras la necesitemos para los fines que te explicamos, o mientras la ley nos obligue a conservarla.
+*   También la guardamos si tú no pides que la borremos.
+*   Cuando ya no necesitemos tu información para su propósito original, la eliminaremos de forma segura o la haremos anónima (para que no se pueda saber que es tuya).
+*   Si nos envías tu currículum y no nos interesa para un puesto, lo borraremos de inmediato.
+*   La información que se guarda de forma anónima puede conservarse indefinidamente.
+
+---
+
+**5. Por qué podemos usar tu información legalmente (Base Legal)**
+
+Solo usamos tu información si tenemos una razón válida según la ley. Estas razones pueden ser:
+
+*   **Tu Consentimiento:** Nos diste permiso para usarla (por ejemplo, al aceptar esta política o al suscribirte a un boletín).
+*   **Necesidad Contractual:** Es necesaria para cumplir un acuerdo contigo (por ejemplo, para darte el servicio de pronóstico que esperas al usar la app).
+*   **Obligación Legal:** La ley nos exige usarla (por ejemplo, si una autoridad nos pide información).
+*   **Interés Legítimo:** Tenemos una razón de negocio válida para usarla (como mejorar nuestros servicios o prevenir fraudes), siempre que respetemos tus derechos y tu privacidad.
+
+---
+
+**6. Con quién compartimos tu información**
+
+Por lo general, no compartimos tu información personal con cualquiera. Solo la compartimos cuando es necesario y con las protecciones adecuadas:
+
+*   **Proveedores de Servicios:** Empresas que nos ayudan a operar Meteored (ej: empresas de almacenamiento de datos, envío de correos, análisis de uso del sitio, soporte técnico, servicios de mapas). Solo pueden usar tu información para ayudarnos a nosotros y están obligados a mantenerla confidencial.
+*   **Socios Publicitarios:** Compartimos cierta información (como ubicación general, identificadores de publicidad, IP, estadísticas de uso anónimas) con empresas de publicidad para mostrarte anuncios que puedan interesarte, tanto en Meteored como en otros sitios o apps. Ellos también pueden recoger información usando tecnologías de rastreo (ver sección 7).
+*   **Autoridades y Obligaciones Legales:** Si una autoridad competente (como un tribunal o la policía) nos lo exige legalmente, o si es necesario para proteger la seguridad o derechos de alguien, o para cumplir con la ley.
+*   **Otros Sitios y Servicios:** Meteored puede tener enlaces a otros sitios web o integrar servicios de terceros (como botones de redes sociales). Estos sitios tienen sus propias políticas de privacidad, que no controlamos. Revisa sus políticas si los usas.
+*   **Información Agregada o Anónima:** Podemos compartir información que ha sido agrupada o modificada para que no te identifique personalmente (datos estadísticos sobre el uso de Meteored).
+
+---
+
+**7. Uso de Cookies y Tecnologías Similares (Rastreo)**
+
+Nosotros y nuestros socios (especialmente los publicitarios y de análisis) usamos tecnologías para recoger información sobre cómo usas nuestros servicios. Esto nos ayuda a:
+
+*   Hacer que el sitio y la app funcionen correctamente.
+*   Recordar tus preferencias (como tu ciudad guardada).
+*   Entender cómo se usan nuestros servicios para mejorarlos.
+*   Mostrarte publicidad relevante para ti.
+
+Las tecnologías principales que usamos son:
+
+*   **Cookies:** Pequeños archivos de texto que se guardan en tu navegador cuando visitas un sitio web. Nos ayudan a reconocerte y recordar tus preferencias. Algunas pueden recoger tu dirección IP.
+*   **Balizas Web (Web Beacons):** Pequeñas imágenes invisibles en las páginas que nos permiten saber si viste una página, a qué hora, desde qué IP, etc. Ayudan a medir la popularidad del contenido.
+*   **Almacenamiento Web (Web Storage):** Similar a las cookies (ej: HTML5 localStorage), permite guardar más información en tu dispositivo, como tus preferencias de volumen para videos.
+*   **Identificadores de Publicidad:** Códigos únicos y reconfigurables en tu celular (como GAID en Android o IDFA en iOS) que permiten a los anunciantes mostrarte anuncios personalizados en las apps sin usar identificadores permanentes de tu dispositivo.
+
+**Tus Opciones para Controlar Estas Tecnologías:**
+
+*   **Navegador Web:** Puedes gestionar las cookies y el almacenamiento web desde la configuración de tu navegador (Chrome, Firefox, Safari, etc.). Busca la sección de "Ayuda" de tu navegador para saber cómo bloquearlas, recibir notificaciones o borrar las existentes. ¡Ojo! Si bloqueas todo, algunas partes de Meteored podrían no funcionar bien. Visita www.allaboutcookies.org/es/ para más información.
+*   **Aplicaciones Móviles (Celular):**
+    *   Puedes limitar el seguimiento de anuncios desde los ajustes de privacidad de tu celular:
+        *   **Android:** Busca opciones como "Inhabilitar personalización de anuncios" o similar en los ajustes de Google.
+        *   **iOS:** Activa "Limitar seguimiento" (Limit Ad Tracking) en los ajustes de Privacidad > Publicidad.
+    *   Esto afectará la publicidad personalizada en *todas* tus apps, no solo Meteored.
+    *   También puedes usar herramientas como **AppChoices** (ofrecida por la DAA - Digital Advertising Alliance) para controlar la recopilación de datos para publicidad en apps.
+*   **Nuestros Socios:** No controlamos las tecnologías de nuestros socios directamente, pero te ofrecemos un enlace donde puedes ver quiénes son y acceder a sus opciones de exclusión (opt-out), si las tienen: [Ver nuestros socios](https://www.meteored.cl/privacy.html#partners) *(Nota: Este enlace debe llevar a la sección relevante de la política original o a una página específica de socios si existe).*
+*   **Importante:** Las opciones de exclusión suelen ser específicas para cada navegador y dispositivo. Si te excluyes en tu celular, puede que necesites hacerlo también en tu computador. Excluirte no significa que no verás anuncios, sino que no serán personalizados según tus intereses.
+
+---
+
+**8. Tus Derechos sobre tu Información Personal**
+
+Tienes derechos sobre la información personal que tenemos tuya. Puedes solicitarnos en cualquier momento:
+
+*   **Acceder:** Ver qué información tuya tenemos y cómo la usamos.
+*   **Rectificar:** Corregir tu información si está incorrecta o incompleta.
+*   **Eliminar (Supresión):** Pedirnos que borremos tu información cuando ya no sea necesaria, si retiraste tu consentimiento, o en otras situaciones que permita la ley.
+*   **Limitar el Tratamiento:** Pedirnos que restrinjamos el uso de tu información en ciertos casos (por ejemplo, mientras verificamos si es exacta).
+*   **Portabilidad:** Recibir una copia de la información que nos diste en un formato común, para poder llevarla a otro servicio si es posible técnicamente.
+*   **Oponerte:** Negarte a que usemos tu información para ciertos fines (como marketing directo) o basándonos en nuestro interés legítimo, si tienes motivos personales válidos.
+*   **Revocar tu Consentimiento:** Si nos diste permiso para algo específico, puedes retirarlo cuando quieras. Esto no afectará lo que hicimos antes, pero detendrá ese uso en el futuro.
+
+**Cómo Ejercer tus Derechos:**
+Puedes ejercer cualquiera de estos derechos contactándonos:
+*   **Por Correo Electrónico:** info@meteored.com
+*   **Por Correo Postal:** C/ MAYOR 46, 30893 ALMENDRICOS (MURCIA), ESPAÑA.
+
+Intentaremos responderte lo antes posible.
+
+**Derecho a Reclamar:** Si crees que no hemos respetado tus derechos, también puedes presentar una reclamación ante la autoridad de protección de datos competente (en España, la Agencia Española de Protección de Datos, AEPD, ya que es donde está la empresa).
+
+---
+
+**9. Cómo protegemos tu información**
+
+Tomamos medidas técnicas y organizativas para proteger tu información y mantenerla segura, confidencial y disponible. Sin embargo, ningún sistema es 100% infalible. Hacemos lo posible por protegerla, pero no podemos garantizar seguridad absoluta contra todas las amenazas. Si ocurre una falla de seguridad importante que afecte tus datos, lo comunicaremos a las autoridades y a ti si es necesario.
+
+---
+
+**10. Comunicaciones y Actualizaciones**
+
+*   **Comunicaciones Nuestras:** Podemos enviarte correos electrónicos u otras comunicaciones que consideremos de tu interés sobre nuestros servicios, funciones o noticias relacionadas con Meteored, siempre de acuerdo con esta política o si tú aceptaste recibirlas.
+*   **Cómo Dejar de Recibirlas:** Si no quieres recibir más mensajes de marketing o promocionales, siempre incluiremos una opción clara y sencilla para que puedas darte de baja (cancelar tu suscripción) en el mismo mensaje.
+*   **Cambios a esta Política:** Esta política puede cambiar de vez en cuando. La última revisión fue en marzo de 2022. Si hacemos cambios importantes, te informaremos si es necesario. Revisa esta página periódicamente para estar al día.

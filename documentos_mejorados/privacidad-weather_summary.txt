@@ -1,0 +1,198 @@
+POLÍTICA SIMPLIFICADA: Política de Privacidad Simplificada para Chile
+
+**Título:** Política de Privacidad Simplificada para Usuarios en Chile
+**Fecha de última actualización:** 14 de junio de 2024
+**Propósito:** Te explicamos de forma clara cómo recopilamos, usamos y protegemos tu información personal cuando usas nuestros servicios de The Weather Company (como The Weather Channel, Weather Underground y Storm Radar) en Chile. Queremos que entiendas tus derechos y cómo cuidamos tu privacidad.
+
+---
+
+**Introducción Rápida**
+
+*   **Quiénes somos:** The Weather Company, LLC., la empresa detrás de servicios como The Weather Channel, Weather Underground y Storm Radar.
+*   **Qué cubre esta política:** Tu uso de nuestros sitios web (weather.com, wunderground.com), aplicaciones móviles y para vehículos, y otros servicios digitales que enlacen a esta política.
+*   **Tu acuerdo:** Al usar nuestros servicios, aceptas esta política. A veces te pediremos tu consentimiento de forma más directa (ej. marcando una casilla).
+*   **Importante:** Mantén tu sistema operativo y nuestras aplicaciones actualizadas para tener acceso a todas las opciones de privacidad.
+
+---
+
+**1. ¿Qué Información Recopilamos y Para Qué la Usamos?**
+
+Recopilamos ciertos datos para que nuestros servicios funcionen bien y para mejorar tu experiencia. Parte de esta información puede ser considerada "datos personales".
+
+**Tipos de Información que Recopilamos:**
+
+*   **Información del Dispositivo:** Datos sobre tu teléfono, tablet, computador, navegador, etc. (ej. tipo de dispositivo, sistema operativo).
+*   **Identificadores:** Información que te identifica a ti o a tu dispositivo, como tu nombre, correo electrónico (si te registras), dirección IP, ID de publicidad del móvil.
+*   **Información de Ubicación:**
+    *   **Ubicación General:** Detectada por tu dirección IP (ciudad, región). Nos permite mostrarte el pronóstico local automáticamente.
+    *   **Ubicación Precisa:** Tu ubicación GPS exacta. Solo la recopilamos si nos das permiso explícito en la configuración de tu navegador o aplicación. Puedes desactivar esto cuando quieras.
+    *   **Ubicaciones Guardadas:** Lugares que buscas o guardas en nuestros servicios.
+*   **Información de Uso:** Cómo interactúas con nuestros servicios (qué miras, en qué haces clic).
+*   **Preferencias:** Tus configuraciones (ej. Celsius o Fahrenheit), temas de interés que nos indicas.
+*   **Opciones de Privacidad:** Tus elecciones sobre cómo usamos tus datos (ej. si aceptas o rechazas ciertos usos).
+*   **Información de Pago:** Si te suscribes a servicios pagados (ej. datos de tarjeta de crédito, dirección de facturación).
+*   **Datos de Estaciones Meteorológicas Personales (PWS):** Si conectas tu estación o sensor de calidad de aire, usamos esos datos para mejorar nuestros servicios.
+
+**¿Para Qué Usamos Esta Información?**
+
+*   **Darte el Pronóstico:** Para mostrarte información meteorológica precisa y noticias relevantes para tu ubicación.
+*   **Mejorar Nuestros Servicios:** Analizamos cómo usas los servicios para hacerlos mejores y más eficientes.
+*   **Gestionar Tu Cuenta:** Si te registras o suscribes, para administrar tu cuenta y personalizar tu experiencia.
+*   **Enviar Alertas:** Para mandarte notificaciones sobre el clima (si las activas).
+*   **Comunicarnos Contigo:** Para responder a tus preguntas o consultas.
+*   **Mostrar Publicidad Relevante:** Para mostrarte anuncios que podrían interesarte en nuestros servicios o en otros sitios/apps, y medir si son efectivos. (Ver sección de Opciones).
+*   **Mantener Todo Funcionando:** Para operaciones técnicas, seguridad y gestión de nuestros sistemas.
+*   **Cumplir la Ley y Proteger Derechos:** Para cumplir con obligaciones legales o proteger la seguridad.
+
+*Puedes elegir no darnos cierta información, pero quizás no puedas usar todas las funciones de nuestros servicios.*
+
+---
+
+**2. ¿Cómo Usamos Cookies y Tecnologías Similares?**
+
+Nosotros y nuestros socios (como empresas de publicidad y análisis) usamos tecnologías para recopilar información automáticamente.
+
+*   **Cookies:** Pequeños archivos que se guardan en tu navegador para recordar tus preferencias, inicio de sesión o analizar cómo usas el sitio.
+*   **Balizas Web (Web Beacons):** Pequeñas imágenes invisibles que nos ayudan a saber si visitaste una página o abriste un correo.
+*   **Almacenamiento Web:** Similar a las cookies, guarda preferencias en tu dispositivo.
+*   **Identificadores de Publicidad:** Códigos únicos en tu dispositivo móvil que ayudan a mostrar anuncios más relevantes sin usar identificadores permanentes.
+
+**Estas tecnologías nos ayudan a:**
+
+*   Hacer que los servicios funcionen correctamente.
+*   Personalizar tu experiencia (ej. recordar tu ciudad).
+*   Mostrar anuncios que te puedan interesar ("publicidad personalizada").
+*   Entender cómo se usan nuestros servicios para mejorarlos.
+*   Diagnosticar problemas técnicos.
+
+---
+
+**3. Tus Opciones y Control Sobre Tu Información**
+
+Tú tienes control sobre tu información. Aquí te explicamos cómo:
+
+*   **Ubicación Precisa:**
+    *   Puedes activar o desactivar el permiso de ubicación precisa en la configuración de tu dispositivo (para apps) o navegador (para sitios web).
+    *   Incluso si la desactivas, podemos usar tu ubicación general (basada en IP) o la última ubicación que buscaste ("ubicación contextual") para darte información relevante.
+*   **Cookies:**
+    *   Puedes administrar las cookies en la configuración de tu navegador (bloquearlas, borrarlas). *Ojo: si bloqueas cookies necesarias, algunas funciones podrían no andar bien.*
+*   **Publicidad Personalizada:**
+    *   **En Apps Móviles:** Puedes limitar el seguimiento publicitario en la configuración de privacidad de tu teléfono (iOS: "Limitar seguimiento de anuncios" o permisos de "Rastreo"; Android: "Inhabilitar personalización de anuncios" o similar).
+    *   **En la Web:** Puedes usar herramientas de exclusión voluntaria de organizaciones como la DAA (Digital Advertising Alliance) o NAI (Network Advertising Initiative) para limitar la publicidad basada en intereses de empresas participantes. Busca "DAA opt out" o "NAI opt out".
+    *   **Suscripción sin Anuncios:** Si tienes una suscripción paga sin anuncios, automáticamente no usamos tus datos para publicidad personalizada.
+    *   **Control de Privacidad Global (GPC):** Si tu navegador tiene esta señal activada, la respetaremos como una solicitud para no vender/compartir tu información para publicidad dirigida (principalmente en EE.UU., pero puede aplicarse).
+*   **Alertas y Notificaciones:** Puedes activarlas o desactivarlas en la configuración de la aplicación o de tu dispositivo.
+*   **Correos de Marketing:** Si te suscribiste a boletines, puedes darte de baja usando el enlace "darse de baja" al final del correo o desde la configuración de tu cuenta (si tienes una).
+*   **No Rastrear (Do Not Track):** Actualmente, no respondemos a las señales DNT de los navegadores porque no hay un estándar universal.
+*   **Tus Derechos (Ver Sección 5):** Puedes solicitar acceso, corrección o eliminación de tus datos.
+
+---
+
+**4. ¿Con Quién Compartimos Tu Información?**
+
+Compartimos tu información solo en ciertas situaciones y con protecciones adecuadas:
+
+*   **Proveedores de Servicios:** Empresas que nos ayudan a operar (ej. almacenamiento de datos, soporte técnico, análisis de uso, mapas). Solo usan la información para ayudarnos.
+*   **Proveedores de Publicidad y Análisis:** Empresas que nos ayudan a mostrar anuncios y entender cómo se usan los servicios. Pueden recopilar datos a través de cookies y tecnologías similares (ver Sección 3 sobre tus opciones).
+*   **Con Tu Consentimiento Explícito:** Si aceptas recibir ofertas o promociones de terceros específicos, compartiremos tu información con ellos para que te contacten. Siempre te pediremos permiso primero.
+*   **Por Razones Legales:** Si la ley nos obliga (ej. orden judicial), para proteger la seguridad o derechos de alguien, o para hacer cumplir nuestros términos de uso.
+*   **En Caso de Venta o Fusión:** Si la empresa cambia de dueños, tu información podría transferirse al nuevo propietario, siempre bajo compromisos de privacidad.
+*   **Información Agregada o Anonimizada:** Podemos compartir datos que han sido modificados para que no te identifiquen personalmente (ej. estadísticas de uso o tendencias de tráfico peatonal con fines de investigación).
+*   **Otros Sitios y Servicios:** Si haces clic en enlaces o anuncios que te llevan fuera de nuestros servicios, esos sitios tienen sus propias políticas de privacidad. Nosotros no controlamos sus prácticas.
+
+---
+
+**5. Tus Derechos Sobre Tus Datos Personales (Acceso, Corrección, Eliminación)**
+
+Queremos que tengas control sobre tu información personal. Tienes derecho a:
+
+*   **Acceder:** Saber qué información personal tenemos sobre ti.
+*   **Recibir una Copia:** Obtener una copia de tus datos en un formato accesible.
+*   **Corregir:** Pedirnos que corrijamos información incorrecta o incompleta.
+*   **Eliminar:** Solicitar que borremos tu información personal.
+
+**Cómo ejercer tus derechos:**
+
+*   **En weather.com:** Busca el enlace "Derechos sobre los datos" o similar en el pie de página o configuración de privacidad. O pulsa aquí: [Enlace a Derechos de Datos weather.com] (Nota: Este enlace debe ser provisto por el usuario final o ser un placeholder genérico si no se puede determinar en este contexto)
+*   **En wunderground.com:** Busca el enlace "Derechos sobre los datos" o similar. O pulsa aquí: [Enlace a Derechos de Datos wunderground.com] (Nota: Placeholder)
+*   **En Aplicaciones Móviles (The Weather Channel, Weather Underground, Storm Radar):** Ve al menú de Configuración y busca la opción "Derechos sobre los datos".
+*   **En la Aplicación para Vehículos:** Envía un correo a `twc-auto-support@weather.com` (ver Sección 10).
+*   **De forma general (The Weather Company):** Envía un correo a `TWCoDSR@weather.com`.
+
+**Importante:**
+
+*   Puede que necesitemos verificar tu identidad antes de procesar tu solicitud.
+*   Si usas varios dispositivos o navegadores sin iniciar sesión, quizás tengas que hacer la solicitud desde cada uno. Si tienes cuenta y estás conectado, la solicitud puede cubrir todos los dispositivos asociados a esa cuenta.
+*   Hay excepciones: no podemos borrar datos necesarios para completar transacciones, por seguridad, para cumplir obligaciones legales o responder a soporte.
+*   Si pides borrar tus datos, dejaremos de tenerlos, pero si sigues usando los servicios, volveremos a recopilar información nueva.
+
+**¿Dudas o Reclamos?**
+Si crees que no estamos cumpliendo con las leyes de protección de datos, contáctanos en `privacy@weather.com`. También tienes derecho a presentar un reclamo ante la autoridad de protección de datos de Chile si corresponde.
+
+---
+
+**6. ¿Cuánto Tiempo Guardamos Tu Información?**
+
+Guardamos tu información personal mientras sea necesario para darte los servicios, cumplir con la ley, resolver disputas o hacer cumplir nuestros acuerdos. La información que no te identifica puede guardarse por más tiempo.
+
+---
+
+**7. Privacidad de Menores de Edad**
+
+Nuestros servicios no están dirigidos a menores de 18 años. No recopilamos intencionalmente datos de menores sin el consentimiento de sus padres o tutores. Si crees que lo hemos hecho, por favor avísanos en `privacy@weather.com` para que podamos borrar esa información.
+
+---
+
+**8. Transferencia Internacional de Datos**
+
+Nuestros servicios se alojan en servidores que pueden estar fuera de Chile (principalmente en Estados Unidos). Al usar nuestros servicios, entiendes y aceptas que tu información puede ser transferida, procesada y almacenada en EE.UU. u otros países, donde las leyes de privacidad podrían ser diferentes. Tomamos medidas para proteger tu información cuando se transfiere.
+
+---
+
+**9. Nuestro Compromiso con la Seguridad**
+
+Usamos medidas de seguridad físicas, electrónicas y administrativas para proteger tu información. Sin embargo, ninguna transmisión por internet o sistema de almacenamiento es 100% seguro. Cualquier información que nos envíes es bajo tu propio riesgo.
+
+---
+
+**10. Cambios a Esta Política**
+
+Podemos actualizar esta política de vez en cuando. Si hacemos cambios importantes, te avisaremos a través de nuestros servicios. Revisa la fecha de "última actualización" al principio para saber cuándo cambió por última vez.
+
+---
+
+**11. ¿Cómo Contactarnos?**
+
+Si tienes preguntas sobre esta política simplificada o sobre tu privacidad, contáctanos en:
+*   **Correo electrónico:** `privacy@weather.com`
+*   **Dirección postal:**
+    The Weather Company, LLC
+    Attn: Privacy Office
+    1001 Summit Boulevard, Floor 21
+    Brookhaven, GA, 30319, EE. UU.
+
+---
+
+**12. Información Específica de la Aplicación para Vehículos**
+
+Si usas nuestra aplicación en el sistema de tu auto:
+
+*   **No hay Publicidad:** Esta aplicación no muestra anuncios, así que las partes de esta política sobre publicidad no aplican aquí.
+*   **No hay Cuentas Registradas:** No necesitas registrarte para usarla.
+*   **Derechos sobre Datos:** Para acceder, obtener copia o si crees que hay datos incorrectos, contacta a `twc-auto-support@weather.com`.
+*   **Eliminar Ubicaciones Buscadas:** Puedes borrar las ubicaciones que buscaste usando el botón "borrar" en la página de búsqueda (se guardan localmente).
+*   **Proveedores:** Usamos proveedores específicos para análisis (Amplitude, Adobe) y tecnología (Akamai, Mapbox, Salesforce, AWS, Google Firebase). No hay proveedores de publicidad.
+*   **Limitaciones de Uso:** No vendemos ni compartimos tus datos, no usamos tu ubicación para fines distintos a darte el servicio y analizar su uso, y no creamos perfiles con efectos legales.
+
+---
+
+**13. Otros Datos Recopilados por The Weather Company**
+
+Además de los servicios de clima, como empresa (The Weather Company, LLC), podemos recopilar datos si:
+*   Visitas nuestro sitio web corporativo (weathercompany.com).
+*   Nos contactas para consultas comerciales.
+*   Postulas a un trabajo con nosotros.
+Estos usos se manejan separadamente y puedes gestionar tus opciones (ej. cancelar suscripción a correos de marketing corporativo).
+
+---
+*Gracias por leer nuestra política simplificada. ¡Esperamos que te sea útil!*

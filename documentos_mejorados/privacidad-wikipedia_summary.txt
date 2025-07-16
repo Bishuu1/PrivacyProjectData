@@ -1,0 +1,138 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada de la Fundación Wikimedia
+**Fecha de última actualización:** 25 de junio de 2021
+**Propósito:** Te explicamos de forma sencilla cómo recogemos, usamos y cuidamos tu información personal cuando usas sitios como Wikipedia y otros proyectos de Wikimedia. Queremos que entiendas tus derechos y nuestras responsabilidades.
+
+**Principios Clave:**
+
+*   **Libre Conocimiento:** Creemos que no necesitas dar información personal para participar. Puedes leer, editar y usar la mayoría de los sitios de Wikimedia sin crear una cuenta.
+*   **Tú Eliges:** Si creas una cuenta, no tienes que dar tu correo electrónico ni tu nombre real.
+*   **Mínima Recolección:** Recopilamos solo la información necesaria para entender cómo mejorar nuestros sitios y hacerlos más seguros para ti.
+*   **No Vendemos tu Información:** Nunca venderemos tu información personal ni la compartiremos con terceros para que te vendan cosas.
+*   **Compartir con Cuidado:** Solo compartimos tu información en casos específicos, como mejorar los sitios, cumplir con la ley o protegerte a ti y a otros.
+*   **Transparencia:** Te explicamos qué información recogemos y para qué la usamos.
+
+**¡Importante!**
+
+*   **Todo lo Público es Permanente:** Cualquier contenido que añadas o cambies en un sitio de Wikimedia (como una edición en Wikipedia) queda registrado pública y permanentemente.
+*   **Ediciones sin Cuenta:** Si editas sin iniciar sesión, tu dirección IP (un número que identifica tu conexión a internet) quedará registrada públicamente en lugar de un nombre de usuario.
+*   **Comunidad:** Nuestros editores voluntarios ayudan a mantener los sitios seguros. Algunos tienen herramientas especiales para ver información reciente y proteger los sitios de abusos, siguiendo reglas estrictas.
+*   **Aceptación:** Al usar los sitios de Wikimedia, aceptas esta Política de Privacidad. Si no estás de acuerdo, no puedes usarlos.
+
+**¿Qué Información Recopilamos y Cómo?**
+
+1.  **Tus Ediciones Públicas:**
+    *   Cuando editas una página (incluso tu página de usuario o páginas de discusión), creas un registro público y permanente.
+    *   El historial muestra qué cambiaste, cuándo lo hiciste y tu nombre de usuario (si iniciaste sesión) o tu dirección IP (si no iniciaste sesión).
+    *   Usamos esta información pública para entender cómo se usan los sitios y crear nuevas funciones.
+
+2.  **Información de tu Cuenta (Si decides crear una):**
+    *   **No es obligatorio:** No necesitas una cuenta para leer o editar (salvo raras excepciones).
+    *   **Registro básico:** Si creas una cuenta, solo pedimos un nombre de usuario y una contraseña.
+    *   **Correo opcional:** Puedes dar tu correo electrónico si quieres (por ejemplo, para recuperar tu contraseña), pero no es obligatorio. Si no lo das, no podremos ayudarte si olvidas tu contraseña.
+    *   **Nombre real opcional:** No necesitas usar tu nombre real.
+    *   **Información demográfica opcional:** A veces te preguntaremos por datos como tu género o edad para entender mejor a nuestros usuarios y mejorar los servicios. Siempre te diremos si esta información será pública o privada. Proporcionarla es totalmente voluntario.
+
+3.  **Información de Ubicación:**
+    *   **GPS (con tu permiso):** Si nos das permiso, podemos usar la ubicación GPS de tu dispositivo para mostrarte contenido relevante (por ejemplo, artículos sobre lugares cercanos). Puedes activar o desactivar este permiso cuando quieras en tu dispositivo. Mantenemos esta información confidencial según esta política.
+    *   **Metadatos (automático desde tu dispositivo):** Si subes una foto desde tu móvil, puede que incluya automáticamente información como dónde y cuándo se tomó (metadatos). Si no quieres que esta información se haga pública, revisa y cambia la configuración de tu dispositivo *antes* de subir la foto.
+    *   **Dirección IP (automático):** Cuando visitas nuestros sitios, recibimos automáticamente tu dirección IP. Podemos usarla para saber aproximadamente desde qué país o región te conectas. Mantenemos las direcciones IP confidenciales, excepto como se indica en esta política.
+
+4.  **Información sobre Cómo Usas los Sitios (Datos Técnicos):**
+    *   **Información automática:** Como la mayoría de los sitios web, recibimos automáticamente información de tu navegador o dispositivo: tipo de dispositivo, tipo de navegador, idioma preferido, sistema operativo, sitio web desde el que llegaste, páginas que visitas y la fecha/hora de tus visitas.
+    *   **Tecnologías comunes (Cookies y similares):** Usamos tecnologías como "cookies" (pequeños archivos guardados en tu navegador), JavaScript y almacenamiento local para:
+        *   Hacer que los sitios funcionen mejor (ej. recordar tu inicio de sesión o idioma).
+        *   Entender cómo usas los sitios (ej. qué funciones son populares).
+        *   Mejorar la seguridad.
+        *   Personalizar tu experiencia.
+    *   **No usamos cookies de terceros para publicidad:** Nunca usamos cookies de terceros (empresas externas) para rastrearte con fines comerciales sin tu permiso explícito.
+    *   **Puedes controlar esto:** Puedes borrar o desactivar las cookies y el almacenamiento local en la configuración de tu navegador, aunque algunas funciones del sitio podrían dejar de funcionar correctamente.
+
+**¿Para Qué Usamos tu Información?**
+
+Usamos la información que recopilamos principalmente para:
+
+*   **Operar y Mantener los Sitios:** Hacer que Wikipedia y otros proyectos funcionen, administrar los servicios y mostrar tus contribuciones públicas.
+*   **Mejorar tu Experiencia:** Personalizar el contenido, recordar tus preferencias (como el idioma), optimizar el sitio para tu dispositivo.
+*   **Comunicarnos Contigo:** Enviarte correos electrónicos importantes sobre tu cuenta o cambios en las políticas. También podemos enviarte noticias o encuestas si aceptas recibirlas.
+*   **Hacer los Sitios Más Seguros:** Combatir el vandalismo, el spam, el acoso y otros abusos.
+*   **Entender y Mejorar:** Analizar cómo se usan los sitios, qué funciona y qué no, entender quiénes son nuestros usuarios (de forma general, no individual) y cómo podemos mejorar los servicios para todos.
+*   **Cumplir con la Ley:** Responder a solicitudes legales válidas.
+*   **Proteger a Todos:** Investigar posibles violaciones de nuestras políticas y proteger los derechos y la seguridad de la Fundación, nuestros usuarios y el público.
+
+**¿Cuándo Compartimos tu Información?**
+
+Solo compartimos tu información personal en las siguientes situaciones:
+
+1.  **Si Nos Das Permiso:** Si nos autorizas específicamente a compartir tu información para un propósito concreto (por ejemplo, si ganas una beca y aceptas que compartamos tu nombre con una organización local).
+2.  **Por Obligaciones Legales:** Si recibimos una orden judicial, citación u otra solicitud legal válida (como de la policía o un tribunal), podríamos tener que compartir tu información. Intentaremos notificarte por correo electrónico al menos 10 días antes si es legalmente posible y seguro hacerlo, siempre que tengamos tu correo. Si creemos que una solicitud no es legalmente válida, intentaremos oponernos.
+3.  **Para Protegerte a Ti, a Nosotros y a Otros:**
+    *   Si creemos razonablemente que es necesario para investigar o hacer cumplir nuestras políticas (Términos de Uso, esta Política de Privacidad).
+    *   Para defendernos de amenazas legales.
+    *   Para prevenir daños graves o la muerte de alguien.
+    *   Para detectar o prevenir spam, fraude, actividades ilegales o problemas de seguridad.
+    *   Algunos usuarios voluntarios con permisos especiales (elegidos por la comunidad, como los "CheckUsers" o "Administradores") pueden acceder a información no pública limitada (como direcciones IP recientes) para combatir el vandalismo, el acoso y otros abusos, siguiendo reglas estrictas de confidencialidad.
+4.  **Con Nuestros Proveedores de Servicios:** Compartimos información con empresas o contratistas que nos ayudan a operar y mejorar los sitios (por ejemplo, servicios de alojamiento web). Exigimos que protejan tu información de forma confidencial y consistente con esta política.
+5.  **Para Investigación y Desarrollo:**
+    *   Damos acceso limitado a información (incluyendo personal) a desarrolladores voluntarios para que puedan mejorar el software de los sitios.
+    *   Compartimos información no personal o agregada (datos generales, no individuales) con investigadores para que estudien los sitios de Wikimedia.
+    *   Cuando compartimos información personal para estos fines, establecemos medidas técnicas y contractuales para protegerla. Les pedimos que no publiquen información personal identificable.
+6.  **Información que Tú Haces Pública:** Cualquier información que publiques en áreas públicas de los sitios (como tu página de usuario, comentarios o ediciones) es visible para todos y no está protegida por esta política. ¡Piensa bien qué compartes!
+7.  **Si la Organización Cambia (Muy Poco Probable):** Si la Fundación Wikimedia cambiara de dueños o se reorganizara (algo extremadamente raro), te avisaríamos con al menos 30 días de antelación antes de que tu información se transfiera o quede sujeta a una política de privacidad diferente. Tu información seguiría siendo confidencial según esta política hasta entonces.
+
+**¿Cómo Protegemos y Cuánto Tiempo Guardamos tu Información?**
+
+*   **Seguridad de tu Información:**
+    *   Usamos medidas técnicas (como firewalls) y físicas para proteger tu información personal contra acceso, uso o divulgación no autorizados.
+    *   Sin embargo, ninguna transmisión o almacenamiento de datos es 100% seguro. No podemos garantizar una seguridad absoluta.
+    *   **¡Cuidado con tu contraseña!** Nunca te pediremos tu contraseña por correo electrónico. Si recibes un correo pidiéndola, avísanos en `privacy@wikimedia.org`.
+*   **Tiempo que Guardamos tus Datos:**
+    *   Guardamos tu información personal solo el tiempo necesario para operar y mejorar los sitios, entender su uso y cumplir con la ley.
+    *   En muchos casos, eliminamos, anonimizamos (quitamos datos identificatorios) o agregamos (combinamos con otros datos) la información personal después de 90 días.
+    *   La información no personal puede guardarse por más tiempo.
+    *   **Recuerda:** Tus contribuciones públicas (ediciones) y el historial asociado (usuario o IP) permanecen públicos permanentemente.
+
+**Tus Derechos sobre tu Información**
+
+Tienes derecho a:
+
+*   **Acceder:** Saber qué información personal tuya tenemos.
+*   **Actualizar o Corregir:** Modificar información incorrecta o desactualizada.
+*   **Eliminar:** Pedir que borremos tu información personal (sujeto a ciertas limitaciones, como la necesidad de mantener registros públicos de edición).
+*   **Restringir u Oponerte al Procesamiento:** Pedir que limitemos cómo usamos tu información en ciertas circunstancias.
+*   **Obtener una Copia:** Recibir una copia de tu información personal en un formato usable.
+
+**¿Cómo ejercer tus derechos?**
+
+*   **Tú mismo:** Si tienes cuenta, puedes acceder y actualizar parte de tu información en tus preferencias de usuario. También puedes gestionar tus notificaciones allí.
+*   **Contactándonos:** Para otras solicitudes (acceso, eliminación, etc.), puedes escribirnos a `privacy@wikimedia.org`. Responderemos según la ley aplicable.
+
+**Información Importante Adicional**
+
+*   **Transferencia Internacional de Datos:** La Fundación Wikimedia está en Estados Unidos (EE.UU.). Si usas nuestros sitios desde Chile u otro país, tu información será transferida, almacenada y procesada en EE.UU. y posiblemente otros países. Las leyes de protección de datos pueden ser diferentes a las de tu país. Al usar los sitios, aceptas esta transferencia.
+*   **Señales de "No Rastrear" (Do Not Track):** No cambiamos nuestras prácticas si tu navegador envía una señal de "No Rastrear". Protegemos a todos los usuarios según esta política.
+*   **Cambios a esta Política:**
+    *   Si hacemos cambios importantes, los propondremos públicamente durante al menos 30 días para recibir comentarios antes de que entren en vigor. Avisaremos en los sitios y por listas de correo.
+    *   Para cambios menores (correcciones, aclaraciones), los publicaremos y avisaremos si es posible con unos días de antelación.
+    *   Te recomendamos revisar esta política de vez en cuando. Si sigues usando los sitios después de un cambio, significa que aceptas la nueva versión.
+
+**¿Tienes Dudas? Contáctanos**
+
+Si tienes preguntas sobre esta política o tu información, escríbenos a:
+`privacy@wikimedia.org`
+
+También puedes contactar a nuestros representantes en Europa (si aplica a tu consulta):
+
+*   **Para Espacio Económico Europeo (EEE):**
+    *   Correo: `EUrepresentative.Wikimedia@twobirds.com`
+    *   Dirección Postal: Bird & Bird GDPR Representative Ireland, 29 Earlsfort Terrace, Dublin 2, D02 AY28, Irlanda.
+*   **Para Reino Unido (UK):**
+    *   Correo: `UKrepresentative.Wikimedia@twobirds.com`
+    *   Dirección Postal: Bird & Bird GDPR Representative Services UK, 12 New Fetter Lane, London, EC4A 1JP, Reino Unido.
+
+Estos representantes son solo para consultas sobre protección de datos.
+
+**¡Gracias!**
+
+Gracias por leer nuestra Política de Privacidad. Apreciamos tu participación en la construcción del conocimiento libre.

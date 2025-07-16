@@ -1,0 +1,237 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada de Netflix Chile
+
+**Fecha de última actualización:** 17 de abril de 2024
+
+**Propósito:** Aquí te explicamos de forma simple cómo juntamos, usamos, compartimos y protegemos tu información personal cuando usas Netflix en Chile. Queremos que entiendas tus derechos y cómo cuidamos tus datos.
+
+**Cómo Contactarnos**
+
+*   **Dudas sobre Privacidad:** Si tienes preguntas sobre esta política o sobre cómo usamos tu información personal, escribe a nuestro Equipo de Privacidad a privacy@netflix.com.
+*   **Dudas Generales:** Para preguntas sobre tu cuenta, el servicio o cómo contactar a Servicio al Cliente, visita help.netflix.com.
+*   **Empresa Responsable:** La empresa específica de Netflix responsable de tus datos ("responsable de los datos") se detalla en netflix.com/legal/corpinfo.
+
+**Qué Información Juntamos sobre Ti**
+
+Recopilamos distintos tipos de información tuya:
+
+1.  **Datos de Contacto y Cuenta:**
+    *   Cuando creas tu cuenta: Tu email y contraseña.
+    *   Dependiendo de cómo uses tu cuenta y pagues: Tu nombre, número de teléfono, dirección postal.
+    *   Si tienes un plan con anuncios: Tu género y fecha de nacimiento.
+
+2.  **Datos de Pago:**
+    *   Información para procesar tus pagos: Número de tarjeta, historial de pagos, dirección de facturación, tarjetas de regalo que uses.
+
+3.  **Datos de tu Perfil y Cuenta Netflix:**
+    *   Información de los perfiles en tu cuenta: Nombre del perfil, ícono, alias de gamer (si juegas), calificaciones y comentarios que dejas, tu "Mi Lista", lo que estás viendo en "Continuar viendo", configuraciones y opciones que eliges.
+
+4.  **Cómo Usas Netflix:**
+    *   Tu actividad en el servicio: Qué ves (series, películas), cuándo pones play o pausa, tus interacciones con contenido interactivo, tu actividad en los juegos de Netflix (cómo juegas, tu progreso), tu historial de búsqueda y visualización, clics dentro de la app, texto que escribes, cuánto tiempo usas el servicio.
+
+5.  **Datos para Publicidad (Si tienes plan con anuncios):**
+    *   Información sobre los anuncios que ves en Netflix o con los que interactúas.
+    *   Datos de tu dispositivo (como códigos que se pueden cambiar para publicidad).
+    *   Tu dirección IP (ubicación general).
+    *   Información que nos dan empresas de publicidad (como posibles intereses basados en tu actividad en otras webs o apps). Usamos esto para mostrarte anuncios más relevantes para ti (publicidad conductual).
+
+6.  **Datos de tus Dispositivos y Red:**
+    *   Información sobre los aparatos que usas para ver Netflix (Smart TV, celulares, consolas, etc.) y tu red de internet.
+    *   Identificadores únicos de tus dispositivos (incluyendo tu router).
+    *   Dirección IP (para saber tu ubicación general, como ciudad o comuna).
+    *   Características de tus aparatos y software (tipo, configuración).
+    *   Información de conexión (tipo WiFi o celular).
+    *   Datos de rendimiento (reportes de fallos, etc.).
+    *   Información de cookies y otros identificadores (ver sección "Cookies y Publicidad en Internet").
+
+7.  **Tus Comunicaciones con Nosotros:**
+    *   El contenido de tus chats o llamadas con Servicio al Cliente.
+    *   Tus respuestas a encuestas o comentarios (por ejemplo, cuando cancelas).
+    *   Detalles de los mensajes que te enviamos (emails, notificaciones) y si interactúas con ellos (si los abres, haces clic, etc.).
+
+**Cómo Obtenemos tu Información**
+
+Juntamos tu información de distintas fuentes:
+
+1.  **Directamente de Ti:** Cuando te registras, actualizas tu perfil, nos contactas o respondes encuestas.
+2.  **Automáticamente al Usar Netflix:** Cuando navegas, ves contenido, juegas o interactúas con el servicio, recopilamos datos de uso, de tus dispositivos, etc.
+3.  **De Empresas Asociadas (Socios):**
+    *   Empresas cuyos productos o servicios usas para acceder o pagar Netflix (fabricantes de TV, tu proveedor de internet, operador de celular, etc.).
+    *   Nos pueden dar tu email para activar el servicio, datos de pago si ellos gestionan la facturación, o tus búsquedas por voz si buscas Netflix en sus dispositivos.
+4.  **De Otras Fuentes:**
+    *   **Empresas que nos ayudan (Proveedores de Servicios):** Empresas que trabajan para nosotros haciendo tareas como:
+        *   Ayudarnos a saber tu ubicación general (por tu IP).
+        *   Proteger nuestros sistemas y prevenir fraudes.
+        *   Procesar pagos.
+        *   Gestionar los Juegos Netflix.
+    *   **Proveedores de Marketing:** Cuando interactúas con publicidad de Netflix fuera de nuestra plataforma.
+    *   **Fuentes Públicas:** Como publicaciones en redes sociales donde mencionas a Netflix públicamente.
+    *   **Empresas de Publicidad (Agencias Publicitarias):** (Para planes con anuncios) Nos dan información sobre tus posibles intereses basados en tu actividad online general para mostrarnos anuncios relevantes.
+
+**Para Qué Usamos tu Información**
+
+Usamos tu información personal para varios propósitos:
+
+1.  **Para Darte el Servicio Netflix:**
+    *   Mostrarte series, películas y juegos.
+    *   Darte recomendaciones personalizadas (más info: netflix.com/recommendations).
+    *   Adaptar el servicio a tu ubicación.
+    *   Habilitar todas las funciones de la plataforma.
+
+2.  **Para Administrar Nuestro Negocio:**
+    *   Procesar tus pagos y canjear tarjetas de regalo.
+    *   Enviarte mensajes importantes sobre tu cuenta (confirmaciones, cambios).
+    *   Ayudarte a resolver problemas técnicos.
+    *   Responder tus consultas y solicitudes.
+
+3.  **Para Mejorar Netflix:**
+    *   Analizar cómo se usa el servicio para entender a nuestros usuarios.
+    *   Optimizar la selección de contenido y la forma en que lo entregamos.
+    *   Usar la información de las encuestas en las que participas.
+
+4.  **Para Colaborar con Empresas Asociadas (Socios):**
+    *   Permitir que te ofrezcan Netflix o integren funciones del servicio en sus plataformas.
+
+5.  **Para Enviarte Novedades y Ofertas:**
+    *   Mandarte emails, notificaciones push o mensajes dentro de la app sobre nuevas funciones, contenido, ofertas especiales de Netflix o de terceros (personalizados según tus intereses).
+    *   Puedes controlar estas comunicaciones (ver sección "Tus Opciones").
+
+6.  **Para Gestionar el Plan con Anuncios:**
+    *   Seleccionar, mostrar, analizar y mejorar los anuncios que ves en Netflix.
+    *   Esto incluye mostrarte "publicidad conductual" (anuncios basados en tus intereses generales inferidos de tu actividad en otros sitios/apps, información que nos dan las agencias de publicidad).
+
+7.  **Para Seguridad y Prevenir Fraudes:**
+    *   Proteger nuestros sistemas, nuestro negocio y a nuestros usuarios.
+    *   Investigar y prevenir actividades prohibidas o ilegales.
+
+8.  **Para Cumplir la Ley y Nuestros Términos de Uso:**
+    *   Responder a solicitudes legales o gubernamentales.
+    *   Hacer cumplir nuestros Términos de Uso (por ejemplo, verificar si cumples los requisitos para una oferta o si un dispositivo puede usar la cuenta).
+    *   Proteger los derechos y la seguridad de Netflix, sus usuarios y el público.
+
+**Con Quién Compartimos tu Información**
+
+Podemos compartir tu información personal con los siguientes grupos:
+
+1.  **Otras Empresas del Grupo Netflix:** Compartimos información dentro de la familia de empresas de Netflix para operar el servicio globalmente, mejorar, hacer marketing, gestionar anuncios, seguridad y cumplir la ley.
+2.  **Empresas que nos Ayudan (Proveedores de Servicios):**
+    *   Contratamos a otras empresas para que nos ayuden con distintas tareas: soporte técnico, seguridad, infraestructura de TI, procesamiento de pagos, servicios de comunicación, personalización del servicio, gestión de juegos, etc.
+    *   Solo les permitimos usar tu información para las tareas específicas que les pedimos y les exigimos protegerla.
+    *   Podemos monitorear comunicaciones (como chats) para detectar comportamientos dañinos o infracciones a las normas.
+3.  **Empresas Asociadas (Socios):**
+    *   Si usas servicios de socios para acceder a Netflix, podemos compartir cierta información con ellos (ej., para que te muestren contenido de Netflix en su interfaz).
+4.  **Proveedores de Marketing de Netflix:**
+    *   Cuando hacemos publicidad de Netflix en otras plataformas (sitios web, redes sociales), podemos compartir información básica (como si completaste el registro) con las empresas que nos ayudan a gestionar y medir esa publicidad.
+    *   **Importante:** Usamos métodos para proteger tu privacidad (como códigos en vez de tu email directo) y NUNCA compartimos con ellos los títulos específicos de series o películas que has visto en Netflix.
+5.  **Empresas de Publicidad (Agencias Publicitarias):**
+    *   (Si tienes plan con anuncios) Compartimos información con anunciantes, agencias y empresas de medición para seleccionar, mostrar y medir la efectividad de los anuncios en Netflix.
+6.  **En Promociones Conjuntas:**
+    *   Si participas en una promoción que hacemos con otra empresa, podemos compartir información con ellos para llevar a cabo la promoción.
+7.  **En Caso de Venta o Reorganización de Netflix:**
+    *   Si Netflix se vende, fusiona o reorganiza, transferiremos tu información personal al nuevo dueño, siempre que se comprometa a respetarla según esta política.
+8.  **Para Seguridad y Cumplir la Ley:**
+    *   Podemos compartir tu información si creemos razonablemente que es necesario para: proteger la seguridad, prevenir fraudes, cumplir con leyes, regulaciones, procesos legales o solicitudes gubernamentales, o para hacer cumplir nuestros Términos de Uso.
+
+**Enviar tus Datos a Otros Países (Transferencias Internacionales)**
+
+*   Netflix opera en muchos países. Tu información personal puede ser transferida y almacenada en países fuera de Chile, que pueden tener leyes de protección de datos diferentes.
+*   Cuando hacemos esto, tomamos medidas importantes para proteger tu información de acuerdo con las leyes chilenas y esta política. Usamos contratos especiales, medidas técnicas y organizativas para asegurar tus datos.
+*   Puedes encontrar más detalles aquí: help.netflix.com/legal/personal-information-international-transfers.
+
+**Tus Derechos Sobre tu Información Personal**
+
+Tienes varios derechos sobre la información que tenemos de ti:
+
+1.  **Acceder a tu Información:** Puedes pedirnos confirmar si tenemos información tuya y solicitar una copia. Puedes descargar tu información desde netflix.com/account/getmyinfo (si eres el titular de la cuenta).
+2.  **Corregir o Actualizar tu Información:** Si tus datos son incorrectos o están desactualizados, puedes corregirlos directamente en la sección "Cuenta" de nuestro sitio web (necesitas iniciar sesión).
+3.  **Eliminar tu Información:** Puedes solicitarnos que borremos tu información personal. Hay información sobre cómo y cuándo se borran los datos en help.netflix.com/node/100625.
+4.  **Pedir una Copia Descargable (Portabilidad):** Puedes solicitar tus datos en un formato que puedas descargar y llevar a otro servicio. Usa el enlace: netflix.com/account/getmyinfo.
+5.  **Oponerte o Limitar el Uso:** Puedes oponerte a que usemos tu información para ciertos fines o pedirnos que limitemos cómo la usamos en ciertas circunstancias. Más información: help.netflix.com/node/100637.
+6.  **Retirar tu Permiso (Consentimiento):** Si alguna vez te pedimos permiso para usar tu información de una forma específica, puedes retirar ese permiso cuando quieras. Esto no afecta el uso que hicimos antes de que retiraras tu permiso.
+7.  **Presentar un Reclamo:** Tienes derecho a reclamar ante la autoridad de protección de datos de Chile si crees que no hemos manejado bien tu información. Sin embargo, te animamos a contactarnos primero para intentar resolver cualquier problema.
+8.  **No a Decisiones Sólo Automáticas:** Puedes tener derecho a no ser objeto de decisiones basadas únicamente en procesos automáticos (sin intervención humana) si esas decisiones tienen efectos legales o muy importantes para ti.
+
+**Cómo Ejercer tus Derechos:** Para ejercer cualquiera de estos derechos, contáctanos a través de privacy@netflix.com. Necesitaremos verificar tu identidad antes de procesar tu solicitud.
+
+**Tus Opciones de Comunicación y Publicidad**
+
+Puedes controlar cómo nos comunicamos contigo y la publicidad que ves:
+
+1.  **Emails y Mensajes de Texto (SMS):**
+    *   Para dejar de recibir emails promocionales o SMS, ve a "Configuración de notificaciones" en la sección "Cuenta" de nuestro sitio web.
+    *   También puedes hacer clic en el enlace "No recibir emails" en los correos o responder STOP (o como se indique) al SMS.
+    *   **Nota:** No puedes cancelar los mensajes esenciales sobre tu cuenta (ej. confirmaciones de pago, cambios importantes).
+2.  **Notificaciones Push (en celular o navegador):**
+    *   Puedes elegir recibir notificaciones en tu celular o navegador web.
+    *   Puedes activarlas o desactivarlas usando la configuración de tu dispositivo móvil o navegador, o desde "Configuración de notificaciones" en tu cuenta Netflix.
+    *   Algunos Juegos Netflix pueden tener sus propias notificaciones, que también controlas desde la configuración de tu dispositivo.
+3.  **Comunicaciones por Coincidencia de Identificador:**
+    *   A veces, usamos servicios de terceros (como redes sociales) para mostrarte marketing de Netflix. Para proteger tu privacidad, convertimos tu email o teléfono en un código seguro antes de compartirlo con ellos. Solo verás el anuncio si ellos tienen el mismo código asociado a ti.
+    *   Puedes controlar si participas en esto en "Configuración de datos y privacidad" (para tu perfil) en la sección "Cuenta".
+4.  **Publicidad Conductual (Si tienes plan con anuncios):**
+    *   Si tienes un plan con anuncios, te mostramos anuncios, algunos de los cuales pueden ser "conductuales" (basados en información sobre tus posibles intereses, inferidos de tu actividad en *otros* sitios web o apps, datos que nos dan las agencias de publicidad).
+    *   Si prefieres no ver este tipo de anuncios personalizados, puedes desactivar la opción "Publicidad conductual" en el menú "Configuración de datos y privacidad" (para tu perfil) en la sección "Cuenta".
+    *   **Importante:** Seguirás viendo anuncios, pero no estarán personalizados de esta manera. Esta opción no está disponible en perfiles de Niños, ya que no mostramos publicidad conductual ahí.
+5.  **Opciones sobre Cookies:** Consulta la sección "Cookies y Publicidad en Internet" más abajo para saber cómo controlar las cookies.
+
+**Compartir tu Cuenta y Usar Perfiles**
+
+*   **Si Compartes tu Cuenta:** Si compartes tu cuenta Netflix con otras personas de tu hogar, asegúrate de que lean esta política. Como titular de la cuenta, tú controlas quién la usa. Las personas con acceso pueden ver el historial de visualización, información de la cuenta y datos de juegos (incluidos chats guardados).
+*   **PIN de Perfil:** Puedes agregar un PIN a tu perfil para mayor privacidad (instrucciones: help.netflix.com/node/114277).
+*   **Perfiles:** Los perfiles permiten una experiencia personalizada para cada usuario. Cualquiera con acceso a tu cuenta puede ver, usar, editar o borrar perfiles (a menos que uses un PIN).
+*   **Transferencia de Perfiles:** Puedes transferir un perfil (con su historial y recomendaciones) a una cuenta nueva e independiente. Puedes controlar esta función en la sección "Cuenta" (más info: help.netflix.com/node/122698).
+*   **Proteger tu Cuenta:** Cierra siempre tu sesión en dispositivos públicos o compartidos. Si vendes o devuelves un dispositivo, asegúrate de cerrar sesión primero. Para cerrar sesión en todos tus dispositivos a la vez, ve a "Cuenta" en el sitio web y elige "Cerrar sesión en todos los dispositivos".
+
+**Cookies y Publicidad en Internet**
+
+*   **Qué son Cookies y Tecnologías Similares:**
+    *   Usamos "cookies" (pequeños archivos de datos que se guardan en tu dispositivo cuando visitas sitios web) y otras tecnologías parecidas (como "píxeles" en emails o almacenamiento en el navegador).
+    *   En apps móviles o reproductores multimedia, usamos "identificadores de dispositivos reconfigurables" (códigos únicos de tu dispositivo que funcionan como cookies).
+*   **Para Qué las Usamos:**
+    *   **Funcionamiento Esencial:** Para que Netflix funcione correctamente (ej. recordar que iniciaste sesión).
+    *   **Análisis y Mejora:** Para entender cómo usas el servicio y mejorarlo (ej. medir el rendimiento, evaluar la interfaz).
+    *   **Marketing y Comunicación:** Para mostrarte comunicaciones de marketing de Netflix (en nuestro servicio y en otros sitios/apps) y entender si interactúas con ellas.
+    *   **Gestión de Anuncios (Plan con anuncios):** Para ayudar a mostrar y medir los anuncios.
+    *   **Seguridad y Prevención de Fraudes.**
+    *   **Cumplir la Ley.**
+*   **Tus Opciones sobre estas Tecnologías:**
+    *   **Cookies en el Sitio Web:** Para saber más sobre las cookies que usamos y elegir tus opciones, busca el enlace de "Preferencias de Cookies" en nuestro sitio web.
+    *   **Identificadores de Dispositivos Reconfigurables (en apps):** Para limitar el uso de estos identificadores para publicidad personalizada, ve a la configuración de "Privacidad" o "Anuncios" en tu dispositivo móvil, tablet o reproductor multimedia. Seguirás viendo publicidad, pero no personalizada con este identificador.
+    *   **Otras Tecnologías (Almacenamiento del navegador, etc.):** Puedes borrar estos datos desde la configuración o preferencias de tu navegador web.
+
+**Otra Información Importante**
+
+*   **Función de Compartir:** Puedes usar las opciones de compartir en Netflix para enviar información (ej. sobre un título) por email, SMS o a través de apps sociales en tu dispositivo.
+*   **Seguridad:** Tomamos medidas razonables (administrativas, técnicas, físicas) para proteger tu información personal contra pérdida, robo, acceso no autorizado, uso o modificación.
+*   **Cuánto Tiempo Guardamos tu Información (Retención):**
+    *   Guardamos tu información personal solo el tiempo necesario para cumplir los propósitos descritos en esta política (dar el servicio, cumplir obligaciones legales, resolver disputas, mejorar Netflix, gestionar anuncios, seguridad, etc.).
+    *   El tiempo exacto depende de varios factores (ej. si eres miembro activo, el tipo de información, obligaciones legales).
+    *   Cuando ya no necesitamos tu información, la destruimos o la hacemos anónima de forma segura. Más detalles sobre eliminación y retención: help.netflix.com/node/100625.
+*   **Otros Sitios Web, Plataformas y Apps:**
+    *   El servicio de Netflix puede incluir enlaces a sitios o funciones operadas por terceros (ej. redes sociales, controles de voz). Estos terceros tienen sus propias políticas de privacidad que te recomendamos revisar.
+    *   También puedes acceder a Netflix a través de plataformas de terceros (Smart TVs, consolas, etc.) que tienen sus propios términos y políticas.
+*   **Niños:**
+    *   Debes tener al menos 18 años (o la mayoría de edad legal en Chile) para suscribirte a Netflix.
+    *   Los menores de edad solo pueden usar el servicio con la participación, supervisión y aprobación de un padre, madre o tutor legal.
+    *   Ofrecemos controles parentales para ayudar a los adultos. Más información: help.netflix.com/node/264.
+*   **Cambios a esta Política de Privacidad:**
+    *   Actualizaremos esta política si hay cambios en las leyes o en nuestras operaciones. Te avisaremos de los cambios importantes según lo exija la ley (indicando la fecha en que entran en vigor).
+    *   Si continúas usando Netflix después de una actualización, significa que aceptas los cambios. Si no estás de acuerdo, puedes cancelar tu suscripción.
+    *   Consulta la fecha de "Última actualización" al inicio para ver cuándo se modificó por última vez.
+
+**Información Adicional para Juegos Netflix**
+
+Esta sección complementa la política principal y aplica si juegas a los Juegos Netflix.
+
+*   **Qué Datos Adicionales Juntamos (Ejemplos):**
+    *   **Datos de Perfil/Cuenta para Juegos:** Tu alias de gamer, listas de amigos o equipos (si usas funciones grupales online o locales).
+    *   **Datos de Uso del Juego:** Tu puntaje, ranking en tablas de clasificación, logros, si estás conectado ("Online"), con quién juegas o te conectas, tus chats de texto con otros jugadores, denuncias que haces o que hacen sobre ti (por incumplir normas), contenido que creas en el juego (dibujos, fotos, videos si los subes).
+    *   **Datos del Dispositivo (Controlador):** Si usas la app de Netflix en tu celular como control para un juego en la TV, juntamos información de la app y el dispositivo conectado.
+*   **Para Qué Usamos estos Datos Adicionales:**
+    *   **Para darte las Funciones del Juego:** Mostrar tablas de clasificación, permitirte encontrar y jugar con amigos (online o localmente), transmitir tus chats de texto, mostrar el contenido que creas, usar tu ubicación general para encontrar partidas online con mejor conexión.
+    *   **Para Cumplir la Ley y Términos:** Podemos revisar chats si hay denuncias de mal comportamiento o si lo requiere la ley.
+*   **Con Quién Compartimos Datos Adicionales:**
+    *   **Otros Jugadores:** Otros jugadores pueden ver tu alias de gamer, tu actividad en el juego (puntajes, etc.), si estás online, tus mensajes de chat y el contenido que generas. **¡Ten cuidado con lo que compartes en chats o contenido generado por usuarios!** Aunque lo borres, otros podrían haberlo guardado.
+*   **Juegos en TV / Netflix.com (Sin Iniciar Sesión):**
+    *   Algunos juegos te permiten jugar conectando tu celular a la TV sin necesidad de que inicies sesión en Netflix desde el celular. En estos casos, algunas partes de la política (como la información de pago) no aplican a ti directamente, pero la información del juego (uso, dispositivo) puede quedar asociada a la cuenta Netflix principal que se está usando en la TV.

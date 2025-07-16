@@ -1,0 +1,174 @@
+POLÍTICA SIMPLIFICADA: Política de Privacidad de X para Chile
+
+**Título:** Política de Privacidad Simplificada de X para Usuarios en Chile
+**Fecha de última actualización:** 15 de noviembre de 2024 (Basada en la versión original)
+**Propósito:** Te explicamos de forma clara cómo recogemos, usamos, compartimos y protegemos tu información personal cuando usas X en Chile. Queremos que entiendas tus derechos y tengas control sobre tus datos. Recuerda que X es una plataforma pública: lo que publicas puede ser visto por muchas personas.
+
+**1. Información que Recopilamos sobre Ti**
+
+Recopilamos información de tres maneras principales:
+
+*   **Información que tú nos entregas:**
+    *   **Al crear tu cuenta:** Necesitamos datos básicos como tu nombre de usuario (@usuario), nombre para mostrar, contraseña, correo electrónico o teléfono, fecha de nacimiento e idioma. Tu nombre de usuario y nombre para mostrar son siempre públicos. Puedes usar tu nombre real o un apodo.
+    *   **Cuentas profesionales:** Si tienes una, te pediremos la categoría y podrías darnos datos de contacto públicos (dirección, email, teléfono).
+    *   **Al usar servicios pagados:** Si compras anuncios u otros servicios, necesitamos tus datos de pago (tarjeta de crédito/débito, dirección de facturación).
+    *   **Tus preferencias:** Guardamos la configuración que eliges (ej. privacidad, notificaciones).
+    *   **Datos biométricos:** Con tu permiso explícito, podríamos pedir datos como huellas digitales o reconocimiento facial por seguridad.
+    *   **Si buscas empleo:** Podemos usar tu información (currículum, historial, etc.) para recomendarte trabajos o compartirla con empleadores si postulas.
+    *   **Libreta de direcciones:** Si decides subirla, la usamos para ayudarte a encontrar gente que conoces en X.
+    *   **Ubicación:** Puedes elegir compartir tu ubicación en tu perfil o posts.
+
+*   **Información que generas al usar X:**
+    *   **Tu actividad:** Lo que publicas (posts, Espacios, etc.), cuándo lo haces, tus interacciones (Me Gusta, Reposts, respuestas, guardados, mensajes directos), a quién sigues y quién te sigue.
+    *   **Interacciones con enlaces:** Qué enlaces abres dentro de X (incluso en nuestros correos).
+    *   **Comunicaciones con nosotros:** Si nos contactas (ej. por email), guardamos el mensaje y su contenido.
+    *   **Compras y pagos:** Registramos detalles de tus transacciones (cuándo, cuánto, suscripciones).
+    *   **Información de tus dispositivos:** Datos técnicos como tu dirección IP, tipo de navegador, sistema operativo, operador móvil, identificadores de tu dispositivo, nivel de batería, y apps instaladas.
+    *   **Información de ubicación (aproximada):** La recogemos automáticamente para mostrarte contenido relevante (como anuncios locales). Puedes elegir compartir tu ubicación exacta en la configuración.
+    *   **Información para relacionar tus dispositivos o cuentas:** Si usas X en varios dispositivos o navegadores, podemos asociarlos a tu cuenta (incluso si no iniciaste sesión) para darte una experiencia consistente.
+    *   **Datos técnicos (aunque no tengas cuenta):** Recopilamos información como IP, tipo de navegador, páginas visitadas, ubicación general, identificadores de cookies, etc., cuando ves contenido o interactúas con X.
+    *   **Interacción con anuncios:** Registramos si ves o interactúas con anuncios en X o fuera de X.
+    *   **Cookies y tecnologías parecidas:** Usamos pequeños archivos (cookies) y herramientas similares para que el sitio funcione y entender cómo lo usas. No son siempre necesarias (ej. para ver perfiles públicos). Puedes aprender más [aquí](link_a_politica_de_cookies).
+    *   **Interacciones fuera de X:** Si ves contenido de X integrado en otras páginas (ej. un post insertado en un sitio de noticias), podemos recibir información sobre esa visita.
+
+*   **Información que recibimos de otros (terceros):**
+    *   **Socios publicitarios y comerciales:** Nos comparten datos (identificadores de cookies, de dispositivo, emails "hasheados" -codificados-, datos demográficos) sobre tus intereses o acciones en otras webs/apps para mostrarte anuncios relevantes. A veces, recogemos esta info directamente de sus sitios si usan nuestra tecnología publicitaria.
+    *   **Otros usuarios y socios:** Podemos recibir información tuya de otros usuarios (ej. si te etiquetan), desarrolladores, o socios que nos ayudan con la seguridad o calidad del contenido.
+    *   **Servicios conectados:** Si conectas tu cuenta de X con otro servicio (ej. para iniciar sesión), ese servicio puede enviarnos información sobre tu cuenta allí.
+
+**2. Para Qué Usamos Tu Información**
+
+Usamos la información que recopilamos principalmente para 5 cosas:
+
+1.  **Para que X funcione y sea mejor para ti:**
+    *   Mostrarte posts, perfiles y permitirte interactuar.
+    *   Personalizar tu experiencia: sugerirte gente o temas a seguir, mostrarte contenido y anuncios más relevantes.
+    *   Entrenar nuestros sistemas (como la inteligencia artificial) para mejorar X.
+    *   Conectar tu cuenta con otros servicios si tú lo decides.
+    *   Ayudar a otros a encontrarte (si tu configuración lo permite).
+    *   Mostrarte publicidad (así mantenemos X funcionando) y medir si es efectiva.
+
+2.  **Para mantener la seguridad:**
+    *   Verificar tu identidad y proteger tu cuenta.
+    *   Detectar y prevenir fraudes, abusos y actividades ilegales.
+    *   Evaluar la seguridad y calidad del contenido y aplicar nuestras reglas.
+
+3.  **Para analizar y mejorar X:**
+    *   Medir qué tan bien funcionan nuestros servicios.
+    *   Entender cómo usas X para poder mejorarlo.
+
+4.  **Para comunicarnos contigo:**
+    *   Enviarte información sobre nuestros servicios, actualizaciones o cambios en las políticas.
+    *   Enviarte marketing (si lo aceptas).
+
+5.  **Para investigar y desarrollar:**
+    *   Realizar estudios, encuestas o pruebas para mejorar nuestros productos.
+
+**3. Con Quién Compartimos Tu Información**
+
+Compartimos tu información en estas situaciones:
+
+*   **Públicamente (cuando publicas):**
+    *   Tu perfil (nombre de usuario, nombre para mostrar, foto) y tus posts públicos son visibles para cualquiera, dentro y fuera de X (ej. en buscadores de internet).
+
+*   **Con otros usuarios de X:**
+    *   Tus interacciones públicas (Respuestas, Me Gusta, a quién sigues).
+    *   Mensajes Directos (solo con los destinatarios que elijas). Ojo: si la otra persona usa un servicio externo para ver X, tus mensajes podrían compartirse con ese servicio.
+
+*   **Con nuestros socios:**
+    *   Compartimos algunos datos con socios que nos ayudan a ofrecer servicios (ej. mostrar contenido de video). Puedes controlar parte de este intercambio en tu configuración de "Intercambio de datos con socios comerciales".
+
+*   **Con terceros específicos:**
+    *   **Empresas que nos ayudan (Proveedores de servicios):** Empresas que realizan tareas para nosotros (ej. procesar pagos, alojar nuestros blogs, analizar el uso, detectar fraudes). Les exigimos proteger tu información.
+    *   **Anunciantes:** Pueden recibir información si interactúas con sus anuncios (dentro o fuera de X), como saber que vienes de X o datos sobre la audiencia del anuncio. Pueden recoger datos como cookies o tu IP. La publicidad nos permite ofrecer X.
+    *   **Contenido y aplicaciones de terceros:** Si autorizas una app externa a acceder a tu cuenta, compartimos información con tu permiso. Si interactúas con contenido integrado (ej. videos de socios), ellos pueden recibir datos según sus propias políticas.
+    *   **Otros colaboradores:** Con tu permiso o según tu configuración, podríamos compartir datos con terceros (ej. para entrenar sus modelos de IA). Puedes revisar tu configuración.
+    *   **A través de nuestras APIs (herramientas para desarrolladores):** Permitimos que desarrolladores accedan a contenido público de X (posts, perfiles públicos) para crear aplicaciones, mostrar contenido en otros sitios (ej. noticias) o analizar tendencias. Tienen reglas sobre cómo usar esta información.
+
+*   **Por motivos legales o de seguridad:**
+    *   Si creemos razonablemente que es necesario para:
+        *   Cumplir con la ley, regulaciones, procesos legales o solicitudes del gobierno chileno o de otros países.
+        *   Proteger la seguridad de cualquier persona o la integridad de X (ej. prevenir spam o abuso).
+        *   Explicar por qué eliminamos contenido o cuentas.
+        *   Solucionar problemas técnicos, de fraude o seguridad.
+        *   Proteger nuestros derechos, propiedad o los de nuestros usuarios.
+    *   Podemos usar datos para verificar edad o identidad por requisitos legales o de seguridad.
+
+*   **Con otras empresas de nuestro grupo (Entidades vinculadas):**
+    *   Compartimos información dentro de nuestro grupo de empresas para operar y mejorar nuestros servicios.
+
+*   **Si cambia la propiedad de X:**
+    *   Si X es vendida, fusionada o entra en bancarrota, tu información podría ser transferida a la nueva entidad. Esta política seguiría aplicándose.
+
+**4. Por Cuánto Tiempo Guardamos Tu Información**
+
+Guardamos tu información solo por el tiempo necesario según para qué la usamos:
+
+*   **Información de tu perfil (nombre, usuario, contraseña, email):** Mientras tu cuenta exista.
+*   **Tu actividad (posts, interacciones):** Mientras tu cuenta exista o hasta que elimines ese contenido.
+*   **Información de pago:** Mientras uses servicios pagados y luego por el tiempo que exija la ley (registros de transacciones).
+*   **Comunicaciones con nosotros:** Generalmente hasta 18 meses, salvo que necesitemos guardarlas más tiempo por temas legales.
+*   **Información técnica (cookies, dispositivo, ubicación):** Los datos de cookies se guardan hasta 13 meses. Otros datos técnicos pueden variar.
+*   **Interacciones con anuncios y contenido de socios:** Hasta 90 días.
+*   **Si suspendemos tu cuenta por violar las reglas:** Podemos guardar identificadores (email, teléfono) indefinidamente para evitar que crees nuevas cuentas.
+
+**Excepciones:** Podemos guardar información por más tiempo si es necesario por:
+*   Obligaciones legales (ej. una orden judicial).
+*   Reclamaciones legales o investigaciones.
+*   Mantener la seguridad y prevenir abusos.
+
+**Importante:** Incluso si eliminas contenido de X, copias pueden permanecer en otros lugares (ej. motores de búsqueda) por un tiempo, según sus propias políticas.
+
+**5. Tú Tienes el Control Sobre Tu Información**
+
+Tienes derechos sobre tus datos y herramientas para manejarlos:
+
+*   **Acceder, Corregir y Descargar:**
+    *   Puedes ver y corregir la información de tu perfil y ajustar tu configuración en cualquier momento.
+    *   Puedes ver un resumen de tus datos en "Tus datos de X".
+    *   Puedes solicitar acceso a datos adicionales o descargar una copia de tu información (como tus posts) siguiendo las instrucciones [aquí](link_a_descarga_datos).
+    *   Podríamos pedirte verificar tu identidad antes de darte acceso o procesar tu solicitud.
+
+*   **Eliminar tu cuenta:**
+    *   Puedes desactivar tu cuenta siguiendo las instrucciones [aquí](link_a_desactivacion). Al desactivarla, tu perfil y nombre de usuario ya no serán visibles.
+    *   Tienes 30 días para reactivarla si cambias de opinión. Después de 30 días, tu cuenta se eliminará permanentemente (este proceso puede tomar un tiempo).
+
+*   **Ajustar tu configuración y Oponerte:**
+    *   Puedes gestionar tu privacidad, seguridad y preferencias de notificaciones en la configuración de tu cuenta. Los cambios pueden tardar un poco en aplicarse.
+    *   Puedes oponerte a ciertos usos de tus datos ajustando tu configuración (ej. personalización de anuncios, compartir datos con socios).
+    *   Hay controles específicos para ciertas funciones (ej. si un Espacio se graba).
+
+*   **Si alguien te representa (agente autorizado):**
+    *   Un representante legal puede hacer solicitudes en tu nombre contactándonos (ver sección 10). Le pediremos pruebas de identidad y autorización.
+
+**6. Tus Derechos y Nuestra Base Legal**
+
+*   **Base Legal:** Usamos tu información basándonos en razones legales válidas (ej. para cumplir nuestro contrato contigo al darte el servicio, porque tenemos un interés legítimo como mejorar X, con tu consentimiento para ciertas acciones, o para cumplir obligaciones legales). No vendemos tu información personal.
+*   **Transferencias Internacionales:** Para que X funcione globalmente, tu información se transfiere y almacena en servidores en distintos países (incluyendo Estados Unidos). Usamos medidas de protección para estas transferencias, como acuerdos contractuales (basados en Cláusulas Contractuales Tipo donde aplica) y participamos en marcos como el Marco de Privacidad de Datos (DPF) entre UE/Suiza/Reino Unido y EE.UU. para asegurar que tus derechos se respeten. Exigimos a los terceros con quienes compartimos datos que apliquen medidas de seguridad similares.
+
+**7. Edad Mínima para Usar X**
+
+*   Debes tener **al menos 13 años** para usar X.
+*   También debes tener la edad legal en Chile para dar tu consentimiento para que usemos tus datos personales. Si no la tienes, tus padres o tutores podrían dar el consentimiento por ti si la ley chilena lo permite.
+*   No recopilamos intencionalmente datos de menores de 13 años. Si descubrimos que un menor de 13 nos dio información, la eliminaremos y cerraremos su cuenta. Si eres padre/madre y sabes que tu hijo menor nos dio datos sin tu permiso, contáctanos.
+
+**8. Actualizaciones a esta Política**
+
+*   Podemos actualizar esta política de vez en cuando. La versión más reciente siempre estará disponible.
+*   Si hacemos cambios importantes, te avisaremos para que puedas revisarlos antes de seguir usando X.
+
+**9. Idioma**
+
+*   La versión oficial y legalmente vinculante de esta Política de Privacidad está en inglés.
+*   Aunque ofrecemos traducciones (como esta) para facilitar la comprensión, si hay alguna diferencia o contradicción, la versión en inglés es la que manda.
+
+**10. Cómo Contactarnos**
+
+*   Si tienes preguntas o comentarios sobre esta política, puedes contactarnos a través de nuestra página de Consultas sobre la política de privacidad [aquí](link_a_pagina_consultas) o escribiendo a la dirección correspondiente.
+*   Para usuarios en Chile (y fuera de la Unión Europea, EFTA o Reino Unido), la empresa responsable de tus datos (controlador de datos) es:
+    **X Corp.**
+    Attn: Privacy Policy Inquiry
+    865 FM 1209, Building 2
+    Bastrop, TX 78602
+    USA
+*   Si tienes una queja sobre cómo manejamos tus datos que no podemos resolver, puedes contactar a la autoridad de protección de datos local en Chile.

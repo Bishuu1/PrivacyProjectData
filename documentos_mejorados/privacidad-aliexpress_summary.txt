@@ -1,0 +1,158 @@
+POLÍTICA SIMPLIFICADA: Tu Privacidad en AliExpress.com (Chile)
+
+**Título:** Política de Privacidad Simplificada de AliExpress.com para Chile
+**Fecha de última actualización:** 13 de agosto de 2024
+**Propósito:** Queremos explicarte de forma clara y sencilla cómo recogemos, usamos y protegemos tu información personal cuando usas AliExpress en Chile. Nuestro objetivo es que entiendas tus derechos y cómo cuidamos tus datos, manteniendo siempre la validez legal.
+
+**¿Quién es responsable de tus datos?**
+Si usas AliExpress desde Chile, la empresa responsable de tus datos personales es **Alibaba.com Singapore E-Commerce Private Limited**, registrada en Singapur (con el número 200720572D). Puedes encontrar nuestros datos de contacto al final de este documento.
+
+**A. ¿QUÉ INFORMACIÓN RECOGEMOS?**
+
+Recogemos tu información personal de tres maneras principales:
+
+1.  **Información que tú nos das directamente:**
+    *   Cuando te registras, compras, vendes, o te comunicas con nosotros (por ejemplo, al hacer un reclamo).
+    *   **Si eres Comprador:**
+        *   **Datos de Contacto:** Tu nombre, dirección, número de teléfono, correo electrónico.
+        *   **Información de Pago:** Datos de tu tarjeta de crédito o cómo pagas, dirección de envío y facturación.
+        *   **Información de Compras:** Qué productos compras y cuántos.
+        *   **Información de Reclamos:** Detalles sobre problemas con la plataforma o productos.
+        *   **Datos de Identidad:** A veces, tu carnet u otro documento para verificar quién eres (ej: para garantías).
+        *   **Comunicaciones:** Conversaciones con nosotros (chat, email, teléfono).
+    *   **Si eres Vendedor:**
+        *   **Información Comercial:** Datos de tu empresa (registro, licencias, información tributaria si aplica).
+        *   **Datos de Pago:** Tu cuenta bancaria para recibir pagos.
+        *   **Información de Productos:** Detalles de lo que vendes.
+        *   **Datos de Contacto:** Tu nombre, dirección, teléfono, correo electrónico.
+        *   **Redes Sociales:** Si eres influencer y colaboras con nosotros, tus datos de contacto y perfiles.
+        *   **Encuestas:** Tus respuestas si participas en estudios de mercado (podría incluir datos como estado civil, ingresos, etc. – puedes elegir no darlos).
+        *   **Comunicaciones:** Conversaciones con nosotros.
+
+2.  **Información que recogemos automáticamente:**
+    *   Cuando usas nuestra plataforma (web o app), recogemos datos de tu dispositivo y actividad.
+    *   **Actividad en la Plataforma:** Qué productos ves, compras o vendes, precios, envíos, conversaciones con otros usuarios, comentarios en foros.
+    *   **Uso de la Plataforma:** Cómo navegas, tu dirección IP (un identificador de tu conexión a internet), cuándo te conectas, qué tipo de dispositivo y navegador usas, tu ubicación general (ej: país o ciudad).
+    *   **Información Derivada:** Conclusiones que sacamos sobre tus preferencias basadas en tu navegación y compras.
+    *   **Contenido de Redes Sociales:** Si eres influencer, tus publicaciones sobre AliExpress.
+    *   **Contactos:** Si decides compartir tu libreta de direcciones, la información de esos contactos.
+
+3.  **Información que recibimos de otros (terceros):**
+    *   **Proveedores de verificación:** Para confirmar tu identidad o la de tu negocio.
+    *   **Redes Sociales:** Si te registras usando tu cuenta de una red social (como Facebook), podemos recibir datos básicos de tu perfil público (nombre, foto, país).
+    *   **Información de Cumplimiento:** Datos para verificar que no haya fraude o lavado de dinero (tu nombre, email, datos de empresa).
+    *   Solo recogemos datos de terceros si ellos tienen tu permiso o están legalmente autorizados para compartirlos con nosotros.
+
+**B. ¿PARA QUÉ USAMOS TU INFORMACIÓN?**
+
+Usamos tu información personal para varios fines, siempre buscando mejorar tu experiencia y mantener la plataforma segura:
+
+*   **Verificar y administrar tu cuenta:** Crear tu cuenta de comprador o vendedor, darte acceso, configurar pagos. Esto incluye revisiones de seguridad y prevención de fraude.
+*   **Verificar si calificas como influencer:** Si quieres colaborar con nosotros.
+*   **Darte soporte:** Responder tus preguntas, ayudarte con problemas o reclamos.
+*   **Hacer funcionar la plataforma:** Facilitar la comunicación entre compradores y vendedores, procesar tus compras y pagos, organizar envíos y devoluciones.
+*   **Ayudarte con trámites de aduana:** Si compras o vendes internacionalmente a través de la plataforma.
+*   **Ofrecerte beneficios:** Descuentos de cumpleaños, ofertas especiales, precios exclusivos para miembros.
+*   **Verificar tu identidad y compras:** Para garantías o servicios postventa.
+*   **Mantener la seguridad:** Detectar y prevenir fraudes, lavado de dinero u otros riesgos en las cuentas y transacciones.
+*   **Enviarte publicidad y marketing:** Mostrarte ofertas y productos que creemos te pueden interesar, basándonos en tu uso de la plataforma y tu historial. Usamos cookies para esto (más detalles en la sección F).
+*   **Mejorar la plataforma:** Analizar cómo se usa AliExpress para hacerla más segura, mejorar su diseño y ofrecer mejores productos y servicios.
+*   **Conectarte con conocidos:** Ayudarte a encontrar amigos que también usan AliExpress (si decides usar esa función).
+*   **Otros fines compatibles:** También podríamos usar tus datos para otros fines relacionados, siempre que la ley lo permita y te lo comuniquemos.
+
+**C. ¿CON QUIÉN COMPARTIMOS TU INFORMACIÓN?**
+
+Podemos compartir tu información personal con diferentes grupos, siempre con un propósito claro:
+
+*   **Otros usuarios (Compradores y Vendedores):** Para que puedan comunicarse y completar las transacciones. Si eres comprador, el vendedor verá tus datos necesarios para la compra y el envío.
+*   **Empresas del grupo Alibaba y proveedores de servicios:** Empresas que nos ayudan a operar, como las que nos dan software, sistemas de mensajería, almacenamiento en la nube (ej: Alibaba Cloud), servicios de pago (ej: Alipay), logística (ej: Cainiao), atención al cliente, control de riesgos, etc.
+*   **Socios comerciales:** Empresas con las que colaboramos para ofrecerte descuentos u ofertas (solo si tú lo autorizas, si la ley lo requiere).
+*   **Socios de marketing y publicidad:** Empresas como Google, Facebook, Instagram, y proveedores de análisis (como Criteo) para mostrarte publicidad relevante y entender cómo usas la plataforma. Ellos pueden combinar la información de AliExpress con otros datos que tengan. Sus propias políticas de privacidad aplican a cómo usan tus datos.
+*   **Proveedores de evaluación de crédito:** Para evaluar si un vendedor puede recibir pagos adelantados.
+*   **Agentes de aduanas:** Para facilitar los trámites en compras internacionales.
+*   **Proveedores de garantías:** Si solicitas una garantía extendida para un producto.
+*   **Asesores profesionales, autoridades y otros:** Abogados, policía, aseguradoras, organismos gubernamentales, si es necesario para cumplir la ley, proteger nuestros derechos legales, o proteger tu seguridad o la de otros.
+*   **Un comprador potencial de nuestra empresa:** Si vendemos o fusionamos parte de nuestro negocio, siempre exigiendo que usen tus datos solo para los fines descritos aquí.
+*   **Cualquier otra persona con tu permiso.**
+*   **Sitios de "marca compartida" o enlaces a terceros:** Si usas enlaces en nuestra plataforma que te llevan a otros sitios, o sitios que operamos junto a socios, ten en cuenta que esos sitios tienen sus propias políticas de privacidad. Revisa sus políticas antes de darles tu información.
+
+**D. ¿POR CUÁNTO TIEMPO GUARDAMOS TU INFORMACIÓN?**
+
+Guardamos tu información personal solo mientras la necesitemos para darte nuestros servicios, cumplir con la ley, o resolver disputas. El tiempo exacto depende de cómo uses la plataforma (si eres miembro registrado o solo visitas) y para qué se usó la información.
+
+*   **Necesidad legítima:** Mientras tengas una cuenta activa o necesitemos los datos para ofrecerte algo.
+*   **Obligaciones legales:** A veces debemos guardar datos por más tiempo por leyes específicas (ej: contabilidad) o si hay una orden judicial.
+*   **Después de cerrar tu cuenta:** Guardaremos algunos datos por un tiempo si es necesario por ley o para resolver posibles problemas legales.
+*   **Cuando ya no la necesitemos:** La eliminaremos de forma segura o la haremos anónima (para que no se pueda relacionar contigo). Si no podemos borrarla de inmediato (ej: está en copias de seguridad), la guardaremos de forma segura y aislada hasta que podamos eliminarla.
+
+**E. TUS DERECHOS SOBRE TU INFORMACIÓN**
+
+Según las leyes aplicables (incluyendo la ley chilena de protección de datos), tienes derechos sobre tu información personal. Los principales son:
+
+*   **Derecho a acceder:** Puedes pedir saber qué información personal tenemos sobre ti y cómo la usamos.
+*   **Derecho a rectificar:** Puedes pedir que corrijamos tu información si está incorrecta o desactualizada.
+*   **Derecho a cancelar/eliminar:** Puedes pedir que eliminemos tu información personal en ciertas circunstancias (por ejemplo, si ya no es necesaria para los fines para los que se recogió).
+*   **Derecho a oponerte:** Puedes oponerte a que usemos tu información para ciertos fines, como el marketing directo.
+
+**Cómo ejercer tus derechos:**
+Puedes ejercer estos derechos contactándonos a través del enlace o correo electrónico que se indica en la sección "CÓMO CONTACTARNOS" al final de este documento. Responderemos a tu solicitud según lo exige la ley.
+
+**Marketing:** Tienes derecho a pedirnos que dejemos de enviarte comunicaciones de marketing en cualquier momento. Puedes hacerlo usando el enlace "darse de baja" en nuestros correos electrónicos o contactándonos.
+
+**Retirar tu consentimiento:** Si nos diste tu permiso (consentimiento) para usar tu información de una manera específica, puedes retirarlo cuando quieras. Esto no afectará el uso que hicimos antes de que lo retiraras.
+
+**F. USO DE COOKIES Y TECNOLOGÍAS SIMILARES**
+
+Usamos "cookies" (pequeños archivos que se guardan en tu dispositivo) y tecnologías parecidas.
+
+*   **¿Qué son?** Archivos que nos ayudan a reconocerte cuando visitas AliExpress, recordar tus preferencias y entender cómo usas la plataforma.
+*   **¿Por qué las usamos?**
+    *   **Esenciales:** Para que la plataforma funcione correctamente (ej: mantener productos en tu carrito, iniciar sesión).
+    *   **Analíticas:** Para entender cómo los usuarios usan AliExpress y cómo mejorarla.
+    *   **Publicidad:** Para mostrarte anuncios que te puedan interesar, basados en tu actividad.
+    *   **Redes Sociales:** Para permitirte compartir contenido o conectarte usando redes sociales.
+*   **Tipos de Cookies:**
+    *   **Propias:** Las que ponemos nosotros (AliExpress).
+    *   **De terceros:** Las que ponen otras empresas (ej: socios de publicidad, redes sociales). Estas empresas tienen sus propias políticas de privacidad.
+*   **Tu Control:** Puedes administrar las cookies a través de la configuración de tu navegador o las herramientas de preferencia de cookies que ofrecemos en nuestra plataforma. Puedes encontrar más detalles en nuestro Aviso de Cookies.
+
+**G. POLÍTICA SOBRE MENORES DE EDAD**
+
+*   AliExpress es para **adultos (mayores de 18 años)**.
+*   No buscamos vender productos ni recoger intencionalmente información de menores de edad.
+*   Si eres padre/madre o tutor y sabes que un menor nos ha dado información sin tu permiso, por favor contáctanos (ver sección P) para que la eliminemos.
+
+**H. CÓMO PROTEGEMOS TU INFORMACIÓN**
+
+Tomamos la seguridad de tus datos muy en serio:
+
+*   **Medidas de Seguridad:** Usamos medidas técnicas y organizativas (como controles de acceso, encriptación donde sea apropiado) para proteger tu información contra acceso no autorizado, pérdida o mal uso.
+*   **Notificación de Brechas:** Si ocurre una violación de seguridad de datos, te notificaremos a ti y a las autoridades correspondientes según lo exija la ley.
+*   **Tu Contraseña:** Tu cuenta está protegida por contraseña. **Es tu responsabilidad mantenerla secreta y segura.** No la compartas con nadie. Nunca te pediremos tu contraseña. Si usas un computador compartido, cierra siempre tu sesión al terminar.
+*   **Seguridad en Internet:** Aunque hacemos todo lo posible, ninguna transmisión de datos por internet es 100% segura. No podemos garantizar totalmente la seguridad de la información que nos envías online.
+
+**I. CAMBIOS A ESTA POLÍTICA**
+
+Podemos actualizar esta Política de Privacidad de vez en cuando para reflejar cambios en nuestras prácticas o por razones legales.
+
+*   **Cómo te informaremos:** Si hacemos cambios importantes, te lo haremos saber de forma adecuada, por ejemplo, publicando la nueva política en la plataforma. Te recomendamos revisar esta política periódicamente.
+
+**J, K, L, M. VISITANTES DE OTRAS REGIONES (EEE/Reino Unido, EE.UU., Brasil, México)**
+
+Este documento está enfocado en usuarios de Chile. Las secciones J, K, L y M del documento original detallan derechos y bases legales específicas para residentes de esas regiones (Espacio Económico Europeo/Reino Unido, Estados Unidos, Brasil y México). Esos detalles específicos no aplican directamente en Chile, pero los derechos generales descritos en la Sección E sí son relevantes para ti.
+
+**N. ¿DÓNDE GUARDAMOS Y TRANSFERIMOS TU INFORMACIÓN?**
+
+Para ofrecerte nuestros servicios, tu información personal puede ser almacenada y procesada en servidores ubicados en diferentes países, incluyendo **Estados Unidos, Rusia, Alemania, China o Singapur**.
+
+*   **Transferencias Internacionales:** Esto significa que tus datos pueden ser transferidos fuera de Chile a países con leyes de protección de datos diferentes.
+*   **Protección:** Cuando transferimos tus datos internacionalmente, tomamos medidas para asegurarnos de que estén protegidos de acuerdo con esta política y las leyes aplicables (por ejemplo, usando contratos estándar aprobados u otras salvaguardias).
+
+**O. IDIOMA**
+
+Esta política puede estar disponible en varios idiomas. Si hay alguna diferencia o contradicción entre la versión en español y la versión en inglés, **la versión en inglés prevalecerá.**
+
+**P. CÓMO CONTACTARNOS**
+
+*   **Para ejercer tus derechos** (acceso, rectificación, etc.): Por favor, haz clic aquí [Nota: Se asumiría que aquí hay un enlace funcional en la plataforma real] o usa las opciones dentro de tu cuenta de AliExpress si están disponibles.
+*   **Para otras preguntas sobre privacidad o contactar a nuestro Delegado de Protección de Datos:** Puedes escribirnos a: **DataProtection.AE@aliexpress.com**

@@ -1,0 +1,242 @@
+POLÍTICA SIMPLIFICADA:
+
+**Política de Privacidad Simplificada de Google para Chile**
+
+**Fecha de última actualización:** 16 de septiembre de 2024
+
+**Propósito:** Esta política explica de forma sencilla cómo Google recoge, usa y protege tu información personal cuando usas nuestros servicios en Chile (como el Buscador, YouTube, Android, Chrome, Gmail, Maps, etc.). Queremos que entiendas qué datos manejamos y cómo puedes controlar tu privacidad. Usar nuestros servicios significa que confías en nosotros con tu información, y tomamos esa responsabilidad muy en serio.
+
+**QUÉ INFORMACIÓN RECOGEMOS**
+
+Recogemos información para que nuestros servicios sean mejores y más útiles para ti. Qué recogemos depende de cómo uses nuestros servicios y qué controles de privacidad actives.
+
+*   **Si usas Google sin cuenta:** Guardamos información con códigos únicos asociados a tu navegador, app o dispositivo (para recordar tu idioma o mostrar resultados más relevantes, por ejemplo).
+*   **Si tienes una Cuenta de Google:** La información se asocia a tu cuenta y la tratamos como información personal (datos que te identifican, como tu nombre o email).
+
+**1. Información que Tú Nos Das Directamente:**
+
+*   **Al crear tu Cuenta de Google:** Tu nombre y contraseña. Opcionalmente, puedes añadir tu número de teléfono o información de pago.
+*   **Al usar los servicios:** El contenido que creas, subes o recibes de otros. Esto incluye:
+    *   Correos que escribes y recibes en Gmail.
+    *   Fotos y videos que guardas en Google Fotos.
+    *   Documentos y hojas de cálculo que creas en Drive.
+    *   Comentarios que haces en videos de YouTube.
+    *   Contactos que agregas.
+    *   Eventos de calendario.
+*   **Aunque no tengas cuenta:** Puedes darnos tu email para recibir actualizaciones.
+
+**2. Información que Recogemos Automáticamente Cuando Usas Nuestros Servicios:**
+
+*   **Tus Apps, Navegadores y Dispositivos:**
+    *   Recogemos datos sobre qué usas para acceder a Google: tipo de dispositivo, sistema operativo, navegador, identificadores únicos (códigos especiales para tu dispositivo/navegador), información de la red móvil (incluyendo nombre del operador y a veces número de teléfono), versión de la app.
+    *   También recogemos tu dirección IP (un número que identifica tu conexión a internet y ubicación general), informes de fallos, actividad del sistema, y la fecha, hora y sitio web desde el que llegaste a nuestro servicio.
+    *   **¿Para qué?** Para darte funciones como actualizaciones automáticas, adaptar la pantalla si tienes poca batería, o asegurar que los servicios funcionen correctamente.
+    *   Si usas un dispositivo Android con apps de Google, este se comunica periódicamente con nuestros servidores enviando información sobre el dispositivo y la conexión.
+
+*   **Tu Actividad:**
+    *   Guardamos lo que haces en nuestros servicios para personalizar tu experiencia (ej: recomendarte un video de YouTube que podría gustarte). Esto incluye:
+        *   Términos que buscas.
+        *   Videos que miras.
+        *   Interacciones con contenido y anuncios (clics, vistas).
+        *   Datos de voz y audio si usas funciones de voz (como "Ok Google").
+        *   Actividad de compra.
+        *   Personas con las que te comunicas o compartes contenido.
+        *   Actividad en sitios web y apps de terceros que usan servicios de Google (como anuncios o Analytics).
+        *   Historial de navegación de Chrome (si lo sincronizas con tu Cuenta de Google).
+        *   Si usas servicios para llamar o enviar mensajes (como Google Voice, Meet, Chat, Mensajes): podemos recoger información de registro como tu número, el número de la otra persona, fecha, hora, duración, datos de enrutamiento, y tipo/volumen de mensajes/llamadas.
+    *   Puedes ver y administrar esta información en tu Cuenta de Google ("Mi Actividad").
+
+*   **Tu Ubicación:**
+    *   Recogemos información sobre tu ubicación cuando usas nuestros servicios para ofrecerte funciones útiles (rutas en auto, resultados de búsqueda cercanos, anuncios basados en tu ubicación).
+    *   **Cómo la obtenemos:**
+        *   GPS y otros sensores de tu dispositivo.
+        *   Dirección IP.
+        *   Tu actividad en Google (búsquedas, lugares que etiquetas como "casa" o "trabajo").
+        *   Información sobre cosas cerca de tu dispositivo (puntos de acceso Wi-Fi, torres de telefonía celular, dispositivos con Bluetooth activado).
+    *   **Tú controlas:** Puedes activar o desactivar los servicios de ubicación de tu dispositivo Android, activar el "Historial de Ubicaciones" para crear un mapa privado, o controlar si tu actividad web y de apps guarda información de ubicación.
+
+**3. Información de Fuentes Públicas y Socios:**
+
+*   A veces recogemos información sobre ti de fuentes públicas (ej: si tu nombre aparece en un periódico local, nuestro buscador podría mostrarlo).
+*   También podemos recibir información de socios de confianza:
+    *   Directorios que nos dan información de negocios.
+    *   Socios de marketing que nos informan sobre posibles clientes.
+    *   Socios de seguridad que nos ayudan a protegernos contra abusos.
+    *   Anunciantes que nos dan datos para mostrar anuncios o medir su efectividad en su nombre.
+
+**Tecnologías que Usamos para Recoger Información:**
+Usamos diversas tecnologías como cookies (pequeños archivos en tu navegador para recordar preferencias o identificarte), etiquetas de píxeles, almacenamiento local del navegador o de la aplicación, bases de datos y registros del servidor.
+
+**POR QUÉ RECOGEMOS TU INFORMACIÓN (PARA QUÉ LA USAMOS)**
+
+Usamos la información que recogemos para los siguientes propósitos:
+
+**1. Para Darte Nuestros Servicios:**
+*   Procesar tus búsquedas para darte resultados.
+*   Ayudarte a compartir contenido sugiriendo contactos.
+*   Entregar productos o servicios que compraste.
+
+**2. Para Mantener y Mejorar los Servicios:**
+*   Asegurar que funcionen bien (ej: rastrear interrupciones).
+*   Solucionar problemas que nos reportas.
+*   Entender cómo se usan los servicios para mejorarlos (ej: mejorar la corrección ortográfica analizando errores comunes).
+
+**3. Para Desarrollar Nuevos Servicios:**
+*   Usar lo aprendido de servicios existentes para crear nuevos (ej: cómo la gente organizaba fotos en Picasa nos ayudó a crear Google Fotos).
+
+**4. Para Personalizar Tu Experiencia (Contenido y Anuncios):**
+*   Darte recomendaciones (ej: apps en Google Play).
+*   Mostrarte contenido y resultados de búsqueda personalizados.
+*   Mostrarte anuncios basados en tus intereses y actividad (ej: si buscas "bicicletas", podrías ver anuncios de equipos deportivos en YouTube).
+*   **Tu Control:** Puedes controlar la información que usamos para mostrarte anuncios en "Mi Centro de Anuncios".
+*   **Importante:**
+    *   **No** te mostramos anuncios personalizados basados en categorías sensibles (raza, religión, orientación sexual, salud).
+    *   **No** usamos el contenido de tu Drive, Gmail o Fotos para personalizar anuncios.
+    *   **No** compartimos tu información personal identificable (nombre, email) con anunciantes sin tu permiso explícito, a menos que tú inicies la acción (ej: hacer clic en "llamar" en un anuncio, compartiremos tu número con la tienda).
+
+**5. Para Medir Cómo se Usan Nuestros Servicios:**
+*   Analizar datos para entender el uso (ej: optimizar el diseño de un producto).
+*   Ayudar a los anunciantes a entender el rendimiento de sus campañas (usando herramientas como Google Analytics). Si un sitio usa Google Analytics, podemos vincular tu actividad en ese sitio con la actividad en otros que usan nuestros servicios de anuncios (siempre sujeto a tus controles).
+
+**6. Para Comunicarnos Contigo:**
+*   Usamos tu información (como tu email) para enviarte notificaciones (ej: alerta de actividad sospechosa en tu cuenta).
+*   Informarte sobre cambios o mejoras en nuestros servicios.
+*   Mantener un registro de tus solicitudes si nos contactas, para ayudarte a resolver problemas.
+
+**7. Para Proteger a Google, Nuestros Usuarios y al Público:**
+*   Mejorar la seguridad y confiabilidad de nuestros servicios.
+*   Detectar, prevenir y responder a fraudes, abusos, riesgos de seguridad y problemas técnicos.
+*   Usamos sistemas automáticos para analizar tu contenido y detectar abuso (spam, malware, contenido ilegal). También usamos algoritmos para reconocer patrones en los datos (ej: para mejorar Google Traductor).
+
+**Combinamos Información:**
+Podemos combinar la información que recogemos de nuestros diferentes servicios y de tus diferentes dispositivos para todos estos propósitos. Por ejemplo, si ves videos de guitarristas en YouTube, podrías ver un anuncio de clases de guitarra en otro sitio que usa nuestros servicios publicitarios (dependiendo de tu configuración). Si otros usuarios ya tienen tu email u otra información que te identifique, podemos mostrarles información pública de tu Cuenta de Google (nombre y foto) para que te reconozcan (ej: en un email).
+
+**Tu Permiso:**
+Siempre te pediremos tu consentimiento antes de usar tu información para un propósito que no esté descrito en esta Política de Privacidad.
+
+**TÚ TIENES EL CONTROL DE TU PRIVACIDAD**
+
+Te ofrecemos varias herramientas para administrar tu privacidad. Puedes revisar y ajustar configuraciones importantes en la **Verificación de Privacidad**.
+
+**Dentro de tu Cuenta de Google, puedes:**
+
+*   **Revisar y Actualizar tu Información Personal:**
+    *   En "Información Personal": Administra tu nombre, correo electrónico, número de teléfono, etc.
+*   **Controlar Qué Actividad se Guarda ("Controles de Actividad"):**
+    *   Decide si guardamos tu actividad en la web y apps, tu historial de ubicaciones, o tu historial de YouTube. Guardar esta actividad nos ayuda a darte resultados más rápidos, mejores recomendaciones y experiencias más personalizadas. Puedes pausar o borrar esta actividad cuando quieras. También puedes configurar que se borre automáticamente después de un tiempo.
+*   **Administrar la Configuración de Anuncios ("Mi Centro de Anuncios"):**
+    *   Elige si quieres ver anuncios personalizados basados en tus intereses y actividad. Puedes activar o desactivar la personalización y modificar tus intereses.
+*   **Controlar Qué Información Ven Otros ("Acerca de ti"):**
+    *   Maneja qué datos de tu perfil (como cumpleaños, género) son visibles para otros en los servicios de Google.
+*   **Decidir sobre Recomendaciones Compartidas:**
+    *   Elige si tu nombre, foto y actividad (como reseñas) pueden aparecer en anuncios.
+*   **Ver y Borrar Tu Actividad ("Mi Actividad"):**
+    *   Revisa en detalle y borra actividades específicas guardadas en tu cuenta (búsquedas, videos vistos, lugares visitados). Puedes borrar por elemento, por fecha o todo.
+*   **Administrar Información por Producto ("Panel de Control de Google"):**
+    *   Gestiona la información asociada a productos específicos de Google que usas.
+
+**Exportar, Eliminar o Pedir que se Quite tu Información:**
+
+*   **Exportar tus Datos:** Puedes crear una copia de seguridad o usar tu información con otro servicio exportando una copia del contenido de tu Cuenta de Google.
+*   **Eliminar tu Información:**
+    *   Puedes borrar contenido específico de ciertos servicios de Google (ej: fotos, documentos).
+    *   Puedes borrar elementos específicos de tu cuenta usando "Mi Actividad".
+    *   Puedes borrar productos específicos de Google y la información asociada.
+    *   Puedes borrar toda tu Cuenta de Google.
+*   **Solicitar Eliminación de Contenido:** Puedes pedir que quitemos contenido específico de ciertos servicios de Google según la ley aplicable y nuestras políticas.
+*   **Administrador de Cuentas Inactivas:** Puedes darle a otra persona acceso parcial a tu cuenta en caso de que no puedas usarla inesperadamente.
+
+**Otros Controles (Incluso sin Cuenta de Google):**
+
+*   **Configuración del Navegador:** Puedes configurar tu navegador para que te avise cuando se establece una cookie o para bloquear todas las cookies. (Recuerda que algunos servicios necesitan cookies para funcionar correctamente, como recordar tu idioma).
+*   **Configuración a Nivel de Dispositivo:** Tu dispositivo (celular, tablet) puede tener controles para determinar qué información recogemos. Por ejemplo, puedes modificar la configuración de ubicación en tu dispositivo Android.
+
+**CUÁNDO COMPARTIMOS TU INFORMACIÓN**
+
+**Cuando Tú Compartes:**
+Muchos de nuestros servicios te permiten compartir información con otras personas. Tú controlas cómo lo haces (ej: puedes compartir videos en YouTube públicamente o mantenerlos privados). Recuerda que si compartes información públicamente, puede ser accesible a través de motores de búsqueda como Google. Cuando interactúas con servicios (ej: comentas en YouTube), tu nombre y foto pueden mostrarse junto a tu actividad.
+
+**Cuando Google Comparte:**
+No compartimos tu información personal con empresas, organizaciones o personas ajenas a Google, excepto en los siguientes casos:
+
+*   **Con tu Consentimiento:**
+    *   Compartiremos tu información personal fuera de Google si tenemos tu permiso. Por ejemplo, si usas Google Home para reservar en un restaurante, te pediremos permiso antes de compartir tu nombre o teléfono con el restaurante.
+    *   Te pediremos tu consentimiento explícito para compartir cualquier información personal sensible (relacionada con salud, raza, religión, orientación sexual, etc.).
+*   **Con Administradores de Dominio (Si usas una cuenta de trabajo o estudio):**
+    *   Si eres estudiante o trabajas para una organización que usa servicios de Google (como Google Workspace), tu administrador de dominio (quien administra tu cuenta) y los distribuidores que lo asisten tendrán acceso a tu Cuenta de Google. Podrán: acceder y guardar tu información (como tu email), ver estadísticas de tu cuenta, cambiar tu contraseña, suspender o cancelar tu acceso, recibir información de tu cuenta para cumplir con leyes o requerimientos legales, y restringir tu capacidad de borrar o editar tu información o configuración de privacidad.
+*   **Para Procesamiento Externo (Con Empresas de Confianza que Trabajan para Nosotros):**
+    *   Proporcionamos información personal a nuestras empresas afiliadas (otras empresas del grupo Google) y a otras empresas o personas de confianza para que la procesen por nosotros, siguiendo nuestras instrucciones, esta Política de Privacidad y medidas de confidencialidad y seguridad adecuadas.
+    *   Por ejemplo, usamos proveedores de servicios para operar nuestros centros de datos, entregar nuestros productos, mejorar nuestros procesos internos, ofrecer soporte al cliente, o revisar contenido de videos para seguridad pública.
+*   **Por Motivos Legales:**
+    *   Compartiremos información personal si creemos de buena fe que es razonablemente necesario para:
+        *   Cumplir con leyes, regulaciones, procesos legales o requerimientos gubernamentales obligatorios. (Publicamos información sobre las solicitudes que recibimos en nuestro Informe de Transparencia).
+        *   Hacer cumplir los Términos de Servicio aplicables, incluyendo investigar posibles violaciones.
+        *   Detectar, prevenir o abordar problemas técnicos, de fraude o seguridad.
+        *   Proteger contra daños los derechos, la propiedad o la seguridad de Google, nuestros usuarios o el público, según lo requiera o permita la ley.
+
+**Información No Personal Identificable:**
+Podemos compartir información que no te identifica personalmente (información agregada o anónima) de forma pública y con nuestros socios (como editores, anunciantes, desarrolladores). Por ejemplo, compartimos información públicamente para mostrar tendencias sobre el uso general de nuestros servicios. También permitimos que socios específicos recojan información de tu navegador o dispositivo para publicidad y medición usando sus propias cookies o tecnologías similares.
+
+**Cambios en la Empresa:**
+Si Google participa en una fusión, adquisición o venta de activos, continuaremos asegurando la confidencialidad de tu información personal y notificaremos a los usuarios afectados antes de que la información personal se transfiera o quede sujeta a una política de privacidad diferente.
+
+**CÓMO PROTEGEMOS TU INFORMACIÓN**
+
+Todos los productos de Google se construyen con fuertes funciones de seguridad para proteger tu información constantemente. Detectamos y bloqueamos amenazas de seguridad automáticamente. Si detectamos algo riesgoso que creemos que deberías saber, te notificaremos y te guiaremos para mejorar tu protección.
+
+Nos esforzamos mucho para protegerte a ti y a Google del acceso no autorizado, modificación, divulgación o destrucción de la información que tenemos. Específicamente:
+
+*   **Usamos encriptación** para mantener tus datos privados mientras viajan por internet.
+*   Ofrecemos **funciones de seguridad** como Navegación Segura, Verificación de Seguridad y Verificación en 2 Pasos para ayudarte a proteger tu cuenta.
+*   **Revisamos nuestras prácticas** de recopilación, almacenamiento y procesamiento de información (incluidas medidas de seguridad física) para prevenir el acceso no autorizado a nuestros sistemas.
+*   **Restringimos el acceso a la información personal** a los empleados, contratistas y agentes de Google que necesiten esa información para procesarla. Todos ellos están sujetos a estrictas obligaciones contractuales de confidencialidad y pueden ser sancionados o despedidos si no las cumplen.
+
+**CUÁNTO TIEMPO GUARDAMOS TU INFORMACIÓN**
+
+Guardamos la información que recogemos por diferentes períodos de tiempo, dependiendo de qué tipo de información sea, cómo la usemos y cómo configures tus ajustes:
+
+*   **Datos que puedes borrar cuando quieras:** Como tu información personal o el contenido que creas o subes (fotos, documentos). También puedes borrar la información de actividad guardada en tu cuenta, o elegir que se borre automáticamente después de un período determinado. Conservaremos estos datos en tu Cuenta de Google hasta que los quites o decidas eliminarlos.
+*   **Otros datos se borran o se vuelven anónimos automáticamente** después de un período establecido, como los datos de publicidad en los registros de servidores.
+*   **Algunos datos los conservamos hasta que borres tu Cuenta de Google,** como la información sobre la frecuencia con la que usas nuestros servicios.
+*   **Conservamos ciertos datos durante períodos más largos cuando es necesario** por razones comerciales o legales legítimas, como seguridad, prevención de fraudes y abusos, o mantenimiento de registros financieros.
+
+**Cuando Borras Datos:** Seguimos un proceso de eliminación para asegurarnos de que tus datos se eliminen de forma segura y completa de nuestros servidores activos, o se conserven solo de forma anónima. Intentamos proteger la información de borrados accidentales o maliciosos, por lo que puede haber demoras entre el momento en que borras algo y el momento en que las copias se eliminan de nuestros sistemas activos y de respaldo.
+
+**CUMPLIMIENTO DE LEYES Y COLABORACIÓN CON AUTORIDADES (INCLUYENDO CHILE)**
+
+Revisamos periódicamente esta Política de Privacidad y nos aseguramos de procesar tu información de manera que cumpla con ella.
+
+*   **Transferencias de Datos:** Tenemos servidores en todo el mundo, por lo que tu información puede procesarse en servidores fuera de Chile. Las leyes de protección de datos varían entre países. Independientemente de dónde se procese tu información, aplicamos las mismas protecciones descritas en esta política y cumplimos con los marcos legales para la transferencia de datos.
+*   **Reclamos:** Si recibimos reclamos formales por escrito, respondemos a la persona que hizo el reclamo. Trabajamos con las autoridades reguladoras correspondientes, incluidas las autoridades locales de protección de datos (como el Consejo para la Transparencia en Chile), para resolver cualquier reclamo relacionado con la transferencia de datos que no podamos resolver directamente contigo.
+
+**Tus Derechos Bajo la Ley Chilena (Ley N° 19.628 sobre Protección de la Vida Privada):**
+La ley chilena te otorga derechos específicos sobre tu información personal. Te facilitamos el ejercicio de estos derechos a través de los controles que describimos en la sección "TÚ TIENES EL CONTROL DE TU PRIVACIDAD". Tienes derecho a:
+
+1.  **Acceder** a tus datos personales que tenemos.
+2.  **Rectificar** tus datos si son incorrectos, inexactos, equívocos o incompletos.
+3.  **Cancelar (Eliminar)** tus datos cuando su almacenamiento carezca de fundamento legal o cuando hayan caducado.
+4.  **Oponerte** a que usemos tus datos para fines de publicidad, investigación de mercado o sondeos de opinión.
+5.  **Obtener prueba** de la autorización que nos diste para tratar tus datos (cuando aplique) y **revocar** dicha autorización en cualquier momento.
+6.  **Ser informado** sobre el uso que se ha dado a tus datos personales, si lo solicitas.
+
+*   **Información Sensible y de Menores:** No estás obligado a proporcionarnos información personal sensible (sobre estados de salud, origen racial, opiniones políticas, creencias religiosas, etc.) o de menores de edad. Si algún servicio requiere dicha información, puedes optar por no usar ese servicio.
+*   **Contacto y Responsable del Tratamiento:** Si tienes preguntas sobre esta política o tus derechos, puedes visitar nuestro Centro de Ayuda sobre la Privacidad. También puedes contactar a la autoridad de protección de datos relevante en Chile si tienes preocupaciones. Para los usuarios en América Latina, el responsable del tratamiento de tu información personal es Google LLC, con dirección en 1600 Amphitheatre Parkway, Mountain View, California 94043 (Estados Unidos), salvo que se indique lo contrario en un aviso de privacidad específico de un servicio.
+
+**SOBRE ESTA POLÍTICA**
+
+*   **A Qué Servicios Aplica:** Esta Política de Privacidad se aplica a todos los servicios ofrecidos por Google LLC y sus empresas afiliadas (como YouTube, Android, Chrome, etc.), incluidos los servicios ofrecidos en sitios de terceros (como servicios de publicidad). Se excluyen los servicios que tengan políticas de privacidad separadas que no incorporen esta.
+*   **A Qué NO Aplica:**
+    *   A las prácticas de información de otras empresas y organizaciones que publicitan nuestros servicios.
+    *   A los servicios ofrecidos por otras empresas o personas (incluidos productos o sitios que puedan incluir servicios de Google, o sitios vinculados desde nuestros servicios).
+*   **Cambios a Esta Política:** Modificamos esta Política de Privacidad periódicamente. No reduciremos tus derechos bajo esta Política sin tu consentimiento explícito. Siempre indicamos la fecha en que se publicaron los últimos cambios y ofrecemos acceso a versiones anteriores. Si los cambios son significativos, proporcionaremos una notificación más destacada (incluida, para ciertos servicios, una notificación por correo electrónico).
+
+**OTROS RECURSOS ÚTILES**
+
+Para más información sobre nuestras prácticas y tus opciones de privacidad, puedes consultar:
+
+*   Tu Cuenta de Google
+*   La Verificación de Privacidad
+*   El Centro de Seguridad de Google
+*   Privacidad y Condiciones de Google
+
+*(Nota: Los términos clave como "cookie", "dirección IP", "identificador único", etc., se explican de forma sencilla dentro del texto cuando se mencionan por primera vez).*

@@ -1,0 +1,95 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada para Apps Móviles Concha y Toro
+**Fecha de última actualización:** [Fecha - Usar la del documento original si es posible, si no, indicar 25/03/2025 como en la URL]
+**Propósito:** Aquí te explicamos de forma clara cómo recopilamos, usamos y protegemos tu información personal cuando usas nuestras aplicaciones móviles (apps) de Viña Concha y Toro S.A., Concha y Toro y sus marcas asociadas en Chile.
+
+**Al Usar la App, Aceptas Esta Política**
+Para usar nuestras apps, necesitas estar de acuerdo con esta política de privacidad y nuestros Términos y Condiciones. Si no estás de acuerdo con alguna parte, por favor no uses las apps.
+
+**Cambios a Esta Política**
+Podemos cambiar esta política de vez en cuando. Si hacemos cambios importantes sobre cómo usamos tus datos personales, te avisaremos por correo electrónico. Te explicaremos los cambios y podrás decidir si aceptas la nueva forma de uso. Si sigues usando la app después del aviso, entenderemos que aceptas los cambios.
+
+**1. ¿Qué Información Recopilamos?**
+
+*   **A. Información que Tú Nos Das:**
+    Cuando descargas la app, te registras o usas ciertas funciones, te pediremos algunos datos personales. Solo los usamos para el propósito específico que te indicamos al pedírtelos. Normalmente, esto puede incluir:
+    *   Tu nombre
+    *   Tu dirección de correo electrónico
+    *   Una contraseña que elijas
+    *   Otra información necesaria para tu registro.
+
+*   **B. Información que Recopilamos Automáticamente:**
+    La app también recoge cierta información técnica de forma automática cuando la usas. Esto incluye:
+    *   El tipo de celular o tablet que usas.
+    *   El identificador único de tu dispositivo móvil.
+    *   La dirección IP de tu dispositivo móvil.
+    *   El sistema operativo de tu móvil (ej. iOS, Android).
+    *   El tipo de navegador de internet móvil que usas.
+    *   Información sobre cómo usas la app (qué funciones visitas, cuánto tiempo, etc.).
+
+**2. ¿Para Qué Usamos Tu Información?**
+
+*   Para que puedas usar la app y acceder a sus contenidos y servicios.
+*   Para comunicarnos contigo sobre información importante de la app (avisos, actualizaciones).
+*   Para enviarte noticias y promociones de marketing, **solo si tú nos has dado permiso expreso** para recibir estas comunicaciones.
+
+**3. ¿Con Quién Compartimos Tu Información?**
+
+Como regla general, no compartimos ni revelamos tu información personal, excepto si:
+*   **Nos autorizas:** Tú nos das permiso para hacerlo.
+*   **Lo exige la ley:** Una autoridad competente (como un juez) nos lo pide legalmente.
+*   **Es necesario para proteger:**
+    *   Para hacer cumplir nuestros Términos y Condiciones.
+    *   Para proteger nuestra seguridad, tus derechos, tu seguridad o la de otros.
+    *   Para investigar posibles fraudes.
+    *   Para responder a una solicitud del gobierno.
+*   **Proveedores de confianza:** Compartimos información con empresas que nos ayudan a operar la app (ej. servicios de hosting). Estas empresas trabajan para nosotros, no pueden usar tu información para sus propios fines y deben cumplir con las reglas de esta política de privacidad.
+*   **Cambios en la empresa:** Si Viña Concha y Toro se fusiona, es comprada o vende parte de sus activos. Si esto ocurre, te avisaremos por correo electrónico o con un aviso en nuestra web sobre el cambio y las opciones que tienes sobre tu información.
+*   **Análisis y publicidad:** Compartimos información con empresas de análisis y redes de publicidad, como se explica en la sección 4.
+
+**Importante:** Si tú decides compartir información personal en un área pública de la app (como comentarios), otras personas podrían verla y usarla. No podemos controlar lo que hacen otros usuarios.
+
+**4. Recopilación Automática de Datos y Publicidad**
+
+*   **Análisis:** Trabajamos con empresas que nos ayudan a entender cómo se usa la app (qué tan seguido, por cuánto tiempo).
+*   **Publicidad:** Trabajamos con anunciantes y redes de publicidad para mostrar anuncios en la app. Esto nos ayuda a mantener la app gratuita.
+    *   Estas empresas pueden usar parte de la información recopilada automáticamente por la app (como el identificador único de tu dispositivo, pero no tu nombre o datos que te identifiquen directamente).
+    *   Usamos tecnología (encriptación) para ayudar a proteger tu identidad frente a estos terceros.
+    *   Estos terceros también pueden obtener información anónima sobre otras apps que usas o sitios web móviles que visitas, y tu ubicación no precisa (como tu código postal), para mostrarte publicidad anónima más relevante, tanto en nuestra app como en otros lugares.
+    *   Podríamos compartir versiones encriptadas de la información que nos diste para que nuestros socios puedan combinarla con otra información que tengan sobre ti para análisis o publicidad, siempre de forma que no te identifiquen personalmente.
+
+**5. ¿Recopilamos Tu Ubicación Exacta?**
+
+No. Esta aplicación **no** recoge información precisa sobre la ubicación (GPS) de tu dispositivo móvil en tiempo real.
+
+**6. Tu Control: Dejar de Compartir Información**
+
+Puedes detener toda la recopilación de información por parte de la app de forma sencilla: **desinstala la aplicación** de tu dispositivo móvil. Puedes usar el proceso normal de desinstalación de tu celular, tablet o desde la tienda de aplicaciones donde la descargaste.
+
+**7. ¿Por Cuánto Tiempo Guardamos Tu Información? (Retención)**
+
+*   Guardamos la **información que tú nos proporcionaste** mientras uses la app y por un tiempo razonable después.
+*   Guardamos la **información recopilada automáticamente** hasta por 3 AÑOS. Después de ese tiempo, podríamos conservarla de forma permanente, pero generalmente de manera agregada o anónima (sin que pueda identificarte).
+
+**8. ¿Puedes Pedir que Borremos Tu Información?**
+
+Sí. Si quieres que eliminemos la información personal que nos proporcionaste a través de la app, por favor contáctanos por correo electrónico a **webmaster@conchaytoro.cl**. Te responderemos en un plazo razonable.
+**Importante:** Es posible que necesitemos conservar algunos de tus datos para que la aplicación funcione correctamente o por obligaciones legales.
+
+**9. ¿Cómo Protegemos Tu Información? (Seguridad)**
+
+Nos preocupa proteger tu información. Usamos medidas de seguridad físicas, electrónicas y de procedimiento para cuidarla. Por ejemplo:
+*   Limitamos el acceso a tu información solo a empleados y contratistas autorizados que la necesitan para operar, desarrollar o mejorar la app.
+*   Aunque nos esforzamos por ofrecer una seguridad razonable, ten en cuenta que ningún sistema de seguridad es 100% perfecto y no podemos garantizar prevenir todas las posibles brechas de seguridad.
+
+**10. Tu Consentimiento y Procesamiento de Datos en Chile**
+
+Al usar la aplicación, estás aceptando que procesemos tu información como se describe en esta Política de Privacidad y sus posibles futuras modificaciones.
+*   **"Procesar"** significa usar tu información de cualquier manera, incluyendo (pero no limitado a): recopilar, guardar, borrar, usar, combinar y compartir información.
+*   Todas estas actividades se realizarán en **CHILE**. Si usas la app desde fuera de Chile, tu información será transferida, procesada y almacenada en Chile, bajo las normas de privacidad chilenas.
+
+**11. ¿Tienes Dudas? Contáctanos**
+
+Si tienes alguna pregunta sobre tu privacidad mientras usas la app, o sobre nuestras prácticas de privacidad, por favor escríbenos por correo electrónico a:
+**webmaster@conchaytoro.cl**

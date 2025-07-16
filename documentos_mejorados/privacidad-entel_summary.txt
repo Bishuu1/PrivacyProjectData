@@ -1,0 +1,124 @@
+Claro, aquí tienes la política de privacidad de Entel transformada en una versión simplificada, siguiendo tus instrucciones y manteniendo la precisión legal.
+
+***
+
+**POLÍTICA SIMPLIFICADA**
+
+**Título:** Política de Privacidad de Entel en Simple
+**Fecha de última actualización:** Noviembre 2022
+**Propósito:** Te explicamos de forma clara y simple cómo cuidamos, usamos y protegemos tu información personal cuando usas nuestros servicios. Para nosotros, tu privacidad es lo más importante.
+
+---
+
+### 1. Nuestro Compromiso Contigo
+
+En Entel, nos tomamos muy en serio la protección de tus datos personales (cualquier información que te identifique, como tu nombre o RUT). Todo lo que hacemos con tu información se basa en estos principios clave:
+
+*   **Legalidad:** Siempre actuaremos dentro de la ley. Solo trataremos tus datos si la ley nos autoriza o si tú nos das tu consentimiento.
+*   **Finalidad Clara:** Usaremos tu información únicamente para los propósitos específicos que te explicamos en esta política.
+*   **Solo lo Necesario:** Te pediremos y usaremos solo los datos que sean estrictamente necesarios para cumplir esos propósitos.
+*   **Tiempo Justo:** Guardaremos tus datos solo por el tiempo que sea necesario para darte el servicio o por el tiempo que la ley nos exija.
+*   **Datos Correctos:** Nos esforzamos para que tu información sea exacta y esté al día. Tú también juegas un rol clave aquí, ¡mantén tus datos actualizados!
+*   **Seguridad:** Aplicamos altas medidas de seguridad para proteger tu información de pérdidas, filtraciones o accesos no autorizados.
+*   **Confidencialidad:** Tratamos tus datos como un secreto profesional. Quienes trabajan en Entel están obligados a mantener la confidencialidad.
+*   **Responsabilidad:** Somos legalmente responsables de cumplir con la ley y proteger tus datos en todo momento.
+
+**Nota importante sobre el consentimiento:**
+La ley chilena (Ley N° 19.628) establece algunas situaciones en las que no necesitamos tu permiso explícito para usar tus datos. Por ejemplo:
+*   Si la información ya es pública (como en guías telefónicas).
+*   Si se trata de datos económicos o comerciales necesarios para enviarte ofertas directas.
+
+### 2. ¿Quién es Responsable de tus Datos?
+
+Las empresas que cuidarán tu información son:
+*   **EMPRESA NACIONAL DE TELECOMUNICACIONES S.A.** (RUT: 92.580.000-7)
+*   **ENTEL PCS TELECOMUNICACIONES S.A.** (RUT: 96.806.980-2)
+
+Cuando decimos "Entel" o "nosotros", nos referimos a estas dos empresas.
+
+### 3. ¿Qué Información Recopilamos sobre Ti?
+
+Podemos guardar distintos tipos de información, por ejemplo:
+
+*   **Datos de Identificación:** Tu nombre, RUT, dirección, número de teléfono y correo electrónico.
+*   **Datos de Pago:** La información sobre los medios de pago que usas, pero **nunca** tus claves secretas.
+*   **Datos de Tráfico y Uso:** A qué números llamas, la duración de tus llamadas, cuántos datos de internet usas. **No tenemos acceso al contenido** de tus llamadas o mensajes.
+*   **Datos de Geolocalización:** Tu ubicación, pero **solo si tú nos das tu permiso explícito** para ofrecete servicios personalizados.
+*   **Información de tus Cuentas:** Tu usuario y contraseña para la App Entel o el sitio "Mi Entel".
+*   **Datos de Atención al Cliente:** El historial de tus consultas o reclamos a través de nuestros canales.
+*   **Datos de Facturación:** Montos, fechas de pago y deudas.
+
+### 4. ¿Cómo Obtenemos tu Información?
+
+Recopilamos tus datos cuando tú:
+
+*   Contratas uno de nuestros servicios o compras un producto.
+*   Usas nuestra red (haces llamadas, navegas por internet).
+*   Te registras en nuestra página web o descargas y usas la App Entel.
+*   Nos contactas por el call center, redes sociales o en una sucursal.
+*   Participas en nuestros concursos o encuestas.
+
+### 5. ¿Para Qué Usamos tu Información?
+
+Usamos tus datos para diferentes fines, siempre de forma responsable:
+
+**a) Para que tus servicios funcionen correctamente:**
+*   **Darte conectividad:** Usamos tu información de tráfico para conectar tus llamadas, SMS y datos a internet.
+*   **Facturarte:** Para generar y cobrar tu boleta mensual.
+*   **Mejorar la red:** Analizamos datos de tráfico (de forma agrupada y anónima) para optimizar nuestra red y que tengas una mejor experiencia.
+*   **Ayudarte:** Para resolver tus consultas o reclamos de forma personalizada.
+
+**b) Para comunicarnos contigo y ofrecerte promociones:**
+*   **Marketing:** Para enviarte ofertas y noticias sobre productos de Entel o de nuestros socios comerciales que creemos que te pueden interesar.
+*   **Importante sobre el marketing:**
+    *   A veces contratamos a empresas de marketing para que nos ayuden, pero ellos solo pueden usar tus datos en nuestro nombre.
+    *   **Tú tienes el control:** Siempre podrás dejar de recibir estas comunicaciones siguiendo las instrucciones del mismo mensaje (por ejemplo, un link para desuscribirse).
+    *   **Ojo:** Si te desuscribes de los SMS, no significa que dejes de recibir emails. Debes hacerlo para cada canal por separado.
+
+**c) Para mejorar nuestros servicios y tu experiencia:**
+*   **Análisis de Datos ("Big Data"):** Analizamos grandes volúmenes de datos para entender tendencias y patrones de uso. ¡Tranquilo! Cuando hacemos esto, usamos datos agrupados y anónimos, lo que significa que no se puede identificar a una persona en particular. Esto nos ayuda a:
+    *   Crear mejores campañas de marketing.
+    *   Detectar fraudes y proteger nuestras redes.
+    *   Generar informes estadísticos para terceros (siempre con datos anónimos).
+*   **Uso de Cookies:** Usamos cookies en nuestra web para recordar tus preferencias y para que terceros puedan mostrarte publicidad relevante. Puedes revisar y configurar esto en nuestra **Política de Cookies**.
+
+### 6. ¿Con Quién Podríamos Compartir tu Información?
+
+Para poder ofrecerte nuestros servicios, a veces necesitamos compartir tus datos con:
+
+*   **Otras empresas del grupo Entel.**
+*   **Proveedores y socios comerciales:** Empresas que nos prestan servicios (ej. facturación, marketing, soporte técnico). Ellos están obligados a proteger tus datos igual que nosotros.
+*   **Organismos del Estado:** Como tribunales o fiscalías, si nos lo exigen por ley y cumplen con todos los requisitos legales. Siempre revisaremos que la solicitud sea válida antes de entregar algo.
+
+Si transferimos tus datos fuera de Chile, nos aseguramos de que se mantenga el mismo nivel de protección.
+
+### 7. ¿Por Cuánto Tiempo Guardamos tus Datos?
+
+*   **Regla general:** Mantenemos tu información mientras seas nuestro cliente y por el tiempo necesario para cumplir con nuestras obligaciones legales y contractuales (como cobrar deudas).
+*   **Regla específica por ley:** Por orden del Código Procesal Penal de Chile, estamos obligados a guardar los registros de las direcciones IP que usas al conectarte a internet por un **plazo máximo de un año**.
+
+### 8. ¿Cómo Mantenemos tu Información Segura?
+
+*   **Controles y Medidas:** Usamos tecnología y estándares de seguridad internacionales para proteger tus sistemas y datos. Esto incluye medidas para evitar accesos no autorizados, pérdidas o filtraciones.
+*   **Tu Clave es Secreta:** La contraseña de "Mi Entel" o de la App es personal, confidencial y tu responsabilidad. ¡No la compartas con nadie!
+*   **¡Cuidado con el Phishing!:** **Entel nunca te pedirá tus claves o datos personales por email o SMS.** Si recibes una comunicación sospechosa, no entregues información y contáctanos.
+
+### 9. Tus Derechos y Cómo Ejercerlos (¡Tú tienes el control!)
+
+La ley te otorga varios derechos sobre tus datos personales. Tú puedes:
+
+*   **Derecho de Acceso:** Preguntarnos qué datos personales tenemos sobre ti y pedir una copia.
+*   **Derecho de Rectificación:** Pedirnos que corrijamos tu información si está incorrecta, incompleta o desactualizada.
+*   **Derecho de Cancelación (o Eliminación):** Solicitar que eliminemos tus datos, siempre que ya no sean necesarios para el servicio o que la ley no nos obligue a conservarlos.
+*   **Derecho de Oposición:** Oponerte a que usemos tus datos para fines específicos, como el envío de publicidad.
+
+**¿Cómo ejercer tus derechos?** Es fácil y gratuito. Puedes hacerlo a través de:
+1.  Tu sitio privado **Mi Entel**.
+2.  La **App Entel**.
+3.  De forma presencial en cualquier **sucursal de Entel**.
+4.  Llamando a nuestros **Call Centers**.
+
+### 10. Cambios en esta Política y Contacto
+
+Si hacemos cambios importantes a esta política, te lo informaremos a través de nuestros canales habituales.
+Si tienes cualquier duda, escríbenos a **protecciondedatos@entel.cl** o contáctanos por nuestros canales de atención al cliente.

@@ -1,0 +1,33 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada de El Mostrador
+**Fecha de última actualización:** [Fecha de la última actualización del documento original - no especificada en el texto base]
+**Propósito:** En simple: te explicamos qué información tuya recogemos, para qué la usamos y cómo la cuidamos cuando visitas El Mostrador.
+
+**1. Nuestro Compromiso con tu Privacidad**
+*   En El Mostrador, respetamos tu privacidad.
+*   Cumplimos con las leyes chilenas y también con las normas europeas sobre cómo debemos tratar tus datos personales.
+
+**2. ¿Qué Información Recopilamos?**
+*   Cuando navegas en nuestro sitio web, recogemos información sobre cómo lo usas. Esto nos ayuda a darte un mejor servicio.
+*   Esta información incluye:
+    *   **Datos de Navegación y Uso:** Cómo te mueves por el sitio, qué noticias lees, etc.
+    *   **Intereses y Perfil (Estimados):** Basándonos en tu navegación, podemos suponer qué temas te interesan más.
+    *   **Información Técnica:**
+        *   El tipo de dispositivo que usas (ej: celular, computador).
+        *   El navegador que usas (ej: Chrome, Safari).
+        *   La dirección web desde la que llegaste a nuestro sitio (URL de referencia).
+        *   Información guardada en "cookies" (pequeños archivos que se instalan en tu navegador para recordar preferencias o facilitar la navegación) y otras tecnologías similares.
+
+**3. ¿Para Qué Usamos tu Información?**
+*   Usamos la información que recopilamos con un objetivo principal:
+    *   **Para personalizar tu experiencia:** Queremos mostrarte contenidos, productos o servicios que se ajusten mejor a tus intereses y preferencias. Analizamos tu navegación y perfil estimado *solo* con esta finalidad.
+*   Además, podemos usar tu información de otra forma:
+    *   **Para estadísticas:** Juntamos la información de muchos usuarios de forma agrupada (agregada) para analizar tendencias y mejorar nuestro sitio. Cuando hacemos esto, quitamos cualquier dato que permita identificarte personalmente (anonimización). Así, tu identidad siempre queda protegida.
+
+**4. ¿Compartimos tu Información con Otros?**
+*   No. El Mostrador no entregará tus datos personales (como tu nombre o correo, si los tuviéramos) a ninguna otra empresa o persona.
+*   Solo lo haríamos si existiera una razón legal válida que nos obligue o nos permita hacerlo (por ejemplo, si tú nos das tu permiso explícito o si una ley nos lo exige).
+
+**5. Tus Derechos**
+*   Aunque no se detalla aquí, la ley te da derechos sobre tus datos personales (como acceder, rectificar o eliminar tu información).

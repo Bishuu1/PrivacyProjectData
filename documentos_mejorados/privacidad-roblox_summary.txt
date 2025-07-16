@@ -1,0 +1,255 @@
+POLÍTICA SIMPLIFICADA:
+
+**Política de Privacidad Simplificada de Roblox para Chile**
+
+**Fecha de última actualización:** 22 de enero de 2025
+
+**Propósito:** Te explicamos de forma sencilla cómo recolectamos, usamos y protegemos tu información personal cuando usas Roblox en Chile. Queremos que entiendas tus derechos y cómo cuidamos tus datos.
+
+**¿Para quién es esta Política?**
+
+*   Para ti, si juegas o creas en Roblox, sin importar tu edad.
+*   Para padres y tutores de usuarios menores de 13 años.
+*   Cubre todos los servicios de Roblox (sitio web, apps, Roblox Player, Roblox Studio).
+
+**¿Qué te explicamos aquí?**
+
+*   Qué información tuya recopilamos (como tu nombre de usuario, correo, etc.).
+*   Cómo y por qué usamos esa información.
+*   Con quién podríamos compartirla.
+*   Cómo la protegemos.
+*   Tus derechos sobre tu información personal y cómo puedes controlarla.
+
+**Importante:** Si sales de Roblox (por ejemplo, haces clic en un enlace a otro sitio), esta política ya no aplica. No somos responsables de otros sitios o apps.
+
+**¿Tienes preguntas? Contáctanos:**
+
+*   **Formulario de Atención al Cliente:** [https://www.roblox.com/support](https://www.roblox.com/support) (Si eres menor de 13, pide a tus padres que lo completen).
+*   **Correo electrónico (Privacidad):** privacy@roblox.com
+*   **Teléfono (EE.UU.):** 888-858-BLOX
+*   **Dirección Postal (EE.UU.):**
+    Roblox Corporation
+    Atención: Roblox Privacy Manager
+    3150 S. Delaware St.
+    San Mateo, California, 94403, EE.UU.
+
+**Algunas definiciones clave:**
+
+*   **Información Personal:** Cualquier dato que pueda identificarte (nombre, correo, etc.).
+*   **Menor de 13 años:** Usuario con menos de 13 años.
+*   **Plataforma:** El universo virtual de Roblox.
+*   **Servicios:** Todo lo que ofrece Roblox (jugar, crear, conectar, sitio web, apps, etc.).
+*   **Procesar/Tratar:** Cualquier cosa que hacemos con tu información (recopilar, guardar, usar, compartir).
+
+---
+
+**Si tienes menos de 13 años (o eres padre/tutor de uno):**
+
+¡Tu privacidad es muy importante! Por eso, limitamos algunas funciones para protegerte.
+
+1.  **Pide Permiso:** Necesitas permiso de tus padres o tutores para usar Roblox. ¡No uses Roblox sin su aprobación!
+2.  **Configuración de Privacidad Automática:** Tu cuenta se configura automáticamente con más privacidad. Funciones como redes sociales o ciertos anuncios están desactivadas. Al cumplir 13, podrás activar más funciones si quieres.
+3.  **Controla quién te contacta:** Puedes ajustar quién te envía mensajes o chatea contigo (solo amigos, nadie, etc.). También existe un "Modo Restringido" que limita más el chat y los juegos disponibles.
+4.  **¡Padres/Tutores!** Supervisen a sus hijos en Roblox. Tenemos herramientas de seguridad: infórmense [aquí](https://www.roblox.com/info/privacy-safety) (enlace genérico, revisar si existe uno específico o adaptar).
+5.  **¿Qué información pedimos a menores de 13?**
+    *   **Nombre de usuario:** Para crear tu cuenta (¡No uses tu nombre real!).
+    *   **Contraseña:** Para que entres a tu cuenta (¡No la compartas, excepto con tus padres!).
+    *   **Fecha de nacimiento:** Para asegurarnos de que tengas la configuración de edad correcta.
+    *   **Género (Opcional):** Para personalizar tu avatar.
+    *   **Correo electrónico de tus padres (Opcional pero Recomendado):** Para seguridad extra y para que tus padres puedan revisar tu cuenta. *Esta es la única información personal (según la ley COPPA de EE.UU.) que pedimos directamente a menores de 13.* La usamos para verificar la cuenta y contactar a tus padres si es necesario.
+6.  **No queremos más información tuya:** Solo pedimos lo necesario. Si das más información personal, la borraremos (a menos que la ley nos obligue a guardarla), podríamos cerrar tu cuenta o activar protecciones de edad.
+7.  **Filtramos el contenido:** Revisamos chats, foros y comentarios para eliminar:
+    *   Información personal (direcciones, teléfonos, correos).
+    *   Intentos de engaño (phishing).
+    *   Groserías o contenido inapropiado.
+    *   Usamos filtros automáticos y humanos, pero no son 100% perfectos.
+8.  **Padres pueden hacer cambios:** Pueden pedir revisar, borrar o limitar el uso de la información de sus hijos usando el Formulario de Atención al Cliente.
+
+---
+
+**¿Cuándo y por qué recopilamos tu información?**
+
+Recopilamos información en distintas situaciones para que puedas usar Roblox y para mantener la plataforma segura.
+
+1.  **Al Crear tu Cuenta:**
+    *   **Nombre de usuario y contraseña:** Para que tengas tu cuenta y puedas entrar. *Reglas importantes: No uses tu nombre real en el usuario. Elige una contraseña segura. No compartas tu contraseña (excepto con padres/tutores).*
+    *   **Fecha de nacimiento:** Para personalizar tu experiencia según tu edad.
+    *   **Género (Opcional):** Para personalizar tu avatar.
+    *   **Correo electrónico (o de tus padres si <13):** Para recuperar tu contraseña, verificar tu cuenta o activar funciones. Es clave para la seguridad. Puedes cambiarlo cuando quieras.
+    *   **Número de teléfono (Opcional, para 13+ años):** Para seguridad (recuperar contraseña, iniciar sesión) y, *si das tu permiso*, para encontrar amigos en Roblox usando tus contactos. Si no quieres esto, no actives la función. *No pedimos teléfono a menores de 13.*
+
+2.  **Al Hacer Compras (Robux, Suscripciones):**
+    *   Necesitamos información de facturación (nombre, dirección, datos de contacto, datos de pago como tarjeta de crédito).
+    *   **Importante:** Empresas externas especializadas (como PayPal, etc.) procesan los pagos. Ellos tienen sus propias políticas de privacidad. Pueden guardar tu información de pago para resolver problemas o facilitar futuras compras (si tú lo eliges). Roblox recibe información básica de la transacción para cumplir con la ley y por seguridad, pero *no* guarda tus datos completos de tarjeta de crédito si decides almacenarlos con el procesador de pago.
+
+3.  **Al Publicar Contenido (Chat, Foros, Comentarios, Muros):**
+    *   Puedes publicar mensajes, comentarios, etc.
+    *   **Monitoreamos y Filtramos:** Revisamos lo que publicas para asegurarnos de que cumple las reglas (Normas de la Comunidad, Términos de Uso). Si algo es inapropiado, incluye datos personales o viola las normas, podemos eliminarlo o modificarlo.
+    *   **Uso para mejorar:** Podemos usar el contenido (ya filtrado y anónimo cuando sea posible) para entrenar nuestros sistemas de seguridad y mejorar la experiencia.
+    *   **Chat de Voz (si tienes 13+ años):** Si usas el chat de voz, grabamos y revisamos las conversaciones por seguridad (detectar abusos, etc.). En algunas regiones y con tu permiso, podríamos usar grabaciones para mejorar el servicio (esto no se hace con grabaciones de servidores privados de usuarios en Europa o Brasil).
+
+4.  **Al Pedir Ayuda o Soporte Técnico:**
+    *   Si contactas a Atención al Cliente, reportas un problema o haces preguntas, recopilamos tu correo (o el de tus padres si <13), nombre de usuario y los detalles que nos des para poder ayudarte. Guardamos un registro temporal de estas consultas.
+
+5.  **Al Usar Funciones Específicas de Roblox:**
+    *   **Conexión con Redes Sociales (si tienes 13+ años):** Puedes conectar tu cuenta de Roblox con redes sociales (Google, Facebook, etc.). Si lo haces, podríamos acceder a info de tu red social, y tu actividad en Roblox podría compartirse allí. Aplican las políticas de esas redes.
+    *   **Servicios de Ubicación (si tienes 13+ años y lo permites):** Si activas esta función, recopilamos tu ubicación *general* (país/región, ¡no tu dirección exacta!) para ofrecerte contenido relevante (juegos, anuncios). Puedes desactivarlo en la configuración de tu dispositivo.
+    *   **Realidad Virtual (RV):** Si juegas en RV, recopilamos datos de tu movimiento físico *solo* para que tu avatar se mueva igual en el juego. No guardamos esta información.
+    *   **Uso de Cámara o Subir Fotos/Videos (si tienes 13+ años y usas estas funciones):** Si usas funciones que necesitan tu cámara (ej: para animar tu avatar) o subes contenido con tu imagen, procesamos esa información solo el tiempo necesario para que la función opere. Revisa las políticas específicas de cada función (ej: Animación Facial).
+    *   **Importador de Contactos (si tienes 13+ años y lo activas):** Si das permiso, compartes los nombres y números de tus contactos con Roblox para encontrar amigos que ya usan la plataforma. Solo guardamos la info si encontramos coincidencias.
+    *   **Unirte a Eventos de Creadores (si tienes 13+ años):** Si participas en un evento virtual, tu nombre de usuario, correo o ID de Roblox podrían compartirse con el organizador para que puedas entrar. Aplican las políticas del organizador y las normas de Roblox.
+
+6.  **Al Interactuar con Juegos y Experiencias:**
+    *   Recopilamos información sobre cómo juegas para:
+        *   Detectar trampas o violaciones a las reglas.
+        *   Mejorar la seguridad.
+        *   Recomendarte juegos similares.
+        *   Si compras o intercambias ítems virtuales (UGC), compartimos tu usuario y detalles de la transacción con el creador.
+        *   Usamos cookies (ver sección abajo).
+
+7.  **Al Participar en Concursos, Promociones o Encuestas:**
+    *   Si participas, podríamos pedirte datos de contacto (nombre, correo, teléfono) para entregarte premios o descuentos.
+    *   Si participas en encuestas, podríamos preguntarte sobre tus gustos, intereses y opiniones.
+
+8.  **Para Publicidad:**
+    *   Usamos información como tu dirección IP, tipo de navegador, ubicación general o nombre de usuario para mostrar anuncios *sobre Roblox* a usuarios nuevos o existentes.
+    *   Si creas una Cuenta de Anuncios (para promocionar tus propios juegos), pediremos más datos (nombre, correo, dirección, info fiscal).
+    *   **Importante para menores de 13:** *No* usamos tu información personal para mostrarte publicidad dirigida basada en tu comportamiento ni para marketing. Solo verás anuncios generales relacionados con el juego que estás jugando (contextuales).
+
+9.  **Si eres Desarrollador o Creador (y tienes 13+ años):**
+    *   Para participar en el programa de intercambio de dinero (Developer Exchange), necesitas enviar formularios fiscales (W-9 o W-8) y podríamos pedirte verificar tu identidad con un documento oficial a través de un tercero.
+
+10. **Otros Usos Generales de tu Información:**
+    *   Administrar tu cuenta y permitirte actualizar tu configuración.
+    *   Comunicarnos contigo sobre cambios o noticias importantes del servicio.
+    *   Mejorar Roblox, investigar nuevas tecnologías.
+    *   Dar soporte técnico.
+    *   Mantener la plataforma segura, detectar fraudes o actividades ilegales.
+    *   Corregir errores.
+    *   Cumplir con la ley y nuestros Términos de Uso.
+
+**Importante:** No estás obligado a dar tu información personal, pero si no lo haces, es posible que no puedas usar algunas funciones o servicios de Roblox.
+
+---
+
+**Cookies y Tecnologías Similares**
+
+Como casi todos los sitios web, usamos "cookies" y tecnologías parecidas para mejorar tu experiencia.
+
+*   **¿Qué son las Cookies?** Pequeños archivos de texto que se guardan en tu computador o dispositivo cuando visitas un sitio. Ayudan a recordar tus preferencias (como idioma o inicio de sesión) para que no tengas que ponerlas cada vez. Algunas se borran al cerrar el navegador (de sesión), otras duran más (persistentes).
+*   **¿Para qué las usamos?**
+    *   Para reconocerte y personalizar tu visita.
+    *   Recordar tus preferencias y datos de inicio de sesión (por comodidad y seguridad).
+    *   Entender cómo usas Roblox (qué juegos juegas, qué funciones usas).
+    *   Recolectar información técnica de tu dispositivo (tipo de navegador, sistema operativo, dirección IP general) para que todo funcione bien y por seguridad.
+    *   Detectar actividades sospechosas (fraudes).
+    *   Recolectar información general (edad, ubicación aproximada).
+*   **Publicidad de Terceros:** Trabajamos con empresas de publicidad. Si llegas a Roblox por un anuncio, podríamos compartir identificadores de tu dispositivo (como la IP) con ellas para medir la efectividad de los anuncios *sobre Roblox*.
+    *   **Menores de 13 años:** Solo ven anuncios contextuales (basados en el juego) y limitamos cuántos ven. *No* mostramos anuncios basados en su comportamiento en otros sitios (targeting) ni anuncios para que terminen una compra (retargeting).
+*   **Tus Opciones sobre Cookies:**
+    *   Puedes administrar tus preferencias de cookies haciendo clic en el enlace "Preferencias de Cookies" (o similar) en el pie de página del sitio web de Roblox.
+    *   También puedes cambiar la configuración de tu navegador (Chrome, Firefox, Safari, etc.) para bloquear o eliminar cookies. Busca las instrucciones en la ayuda de tu navegador.
+    *   **Importante:** Si bloqueas las cookies, algunas partes de Roblox podrían no funcionar bien.
+*   **Señales de "No Rastrear" (Do Not Track - DNT):** Nuestros servicios actualmente no responden a estas señales de los navegadores.
+
+---
+
+**Cómo Compartimos tu Información**
+
+A veces necesitamos compartir tu información personal, pero siempre cuidando tu privacidad.
+
+1.  **Con Empresas que nos Ayudan (Proveedores de Servicios):**
+    *   Compartimos información con empresas que nos prestan servicios específicos, como:
+        *   Procesamiento de pagos.
+        *   Seguridad y detección de fraudes.
+        *   Análisis de cómo se usa Roblox.
+        *   Moderación de contenido.
+        *   Atención al cliente.
+        *   Hosting (alojamiento de servidores).
+    *   Estas empresas *solo* pueden usar tu información para la tarea que les pedimos y deben protegerla. No pueden venderla ni usarla para otros fines.
+
+2.  **Con Creadores de Juegos/Contenido:**
+    *   Los creadores de las experiencias que usas reciben tu nombre de usuario, ID de usuario, estadísticas del juego, detalles de transacciones de ítems virtuales (UGC) y tu ubicación regional general (país/región, no tu IP). Esto les ayuda a entender a sus jugadores y cumplir requisitos legales.
+
+3.  **Por Razones Legales o para Prevenir Daños:**
+    *   Si la ley nos obliga (por orden judicial, solicitud de policía, etc.).
+    *   Si creemos que es necesario para prevenir un delito.
+    *   Para proteger la seguridad pública o investigar violaciones a nuestros Términos.
+    *   Para proteger la seguridad de los usuarios de Roblox.
+    *   Para proteger nuestros derechos legales o los de otros.
+
+4.  **Para Proteger la Seguridad de Roblox:**
+    *   Si compartir información ayuda a investigar problemas de seguridad, proteger a usuarios o mantener la integridad de nuestros servicios.
+
+5.  **Si Vendemos Nuestro Negocio:**
+    *   Si Roblox se vende o fusiona con otra empresa, tu información podría transferirse al nuevo dueño. Te avisaríamos si esto ocurre y pediríamos tu permiso si la ley lo exige.
+
+6.  **Para Publicidad (si tienes 13+ años):**
+    *   Podríamos compartir identificadores (como ID de dispositivo) con empresas de publicidad para mostrarte anuncios *sobre Roblox* o medir su efectividad. Puedes controlar esto en tu configuración de privacidad. *No compartimos datos de menores de 13 para este fin.*
+
+7.  **Con Socios de Comercio (si aplica):**
+    *   Si compras productos físicos directamente a través de un socio en Roblox, podríamos intercambiar información básica de la transacción para confirmarla.
+
+8.  **Información que No te Identifica (Anónima o Agregada):**
+    *   Podemos compartir datos generales que no identifican a nadie en particular (por ejemplo, estadísticas de uso) para informes, marketing o análisis.
+
+9.  **¡Cuidado con lo que Compartes Tú Mismo!**
+    *   Si tienes 13 años o más, lo que publicas en chats públicos, foros, etc., puede ser visto por cualquiera. Sé cuidadoso con la información personal que compartes tú mismo. No somos responsables de cómo otros usen esa información.
+
+---
+
+**Cuidamos tu Información**
+
+1.  **Medidas de Seguridad:**
+    *   Usamos medidas de seguridad técnicas y organizativas para proteger tu información contra pérdida, mal uso o alteración.
+    *   Sin embargo, ninguna transmisión por internet es 100% segura. Hacemos nuestro mejor esfuerzo, pero no podemos garantizar seguridad absoluta.
+
+2.  **Notificación en Caso de Problemas:**
+    *   Si ocurre un incidente de seguridad grave que afecte tu información personal (una "violación de datos" según la ley), te notificaremos como lo exija la legislación aplicable.
+
+3.  **Cuánto Tiempo Guardamos tu Información:**
+    *   Guardamos tu información personal solo el tiempo necesario para los fines por los que la recopilamos (por ejemplo, mantener tu cuenta activa, resolver problemas de pago, cumplir obligaciones legales, seguridad).
+    *   Cuando ya no la necesitamos, la eliminamos o la hacemos anónima (para que ya no te identifique).
+    *   Algunas razones por las que podríamos necesitarla más tiempo:
+        *   Resolver disputas o problemas de facturación.
+        *   Mantener la seguridad de la plataforma.
+        *   Cumplir con leyes o defender nuestros derechos.
+        *   Si creaste contenido que ahora pertenece a otro usuario (ej: vendiste un ítem virtual).
+
+---
+
+**Dónde Guardamos tu Información (Transferencias Internacionales)**
+
+*   Roblox tiene su sede en Estados Unidos (EE.UU.).
+*   La información que recopilamos se guarda y procesa principalmente en servidores seguros en EE.UU.
+*   También podemos transferir tu información a nuestras oficinas o a los proveedores de servicios (mencionados antes) que pueden estar en otros países fuera de Chile.
+*   Las leyes de protección de datos en esos países pueden ser diferentes a las de Chile.
+*   Tomamos medidas razonables para asegurar que tu privacidad siga protegida cuando transferimos tu información fuera de Chile (por ejemplo, usando acuerdos contractuales aprobados).
+
+---
+
+**Cambios a esta Política**
+
+*   Podemos actualizar esta política de vez en cuando. Revisa esta página periódicamente. La fecha de la última actualización siempre estará al inicio.
+*   Si hacemos cambios importantes, te avisaremos (por correo electrónico si lo tenemos, o con un aviso visible en Roblox) antes de que entren en vigor.
+*   Si un cambio implica usar tu información de una forma nueva y significativa, te pediremos tu permiso (o el de tus padres si <13) si la ley lo requiere.
+
+---
+
+**Tus Derechos sobre tu Información Personal (Para Usuarios en Chile)**
+
+Aunque las leyes específicas varían, generalmente tienes derechos sobre tu información personal. Puedes solicitar:
+
+1.  **Acceder a tu Información:** Preguntar qué información personal tenemos sobre ti.
+2.  **Corregir tu Información:** Pedir que corrijamos datos incorrectos o incompletos.
+3.  **Eliminar tu Información:** Solicitar que borremos tu información personal (aunque puede haber razones legales o de seguridad por las que necesitemos conservarla).
+4.  **Oponerte o Restringir el Uso:** Pedir que dejemos de usar tu información para ciertos fines (esto podría afectar tu capacidad para usar algunos servicios).
+5.  **Retirar tu Consentimiento:** Si alguna vez nos diste permiso específico para usar tu información de cierta manera, puedes retirarlo.
+
+**Cómo ejercer tus derechos:**
+
+*   La forma más sencilla es usar nuestro **Formulario de Atención al Cliente:** [https://www.roblox.com/support](https://www.roblox.com/support)
+*   **Si eres menor de 13 años,** pide a tus padres o tutores que hagan la solicitud por ti.
+*   Podríamos necesitar verificar tu identidad antes de procesar tu solicitud para proteger tu información.
+
+Responderemos a tus solicitudes según lo permitan nuestras capacidades y las leyes aplicables.

@@ -1,0 +1,182 @@
+POLÍTICA SIMPLIFICADA:
+
+**Política de Privacidad Simplificada de LinkedIn para Chile**
+
+**Fecha de última actualización:** 18 de septiembre de 2024
+
+**Propósito:** Esta política explica de forma sencilla cómo recopilamos, usamos, compartimos y protegemos tu información personal cuando usas los servicios de LinkedIn en Chile. Queremos que entiendas tus derechos y opciones respecto a tus datos.
+
+---
+
+**1. ¿Quiénes Somos y Qué Hacemos?**
+
+*   **LinkedIn:** Somos una red social para profesionales. Te ayudamos a encontrar trabajo, conectar con colegas, aprender nuevas habilidades y compartir conocimientos.
+*   **Usuarios:** Si tienes una cuenta, eres un "Miembro". Si solo visitas sin cuenta, eres un "Visitante". Esta política aplica a ambos.
+*   **Responsable de tus datos:** Si vives fuera de Europa, la empresa responsable de tus datos es LinkedIn Corporation (en EE.UU.). Para Europa (incluyendo Suiza y Reino Unido), es LinkedIn Ireland.
+*   **Cambios a esta política:** Si hacemos cambios importantes, te avisaremos por LinkedIn u otro medio. Si sigues usando LinkedIn después de un cambio, significa que aceptas la nueva política. Si no estás de acuerdo, puedes cerrar tu cuenta.
+
+---
+
+**2. ¿Qué Información Recopilamos Sobre Ti?**
+
+Recopilamos información para que LinkedIn funcione y te sea útil. Esto incluye:
+
+*   **Información que tú nos das directamente:**
+    *   **Al registrarte:** Tu nombre, correo electrónico o teléfono, contraseña y ciudad. Si contratas un servicio de pago (Premium), también tus datos de pago y facturación.
+    *   **Al completar tu perfil:** Tú eliges qué agregar (educación, experiencia, foto, habilidades, etc.). No es obligatorio, pero un perfil completo te ayuda a conectar y encontrar oportunidades. ¡No publiques nada que no quieras que sea público!
+    *   **Al publicar o subir contenido:** Cuando llenas formularios, respondes encuestas, subes tu CV, postulas a trabajos o publicas artículos, fotos o videos.
+    *   **Al sincronizar agendas o calendarios (si lo eliges):** Recopilamos información de tus contactos o reuniones para sugerirte conexiones o informarte sobre eventos.
+
+*   **Información que recibimos de otras personas:**
+    *   **Contenido sobre ti:** Otros pueden publicar cosas sobre ti (artículos, comentarios, etc.). También podemos recopilar información pública sobre ti (noticias profesionales) y mostrarla.
+    *   **Contactos y calendarios de otros:** Recibimos tus datos si alguien sube su agenda de contactos, sincroniza su calendario, te envía una invitación o mensaje.
+    *   **Información de nuestros socios y clientes:** Empresas (como tu empleador actual o futuro) pueden darnos información tuya si usan nuestros servicios (por ejemplo, al postular a un trabajo a través de ellos).
+    *   **Información de empresas relacionadas (como Microsoft):** Si usas servicios de Microsoft (como Outlook) y eliges conectar tu cuenta, podemos recibir información.
+
+*   **Información de tu uso de LinkedIn:**
+    *   **Actividad:** Registramos cuándo visitas LinkedIn, qué ves o en qué haces clic (contenido, anuncios, videos), tus búsquedas, cuándo instalas la app, compartes artículos o postulas a trabajos. Usamos tu inicio de sesión, información del dispositivo y dirección IP para identificarte y registrar tu actividad.
+    *   **Cookies y tecnologías similares:** Usamos cookies (pequeños archivos en tu dispositivo) y tecnologías parecidas para reconocerte entre diferentes visitas y dispositivos, y para mostrarte publicidad relevante. Tú puedes controlar el uso de cookies en tu configuración. Más detalles en nuestra Política de Cookies.
+    *   **Tu dispositivo y ubicación:** Recibimos la dirección web (URL) del sitio desde el que llegaste a LinkedIn y al que vas después. También información de tu red y dispositivo (IP, sistema operativo, navegador, etc.). Si usas la app móvil, podemos recibir tu ubicación si activas esa opción en tu teléfono (te pediremos permiso antes de usar tu ubicación exacta por GPS).
+    *   **Comunicaciones:** Recopilamos información cuando te comunicas con otros a través de LinkedIn (mensajes, invitaciones, etc.). Usamos sistemas automáticos para proteger la plataforma y sugerir respuestas, bloqueando contenido que viole nuestras normas.
+
+*   **Información de tu empresa o centro de estudios (si aplica):**
+    *   Si tu empresa o universidad compra servicios Premium para que los uses (como LinkedIn Learning), nos pueden dar datos sobre ti para habilitar tu acceso.
+
+*   **Información de sitios y servicios de terceros:**
+    *   Si visitas otros sitios que usan nuestros anuncios, cookies o botones (como "Solicitar con LinkedIn"), o si inicias sesión en otros servicios usando tu cuenta de LinkedIn, recibimos información sobre esas visitas.
+
+*   **Otra información:**
+    *   Como siempre estamos mejorando LinkedIn, podemos introducir funciones que requieran nueva información. Si los cambios son grandes, te avisaremos y actualizaremos esta política.
+
+---
+
+**3. ¿Cómo Usamos Tu Información?**
+
+Usamos tus datos para ofrecerte, personalizar y mejorar nuestros servicios. El uso depende de los servicios que uses y tu configuración.
+
+*   **Para conectar y mantenerte informado:**
+    *   Te ayudamos a encontrar y conectar con colegas y otros profesionales.
+    *   Usamos tu perfil y actividad para sugerirte contactos y mostrar tu perfil a otros.
+    *   Te mostramos noticias, eventos e ideas relevantes para ti.
+    *   Te sugerimos habilidades o cursos que podrían interesarte.
+    *   Te enviamos notificaciones sobre tu red (si actualizas tu perfil, publicas algo, etc.), según tu configuración.
+
+*   **Para oportunidades laborales:**
+    *   Te ayudamos a buscar trabajo y a que los reclutadores te encuentren.
+    *   Te recomendamos empleos basados en tu perfil y actividad.
+    *   Puedes indicar si buscas empleo y compartirlo con reclutadores.
+
+*   **Para la productividad:**
+    *   Te permitimos colaborar con colegas y encontrar clientes o socios.
+    *   Puedes comunicarte y organizar reuniones. Usamos herramientas automáticas para facilitar tareas (como resumir mensajes o programar reuniones), si tu configuración lo permite.
+
+*   **Para Servicios Premium (de pago):**
+    *   Ayudamos a usuarios de pago (reclutadores, vendedores) a buscar y contactar miembros, gestionar candidatos o promover contenido.
+    *   Pueden exportar información *limitada* de tu perfil (nombre, cargo, ubicación general), pero no tu información de contacto sin tu permiso (puedes controlar esto en tu configuración).
+    *   Si tu empresa te da acceso a un servicio Premium, pueden ver *cómo* usas *ese* servicio específico, pero no tus búsquedas de empleo personales ni tus mensajes privados.
+
+*   **Para comunicarnos contigo:**
+    *   Te contactamos por email, notificaciones en la app, mensajes en LinkedIn, etc., sobre el servicio, seguridad, sugerencias o promociones. Puedes controlar la mayoría de estas comunicaciones en tu configuración, pero no los avisos legales o de seguridad.
+    *   Facilitamos la comunicación entre miembros (invitaciones, mensajes, grupos).
+
+*   **Para publicidad:**
+    *   Te mostramos anuncios (llamados "contenido patrocinado") dentro y fuera de LinkedIn, basados en tus datos (perfil, actividad, cookies, etc.).
+    *   Puedes controlar qué tipo de publicidad personalizada ves en tu configuración, pero no puedes desactivar todos los anuncios (verás anuncios generales).
+    *   **Importante:** No compartimos tu información personal *identificable* con anunciantes sin tu permiso directo (excepto identificadores técnicos como cookies o con tu permiso explícito, por ejemplo, si llenas un formulario de contacto para un anunciante). Si haces clic en un anuncio, el anunciante sabrá que *alguien* visitó su página.
+
+*   **Para marketing de LinkedIn:**
+    *   Usamos datos para promover el crecimiento de LinkedIn, invitando a gente a unirse o usar nuevas funciones.
+
+*   **Para mejorar LinkedIn (Desarrollo e Investigación):**
+    *   Usamos tus datos (incluyendo comentarios) para investigar y desarrollar nuevas funciones, haciendo LinkedIn más útil.
+    *   Investigamos tendencias del mercado laboral (disponibilidad de empleos, habilidades necesarias) usando datos agregados (que no te identifican personalmente). A veces trabajamos con terceros de confianza para esto, protegiendo tu privacidad.
+    *   Realizamos encuestas (opcionales) para obtener tu opinión. Puedes elegir no participar.
+
+*   **Para atención al cliente:**
+    *   Usamos tu información (como tus mensajes de ayuda) para resolver problemas o quejas.
+
+*   **Para crear datos anónimos (Estadísticas):**
+    *   Usamos tus datos para crear estadísticas generales (ej. sobre profesiones, sectores, uso de LinkedIn) que no te identifican. Por ejemplo, cuánta gente vio un anuncio o una página.
+
+*   **Para seguridad e investigaciones:**
+    *   Usamos tus datos (incluyendo comunicaciones) para proteger LinkedIn, prevenir fraudes, investigar posibles violaciones de nuestras reglas o la ley, y proteger a nuestros usuarios. Colaboramos con empresas relacionadas (como Microsoft) para esto.
+
+---
+
+**4. ¿Cómo Compartimos Tu Información?**
+
+Compartimos tu información de las siguientes maneras:
+
+*   **Dentro de los servicios de LinkedIn:**
+    *   **Tu perfil:** Es visible para otros miembros y clientes de LinkedIn. Según tu configuración, también puede ser visible fuera de LinkedIn (ej. en buscadores como Google). Tú controlas la visibilidad de ciertas partes de tu perfil.
+    *   **Tus publicaciones, comentarios, "me gusta", etc.:** Cuando compartes algo públicamente, cualquiera puede verlo y compartirlo. En grupos, la visibilidad depende de si el grupo es público o privado. Tus acciones (recomendar, seguir, comentar) pueden ser visibles para otros, asociadas a tu nombre y foto.
+    *   **Notificación de visita de perfil:** Según tu configuración, notificamos a un miembro si viste su perfil.
+    *   **Cuentas de empresa:** Si tu empresa te dio acceso a un servicio Premium, puede ver tu uso de *ese* servicio, pero no tu actividad personal como búsqueda de empleo o mensajes privados (a menos que tú lo compartas).
+
+*   **Archivo de comunicaciones (para usuarios regulados):**
+    *   Algunos profesionales (ej. asesores financieros) deben guardar sus comunicaciones por ley. Pueden usar servicios externos para archivar sus mensajes de LinkedIn.
+
+*   **Con Servicios de Terceros (si tú lo autorizas):**
+    *   Puedes conectar tu cuenta de LinkedIn con otros servicios (ej. Twitter, tu correo electrónico). Si lo haces, compartiremos la información necesaria (tu nombre, cargo, etc.) con ese servicio. Revisa la política de privacidad del otro servicio. Puedes desconectar estas cuentas cuando quieras.
+    *   Información de tu perfil o tus publicaciones puede aparecer en servicios de terceros (ej. buscadores, apps de gestión de contactos) según tu configuración de visibilidad.
+
+*   **Con Empresas Relacionadas (Grupo LinkedIn/Microsoft):**
+    *   Compartimos información con nuestras empresas afiliadas (como Microsoft) para ayudar a operar y mejorar nuestros servicios y los suyos. Podemos combinar información entre servicios (ej. usar tu historial de aprendizaje para personalizar tu feed).
+
+*   **Con Proveedores de Servicios:**
+    *   Usamos otras empresas para que nos ayuden con tareas como mantenimiento, análisis, pagos, seguridad, marketing, etc. Tienen acceso limitado a tu información, solo para hacer su trabajo, y están obligados a protegerla.
+
+*   **Por Requerimientos Legales:**
+    *   Podemos compartir tu información si la ley nos obliga (ej. por una orden judicial) o si creemos de buena fe que es necesario para: investigar actividades ilegales, cumplir nuestros contratos contigo, defendernos de reclamos, proteger la seguridad de LinkedIn o proteger los derechos y seguridad de LinkedIn, nuestros usuarios u otros. Intentaremos notificarte si nos piden tus datos, a menos que la ley lo prohíba.
+
+*   **En caso de Venta o Cambio de Control de la Empresa:**
+    *   Si LinkedIn se vende o fusiona, podemos compartir tus datos con el nuevo dueño. El nuevo dueño deberá seguir usando tus datos según esta política, a menos que tú aceptes otra cosa.
+
+---
+
+**5. Tus Opciones y Responsabilidades**
+
+Tú tienes control sobre tu información personal:
+
+*   **Conservación de Datos (Cuánto tiempo guardamos tu info):**
+    *   Guardamos tus datos mientras tu cuenta esté activa o sea necesario para darte el servicio. Aunque uses LinkedIn poco, mantenemos tu perfil activo a menos que lo cierres.
+    *   Después de cerrar tu cuenta, podemos guardar algunos datos si es necesario por ley, seguridad, prevención de fraude, resolver disputas o cumplir con nuestras obligaciones. También guardaremos información anónima (que no te identifica).
+
+*   **Tus Derechos sobre tus Datos Personales:**
+    *   **Acceder:** Puedes pedir una copia de tus datos personales.
+    *   **Corregir o Cambiar:** Puedes editar tu información directamente en tu perfil o pedirnos que la corrijamos si es incorrecta.
+    *   **Eliminar:** Puedes pedirnos que borremos parte o toda tu información personal (ej. si ya no la necesitamos).
+    *   **Limitar u Oponerte al Uso:** Puedes pedirnos que dejemos de usar tus datos para ciertos fines o que limitemos cómo los usamos (ej. si crees que no tenemos derecho a usarlos).
+    *   **Obtener tus Datos (Portabilidad):** Puedes pedir una copia de los datos que nos diste en un formato digital común.
+    *   **¿Cómo ejercer tus derechos?** Puedes hacerlo a través de la Configuración de tu cuenta o contactándonos (ver sección 7).
+
+*   **Cierre de Cuenta:**
+    *   Si cierras tu cuenta, tu perfil dejará de ser visible en LinkedIn (normalmente en 24 horas) y borraremos tus datos (normalmente en 30 días), salvo las excepciones mencionadas en "Conservación de Datos".
+    *   La información que compartiste con otros (mensajes, publicaciones en grupos) puede seguir visible después de cerrar tu cuenta. El contenido en grupos puede aparecer como de un "usuario desconocido".
+
+---
+
+**6. Otra Información Importante**
+
+*   **Seguridad:**
+    *   Tomamos medidas para proteger tus datos (como encriptación HTTPS y monitoreo constante), pero ninguna seguridad es 100% infalible. No podemos garantizar totalmente la seguridad de tu información.
+    *   Te recomendamos usar las opciones de seguridad que ofrecemos, como la verificación en dos pasos.
+
+*   **Transferencia Internacional de Datos:**
+    *   Procesamos tus datos dentro y fuera de Chile (principalmente en EE.UU.). Las leyes de protección de datos pueden ser diferentes en otros países. Usamos mecanismos legales para asegurar que estas transferencias cumplan con la ley.
+
+*   **Base Legal para Procesar tus Datos:**
+    *   Solo recopilamos y usamos tus datos si tenemos una razón legal válida para hacerlo. Estas razones incluyen: tu consentimiento (que puedes retirar cuando quieras), la necesidad de cumplir nuestro contrato contigo (para darte el servicio de LinkedIn), y nuestros "intereses legítimos" (necesidades justificadas del negocio, siempre que no afecten tus derechos).
+
+*   **Marketing Directo y Señales "Do Not Track":**
+    *   No compartimos tus datos personales con terceros para *su* marketing directo sin tu permiso.
+    *   Actualmente, nuestros sistemas no responden a las señales "Do Not Track" de los navegadores.
+
+---
+
+**7. ¿Cómo Contactarnos?**
+
+*   Si tienes preguntas o quejas sobre esta política, primero intenta contactar a LinkedIn en línea a través de nuestro Centro de Ayuda o formularios de contacto.
+*   También puedes contactar por correo postal (la dirección está en el sitio web completo).
+*   Si vives en ciertas regiones (como Europa), tienes derecho a contactar a nuestro Delegado de Protección de Datos (DPO) en DPO@linkedin.com.
+*   Si no resolvemos tu problema, puedes tener otras opciones según las leyes de Chile.

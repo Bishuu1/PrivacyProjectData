@@ -1,0 +1,51 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada de SoloTodo
+**Fecha de última actualización:** 2 de marzo de 2025
+**Propósito:** Te explicamos de forma sencilla cómo guardamos, usamos y cuidamos tu información personal cuando usas SoloTodo.com. Queremos que entiendas qué pasa con tus datos.
+
+**1. ¿Por qué guardamos información?**
+
+Para que SoloTodo.com funcione bien y te ofrezca la mejor experiencia, necesitamos guardar algunos datos sobre quién nos visita y cómo usan el sitio. Guardamos esta información en tu navegador (cookies) y en nuestros sistemas internos (base de datos).
+
+**2. ¿Qué información tuya guardamos directamente?**
+
+Cuando usas SoloTodo, podemos guardar lo siguiente:
+
+*   **Tu ubicación y tiendas favoritas:** Para mostrarte precios y productos relevantes para tu país y las tiendas que prefieres.
+*   **Tu correo electrónico:**
+    *   Si te suscribes para recibir avisos cuando un producto cambia de precio.
+    *   Si te registras como usuario directamente en SoloTodo.
+*   **Tus datos de Facebook:** Si eliges iniciar sesión usando tu cuenta de Facebook, guardamos tu correo electrónico, nombre completo y tu ID de Facebook.
+*   **Tus cotizaciones de computadores:** Si eres usuario registrado y armas cotizaciones de PC, las guardamos en tu cuenta.
+
+**3. ¿Qué información recogen otros servicios que usamos?**
+
+Usamos algunas herramientas de otras empresas para mejorar SoloTodo. Estas empresas también pueden guardar información tuya, según sus propias reglas de privacidad. Te recomendamos leerlas también. Estas herramientas son:
+
+*   **Facebook:** Si inicias sesión con tu cuenta de Facebook.
+*   **Google:**
+    *   **AdSense:** Para mostrar publicidad en el sitio.
+    *   **Analytics:** Para entender cómo la gente usa SoloTodo (qué páginas visitan, cuánto tiempo se quedan, etc.), pero sin identificarte personalmente.
+*   **Disqus:** Para el sistema de comentarios que ves en las páginas de productos y cotizaciones.
+
+**4. ¿Cómo usamos tu información? ¡Cuidamos tu privacidad!**
+
+Tu privacidad es muy importante para nosotros. Nos comprometemos a lo siguiente:
+
+*   **No compartimos tus datos personales:** Nunca entregaremos tu información personal que te identifica (como tu correo, nombre o usuario de Facebook) a las tiendas o empresas con las que trabajamos.
+*   **Podemos enviarte correos:** Si aceptaste recibirlos, podríamos enviarte correos con ofertas o novedades. Siempre tendrás la opción de darte de baja ("desuscribirte") fácilmente en cada correo.
+*   **Analizamos datos generales:** Usamos información estadística (números, no nombres) sobre cómo se usa el sitio para mejorarlo. Esta información no permite identificar a ninguna persona en particular.
+
+**5. ¿Puedes borrar tu información y tu cuenta?**
+
+¡Sí! Si quieres que eliminemos tu cuenta o cualquier información tuya que te identifique (como tus alertas de precios o cotizaciones guardadas), puedes pedirlo.
+
+*   **Cómo solicitarlo:** Usa nuestro formulario de contacto en el sitio web.
+*   **Cuándo respondemos:** Te contestaremos en un plazo máximo de 2 días hábiles.
+
+**6. ¿Qué pasa si visitas otros sitios desde SoloTodo?**
+
+En SoloTodo encontrarás links que te llevan a tiendas online y otros sitios web. Esos sitios no son nuestros y tienen sus propias políticas de privacidad y reglas.
+
+*   **Importante:** Una vez que sales de SoloTodo.com, nosotros ya no somos responsables de cómo esos otros sitios manejan tu información. Te sugerimos revisar sus políticas si tienes dudas.

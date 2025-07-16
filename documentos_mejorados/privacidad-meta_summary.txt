@@ -1,0 +1,181 @@
+POLÍTICA SIMPLIFICADA:
+
+**Política de Privacidad Simplificada de Meta para Chile**
+
+**Fecha de última actualización:** 14 de noviembre de 2024
+
+**Propósito:** Aquí te explicamos de forma simple cómo juntamos, usamos y cuidamos tu información personal cuando usas nuestros productos como Facebook, Instagram, Messenger y Meta Quest (si usas una cuenta Meta). Queremos que entiendas qué pasa con tu información y cómo puedes controlarla.
+
+**1. ¿Qué es esta Política y qué cubre?**
+
+*   Esta política explica qué información tuya recogemos, para qué la usamos, con quién la compartimos y por cuánto tiempo la guardamos.
+*   También te contamos cuáles son tus derechos sobre tu información.
+*   Aplica a los "Productos de Meta": Facebook, Instagram, Messenger y Meta Quest (cuando usas tu cuenta Meta).
+*   Te recomendamos leerla para que uses nuestros productos como más te acomode. Te mostramos dónde puedes ajustar tu configuración de privacidad.
+
+**2. ¿Qué información juntamos sobre ti?**
+
+Recogemos información de distintas maneras, dependiendo de cómo uses nuestros productos (por ejemplo, si publicas una foto en Instagram o vendes algo en Marketplace). Juntamos información incluso si usas partes de nuestros servicios sin tener una cuenta.
+
+**Lo que tú nos das:**
+
+*   **Al registrarte o crear tu perfil:** Tu correo, número de teléfono, edad, contraseña. Puedes añadir más cosas si quieres (foto de perfil, datos de pago).
+*   **Lo que creas y compartes:** Publicaciones, fotos, videos, comentarios, audios, mensajes (leemos el contenido solo si la ley lo permite y no si están cifrados de extremo a extremo), hashtags que usas.
+*   **Uso de cámara, galería o voz:** Si usas estas funciones (por ejemplo, para filtros o comandos de voz), recogemos la información necesaria para que funcionen. No usamos info de tu cara o cuerpo para identificarte, solo para aplicar efectos.
+*   **Compras y transacciones:** Si compras algo (ej. en Marketplace, tiendas, juegos), recogemos datos de la compra, como los de tu tarjeta de crédito (si los das), dirección de envío, etc.
+*   **Información sensible (si decides darla):** Como tus creencias religiosas, orientación sexual, ideas políticas, salud. Esta información tiene protección especial.
+
+**Tu actividad y conexiones:**
+
+*   **Cómo usas los productos:** Qué contenido ves o te gusta, en qué haces clic, qué apps o funciones usas, cuánto tiempo, cuándo y con qué frecuencia.
+*   **Tus amigos y seguidores:** Quiénes son, cómo interactúas con ellos, con quiénes más.
+*   **Tus contactos (si eliges subirlos):** Nombres, correos, teléfonos de tu agenda, si sincronizas tus contactos.
+*   **Info sobre ti de otras personas:** Cuando otros comparten una foto tuya, te etiquetan, te envían un mensaje o suben contactos donde apareces. También podemos sugerirte amigos basados en contactos en común.
+
+**Información de tus dispositivos (celular, computador, tablet, etc.):**
+
+*   **Características del dispositivo:** Tipo de aparato, sistema operativo, nivel de batería, señal, espacio disponible, tipo de navegador, apps instaladas.
+*   **Acciones en el dispositivo:** Si nuestra app está abierta, si mueves el mouse (para diferenciar humanos de bots).
+*   **Identificadores únicos:** Números que distinguen tu dispositivo de otros.
+*   **Señales del dispositivo:** GPS (si lo activas), Bluetooth, redes Wi-Fi cercanas, torres de celular.
+*   **Info de la configuración del dispositivo (si das permiso):** Acceso a cámara, fotos, ubicación GPS.
+*   **Red y conexión:** Nombre de tu operador, idioma, zona horaria, tu dirección IP (un número único para conectarte a internet), velocidad de conexión. Usamos la IP para estimar tu ubicación general aunque tengas el GPS apagado.
+*   **Rendimiento de nuestras apps:** Si funcionan bien en tu dispositivo, si hay errores.
+*   **Cookies y tecnologías similares:** Pequeños archivos en tu navegador o dispositivo que nos ayudan a darte el servicio, personalizarlo, mostrar anuncios y mantener la seguridad. Lee nuestra Política de Cookies para más detalles.
+
+**Información de socios y otros terceros:**
+
+*   **Socios comerciales:** Empresas que usan nuestras herramientas (como el Píxel de Meta en sus sitios web o apps) nos dan información sobre tu actividad fuera de nuestros productos (qué sitios visitas, qué apps usas, qué compras haces fuera de Meta, qué anuncios ves). Exigimos que tengan derecho a compartir tu información.
+*   **Otros terceros:** Fuentes públicas, colegas del sector, proveedores de datos de marketing, autoridades (si es legalmente necesario).
+
+**¿Qué pasa si no nos das cierta información?**
+Algunos datos son necesarios para usar los servicios (ej. correo para crear una cuenta). Otros son opcionales, pero si no los das, tu experiencia podría ser menos completa (ej. si no agregas amigos, no verás sus publicaciones).
+
+**3. ¿Para qué usamos tu información?**
+
+Usamos tu información para varios fines, principalmente para darte el servicio y mejorarlo. Usamos sistemas automáticos y, a veces, revisión manual por personas. En algunos casos, usamos datos anónimos o agrupados (que no te identifican).
+
+**Principales usos:**
+
+*   **Para que uses nuestros productos y personalizarlos:**
+    *   Mostrarte contenido relevante (noticias, Reels, Stories, sugerencias de amigos o grupos).
+    *   Adaptar funciones y recomendaciones según tus intereses y actividad.
+    *   Usamos la información sensible que *tú eliges* dar para esto, pero *no* para mostrarte anuncios.
+*   **Para mostrarte anuncios y contenido comercial:**
+    *   Los anuncios nos permiten ofrecer muchos de nuestros servicios gratis.
+    *   Usamos tu info (perfil, actividad, intereses que deducimos, conexiones) para mostrarte anuncios que *creemos* te pueden interesar.
+    *   **Importante:** No compartimos información que te identifique personalmente (como tu nombre o email) con los anunciantes, a menos que tú nos des permiso explícito (por ejemplo, si llenas un formulario de contacto de un anuncio).
+    *   Puedes controlar tus preferencias de anuncios en la configuración.
+*   **Para mejorar nuestros productos:**
+    *   Ver si todo funciona bien y arreglar errores.
+    *   Probar nuevas funciones.
+    *   Entender qué te gusta y qué podemos mejorar (mediante análisis de uso y encuestas).
+*   **Para usar información de ubicación (si la activas o por tu IP):**
+    *   Mostrarte cosas relevantes cerca de ti (eventos, negocios, anuncios locales).
+    *   Ayudar a proteger tu cuenta (detectando inicios de sesión extraños).
+*   **Para mantener la seguridad y protegernos:**
+    *   Verificar cuentas y actividad sospechosa.
+    *   Detectar y combatir spam, fraudes, comportamientos dañinos o ilegales.
+    *   Encontrar y solucionar infracciones a nuestras normas.
+    *   Ayudar a personas que puedan necesitar apoyo.
+*   **Para medir y analizar cómo se usan nuestros servicios (y los de socios):**
+    *   Ayudamos a negocios a entender cuánta gente ve sus anuncios o contenido y cómo interactúan (usando datos agregados o anónimos que no te identifican personalmente).
+*   **Para comunicarnos contigo:**
+    *   Enviarte notificaciones sobre tu cuenta, cambios en las políticas, mensajes de seguridad.
+    *   Responder a tus consultas.
+    *   Enviarte marketing sobre nuestros productos (si lo permites en tu configuración).
+*   **Para investigar e innovar (por el bien social):**
+    *   Apoyar investigaciones sobre bienestar social, avances tecnológicos, salud, etc. (usando datos agregados o anónimos siempre que sea posible). Por ejemplo, analizar patrones de movimiento en crisis para ayudar a organizaciones.
+
+**4. ¿Cómo y con quién compartimos tu información?**
+
+**¡Importante! No vendemos tu información personal identificable (nombre, email, etc.) a nadie.** Exigimos que los terceros con quienes compartimos información sigan reglas estrictas.
+
+**Compartimos información:**
+
+*   **Con otras personas en los Productos de Meta:**
+    *   **Tú eliges qué compartes y con quién:** Puedes configurar la privacidad de tus publicaciones, historias, etc. (Público, Amigos, etc.).
+    *   **Lo que otros pueden ver:** Tu nombre, nombre de usuario, foto de perfil (siempre públicos), tu actividad en grupos públicos, tus comentarios en publicaciones públicas, tu estado "activo" (si lo habilitas). Las personas con las que interactúas (ej. en mensajes) ven lo que les envías.
+    *   **Contenido sobre ti que otros comparten:** Otros pueden compartir fotos donde apareces, etiquetarte, mencionarte. Puedes reportar contenido si no te sientes cómodo.
+    *   **Contenido Público:** Cualquier persona (dentro o fuera de Meta, incluso sin cuenta) puede ver tu info y contenido público. Puede aparecer en buscadores (Google) o ser compartido por otros.
+*   **Con "Socios Integrados" (apps o sitios que conectas a tu cuenta Meta):**
+    *   Si usas tu cuenta de Facebook o Instagram para entrar a otra app o sitio (ej. un juego, un servicio de música), esa app puede pedir acceso a cierta información tuya.
+    *   **Qué reciben:** Información pública, tu actividad *dentro de su servicio*, datos del dispositivo. Pueden pedir permiso adicional para acceder a tu email, lista de amigos (solo los que también usan la app), etc. *Tú decides si lo apruebas*.
+    *   **Importante:** Estos socios tienen sus propias políticas de privacidad. Revisa qué hacen con tu información. Puedes administrar las apps conectadas en tu configuración.
+*   **Con Anunciantes y Socios Comerciales:**
+    *   Les damos **informes agregados** sobre el rendimiento de sus anuncios (ej. "1000 mujeres de 25-34 años en Santiago vieron tu anuncio"). *No les damos tu nombre o contacto* sin tu permiso.
+    *   Si compras algo en una tienda dentro de Instagram/Facebook, compartimos la info necesaria para la transacción (pedido, envío) con el vendedor.
+*   **Con Proveedores de Servicios:**
+    *   Empresas que nos ayudan a operar (ej. soporte técnico, análisis de datos, procesamiento de pagos, servicio al cliente, seguridad). Solo pueden usar la info para darnos el servicio contratado.
+*   **Con Proveedores de Medición y Marketing:**
+    *   Ayudan a medir la efectividad de los anuncios (con informes agregados).
+    *   Ayudan a Meta a promocionar sus propios productos fuera de Meta (puedes controlar esto).
+*   **Con las otras Empresas de Meta (ej. WhatsApp, si aplica):**
+    *   Compartimos infraestructura y tecnología para mejorar la seguridad, ofrecer funciones conectadas (ej. pagar en WhatsApp con Meta Pay), entender cómo se usan los productos globalmente y personalizar ofertas (respetando las políticas de cada producto).
+*   **Con Investigadores Externos:**
+    *   Para estudios sobre bienestar social, tecnología, etc. Usamos protecciones de privacidad y priorizamos datos agregados o anónimos.
+*   **Con Socios de IA:**
+    *   Si usas funciones de IA (como Meta AI), a veces compartimos tu pregunta (sin identificarte, a menos que incluyas tu nombre en la pregunta) con socios (como buscadores) para darte respuestas más actualizadas. Ellos tienen sus propias políticas.
+*   **Por Razones Legales o para Prevenir Daños:**
+    *   Si recibimos una solicitud legal válida (orden judicial, etc.) o si creemos que es necesario para prevenir fraudes, abusos, actividades ilegales, protegerte a ti, a otros o a nosotros. Compartimos información con autoridades (policía, gobierno) cuando la ley lo exige o permite.
+
+**5. ¿Cómo puedes controlar tu información y ejercer tus derechos?**
+
+Tienes derechos sobre tu información y herramientas para manejarla:
+
+*   **Acceder y Revisar:** Puedes ver tu información en la configuración de Facebook e Instagram (ej. Registro de Actividad).
+*   **Descargar:** Puedes solicitar una copia de tu información en un formato descargable.
+*   **Corregir:** Puedes editar la información de tu perfil y otra que hayas proporcionado.
+*   **Eliminar:**
+    *   Puedes borrar contenido específico (publicaciones, fotos, comentarios).
+    *   Puedes eliminar tu cuenta permanentemente. Al hacerlo, borraremos tu información (puede tardar hasta 90 días + tiempo adicional para copias de seguridad), a menos que necesitemos guardarla por razones legales o de seguridad. Una vez borrada, no puedes recuperarla.
+*   **Administrar Configuración:**
+    *   **Comprobación Rápida de Privacidad:** Una guía fácil para revisar quién ve tus cosas.
+    *   **Preferencias de Anuncios:** Controla los temas que usamos para mostrarte anuncios.
+    *   **Actividad fuera de Meta:** Revisa y administra la información que recibimos de otros sitios y apps.
+    *   **Configuración de Ubicación:** Controla si compartes tu ubicación precisa.
+*   **Otros Derechos:** Según la ley chilena, puedes tener derechos adicionales. Puedes contactarnos para ejercerlos.
+
+Puedes encontrar estas herramientas en la **Configuración** de Facebook e Instagram y en el **Centro de Ayuda**.
+
+**6. ¿Por cuánto tiempo guardamos tu información?**
+
+*   Guardamos tu información solo el tiempo necesario para:
+    *   Darte el servicio (ej. mantenemos tu perfil mientras tengas la cuenta).
+    *   Cumplir con obligaciones legales (ej. guardar registros de compras por temas contables).
+    *   Proteger la seguridad y prevenir daños.
+    *   Resolver disputas o investigaciones.
+*   El tiempo exacto varía. Por ejemplo, los mensajes efímeros duran muy poco, mientras que la información de tu cuenta se guarda hasta que la elimines.
+*   Aunque borres tu cuenta, podemos necesitar guardar cierta información por más tiempo si hay una razón legal o de seguridad válida (ej. una investigación en curso, una orden judicial).
+
+**7. ¿Cómo transferimos tu información a otros países?**
+
+*   Somos una empresa global, así que tu información puede ser transferida y almacenada en servidores o compartida con socios y proveedores en otros países, incluyendo Estados Unidos e Irlanda.
+*   Esto es necesario para poder ofrecerte el servicio a nivel mundial y mejorarlo.
+*   Cuando transferimos tu información fuera de Chile, usamos mecanismos legales aprobados (como cláusulas contractuales estándar) y medidas de seguridad (como cifrado) para protegerla.
+
+**8. ¿Cómo respondemos a solicitudes legales y prevenimos daños?**
+
+*   Accedemos, guardamos y compartimos tu información si recibimos una solicitud legal válida (como una orden de un juez, una citación de la fiscalía).
+*   También lo hacemos si creemos de buena fe que es necesario para:
+    *   Cumplir con la ley.
+    *   Detectar, prevenir o abordar fraudes, abusos, infracciones a nuestras normas o actividades ilegales.
+    *   Protegernos a nosotros, a ti o a otros (incluyendo en emergencias).
+*   Podemos guardar información por más tiempo si es relevante para una investigación o un proceso legal.
+
+**9. ¿Cómo sabrás si esta Política cambia?**
+
+*   Te avisaremos antes de hacer cambios importantes a esta política.
+*   Tendrás la oportunidad de revisar la versión actualizada antes de decidir si sigues usando nuestros productos.
+
+**10. ¿Cómo puedes contactarnos si tienes dudas?**
+
+*   Puedes encontrar más información en los Centros de Ayuda de Facebook e Instagram.
+*   Si tienes preguntas sobre esta política o tu privacidad, puedes contactarnos online a través de los formularios de ayuda o por correo postal a:
+
+    Meta Platforms, Inc.
+    ATTN: Privacy Operations
+    1601 Willow Road
+    Menlo Park, CA 94025, USA
+
+También puedes contactar a la autoridad de protección de datos de Chile si tienes alguna queja.

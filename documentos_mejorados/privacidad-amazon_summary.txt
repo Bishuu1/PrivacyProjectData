@@ -1,0 +1,118 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada de Amazon para Chile
+**Fecha de última actualización:** 14 de febrero de 2025
+**Propósito:** Aquí te explicamos de forma sencilla cómo recopilamos, usamos y protegemos tu información personal cuando usas los servicios de Amazon en Chile. Queremos que confíes en que cuidamos tus datos. Usar Amazon significa que aceptas estas prácticas.
+
+---
+
+**1. ¿Qué Información Personal Recopilamos sobre Ti?**
+
+Para ofrecerte y mejorar nuestros productos y servicios, necesitamos recopilar ciertos datos. Lo hacemos de tres maneras:
+
+*   **La información que tú nos entregas:** Son los datos que nos das directamente al usar Amazon. Por ejemplo:
+    *   Tu nombre, dirección y teléfono al crear una cuenta o hacer un pedido.
+    *   Tu información de pago al comprar algo.
+    *   Tu edad o ubicación.
+    *   Reseñas de productos, correos electrónicos que nos envías o listas de deseos.
+    *   *Puedes elegir no darnos cierta información, pero quizás no puedas usar algunas funciones de Amazon.*
+
+*   **Información que recopilamos automáticamente:** Obtenemos ciertos datos de forma automática cuando usas nuestros sitios web, aplicaciones o dispositivos. Por ejemplo:
+    *   Cómo navegas e interactúas con nuestros servicios y productos.
+    *   Información de tu dispositivo o navegador (como tu dirección IP).
+    *   Usamos "cookies" y otros identificadores para reconocerte y mejorar tu experiencia (más sobre esto abajo).
+    *   En nuestras tiendas físicas, podemos usar cámaras y sensores para entender cómo te mueves e interactúas con los productos.
+
+*   **Información de otras fuentes:** A veces recibimos información tuya de terceros. Por ejemplo:
+    *   Información actualizada de dirección de las empresas de transporte para facilitar tus entregas.
+    *   Datos de empresas con las que colaboramos (como tarjetas de crédito compartidas).
+
+**2. ¿Para Qué Usamos Tu Información Personal?**
+
+Usamos tus datos para operar, entregar, desarrollar y mejorar los servicios que te ofrecemos. Esto incluye:
+
+*   **Para entregar productos y servicios:** Tomar tus pedidos, enviarlos, procesar pagos y comunicarnos contigo sobre ellos y ofertas.
+*   **Para mejorar nuestros servicios:** Hacer que Amazon funcione mejor, analizar su rendimiento, corregir errores y que sea más fácil de usar.
+*   **Para personalizar tu experiencia:** Recomendarte productos o funciones que te puedan gustar y adaptar Amazon a tus preferencias.
+*   **Para servicios de voz, imagen y cámara:** Si usas servicios como Alexa, usamos tu voz, imágenes o videos para responder a tus peticiones y mejorar el servicio.
+*   **Para cumplir con la ley:** A veces necesitamos tus datos para cumplir obligaciones legales, como verificar la identidad de los vendedores.
+*   **Para comunicarnos contigo:** Enviarte mensajes sobre los servicios de Amazon por diferentes vías (teléfono, email, chat).
+*   **Para mostrarte publicidad:** Presentarte anuncios de productos o servicios de Amazon que podrían interesarte. *Importante: No usamos información que te identifique personalmente (como tu nombre o email) para mostrarte estos anuncios basados en intereses.*
+*   **Para prevenir fraudes y riesgos:** Proteger tu seguridad, la de Amazon y la de otros, detectando fraudes o abusos. También podemos evaluar riesgos crediticios.
+
+**3. Sobre Cookies y Otros Identificadores**
+
+Usamos "cookies" (pequeños archivos de datos) y otros identificadores parecidos. Esto nos ayuda a:
+*   Reconocer tu navegador o dispositivo.
+*   Ofrecerte y mejorar los servicios de Amazon.
+*   Personalizar tu experiencia.
+
+Si quieres saber más detalles sobre las cookies y cómo las usamos, puedes leer nuestro Aviso de Cookies.
+
+**4. ¿Compartimos Tu Información Personal?**
+
+Tu información es importante para nosotros y **no vendemos tus datos personales a nadie.** Solo compartimos tu información en estas situaciones específicas y siempre cuidando tu privacidad:
+
+*   **Con empresas que ofrecen productos/servicios en Amazon:** Si compras a un vendedor externo en Amazon, descargas una app de terceros o usas servicios de otras empresas a través de Amazon (como habilidades de Alexa), compartimos la información necesaria para esa transacción con esa empresa.
+*   **Con proveedores de servicios:** Contratamos a otras empresas o personas para que hagan ciertas tareas en nuestro nombre (como enviar paquetes, procesar pagos, analizar datos, marketing, servicio al cliente). Ellos tienen acceso a la información personal que necesitan para hacer su trabajo, pero **no pueden usarla para otros fines.**
+*   **Si vendemos o compramos negocios:** Si Amazon vende o compra alguna parte del negocio, la información de los clientes podría ser uno de los activos transferidos. Si esto ocurre, tus datos seguirán protegidos por los compromisos de esta Política de Privacidad (a menos que tú aceptes algo distinto).
+*   **Para cumplir la ley o proteger derechos:** Entregamos información si creemos que es necesario para cumplir con la ley, hacer cumplir nuestros Términos de Uso, o proteger los derechos, la propiedad o la seguridad de Amazon, nuestros usuarios u otros. Esto puede incluir intercambiar información con otras organizaciones para prevenir fraudes o reducir riesgos crediticios.
+
+*Fuera de estos casos, si fuéramos a compartir tu información con terceros, te avisaremos para que puedas decidir si estás de acuerdo o no.*
+
+**5. ¿Qué Tan Segura Está Tu Información?**
+
+Diseñamos nuestros sistemas pensando en tu seguridad y privacidad:
+
+*   **Protegemos tus datos durante la transmisión:** Usamos software y protocolos de cifrado (codificación) para proteger tu información personal cuando la envías.
+*   **Cumplimos estándares para datos de pago:** Seguimos las normas de seguridad de la industria de tarjetas de pago (PCI DSS).
+*   **Tenemos medidas de seguridad:** Mantenemos protecciones físicas, electrónicas y de procedimiento para recopilar, guardar y revelar tu información.
+*   **Verificamos tu identidad:** A veces te pediremos pruebas de identidad antes de mostrarte información personal sensible.
+*   **Tus dispositivos tienen opciones de seguridad:** Puedes configurar funciones de seguridad en tus dispositivos Amazon.
+*   **Tu responsabilidad es importante:**
+    *   Usa una contraseña única y segura para tu cuenta de Amazon.
+    *   No compartas tu contraseña.
+    *   Cierra sesión siempre que uses un computador compartido.
+
+**6. ¿Qué Pasa con la Publicidad?**
+
+*   **Anuncios de otras empresas en Amazon:** Nuestros servicios pueden incluir publicidad de terceros o enlaces a otros sitios. Esas empresas podrían recopilar información tuya si interactúas con sus anuncios o servicios. Para saber más sobre anuncios basados en intereses, lee nuestra Política de Anuncios Basados en Intereses y ajusta tus preferencias en la página de Privacidad y Preferencias en Materia de Anuncios.
+*   **Cómo usamos servicios de publicidad:** Damos a las empresas de publicidad identificadores (como una cookie o un código cifrado, **nunca tu nombre u otra información que te identifique directamente**) para que te muestren anuncios de Amazon más relevantes en otros sitios y para medir si funcionan. Por ejemplo, si ya bajaste nuestra app, podemos compartir un identificador para que no te muestren un anuncio para volver a bajarla. Puedes controlar la publicidad personalizada en la página de Privacidad y Preferencias en Materia de Anuncios.
+
+**7. ¿A Qué Información Puedes Acceder?**
+
+Puedes ver y actualizar gran parte de tu información en la sección "Mi Cuenta" de Amazon. Esto incluye:
+
+*   Tu nombre, dirección, opciones de pago.
+*   Información de tu perfil.
+*   Tu historial de compras.
+*   Configuración de tu cuenta Prime (si la tienes).
+
+**8. ¿Qué Opciones Tienes?**
+
+Tienes control sobre tu información personal:
+
+*   **Puedes elegir qué información entregar:** Como mencionamos, puedes decidir no dar ciertos datos, aunque eso podría limitar tu uso de algunos servicios.
+*   **Puedes actualizar tu información:** Puedes corregir o añadir datos en "Mi Cuenta".
+*   **Puedes controlar las comunicaciones:** Ajusta tus preferencias sobre recibir correos electrónicos o notificaciones de Amazon en tus Preferencias de Comunicación.
+*   **Puedes gestionar tus preferencias de publicidad:** Usa la página de Privacidad y Preferencias en Materia de Anuncios.
+*   **Puedes controlar las cookies:** La mayoría de los navegadores te permiten bloquear o borrar cookies. Sin embargo, si bloqueas nuestras cookies, algunas funciones de Amazon (como el carrito de compras) podrían no funcionar. Lee nuestro Aviso de Cookies para más detalles.
+*   **Puedes gestionar recomendaciones e historial:** Puedes administrar tus recomendaciones de productos y tu historial de navegación en tu cuenta.
+*   **Puedes ajustar permisos en tus dispositivos:** Puedes cambiar los permisos que das a las apps o dispositivos (por ejemplo, acceso a la ubicación o contactos) en la configuración del propio dispositivo.
+*   **Puedes solicitar acceso o eliminación de tus datos:** De acuerdo con la ley aplicable en Chile, podrías tener derecho a pedir acceso a tus datos personales o a solicitar que los eliminemos. Contacta a nuestro Servicio al Cliente o usa las herramientas disponibles en tu cuenta para estas solicitudes. Ten en cuenta que eliminar ciertos datos podría limitar o impedir el uso de algunos servicios.
+
+**9. ¿Pueden los Menores Usar Amazon?**
+
+Amazon no vende productos para ser comprados *por* menores de edad directamente. Vendemos productos para niños que deben ser comprados *por* adultos.
+*   Si eres menor de 18 años, solo puedes usar Amazon con la supervisión y permiso de tus padres o un tutor.
+*   No recopilamos intencionalmente información personal de niños menores de 13 años sin el consentimiento de sus padres o tutor.
+
+**10. Condiciones de Uso, Avisos y Cambios**
+
+*   Al usar los servicios de Amazon, aceptas esta Política de Privacidad y nuestras **Condiciones de Uso**. Cualquier problema relacionado con la privacidad se resolverá según lo establecido en esos documentos.
+*   Si tienes dudas sobre tu privacidad en Amazon, por favor contacta a nuestro **Servicio al Cliente** con una descripción detallada.
+*   Nuestro negocio cambia constantemente, y esta Política de Privacidad también puede cambiar. Te recomendamos revisar nuestro sitio web con frecuencia para ver las actualizaciones.
+*   *Importante:* Aunque la política cambie, no modificaremos nuestras prácticas de forma que protejan menos los datos que ya hemos recopilado en el pasado, sin antes obtener el consentimiento de los clientes afectados.
+
+---
+*Nota: Esta es una versión simplificada. Para todos los detalles legales, consulta la Política de Privacidad completa y las Condiciones de Uso en el sitio web de Amazon.*

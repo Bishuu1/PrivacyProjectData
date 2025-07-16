@@ -1,0 +1,115 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada - Universidad de Chile
+**Fecha de última actualización:** 13 de enero de 2021
+**Propósito:** Te explicamos de forma clara cómo recopilamos, usamos y protegemos tu información personal cuando usas los portales y sistemas de la Universidad de Chile.
+
+---
+
+**1. ¿Qué es esta política y por qué es importante?**
+
+*   Esta es la Política de Privacidad de la Universidad de Chile ("la U"). Aquí te contamos cómo manejamos la información y los datos personales de quienes usan nuestros portales y sistemas online (como sitios web, U-Campus, U-Cursos, etc.).
+*   **Al usar cualquiera de nuestros portales, aceptas esta política.** Queremos que entiendas cómo cuidamos tu privacidad.
+
+**2. ¿A quién aplica esta política?**
+
+*   A todas las personas que usan nuestros portales y nos entregan sus datos, como:
+    *   Estudiantes
+    *   Académicos(as)
+    *   Personal de colaboración (funcionarios/as)
+    *   Proveedores
+    *   Pacientes (en servicios de salud de la U)
+    *   Cualquier otra persona que entregue sus datos.
+*   También aplica a las personas dentro y fuera de la U que trabajan con estos datos (académicos/as, funcionarios/as, empresas externas contratadas).
+
+**3. Nuestro Compromiso: Proteger tu Información**
+
+*   Nos tomamos muy en serio tu privacidad. Cumplimos con la ley chilena, especialmente la Ley N°19.628 sobre Protección de la Vida Privada y la Constitución (Artículo 19 N°4).
+*   **Confidencialidad:** Tomamos medidas para mantener tu información segura y evitar que sea vista por personas no autorizadas.
+*   **Integridad:** Protegemos tus datos para que no sean alterados sin permiso.
+*   **Reserva:** Quienes trabajan con tus datos (personal de la U o externos) tienen la obligación de mantenerlos en secreto, incluso si dejan de trabajar con nosotros.
+*   **Uso Correcto:** Usamos tus datos solo para los fines permitidos por la ley y te informamos para qué los necesitamos. Evitamos usarlos mal, alterarlos o entregarlos a terceros sin justificación legal.
+*   **Terceros:** Si contratamos a una empresa externa para que maneje datos (por ejemplo, para un servicio específico), les exigimos por contrato que mantengan la confidencialidad y seguridad de tu información, usándola solo para lo que se les pidió.
+*   **Importante:** No somos responsables si tú compartes tus datos personales en espacios públicos de nuestros portales (como foros).
+
+**4. ¿Qué información recolectamos y por qué? (Recopilación y Almacenamiento)**
+
+*   Recolectamos los datos personales que nos entregas a través de nuestras plataformas o sistemas.
+*   **Finalidad Clara:** Siempre te informaremos en cada plataforma para qué usaremos tus datos. Solo los usaremos para cumplir esos fines específicos y dentro de lo que la ley nos permite (Ley N°19.628, Art. 20).
+*   **Tu Permiso es Clave:** Si quisiéramos usar tus datos para algo diferente a lo informado originalmente, te pediremos tu permiso explícito (consentimiento) antes de hacerlo.
+*   **Almacenamiento:** Guardamos tus datos de forma segura para que nuestras plataformas funcionen correctamente y podamos mantenerlas.
+
+**5. ¿Cómo usamos tu información? (Uso de la Información)**
+
+*   **Tiempo Limitado:** Guardamos tus datos personales solo durante el tiempo necesario para cumplir el propósito por el cual los recolectamos o para prestarte el servicio.
+*   **No Publicamos Datos Personales:** Generalmente, no publicamos tu información personal en nuestros sitios web. Las excepciones son:
+    *   Información del directorio de académicos(as).
+    *   El directorio telefónico interno (páginas blancas).
+    *   Información que tú nos autorices expresamente a publicar.
+*   **Información No Identificable:** Podemos usar datos generales (que no permiten identificarte personalmente) para informar a organismos del Estado si nos lo solicitan legalmente.
+
+**6. Uso para Estadísticas**
+
+*   Podemos usar los datos recolectados para hacer estadísticas (por ejemplo, cuántos usuarios visitan una página).
+*   **Siempre Anónimo:** Cuando usamos datos para estadísticas, nos aseguramos de que no sea posible identificar a ninguna persona en particular.
+
+**7. ¿Compartimos tu información con otros? (Comunicación a Terceros)**
+
+*   Podemos compartir tus datos personales con terceros solo en casos específicos y cumpliendo siempre la Ley N°19.628.
+*   **No siempre necesitamos tu permiso** para compartir datos en estos casos:
+    1.  **Servicios Necesarios:** Cuando necesitamos que una empresa externa nos ayude a prestar un servicio (ej. una plataforma tecnológica). Siempre nos aseguramos de que esa empresa proteja tus datos adecuadamente.
+    2.  **Datos Anónimos:** Cuando se trata de datos estadísticos o anónimos (que no te identifican).
+    3.  **Obligación Legal o Judicial:** Si una ley nos obliga, un tribunal nos lo ordena, o es necesario por seguridad nacional o interés público.
+    4.  **Investigación de Delitos:** Si un tribunal competente lo requiere mediante una orden judicial en el contexto de la investigación de un delito.
+
+**8. Tus Derechos sobre tu Información (Derechos ARCO)**
+
+*   La Ley Nº19.628 te da derechos sobre tus datos personales. Puedes, en cualquier momento:
+    1.  **Acceso:** Pedirnos información sobre qué datos tuyos tenemos.
+    2.  **Rectificación:** Solicitar que corrijamos tus datos si están incorrectos o desactualizados.
+    3.  **Cancelación (Eliminación):** Pedir que eliminemos tus datos si ya no son necesarios para el fin por el que se recolectaron, o si lo permite la ley.
+
+**9. Tus Responsabilidades como Usuario**
+
+*   Si tienes una cuenta en alguna de nuestras plataformas, es tu responsabilidad:
+    *   **Mantener en Secreto:** Guardar tus claves de acceso y contraseñas de forma segura y confidencial.
+    *   **Uso Responsable:** Eres responsable por cualquier daño que pueda causar el mal uso de tus claves, ya sea por ti o por otra persona.
+
+**10. Uso de Cookies**
+
+*   **¿Qué son?** Usamos "cookies", que son pequeños archivos que se guardan temporalmente en tu computador o celular cuando visitas nuestros sitios.
+*   **¿Para qué las usamos?**
+    *   Para analizar cómo se usan nuestros sitios (usamos Google Analytics, una herramienta de terceros).
+    *   Para mejorar el contenido y hacer más fácil tu navegación.
+    *   Para personalizar tu experiencia.
+*   **Importante:** Las cookies que usamos no guardan información que permita identificarte personalmente.
+
+**11. Cambios a esta Política**
+
+*   Podemos modificar esta Política de Privacidad cuando sea necesario.
+*   Si hacemos cambios, te informaremos (por ejemplo, publicando la nueva versión en el portal).
+*   Si sigues usando nuestros portales después de un cambio, entendemos que aceptas la nueva versión.
+*   **Aclaración:** Esta política es para informarte, no es un contrato legal entre tú y la Universidad.
+
+**12. ¿Qué pasa si no se cumple la política? (Incumplimiento)**
+
+*   Si alguien no cumple con esta política, enfrentará consecuencias:
+    *   **Estudiantes:** Pueden recibir sanciones según los reglamentos estudiantiles de la U.
+    *   **Académicos(as) y Personal de Colaboración:** Pueden enfrentar medidas disciplinarias según el Estatuto Administrativo.
+    *   **Empresas Externas:** Se aplicarán las sanciones establecidas en sus contratos.
+*   Además, pueden existir responsabilidades legales (civiles o penales) según corresponda y lo que establece la Ley N°19.628.
+
+**13. Leyes que nos Rigen**
+
+*   Esta política se basa principalmente en:
+    *   Ley N°19.628, sobre Protección de la Vida Privada.
+    *   Decreto N°779 (2000), sobre registro de bancos de datos públicos.
+    *   Reglamentos internos de la Universidad de Chile.
+
+**14. Definiciones Clave (Para que entiendas mejor)**
+
+*   **Datos Personales:** Cualquier información sobre una persona natural identificada o que se pueda identificar (ej. tu nombre, RUT, email).
+*   **Titular:** Eres tú, la persona dueña de los datos personales.
+*   **Responsable de Datos:** Es la Universidad de Chile, quien decide cómo y para qué se usan tus datos.
+*   **Plataforma o Sistema Computacional:** Son los sitios web, aplicaciones móviles, sistemas de matrícula, foros, U-Campus, U-Cursos, etc., de la U.
+*   **Cookies:** Pequeños archivos guardados en tu dispositivo para mejorar la experiencia web.

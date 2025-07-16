@@ -1,0 +1,171 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada de Kick para Chile
+**Fecha de última actualización:** 27 de Marzo de 2024
+**Propósito:** Te explicamos de forma sencilla cómo recopilamos, usamos, compartimos y protegemos tu información personal cuando usas Kick.com y nuestros servicios en Chile. Queremos que entiendas tus derechos y cómo manejamos tus datos.
+
+---
+
+**1. ¿Quiénes somos y de qué se trata este documento?**
+
+*   Somos Kick.com, una plataforma de streaming enfocada en los creadores de contenido. La empresa que opera Kick es Kick Streaming Pty Ltd ("Kick", "nosotros").
+*   Esta política explica cómo manejamos tu **información personal** (cualquier dato que te identifique o pueda relacionarse contigo) cuando usas nuestros sitios web, aplicaciones y servicios (los "Servicios").
+*   Nosotros (Kick) somos responsables de decidir cómo se usa tu información personal.
+*   Esta política no aplica a información de postulantes a trabajos o empleados de Kick.
+
+**2. ¿Qué es la información personal?**
+
+Es cualquier dato que permita identificarte directa o indirectamente. Por ejemplo, tu nombre, correo electrónico, dirección IP, o cómo usas nuestra plataforma.
+
+**3. ¿Qué información recopilamos y para qué la usamos?**
+
+Recopilamos tu información de tres maneras principales: la que tú nos das, la que recogemos automáticamente y la que obtenemos de terceros. A veces combinamos esta información para personalizar tu experiencia.
+
+**a) Información que tú nos entregas directamente:**
+
+*   **Información de Contacto:** Nombre, apellido, correo electrónico, dirección física. La usamos para comunicarnos contigo y enviarte marketing (si lo aceptas).
+*   **Información de Cuenta:** Nombre, correo, dirección, ID de usuario, información de perfil, saldos, historial de pagos y compras. La usamos para administrar tu cuenta, darte soporte y comunicarnos sobre los Servicios.
+*   **Información de Pago:** Si pagas por Servicios (suscripciones a creadores, compra de Kicks), recopilamos datos para procesar el pago (info de billetera cripto o tarjeta). Usamos procesadores externos (como Stripe) y **no guardamos directamente** números de tarjeta de crédito. Revisa la política de privacidad del procesador (ej. Stripe: https://stripe.com/privacy).
+*   **Información de Identificación:** Documentos de identidad emitidos por el gobierno, números de identificación fiscal (para creadores que retiran ganancias). Usamos proveedores externos para verificar tu identidad. Ellos solo usan esta información para ese fin.
+*   **Consultas y Comunicaciones:** Información que nos das en mensajes, chats, correos o llamadas. La usamos para responderte, investigar y mejorar nuestros servicios.
+*   **Suscripciones a Noticias y Promociones:** Correo electrónico, intereses y preferencias. Usamos esto para enviarte información sobre productos o servicios que podrían interesarte. Puedes cancelar la suscripción a correos promocionales usando el enlace "unsubscribe" al final del email. **Importante:** No puedes cancelar emails esenciales del servicio (verificación de cuenta, avisos legales, etc.).
+*   **Información de Concursos, Sorteos y Encuestas:** Datos que proporcionas al participar. La usamos para administrar estas actividades, comunicarnos contigo, investigar el mercado y mejorar nuestro negocio.
+*   **Información de Eventos:** Datos de registro, detalles de conexión. La usamos para administrar los eventos y hacer crecer nuestro negocio.
+*   **Contenido que Subes (User Content):** Archivos, documentos, videos, imágenes, comentarios, reacciones, información de tus streams (si eres streamer, como metadatos y estadísticas). Usamos esto para ofrecerte los Servicios. **¡Ojo! Mucho de este contenido, incluyendo tu perfil, es público.** Revisa la sección "Tu control sobre tu información" para más detalles.
+*   **Feedback (Comentarios):** Opiniones y calificaciones sobre los Servicios. La usamos para mejorar y para nuestras actividades de marketing.
+
+**b) Información que recopilamos automáticamente:**
+
+Cuando usas nuestros Servicios, nosotros y nuestros socios podemos recoger automáticamente:
+
+*   **Datos de Registro (Log Data):** Dirección IP, sistema operativo, tipo de dispositivo, tipo de navegador, URL de entrada y salida, fecha/hora de visita, tiempo en el sitio, errores. Información técnica sobre tu conexión y uso.
+*   **Datos de Analítica:** Cómo navegas por nuestros Servicios (qué páginas visitas, en qué haces clic), zona horaria, historial de uso. Nos ayuda a entender cómo usas Kick y a mejorarlo.
+*   **Datos de Ubicación:** Ubicación general derivada de tu dirección IP.
+*   **Datos de Cookies y Tecnologías Similares:** Pequeños archivos (cookies) y tecnologías parecidas (web beacons, pixels) que se guardan en tu dispositivo. Nos ayudan a reconocerte, analizar tu uso y mostrarte publicidad relevante. Revisa la sección "Tu control sobre tu información" para gestionarlas.
+
+**c) Información que recibimos de terceros:**
+
+También obtenemos información tuya desde otras fuentes:
+
+*   **Otras Empresas Kick:** Empresas relacionadas con Kick pueden compartir información para operar los Servicios y comunicarnos contigo.
+*   **Otros Usuarios:** Personas que interactúan con tus streams o contenido.
+*   **Redes Sociales:** Si conectas tu cuenta de Kick con redes sociales (Facebook, Google, Twitter) o interactúas con nosotros allí ("Me Gusta", seguir), podemos recibir información que tú permites compartir (perfil, foto, nombre de usuario, etc.), según tu configuración de privacidad en esa red social. **Revisa siempre tus ajustes de privacidad en esas plataformas.**
+*   **Proveedores de Servicios:** Empresas que nos ayudan (verificación de identidad, procesamiento de pagos, marketing, encuestas, tecnología). Pueden compartir información tuya con nosotros.
+*   **Socios Comerciales:** Empresas que ofrecen productos/servicios en Kick.
+*   **Servicios de Autenticación:** Si inicias sesión con Google, Facebook o Apple, nos comparten información (nombre, email, etc.) según sus políticas y tu configuración.
+*   **Otras Fuentes:** Información pública, proveedores de datos, socios de marca, o a través de fusiones/adquisiciones.
+
+**d) Información Agregada o Anonimizada:**
+
+Podemos usar información que ha sido modificada para que no pueda identificarte. Esta información no está cubierta por esta política.
+
+**e) Otros usos de tu información personal:**
+
+Además de lo anterior, usamos tu información para:
+
+*   Cumplir con el motivo por el cual nos diste la información (ej. entregar un servicio).
+*   Gestionar nuestra organización día a día.
+*   Verificar tu identidad cuando nos contactas.
+*   Registrarte y darte acceso a eventos.
+*   Comunicarnos contigo por email, mensaje, redes sociales, etc.
+*   Pedirte que completes encuestas.
+*   Marketing y publicidad (con tu permiso o si aplica la regla "soft opt-in").
+*   Administrar, mejorar y personalizar los Servicios.
+*   Procesar pagos.
+*   Dar soporte al cliente.
+*   Analizar cómo se usan nuestros Servicios.
+*   Investigar y desarrollar mejoras.
+*   Probar y monitorear los Servicios, arreglar problemas técnicos.
+*   Mantener la seguridad de nuestra propiedad, Servicios y negocio.
+*   Hacer cumplir nuestros Términos de Uso, resolver disputas y proteger nuestros derechos y los de terceros.
+*   Prevenir e investigar fraudes o actividades ilegales.
+*   Cumplir con obligaciones legales y contractuales.
+*   Cualquier otro propósito para el que des tu consentimiento.
+
+**4. ¿Cómo compartimos tu información personal?**
+
+Podemos compartir tu información con:
+
+*   **Otras Empresas Kick:** Para colaborar en la prestación de los Servicios.
+*   **Proveedores de Servicios:** Empresas que nos ayudan con atención al cliente, comunicaciones, hosting web, pagos, análisis, etc.
+*   **Otros Usuarios y el Público:** Tu información de perfil pública y cualquier contenido que decidas hacer público (como comentarios o streams).
+*   **Proveedores de Concursos y Encuestas:** Para administrar estas actividades.
+*   **Redes de Publicidad y Socios:** Para mostrarte publicidad personalizada en nuestros Servicios y otros sitios. Usan cookies y tecnologías similares (ver sección siguiente).
+*   **En caso de Transacción Comercial:** Si Kick se fusiona, vende o reorganiza, tu información podría transferirse como parte del negocio.
+*   **Por Obligaciones Legales y Derechos:** Con asesores legales, autoridades policiales, etc., si es necesario para cumplir la ley, defender derechos, prevenir fraudes o proteger la seguridad.
+*   **Con tu Consentimiento:** Compartiremos tu información con otros si tú nos das permiso específico (ej. publicar tu testimonio).
+
+**5. Publicidad online y recopilación de datos por terceros**
+
+*   Participamos en **publicidad basada en intereses**. Esto significa que nosotros y socios publicitarios (redes de publicidad, redes sociales) recopilamos información sobre tu uso de nuestros Servicios a lo largo del tiempo y en diferentes dispositivos (usando cookies, identificadores de publicidad como AdID, etc.).
+*   Esta información (qué navegas, qué clics haces, ubicación general) se usa para mostrarte anuncios más relevantes para tus intereses, tanto en Kick como en otros sitios/apps.
+*   Podemos compartir un identificador único (como tu correo electrónico "hasheado" - codificado para protegerlo) con estos socios para reconocerte en distintos dispositivos.
+*   También usamos servicios de terceros (como plataformas de redes sociales) para mostrarte anuncios dirigidos a ti o a grupos con intereses similares en esas plataformas.
+*   Usamos herramientas como **Google Analytics** para entender cómo usas nuestros Servicios y personalizar anuncios. Puedes controlar parte de esto a través de la configuración de anuncios de Google y herramientas de opt-out (ver sección "Tu control sobre tu información").
+
+**6. Tu control sobre tu información y tus derechos**
+
+Tienes varias opciones para controlar tu información:
+
+*   **Acceder a tu información:** Puedes pedir una copia de la información personal que tenemos sobre ti contactando a privacy@kick.com. Podríamos necesitar verificar tu identidad.
+*   **Corregir (Rectificar) tu información:** Si tu información es incorrecta o incompleta, puedes pedir que la corrijamos contactando a privacy@kick.com.
+*   **Eliminar (Borrar) tu información:** Puedes solicitar que eliminemos tu información personal en ciertas circunstancias, contactando a privacy@kick.com. Podríamos no poder borrarla en todos los casos (ej. por obligaciones legales).
+*   **Limitar (Restringir) el uso:** En ciertas situaciones, puedes pedir que limitemos cómo usamos tu información.
+*   **Portabilidad de datos:** En algunos casos, puedes pedir recibir tu información en un formato común y legible por máquina, o que la transfiramos a otro proveedor.
+*   **Retirar tu consentimiento:** Si usamos tu información basándonos en tu consentimiento, puedes retirarlo en cualquier momento (esto no afectará el uso previo).
+*   **Oponerte al uso:** Puedes oponerte a que usemos tu información basada en nuestros intereses legítimos, dependiendo de tu situación particular. Siempre puedes oponerte al uso para marketing directo. Contacta a privacy@kick.com para ejercer estos derechos.
+*   **Permisos del Dispositivo:** Puedes controlar el acceso de la app Kick a la información de tu dispositivo (ubicación, red, etc.) a través de la configuración de tu teléfono ("Ajustes" o "Configuración").
+*   **Comunicaciones por Email:** Para dejar de recibir emails promocionales, haz clic en el enlace "unsubscribe" (cancelar suscripción) al final del correo. No puedes cancelar los emails esenciales del servicio.
+*   **Notificaciones Push:** Puedes desactivarlas en la configuración de notificaciones de tu teléfono (iOS o Android).
+*   **Mensajes SMS:** Puedes cancelar la recepción de SMS promocionales respondiendo STOP a cualquiera de nuestros mensajes. No puedes cancelar los SMS esenciales (ej. códigos de seguridad).
+*   **Publicidad Online:** Para optar por no recibir parte de la publicidad basada en intereses, puedes usar herramientas como:
+    *   Digital Advertising Alliance (DAA): www.aboutads.info/choices
+    *   Network Advertising Initiative (NAI): http://www.networkadvertising.org/choices
+    *   Para Europa: https://youronlinechoices.eu/
+    *   En tu móvil: Ajustes de "limitar seguimiento de anuncios" (iOS) o "inhabilitar personalización de anuncios" (Android), y la app AppChoices (http://youradchoices.com/appchoices).
+    *   **Importante:** Optar por no recibirla no significa que no verás anuncios, solo que no serán tan personalizados según tus intereses.
+
+**7. Reclamos**
+
+Si tienes una queja sobre cómo manejamos tu privacidad, contáctanos en privacy@kick.com. Te responderemos en un tiempo razonable para acusar recibo e informarte los pasos a seguir. Si no quedas satisfecho, puedes pedirnos la información de contacto de la autoridad local relevante.
+
+**8. Privacidad de menores de edad**
+
+*   Nuestros Servicios **no están dirigidos a menores de 13 años**.
+*   Si eres menor de 13 años, no debes usar Kick ni darnos tu información personal.
+*   Si un padre o tutor descubre que un menor de 13 años nos ha dado información, por favor contáctenos para que la eliminemos.
+*   Si nos enteramos de que hemos recopilado información de un menor de 13 años, la eliminaremos rápidamente.
+
+**9. Tecnología de seguimiento en nuestros emails**
+
+Nuestros emails pueden contener "píxeles de seguimiento" (pequeñas imágenes invisibles) que nos dicen si abriste el email, cuántas veces lo leíste y si hiciste clic en algún enlace. Esto nos ayuda a medir la efectividad de nuestras campañas y a enviarte contenido relevante. Puedes bloquear estos píxeles desactivando la carga de imágenes remotas en la configuración de tu cliente de correo electrónico o usando extensiones de navegador.
+
+**10. Almacenamiento, seguridad y transferencias internacionales**
+
+*   **Almacenamiento:** Guardamos tu información personal electrónicamente.
+*   **Seguridad:** Tomamos precauciones razonables para proteger tu información contra pérdida, mal uso y acceso no autorizado. Sin embargo, ninguna medida de seguridad es 100% garantizada.
+*   **Tu Responsabilidad:** Protege tu contraseña y tu cuenta. Cierra sesión en computadores compartidos, elige una contraseña fuerte y mantenla secreta. No somos responsables por pérdidas si no tomas estas precauciones (dentro de lo permitido por ley).
+*   **Transferencias Internacionales:** Tu información personal puede ser transferida y almacenada en países **fuera de Chile**, como Estados Unidos, donde nosotros o nuestros proveedores de servicios operamos. Tomamos medidas para asegurar que estas transferencias cumplan con las leyes aplicables (ej. usando cláusulas contractuales estándar si se transfiere desde Europa).
+
+**11. Elaboración de perfiles**
+
+Podemos analizar tu información para crear un perfil de tus intereses y preferencias, y así contactarte con información relevante para ti. También podemos usar información adicional de fuentes externas para esto y para detectar y reducir fraudes.
+
+**12. Enlaces a otros sitios web o servicios**
+
+Nuestros Servicios pueden incluir enlaces a sitios de terceros. Esta política de privacidad no aplica a esos sitios. Revisa sus propias políticas de privacidad para entender cómo manejan tu información.
+
+**13. Actualizaciones a esta Política de Privacidad**
+
+Podemos actualizar esta política de vez en cuando. Cuando lo hagamos, cambiaremos la fecha al inicio del documento. Los cambios aplican desde que se publican. Si sigues usando los Servicios después de una actualización, significa que aceptas la nueva versión. Te recomendamos revisar esta política frecuentemente.
+
+**14. Contáctanos**
+
+*   Si tienes preguntas sobre esta política o tu privacidad, envía un email a: **privacy@kick.com**.
+*   Puedes contactar a nuestro Delegado de Protección de Datos (DPO) en: **dpo@kick.com**.
+*   Te responderemos dentro de 30 días o el plazo máximo aplicable en tu país.
+*   También puedes enviarnos una carta a: 2/287 Collins Street, Melbourne VIC 3000 Australia. Asegúrate de incluir tu correo electrónico registrado y los detalles de tu consulta.
+
+**15. Disposiciones específicas por región**
+
+Puede haber información adicional sobre privacidad para residentes de ciertas regiones (como el Espacio Económico Europeo, Reino Unido o Suiza). Si aplica, se indicará en secciones específicas o documentos adicionales. Esta política simplificada busca cubrir los aspectos clave relevantes para usuarios en Chile.

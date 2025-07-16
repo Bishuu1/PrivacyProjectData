@@ -1,0 +1,175 @@
+POLÍTICA SIMPLIFICADA:
+
+**Tu Privacidad con Microsoft - Resumen Simplificado para Chile**
+
+**Fecha de última actualización:** enero de 2025
+
+**Propósito:** Te explicamos de forma clara cómo Microsoft recoge, usa y protege tu información personal cuando usas nuestros productos y servicios en Chile. Queremos que entiendas tus derechos y cómo manejamos tus datos.
+
+**1. ¿Qué Información Recopilamos?**
+
+Para que nuestros productos funcionen bien y ofrecerte la mejor experiencia, recogemos información sobre ti. Lo hacemos de tres maneras:
+*   **Tú nos la das directamente:** Cuando creas una cuenta, haces una compra, buscas algo en Bing, te registras en un evento, subes un archivo a OneDrive o nos contactas.
+*   **Automáticamente al usar nuestros productos:** Recogemos datos sobre cómo interactúas con nuestros servicios, qué usas y tu experiencia.
+*   **De otras fuentes (terceros):** Como empresas de datos demográficos, servicios que comparten contenido de usuarios (con tu permiso), socios con los que trabajamos, o fuentes públicas.
+
+**Tipos de información que podemos recoger:**
+
+*   **Nombre y Datos de Contacto:** Tu nombre, correo electrónico, dirección, número de teléfono.
+*   **Credenciales:** Contraseñas y datos de seguridad para iniciar sesión.
+*   **Datos Demográficos:** Tu edad, género, país e idioma.
+*   **Datos de Pago:** Número de tarjeta de crédito u otros datos para procesar pagos.
+*   **Datos de Suscripción y Licencias:** Información sobre los productos que usas y tus permisos.
+*   **Interacciones:** Cómo usas nuestros productos (ej. qué buscas en Bing, en qué haces clic).
+*   **Datos del Dispositivo y Uso:** Información sobre tu computador, teléfono u otro dispositivo (hardware, software, sistema operativo), tu dirección IP, identificadores únicos (como IMEI del teléfono), configuración regional y de idioma, y cómo funcionan nuestros productos.
+*   **Historial de Pagos y Cuenta:** Qué compras y actividades de tu cuenta.
+*   **Historial de Navegación:** Qué páginas web visitas con nuestros servicios.
+*   **Informes de Errores y Rendimiento:** Datos sobre problemas que tengas con nuestros productos.
+*   **Datos de Ayuda:** Lo que nos cuentas cuando pides soporte técnico (puede incluir grabaciones de llamadas o chats con tu permiso).
+*   **Intereses y Favoritos:** Equipos deportivos, acciones o ciudades que sigues.
+*   **Contenido que Consumes:** Qué música, videos, juegos o libros usas en nuestros productos.
+*   **Búsquedas y Comandos:** Lo que buscas o le dices a asistentes de voz o chatbots.
+*   **Datos de Voz:** Tu voz si usas funciones como dictado o comandos de voz (puede incluir ruido de fondo).
+*   **Texto y Escritura:** Lo que escribes a mano o con teclado (para mejorar autocorrección, etc.).
+*   **Imágenes:** Fotos o videos que nos proporcionas (ej. al usar Bing con imágenes).
+*   **Contactos y Relaciones:** Información sobre tus contactos si usas productos para comunicarte o compartir.
+*   **Datos de Ubicación:** Dónde estás (puede ser precisa con GPS o menos precisa por IP o Wi-Fi cercano).
+*   **Contenido:** El contenido de tus archivos y comunicaciones (correos, documentos en OneDrive, chats de Skype). **Importante:** Recogemos este contenido para entregártelo a ti o a quien tú quieras, pero **no lo usamos para dirigirte publicidad.**
+*   **Grabaciones de Video:** Si entras a tiendas Microsoft o asistes a eventos grabados.
+*   **Comentarios y Opiniones:** Lo que nos dices en encuestas, reseñas de productos, etc.
+
+**Tienes opciones:** No estás obligado a dar tus datos personales. Sin embargo, si no das información necesaria para un producto o función, es posible que no puedas usarlo.
+
+**2. ¿Cómo Usamos Tu Información?**
+
+Usamos tu información para varios fines importantes:
+
+*   **Ofrecerte nuestros productos:** Incluyendo actualizaciones, seguridad, solución de problemas y soporte.
+*   **Mejorar y desarrollar productos:** Añadir nuevas funciones, mejorar la precisión (incluyendo el entrenamiento de Inteligencia Artificial o IA), entender qué necesitan los usuarios.
+*   **Personalizar tu experiencia:** Hacerte recomendaciones, sincronizar tu configuración entre dispositivos (si lo permites).
+*   **Publicidad y Marketing:** Enviarte comunicaciones promocionales (si te suscribes), mostrarte anuncios más relevantes y ofertas. **Importante:** No usamos el contenido de tus correos, chats privados, videollamadas, documentos, fotos u otros archivos personales para dirigirte anuncios.
+*   **Operar nuestro negocio:** Analizar nuestro rendimiento, cumplir obligaciones legales, investigar.
+*   **Seguridad:** Proteger nuestros productos y a nuestros clientes, detectar malware, spam, fraude o contenido ilegal. Usamos tecnologías para escanear y detectar imágenes o videos ilegales relacionados con abuso infantil, reportando a las autoridades si es necesario.
+*   **Cumplir con la ley:** Verificar edad, ayudarte a ejercer tus derechos de protección de datos.
+
+Nos basamos en distintas razones legales para usar tus datos: tu **consentimiento** (permiso), la **necesidad** para cumplir un contrato contigo (darte el servicio), nuestros **intereses legítimos** (como mejorar productos o seguridad, siempre balanceados con tus derechos) y el **cumplimiento de obligaciones legales**.
+
+**3. ¿Por Qué Compartimos Tu Información?**
+
+Compartimos tu información personal en estas situaciones:
+
+*   **Con tu consentimiento:** Por ejemplo, si envías un correo, compartes fotos en OneDrive o vinculas tu cuenta a otro servicio.
+*   **Para completar transacciones o darte un producto:** Si compras algo, compartimos datos de pago con bancos.
+*   **Con tu organización (trabajo o estudio):** Si usas una cuenta proporcionada por ellos, compartimos datos (como uso y diagnóstico) para que administren los productos.
+*   **Con empresas que trabajan para nosotros (proveedores):** Como las que dan soporte técnico o protegen nuestros sistemas. Les exigimos proteger tus datos y solo usarlos para lo que les pedimos.
+*   **Con otras empresas de Microsoft (filiales y subsidiarias).**
+*   **Con socios publicitarios:** Para mostrarte anuncios más relevantes (ver sección de Control y Cookies).
+*   **En transacciones corporativas:** Como fusiones o venta de activos.
+*   **Por razones legales o de seguridad:**
+    *   Para cumplir la ley o responder a procesos legales (policía, gobierno).
+    *   Para proteger a nuestros clientes (prevenir spam, fraude, contenido dañino).
+    *   Para mantener la seguridad de nuestros productos (prevenir ataques).
+    *   Para proteger los derechos o propiedad de Microsoft (hacer cumplir términos).
+
+**Importante:** Si haces clic en enlaces a productos de terceros, sus políticas de privacidad aplican, no la nuestra.
+
+**4. ¿Cómo Puedes Acceder y Controlar Tu Información?**
+
+Tú tienes derechos sobre tu información personal y te damos herramientas para controlarla:
+
+*   **Tus Derechos:**
+    *   **Acceder:** Puedes pedir ver la información personal que tenemos sobre ti.
+    *   **Corregir:** Puedes pedir que corrijamos datos incorrectos.
+    *   **Eliminar:** Puedes pedir que borremos tu información.
+    *   **Oponerte o Limitar:** Puedes oponerte a que usemos tus datos para marketing directo o limitar cómo los usamos en otros casos.
+    *   **Portabilidad:** Puedes pedir una copia de tus datos para llevarla a otro servicio.
+    *   **Retirar Consentimiento:** Si nos diste permiso para algo, puedes retirarlo cuando quieras.
+
+*   **Cómo Ejercer Tus Derechos:**
+    *   **Panel de Privacidad de Microsoft:** Puedes ver y borrar datos como historial de navegación, búsqueda y ubicación asociados a tu cuenta Microsoft.
+    *   **Configuración de Productos:** Muchos productos (Bing, Xbox, Skype, OneDrive, etc.) tienen sus propias opciones para controlar datos.
+    *   **Formulario Web:** Puedes contactarnos a través de nuestro formulario web para solicitudes específicas.
+    *   **Contacto Directo:** Usa la información de contacto al final de esta política.
+
+*   **Si usas cuenta de trabajo/estudio:** Contacta al administrador de tu organización.
+*   **Preferencias de Comunicación:** Puedes elegir si quieres recibir emails, SMS o llamadas promocionales de Microsoft a través de la configuración de tu cuenta o usando el formulario web.
+*   **Preferencias de Publicidad:** Puedes optar por no recibir publicidad personalizada visitando nuestra página de exclusión voluntaria. También puedes controlar el ID de publicidad en la configuración de Windows.
+
+**5. Cookies y Tecnologías Similares**
+
+*   **¿Qué son?** Son pequeños archivos de texto que se guardan en tu dispositivo para recordar información. Usamos cookies propias y de terceros.
+*   **¿Para qué las usamos?**
+    *   Guardar tus preferencias (idioma, ciudad).
+    *   Iniciar sesión y mantenerte conectado.
+    *   Seguridad y detectar fraude.
+    *   Recordar información que diste (ej. carrito de compras).
+    *   Mostrar publicidad relevante (basada en intereses).
+    *   Analizar cómo se usan nuestros productos (contar visitas, mejorar rendimiento).
+*   **Otras tecnologías:** Usamos "balizas web" (imágenes pequeñas) en sitios y correos para saber si los abres, y el "ID de publicidad" en Windows para fines similares a las cookies en aplicaciones.
+*   **Tu Control:**
+    *   Puedes bloquear o eliminar cookies a través de la configuración de tu navegador (Edge, Chrome, Firefox, etc.).
+    *   Puedes gestionar consentimientos de cookies opcionales (para publicidad, redes sociales) en nuestros sitios web (busca "Administrar cookies").
+    *   Puedes rechazar la publicidad basada en intereses (ver sección de Control).
+    *   **Importante:** Bloquear cookies puede hacer que algunas funciones de los sitios no funcionen bien.
+
+**6. Privacidad de Menores de Edad**
+
+*   **Consentimiento Parental:** Para usuarios menores de 13 años (o la edad que indique la ley chilena), necesitamos el permiso de un padre o tutor para usar ciertos productos o crear una cuenta. No pedimos más datos de los necesarios.
+*   **Control Parental:** Los padres o tutores pueden:
+    *   Ver y eliminar datos del menor (historial de navegación, búsqueda, etc.) desde su Panel de Privacidad o contactándonos.
+    *   Administrar la configuración del menor a través de Microsoft Family Safety.
+    *   Cambiar o revocar el consentimiento dado.
+*   **Xbox:** Se necesita permiso parental para crear un perfil de Xbox para menores. Los padres pueden controlar la configuración de privacidad y comunicación del menor. Recopilamos datos sobre el uso de juegos, consola y red para mejorar la experiencia y seguridad.
+
+**7. Seguridad de Tu Información**
+
+*   Estamos comprometidos a proteger tus datos personales.
+*   Usamos tecnologías (como cifrado) y procedimientos de seguridad para proteger tu información contra acceso no autorizado.
+*   Cumplimos con las leyes de protección de datos, incluyendo notificación si hay una violación de seguridad.
+
+**8. Dónde Guardamos y Usamos Tu Información**
+
+*   Tu información puede guardarse y usarse en Chile, Estados Unidos o cualquier otro país donde Microsoft, sus filiales o proveedores tengan instalaciones.
+*   Los centros de datos principales están en varios países. Generalmente, guardamos los datos en tu región o en EE.UU., con copias de seguridad en otros lugares para eficiencia y protección.
+*   **Transferencias Internacionales:** Si transferimos tus datos fuera de tu región (como de Chile a EE.UU.), usamos mecanismos legales aprobados (como contratos especiales) para asegurar que tus datos sigan protegidos. Cumplimos con marcos como el Marco de Privacidad de Datos UE-EE.UU., Reino Unido y Suiza-EE.UU.
+
+**9. ¿Por Cuánto Tiempo Guardamos Tu Información?**
+
+*   Guardamos tu información personal solo el tiempo necesario para darte los productos, cumplir transacciones, o para otros fines legítimos como cumplir obligaciones legales o resolver disputas.
+*   El tiempo varía según el tipo de dato y cómo lo usas. Por ejemplo:
+    *   Guardamos tus archivos de OneDrive hasta que los borres.
+    *   Los datos de búsqueda de Bing se despersonalizan después de 6-18 meses.
+    *   Si hay requisitos legales, podemos guardar datos por más tiempo.
+
+**10. Inteligencia Artificial (IA) y Microsoft Copilot**
+
+*   Usamos IA en muchos productos, incluyendo funciones como Microsoft Copilot.
+*   Nuestro uso de IA sigue nuestros principios de IA Responsable.
+*   Cuando usas funciones de IA como Copilot:
+    *   Recopilamos tus "prompts" (lo que pides), el contexto relevante y cómo usas la función.
+    *   Usamos esta información para darte la respuesta o creación solicitada, y para mejorar los servicios de IA.
+    *   El manejo de estos datos sigue los principios de esta política de privacidad.
+    *   Tienes controles sobre tu historial de Copilot en el Panel de Privacidad de Microsoft.
+
+**11. Cuentas de Trabajo o Estudio**
+
+*   Si usas productos Microsoft con una cuenta dada por tu trabajo o centro de estudios, esa organización controla tu cuenta y puede acceder a tus datos (incluyendo comunicaciones y archivos).
+*   El uso de esos productos está sujeto a las políticas de tu organización.
+*   Dirige tus preguntas de privacidad (incluyendo solicitudes de derechos) al administrador de tu organización.
+
+**12. Cambios a esta Política**
+
+*   Actualizaremos esta política si es necesario (por cambios en productos, leyes o comentarios).
+*   Revisaremos la fecha de "última actualización" al principio.
+*   Si hay cambios importantes, te avisaremos (con un aviso destacado o una notificación directa). Te recomendamos revisar esta política periódicamente.
+
+**13. Cómo Contactarnos**
+
+*   Si tienes dudas o quejas sobre privacidad, contáctanos a través de nuestro **formulario web**.
+*   Responderemos en un plazo máximo de 30 días.
+*   Nuestras direcciones principales son:
+    *   Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA.
+    *   Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlanda.
+*   Para encontrar la filial de Microsoft en Chile, consulta la lista de ubicaciones mundiales en el sitio web de Microsoft.
+
+**Recuerda:** Esta es una versión simplificada. Para todos los detalles legales, puedes consultar la Declaración de Privacidad completa de Microsoft en nuestro sitio web.

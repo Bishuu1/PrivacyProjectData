@@ -1,0 +1,161 @@
+POLÍTICA SIMPLIFICADA:
+
+**Política de Privacidad Simplificada para Chile**
+
+**Fecha de última actualización:** 27 de julio de 2022
+
+**Propósito:** Te explicamos de forma clara cómo recopilamos, usamos, compartimos y protegemos tu información personal cuando usas nuestros sitios web, aplicaciones y otros servicios en línea en Chile. Queremos que entiendas tus derechos y cómo cuidamos tus datos.
+
+**1. ¿Quiénes somos y qué cubre esta política?**
+
+*   Cuando decimos "SPE", "nosotros" o "nuestro", nos referimos a Sony Pictures Entertainment Inc. y/o sus empresas relacionadas que son **responsables de manejar tu información personal** (tus "Datos Personales"). La empresa específica depende del servicio que uses. Puedes ver cuál es la entidad responsable [aquí](link_placeholder) o contactarnos si tienes dudas [aquí](link_placeholder).
+*   Nuestra oficina principal está en 10202 West Washington Boulevard, Culver City, California 90232, EE. UU.
+*   Esta política se aplica a todos nuestros sitios web, apps y servicios online ("Contenidos") en Chile que enlacen a este documento.
+*   Cumplimos con las leyes chilenas sobre protección de datos aplicables. A veces, podemos darte avisos adicionales específicos para ciertos productos o regiones.
+
+**2. ¿Qué información tuya recopilamos?**
+
+Recopilamos información sobre ti de diferentes maneras:
+
+*   **Información que tú nos das directamente:**
+    *   **Para identificarte:** Tu nombre, apellido, fecha de nacimiento, género, dirección postal, nombre de usuario, contraseña y respuestas a preguntas de seguridad.
+    *   **Para contactarte:** Tu dirección de correo electrónico y número de teléfono.
+    *   **Información de pago:** Datos para procesar tus compras o suscripciones (a veces a través de proveedores externos), historial de pagos y estado de compras.
+    *   **Tu opinión y participación:** Información que nos das al participar en concursos, sorteos, encuestas o estudios.
+    *   **Tus consultas:** Lo que nos comunicas cuando pides ayuda o soporte.
+    *   **Contenido que creas:** Fotos, videos u otros contenidos que subas o compartas en nuestras plataformas.
+
+*   **Información que recopilamos automáticamente (cuando usas nuestros servicios):**
+    *   **Cómo usas nuestros servicios:** Qué tipo de navegador e internet usas, tu sistema operativo, qué páginas web, videos o apps visitas, a qué hora y por cuánto tiempo, tu historial de juegos o videos vistos, información demográfica general (edad, género, idioma, ubicación, intereses, si está disponible), zona horaria, y qué viste antes de llegar a nuestros Contenidos. Usamos herramientas como Google Analytics o Adobe Analytics para esto (más detalles en la sección de Cookies).
+    *   **Identificadores de tu dispositivo:** Tu dirección IP (un número único para tu conexión a internet) u otro identificador único de tu computador, celular, tablet u otro dispositivo que uses para acceder. A veces, también la ubicación física de tu dispositivo móvil.
+
+*   **Información que recibimos de otros (Terceros):**
+    *   A veces recibimos datos personales tuyos de terceros, como proveedores de aplicaciones, redes sociales (si usas tu cuenta para ingresar, por ejemplo, con Facebook Connect), o proveedores de datos externos.
+    *   Si interactúas con funciones sociales (como "Me Gusta", "Compartir" o conectar tu cuenta de red social), tanto nosotros como el tercero podemos acceder a cierta información sobre ti y tu uso.
+    *   Si publicas algo en una red social mencionándonos (por ejemplo, usando un hashtag relacionado con SPE), podríamos usar esa publicación en nuestros Contenidos.
+
+*   **Importante sobre enlaces externos:** Nuestros sitios y apps pueden tener enlaces a otros sitios que no son nuestros. Si sales de nuestro sitio, la información que recojan allí estará sujeta a *sus* propias políticas de privacidad, no a la nuestra.
+
+**3. ¿Para qué usamos tu información y por qué estamos autorizados?**
+
+Usamos tu información personal para diferentes fines, siempre buscando una razón válida según la ley ("fundamento legal"):
+
+*   **Para entregarte nuestros servicios y cumplir acuerdos contigo (Necesidad contractual):**
+    *   Procesar tu registro en un sitio, app, concurso o sorteo.
+    *   Enviarte información importante sobre cambios en nuestros términos, políticas u otras comunicaciones sobre tus transacciones.
+    *   Procesar tus pagos y completar tus pedidos o suscripciones.
+    *   Crear y administrar tus cuentas online.
+
+*   **Para nuestros intereses legítimos o los de terceros (siempre respetando tus derechos):**
+    *   Permitirte acceder y usar nuestros Contenidos y sus funcionalidades.
+    *   Enviarte la información que nos pediste.
+    *   Garantizar la seguridad de nuestros sitios y apps, previniendo actividades no autorizadas o maliciosas.
+    *   Hacer cumplir nuestros Términos y Condiciones de Uso y otras políticas.
+    *   Ayudar a otras organizaciones (como dueños de derechos de autor) a proteger sus derechos.
+    *   Determinar tu ubicación aproximada para adaptar nuestros Contenidos (idioma, moneda, restricciones geográficas).
+    *   Adaptar y personalizar los Contenidos, incluyendo recomendaciones en servicios de streaming.
+    *   Analizar cómo se usan los Contenidos (frecuencia, duración de visitas) para mejorarlos.
+    *   Mejorar nuestros servicios analizando tus comentarios en encuestas o estudios.
+    *   Personalizar avisos y ofertas para ti (si la ley lo permite sin pedirte permiso explícito).
+    *   Darte soporte o atención al cliente.
+
+*   **Cuando tú nos das tu permiso (Consentimiento):**
+    *   Para enviarte información de marketing (publicidad, noticias) por medios que requieren tu permiso (como el correo electrónico).
+    *   Para personalizar avisos y ofertas para ti, cuando la ley exige tu consentimiento para ello.
+    *   Para colocar cookies y usar tecnologías similares no esenciales (te explicamos más en la sección de Cookies).
+    *   Para cualquier otro propósito específico que te explicaremos claramente al momento de pedirte permiso.
+    *   Si eres menor de edad, para procesar tu información cuando la ley exige el consentimiento de tus padres o tutores.
+
+*   **Porque la ley nos obliga (Obligaciones legales):**
+    *   Para responder a solicitudes de autoridades gubernamentales, judiciales, policiales o reguladoras.
+    *   Para cumplir con obligaciones legales, como las relacionadas con impuestos o contabilidad.
+
+**4. ¿Qué son las Cookies y tecnologías parecidas y cómo las usamos?**
+
+*   Las "cookies" son pequeños archivos de texto que se guardan en tu dispositivo cuando visitas nuestros Contenidos. También usamos otras tecnologías similares como "web beacons" o "píxeles de seguimiento".
+*   Nosotros y algunos terceros (incluyendo otras empresas del grupo Sony y socios comerciales) usamos estas tecnologías para recopilar información sobre cómo interactúas con nuestros Contenidos o los correos que te enviamos.
+
+*   **Usamos estas tecnologías con 3 propósitos principales:**
+    1.  **Para que todo funcione (Necesarias):** Para permitirte navegar, mantener tu sesión iniciada, recordar tus preferencias básicas, verificar problemas técnicos, cumplir con la ley y garantizar la seguridad. Recopilamos datos de cuenta, identificadores de dispositivo y preferencias para esto.
+    2.  **Para mostrarte avisos y recomendaciones relevantes (Publicidad):** Para recordar qué te ha interesado y mostrarte publicidad más acorde a tus gustos (incluso en otros sitios), limitar cuántas veces ves un anuncio, medir si los anuncios fueron efectivos y si se mostraron correctamente. Recopilamos información de contacto, identificadores de dispositivo (como IP) y datos de uso (interacción con anuncios, historial de navegación) para esto. También trabajamos con plataformas de terceros (como redes sociales) para mostrarte anuncios dirigidos allí.
+    3.  **Para analizar y mejorar tu experiencia (Análisis):** Para entender qué Contenidos son más populares, quiénes usan nuestros servicios (edad, género, intereses generales), recordar tus elecciones (idioma, región) y personalizar tu visita. Recopilamos identificadores de dispositivo (como IP) y datos de uso (historial de navegación, tipo de dispositivo) para esto. Usamos servicios como Adobe Analytics ([política aquí](link_placeholder)) y Google Analytics ([política aquí](link_placeholder)).
+
+*   **Tu control sobre las Cookies:**
+    *   Si la ley lo exige, te pediremos tu **permiso (consentimiento)** antes de usar cookies que no sean estrictamente necesarias (las de publicidad y análisis).
+    *   Puedes cambiar tus preferencias de cookies y retirar tu permiso en cualquier momento usando nuestra **Herramienta de Consentimiento de Cookies** (búscala en el sitio o app que estés usando).
+    *   También puedes gestionar las cookies a través de la **configuración de tu navegador** (busca en el menú "Ayuda" o "Configuración"). Ten en cuenta que desactivar cookies puede afectar tu experiencia.
+    *   Puedes optar por no participar en ciertos tipos de publicidad basada en intereses visitando sitios como Digital Advertising Alliance, Network Advertising Initiative, etc., o a través de la configuración de tu dispositivo móvil.
+    *   Para cancelar la suscripción a los servicios de análisis de Adobe, haz clic [aquí](link_placeholder), y para Google, haz clic [aquí](link_placeholder).
+
+*   **Tecnologías de ubicación:** Con tu permiso si es necesario, podemos usar GPS u otras tecnologías para saber tu ubicación (a veces de forma precisa) para verificarla, entregarte contenidos específicos para tu zona (ej. restricciones territoriales) o publicidad basada en tu ubicación. Puedes controlar el seguimiento de ubicación en la configuración de tu dispositivo o de nuestra app (si la opción está disponible).
+
+*   **Dispositivos específicos (PlayStation, móviles, etc.):** Al usar nuestras apps en ciertos dispositivos, algunas cookies esenciales se guardan automáticamente para funciones como mantenerte conectado o gestionar controles parentales. Puedes gestionarlas en la configuración del dispositivo o eliminando la app/cuenta.
+
+**5. ¿Con quién compartimos tu información personal?**
+
+Compartimos tu información personal solo en estas circunstancias:
+
+*   **Con tu consentimiento:** Si nos das permiso, podemos compartir tu información con terceros para sus propios fines (ej. marketing). Te diremos con quién antes de pedir tu permiso. Si participas en un concurso, tus datos podrían compartirse para administrarlo o incluirte en listas de ganadores. Si subes contenido generado por ti, este se hará público.
+*   **Con terceros que nos prestan servicios:** Compartimos datos con empresas que nos ayudan a operar (ej. alojamiento web, envío de correos, procesamiento de pagos, análisis de datos, servicios de marketing y publicidad). Solo les damos la información necesaria para su función y les exigimos protegerla. [Ver lista de tipos de proveedores aquí](link_placeholder).
+*   **Con otras empresas del grupo Sony:** Compartimos tus datos personales con otras entidades de SPE [ver lista aquí](link_placeholder) y del grupo Sony [ver lista aquí](link_placeholder) para los fines descritos en esta política (ej. análisis, gestión de cuentas, marketing directo si la ley lo permite).
+*   **En caso de reorganización empresarial:** Si vendemos SPE o parte de nuestros activos (incluidos los Contenidos), o en caso de fusión u otra transacción similar, tu información personal podría ser transferida al comprador (o posible comprador) como parte del negocio, siempre que la ley lo permita.
+*   **Por obligaciones legales o para proteger derechos:** Podemos compartir información con autoridades gubernamentales, policiales o judiciales, y otras partes involucradas en procesos legales si la ley nos obliga, si creemos de buena fe que es necesario para cumplir la ley, para hacer valer nuestros Términos y Condiciones, o para proteger nuestros derechos, propiedad, seguridad o los de terceros.
+
+**6. ¿Tu información puede salir de Chile? (Transferencias Internacionales)**
+
+*   Nuestros Contenidos se alojan y operan por nosotros o nuestros proveedores en Estados Unidos y otros países [ver lista aquí](link_placeholder). Por lo tanto, tu información personal será transferida y procesada fuera de Chile.
+*   Estos países podrían tener leyes de protección de datos diferentes a las chilenas.
+*   Cuando transferimos datos internacionalmente, usamos las **medidas de protección adecuadas** que exige la ley (por ejemplo, para transferencias desde Europa o Reino Unido, usamos contratos especiales aprobados por las autoridades de esas regiones, a menos que el país receptor ya sea considerado seguro). Puedes pedirnos una copia de estas medidas contactándonos [aquí](link_placeholder).
+*   Si la ley requiere tu consentimiento para la transferencia internacional, al usar nuestros Contenidos y darnos tu información, lo estás otorgando.
+
+**7. ¿Qué derechos tienes sobre tu información personal?**
+
+La ley chilena (y otras aplicables) te da derechos sobre tu información. Según corresponda, puedes tener derecho a:
+
+*   **Acceder:** Pedirnos confirmación de si tenemos datos tuyos, saber cuáles son y cómo los usamos.
+*   **Rectificar:** Corregir tu información si es inexacta o incompleta.
+*   **Cancelar (Suprimir o Eliminar):** Pedir que borremos tus datos personales (por ejemplo, si ya no son necesarios, si retiraste tu permiso, o si se procesaron ilegalmente).
+*   **Oponerte:** Pedirnos que dejemos de usar tus datos para ciertos fines (como marketing directo) o en ciertas situaciones específicas.
+*   **Retirar tu consentimiento:** Si nos diste permiso para algo (como enviarte publicidad), puedes retirarlo en cualquier momento. Esto no afectará la legalidad del uso que le dimos antes de que lo retiraras.
+*   (Otros derechos como la **portabilidad** pueden aplicar en algunas jurisdicciones).
+
+*   **Cómo ejercer tus derechos:**
+    *   Puedes enviar tu solicitud para ejercer tus derechos visitando **esta página** [link_placeholder] o contactándonos como se indica [aquí](link_placeholder).
+    *   Podríamos necesitar **verificar tu identidad** antes de procesar tu solicitud.
+*   **Cancelar suscripciones de marketing:**
+    *   Para dejar de recibir correos electrónicos de marketing, sigue las instrucciones de "cancelar suscripción" (o similar) que están en el mismo correo.
+    *   Si recibes mensajes SMS o MMS, puedes cancelar respondiendo "STOP".
+    *   Esto no afectará los mensajes importantes sobre tu cuenta o transacciones.
+*   **Importante:** Haremos lo posible por atender tu solicitud razonablemente rápido. Sin embargo, a veces la ley nos permite o exige conservar cierta información (por ejemplo, por obligaciones legales o para defendernos en caso de reclamos), incluso después de tu solicitud de eliminación.
+
+**8. ¿Cómo protegemos tu información?**
+
+*   Tomamos medidas de seguridad **técnicas** (ej. seguridad informática) y **organizativas** (ej. políticas internas) para proteger tu información personal contra pérdida, mal uso, alteración o destrucción accidental.
+*   Aunque nos esforzamos mucho, **ninguna medida de seguridad es 100% perfecta**. No podemos garantizar la seguridad absoluta de tu información.
+*   Si tienes razones para creer que tu interacción con nosotros ya no es segura (por ejemplo, si crees que tu cuenta ha sido comprometida), por favor **contáctanos de inmediato** [aquí](link_placeholder).
+
+**9. ¿Es obligatorio dar toda la información? ¿Usamos decisiones automáticas?**
+
+*   No estás obligado a darnos toda la información personal que describimos para usar nuestros Contenidos. Sin embargo, si no nos proporcionas ciertos datos, **algunas funcionalidades podrían no estar disponibles**, o podríamos no ser capaces de responder a tu solicitud o realizar una transacción contigo.
+*   **No usamos procesos de toma de decisiones totalmente automatizados** (sin intervención humana) que tengan efectos legales o significativamente similares sobre ti (como la evaluación de perfiles con esas consecuencias).
+
+**10. ¿Por cuánto tiempo guardamos tu información?**
+
+*   Guardamos tu información personal **solo durante el tiempo necesario** para cumplir los propósitos para los que la recopilamos, como se describe en esta política.
+*   Esto puede incluir guardar la información por un tiempo adicional para cumplir con obligaciones legales (impuestos, contabilidad), resolver disputas, hacer cumplir acuerdos o por razones judiciales o de cumplimiento normativo.
+*   La información personal usada para **marketing** la guardamos durante el tiempo permitido por la ley aplicable, a menos que retires tu consentimiento antes.
+*   Cuando ya no necesitemos tu información para los fines establecidos, la **eliminaremos de forma segura** según lo exija la ley.
+
+**11. ¿Puede cambiar esta política?**
+
+*   Sí, podemos **actualizar esta Política de Privacidad** de vez en cuando para reflejar cambios en nuestras prácticas, en nuestros servicios o si la ley cambia.
+*   La **fecha de "última actualización"** al principio del documento te indica cuándo se hizo el último cambio. Te recomendamos revisar esta página periódicamente.
+*   Publicaremos la versión actualizada aquí en nuestros Contenidos. Si los cambios son importantes y la ley lo requiere, te **notificaremos y/o pediremos tu consentimiento** nuevamente.
+
+**12. ¿Tienes preguntas? Contáctanos**
+
+*   Si tienes preguntas o comentarios sobre esta Política de Privacidad o sobre cómo manejamos tus datos, por favor **contáctanos** usando las opciones disponibles [aquí](link_placeholder) o escribe a la entidad de SPE responsable [lista aquí](link_placeholder).
+*   También tienes derecho a presentar una **queja ante la autoridad de supervisión de protección de datos** en Chile (o en el país donde vivas o trabajes, o donde creas que ocurrió la infracción) si consideras que hemos violado tus derechos de privacidad.
+
+***
+© 2022 Sony Pictures Entertainment Inc., o la entidad de Sony Pictures Entertainment que corresponda. Todos los derechos reservados.

@@ -1,0 +1,211 @@
+**POLÍTICA SIMPLIFICADA: Tu Privacidad en Paramount**
+
+**Fecha de última actualización:** 1 de julio de 2024
+
+**Propósito:** Queremos explicarte de forma clara y sencilla cómo recopilamos, usamos y protegemos tu información personal cuando usas nuestros servicios en Chile. Nuestro objetivo es que entiendas tus derechos y cómo manejamos tus datos, manteniendo siempre la protección legal necesaria.
+
+---
+
+**¿Quiénes somos y qué hacemos?**
+
+Paramount es una gran empresa de medios y entretenimiento a nivel mundial. Ofrecemos contenidos como películas, series, programas de TV, servicios de streaming (como Paramount+), eventos en vivo y mucho más. Nuestras marcas incluyen estudios, canales de TV y plataformas online. Puedes ver más sobre nosotros [aquí](https://www.paramount.com/brands) (estos son nuestros “Servicios Paramount”).
+
+Cuando usas nuestros servicios, la empresa específica de Paramount que te los ofrece es la responsable de tus datos personales. Puedes ver cuáles son [aquí](https://privacy.paramount.com/es/data-controllers). Para nosotros, proteger tu información es muy importante.
+
+Esta política aplica a todos los Servicios Paramount que usamos en Chile. A veces, para un servicio específico, podríamos darte avisos adicionales sobre cómo manejamos tu información.
+
+---
+
+**¿Qué información tuya recopilamos?**
+
+Recopilamos información tuya de distintas maneras cuando interactúas con nosotros:
+
+**1. Información que tú nos das directamente:**
+
+*   **Al registrarte o participar:** Cuando creas una cuenta, te suscribes a correos, participas en concursos o eventos, te pedimos datos como tu nombre, correo electrónico, teléfono, fecha de nacimiento, y a veces, tus gustos o datos como edad y género.
+*   **Al pagar:** Si compras algo (una suscripción, una entrada), necesitamos tu información de pago (nombre, dirección, datos de tarjeta) y guardamos un registro de tus compras.
+*   **Lo que publicas:** Si comentas, das "me gusta" o compartes contenido (fotos, videos, textos) en nuestros servicios, guardamos esa información asociada a tu perfil.
+*   **En estudios de mercado:** Si participas en encuestas o pruebas, recopilamos tus respuestas, opiniones y datos como edad, género, etc.
+*   **Cuando nos contactas:** Guardamos tus mensajes, correos, chats con soporte al cliente o cualquier comentario que nos envíes.
+*   **Información sobre otros:** Si nos das datos de otra persona (por ejemplo, para referir a un amigo), asegúrate de tener su permiso (o si es menor de edad, la autoridad para hacerlo).
+*   **Si haces negocios con nosotros:** Si eres proveedor o socio, recopilamos información tuya o de tus empleados necesaria para nuestra relación comercial.
+*   **Fuera de línea:** También podemos recopilar información si participas en eventos presenciales o envías formularios por correo (nombre, contacto, etc.).
+
+*Importante:* A veces, pedirte ciertos datos es necesario por ley o para poder ofrecerte el servicio. Si no nos los das, quizás no podamos entregarte lo que buscas.
+
+**2. Información que recopilamos automáticamente:**
+
+Cuando usas nuestros servicios (en tu computador, celular, smart TV, etc.), recopilamos datos técnicos y de uso de forma automática, usando herramientas como:
+
+*   **Cookies, píxeles y tecnologías similares:** Son pequeños archivos o códigos que nos ayudan a saber cómo usas nuestros servicios. (Más detalles en la sección "Cookies").
+*   **Tu actividad y preferencias:** Qué contenidos ves, cuánto tiempo, qué te gusta, en qué anuncios haces clic, etc.
+*   **Identificadores de tus dispositivos:** Tu dirección IP (que indica tu ubicación aproximada), identificadores de publicidad de tu celular, etc.
+*   **Datos de ubicación (aproximada):** Usamos tu IP para saber desde qué país o región nos visitas, para ofrecerte el contenido correcto.
+*   **Si visitas nuestras oficinas o eventos:** Podemos registrar tu presencia por seguridad (incluyendo cámaras CCTV).
+
+**3. Información que recibimos de otras fuentes:**
+
+*   **De nuestros socios:** Empresas como tu proveedor de internet, cable o celular pueden compartir información con nosotros (siempre que esté permitido), como datos demográficos o de uso. Revisa las políticas de privacidad de esos socios.
+*   **De redes sociales:** Si interactúas con nosotros a través de redes sociales (Facebook, Instagram, X, etc.), esa plataforma recopila tu información por su cuenta (revisa sus políticas). Nosotros podemos recibir datos como tu nombre de usuario si nos contactas por ahí, o datos generales sobre cómo la gente interactúa con nuestros perfiles.
+*   **De empresas de publicidad:** Trabajamos con socios que nos ayudan a mostrarte publicidad más relevante. Ellos pueden darnos información sobre tus intereses o comportamiento online en otros sitios.
+*   **De otras fuentes:** Como bases de datos públicas o empresas especializadas en datos (siempre cumpliendo la ley).
+
+**4. Información que deducimos:**
+
+Usando toda la información anterior, podemos hacer suposiciones sobre tus posibles intereses, preferencias o ubicación general para personalizar tu experiencia.
+
+---
+
+**¿Para qué usamos tu información?**
+
+Usamos tu información personal para varios fines, siempre buscando una razón válida (como cumplir nuestro acuerdo contigo, nuestro interés legítimo en mejorar, o cumplir con la ley):
+
+*   **Para entregarte nuestros servicios:**
+    *   Crear y administrar tu cuenta o suscripción.
+    *   Verificar tu identidad.
+    *   Darte acceso al contenido, soporte técnico y enviarte avisos sobre tu cuenta.
+    *   Procesar tus pagos y compras.
+    *   Cumplir con lo que acordamos contigo.
+    *   Responder a tus preguntas sobre tu cuenta.
+*   **Para gestionar nuestra relación contigo:**
+    *   Permitir que interactúes en redes sociales o publiques comentarios.
+    *   Personalizar tu experiencia y el contenido que ves.
+    *   Organizar eventos o gestionar la participación del público.
+    *   Manejar nuestra relación con socios comerciales o proveedores.
+    *   Responder a tus consultas generales.
+*   **Para analizar y mejorar nuestros servicios:**
+    *   Entender cómo se usan nuestros servicios (cuánta gente nos visita, qué funciona mejor).
+    *   Medir si nuestra publicidad (la general, no personalizada) es efectiva.
+    *   Hacer estudios internos para desarrollar nuevas funciones o mejorar la tecnología.
+    *   Detectar y arreglar errores.
+    *   Entender mejor a nuestra audiencia en general (crear grupos con intereses similares, pero sin identificarte individualmente para esto).
+*   **Para marketing y publicidad:**
+    *   Mostrarte publicidad que creemos que te puede interesar, basada en tus gustos y comportamiento (publicidad personalizada). A veces, convertimos tu información (como tu correo) en un código "hash" para hacer esto de forma más segura.
+    *   Enviarte correos promocionales o newsletters (siempre puedes pedir no recibirlos más).
+    *   Gestionar concursos y promociones (verificar si cumples los requisitos, elegir ganadores).
+    *   Mostrarte publicidad general (no personalizada) mientras usas nuestros servicios.
+*   **Para seguridad:**
+    *   Proteger nuestras oficinas y eventos (con cámaras de seguridad, por ejemplo).
+    *   Prevenir fraudes, actividades ilegales y proteger nuestros sistemas.
+*   **Para cumplir con la ley:**
+    *   Cumplir con nuestras obligaciones legales (impuestos, contabilidad).
+    *   Responder a solicitudes de autoridades o tribunales.
+    *   Defender nuestros derechos o cumplir con nuestras políticas.
+
+---
+
+**¿Con quién compartimos tu información?**
+
+Compartimos tu información solo cuando es necesario y con fines específicos:
+
+*   **Dentro del grupo de empresas Paramount:** Para coordinar nuestros servicios y análisis internos.
+*   **Proveedores de servicios:** Empresas que nos ayudan a operar, como las que procesan pagos, alojan nuestros sitios web, dan soporte técnico, envían correos, analizan datos o ayudan con eventos y concursos. Solo pueden usar tu información para la tarea que les pedimos.
+*   **Socios comerciales:** Empresas con las que colaboramos en marketing, eventos o servicios conjuntos. Ellos usarán la información según sus propias políticas de privacidad. También compartimos datos con patrocinadores de concursos para entregar premios, por ejemplo.
+*   **Anunciantes y socios de publicidad:** Compartimos datos (como identificadores de dispositivo, información sobre tus intereses generales deducidos de tu actividad online) con empresas de publicidad para mostrarte anuncios relevantes y medir si funcionaron. Esto incluye agencias, redes de publicidad y plataformas tecnológicas. Tú tienes opciones para controlar esto (ver sección "Tus Opciones y Derechos").
+*   **Empresas de redes sociales:** Si interactúas con nosotros en redes sociales o usamos sus herramientas para publicidad (como públicos personalizados), podemos compartir datos como tu correo (en formato codificado "hash") o identificadores online.
+*   **Asesores legales, autoridades y otros:** Si es necesario por ley, para obtener asesoramiento legal, responder a un juicio, proteger nuestros derechos o la seguridad de otros.
+*   **En caso de cambios en la empresa:** Si vendemos parte de nuestro negocio, nos fusionamos o reorganizamos, podríamos compartir tu información con el comprador o nuevo socio, siempre protegiéndola.
+
+---
+
+**Tus Opciones y Derechos sobre tu Información**
+
+Tienes derechos sobre tu información personal. Estos pueden variar un poco según las leyes locales, pero en general, puedes:
+
+*   **Saber si tenemos información tuya y cómo la usamos.**
+*   **Pedir acceso a tu información:** Solicitar una copia de los datos que tenemos sobre ti.
+*   **Pedir que corrijamos tu información:** Si algo está mal o incompleto.
+*   **Pedir que eliminemos tu información:** Bajo ciertas condiciones (a veces debemos guardarla por ley).
+*   **Oponerte a ciertos usos:** Como el marketing directo.
+*   **Pedir que limitemos cómo usamos tu información:** En algunos casos.
+*   **Retirar tu permiso (consentimiento):** Si usamos tu información basándonos en tu permiso, puedes retirarlo cuando quieras (esto no afecta lo que hicimos antes).
+*   **Pedir la portabilidad de tus datos:** Solicitar que te entreguemos tus datos en un formato que puedas llevar a otra empresa (si aplica tecnológicamente y legalmente).
+
+**¿Cómo ejercer tus derechos?**
+
+*   Visita nuestro **Centro de Derechos de Privacidad** ([enlace al centro si está disponible, o indicar cómo encontrarlo]) y completa el formulario correspondiente a tu solicitud.
+*   Es posible que necesitemos verificar tu identidad antes de procesar tu solicitud para proteger tu información. Te contactaremos por correo para esto.
+*   Responderemos a tu solicitud en el plazo que marca la ley.
+
+**Otras opciones que tienes:**
+
+*   **Dejar de recibir correos de marketing:** Haz clic en el enlace "cancelar suscripción" (o similar) al final de cualquier correo promocional, o ajusta tus preferencias en la configuración de tu cuenta si tienes una. Seguirás recibiendo mensajes importantes sobre tu cuenta o servicios.
+*   **Controlar notificaciones en tu celular:** Puedes desactivar las notificaciones push en la configuración de tu dispositivo o de la aplicación.
+*   **Actualizar tu información:** Si tienes una cuenta, normalmente puedes corregir tus datos iniciando sesión y yendo a la configuración, o contactando a soporte.
+*   **Gestionar Cookies y Seguimiento:**
+    *   **Herramienta de consentimiento:** En muchos de nuestros sitios y apps, verás un aviso o panel donde puedes elegir qué tipos de cookies aceptas (especialmente las no esenciales, como las de publicidad).
+    *   **Configuración de tu navegador:** Puedes ajustar tu navegador para rechazar o eliminar cookies. Ojo: si bloqueas todas las cookies, algunos servicios podrían no funcionar bien.
+    *   **Opciones de publicidad basada en intereses:** Puedes limitar este tipo de publicidad a través de herramientas generales como las de la Digital Advertising Alliance (busca opciones para tu región si están disponibles) o ajustando la configuración de publicidad en tu dispositivo móvil ("Limitar seguimiento de anuncios" en iOS, "Cancelar personalización de anuncios" en Android). Seguirás viendo anuncios, pero serán menos personalizados.
+
+---
+
+**Transferencias Internacionales de Datos**
+
+Como somos una empresa global, tu información personal podría ser transferida y almacenada en otros países, como Estados Unidos, donde las leyes de protección de datos pueden ser diferentes a las de Chile.
+
+Cuando transferimos tu información fuera de Chile (ya sea a otras empresas de Paramount, proveedores o socios), tomamos medidas para asegurarnos de que esté protegida adecuadamente, usando mecanismos legales como contratos que exigen un nivel de protección similar al que tienes aquí.
+
+---
+
+**Privacidad de los Niños**
+
+Nuestros servicios principales no están dirigidos a niños. Tenemos servicios específicos para niños que se rigen por nuestra **Política de Privacidad Infantil** separada, donde explicamos cómo pedimos el permiso de los padres y qué datos recopilamos.
+
+Si un niño usa nuestros servicios generales, solo recopilamos la información mínima necesaria permitida por ley (como la dirección IP o identificadores del dispositivo) y la usamos únicamente para que el servicio funcione (dar acceso, personalizar contenido básico, mostrar publicidad general no personalizada y controlar cuántas veces se ve un anuncio). **No permitimos publicidad basada en intereses para niños menores de 16 años.**
+
+---
+
+**¿Cuánto tiempo guardamos tu información? (Retención)**
+
+Guardamos tu información personal solo durante el tiempo necesario para cumplir los propósitos por los que la recopilamos (los que te explicamos en esta política), o por el tiempo que la ley nos obligue.
+
+Por ejemplo:
+*   Guardamos los datos de tu cuenta mientras la tengas activa.
+*   Guardamos registros de compras o transacciones por un tiempo adicional por razones legales o para prevenir fraudes.
+*   Si pides no recibir marketing, guardamos esa solicitud para respetarla.
+
+El tiempo exacto depende del tipo de información y de nuestras obligaciones legales.
+
+---
+
+**Cookies y Otras Tecnologías de Seguimiento**
+
+Usamos tecnologías como cookies (pequeños archivos en tu navegador), píxeles (pequeñas imágenes) y SDKs (código en nuestras apps) para recopilar información automáticamente cuando usas nuestros servicios.
+
+**¿Para qué las usamos?**
+
+*   **Esenciales:** Para que el sitio web o la app funcionen correctamente (navegación, seguridad básica).
+*   **Funcionales:** Para recordar tus preferencias (idioma, configuraciones) y mejorar la seguridad.
+*   **Análisis y Rendimiento:** Para entender cómo usas nuestros servicios y poder mejorarlos (qué partes son más populares, si hay errores).
+*   **Marketing y Publicidad:** Para mostrarte anuncios que puedan interesarte, basados en tu actividad (dentro y fuera de nuestros servicios).
+*   **Redes Sociales:** Para permitirte compartir contenido en redes sociales o interactuar con funciones sociales.
+
+**Recuerda:** Puedes gestionar estas tecnologías a través de nuestra herramienta de consentimiento (si está disponible en el servicio que usas) y la configuración de tu navegador o dispositivo.
+
+---
+
+**¿Cómo protegemos tu información?**
+
+Tomamos medidas de seguridad razonables (técnicas, administrativas y físicas) para proteger tu información contra pérdida, mal uso, acceso no autorizado o alteración. Sin embargo, ninguna seguridad es 100% infalible.
+
+---
+
+**Cambios a esta Política de Privacidad**
+
+Podríamos actualizar esta política de vez en cuando (por ejemplo, si cambian las leyes o nuestros servicios). Si los cambios son importantes, te avisaremos (por correo electrónico, un aviso en nuestro sitio/app u otro medio) y, si es necesario por ley, pediremos tu consentimiento. La fecha de la última actualización siempre estará al inicio del documento.
+
+---
+
+**¿Tienes preguntas? Contáctanos**
+
+Si tienes alguna duda sobre esta política o quieres contactar a nuestro equipo de privacidad:
+
+*   Visita nuestro **Centro de Derechos de Privacidad** ([enlace si está disponible]) y usa el formulario de contacto.
+*   También puedes escribirnos por correo postal a:
+    Paramount
+    Attention of Paramount Privacy Team
+    1515 Broadway
+    NY 10036
+    Estados Unidos
+
+*(Nota: Las secciones específicas para leyes de estados de EE.UU. como California, CCPA, etc., no se incluyen en esta versión simplificada para Chile, ya que describen derechos y obligaciones bajo esas leyes específicas. Los derechos generales aplicables en Chile están cubiertos en la sección "Tus Opciones y Derechos").*

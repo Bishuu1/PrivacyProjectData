@@ -1,0 +1,95 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada de DuckDuckGo para Chile
+**Fecha de última actualización:** 11 de mayo de 2023
+**Propósito:** Explicarte de forma clara cómo cuidamos tu privacidad cuando usas nuestros servicios: no te rastreamos ni guardamos tu información personal identificable.
+
+**Nuestra Promesa Principal: No Te Rastreamos.**
+
+*   En resumen, esa es nuestra política de privacidad.
+*   No guardamos ni compartimos tu historial de búsquedas ni las páginas web que visitas cuando usas el buscador DuckDuckGo o nuestras aplicaciones y extensiones.
+
+**Qué Pasa con Tu Información Cuando Usas Nuestros Servicios:**
+
+*   **Información Técnica Temporal:** Cuando visitas nuestro buscador o sitios web, tu dispositivo (computador, celular, etc.) envía automáticamente información básica (como tu dirección IP, tipo de navegador, idioma). A veces, podemos pedir datos adicionales (como tamaño de pantalla o sistema operativo) solo para mostrarte bien el contenido.
+*   **Uso Limitado y Anónimo:** Usamos esta información técnica *solo* temporalmente para entregarte los resultados que buscas y por seguridad (para asegurarnos de que no eres un robot malicioso).
+    *   **Importante:** No guardamos tu dirección IP ni otros identificadores únicos junto con tus búsquedas o visitas. Nunca registramos estos datos de forma permanente ("en disco").
+*   **Búsquedas Anónimas:** Esto significa que no tenemos forma de crear un historial de lo que buscas o de los sitios que visitas. Por ejemplo, podemos saber que hubo muchas búsquedas de "recetas de empanadas", pero no sabemos *quién* las hizo. Usar DuckDuckGo es anónimo.
+*   **Análisis General y Anónimo:** Guardamos las consultas de búsqueda de forma totalmente anónima (sin conexión a ninguna IP o identificador) solo por el tiempo necesario para analizar tendencias generales (como qué temas son populares) y así mejorar nuestro servicio.
+*   **Búsquedas Locales (Cercanas):** Si buscas algo local (como "cafeterías cerca"), usamos una ubicación *aproximada* cerca de ti, pero nunca tu ubicación exacta. Esta ubicación aproximada tampoco la guardamos.
+
+**Cómo Protegemos Tu Información Frente a Terceros (Proveedores):**
+
+*   **Actuamos como Intermediarios Seguros:** Para mostrarte contenido (como imágenes en los resultados), lo pedimos nosotros a nuestros proveedores en tu nombre. Luego, te lo enviamos de forma segura usando una conexión cifrada (protegida) de extremo a extremo.
+*   **Solo Compartimos Datos Técnicos Anónimos:** Compartimos información técnica anónima y general sobre tu navegador o dispositivo con nuestros proveedores (por ejemplo, si usas un celular o computador) solo por motivos de seguridad y para mostrar el contenido correctamente.
+    *   **Importante:** Nunca compartimos con ellos información que pueda identificarte personalmente o que les permita crear un historial de tus búsquedas o sitios visitados.
+*   **Tu Proveedor de Internet y Direcciones IP:** Es inevitable que tu proveedor de internet (como VTR, Movistar, Entel, etc.) y otros intermediarios en la red vean tu dirección IP para poder dirigirte la información (así funciona internet). Sin embargo, la conexión cifrada entre tú y nosotros impide que ellos vean *lo que buscas*.
+*   **Protección Adicional:** Si usas nuestras aplicaciones y extensiones, nuestra función "Smarter Encryption" te ayuda a usar conexiones más seguras (cifradas) también cuando visitas otros sitios web.
+
+**Cuando Visitas Otros Sitios Web:**
+
+*   Si haces clic en un enlace que te saca de DuckDuckGo (enlaces externos o usando nuestros atajos "!bang"), ten en cuenta que visitarás otros sitios web.
+*   Esos sitios tienen sus *propias* políticas de privacidad y prácticas. Lo que hagas allí o la información que les des se rige por sus reglas, no las nuestras.
+*   Aunque nuestras apps y extensiones te protegen de muchos rastreadores, no podemos protegerte completamente cuando estás en sitios o apps de terceros (por ejemplo, si usas Facebook, Facebook sabrá lo que haces en su plataforma).
+
+**Cómo Ganamos Dinero (Sin Rastrearte):**
+
+*   Es un mito que los buscadores necesitan rastrearte para ganar dinero.
+*   Nosotros ganamos dinero mostrando **anuncios privados** en nuestro buscador.
+*   **Anuncios Basados en la Búsqueda, No en Ti:** A diferencia de otros buscadores, nuestros anuncios se basan *solo* en la página de resultados que estás viendo en ese momento, no en un perfil creado sobre ti (porque no tenemos esa información). Si buscas "zapatillas", te mostraremos anuncios de zapatillas.
+*   **Ver Anuncios es Anónimo:** Al igual que tus búsquedas, ver estos anuncios es anónimo.
+*   **Gestión de Clics:** Los clics en los anuncios son gestionados por la red publicitaria de Microsoft. Microsoft se ha comprometido a no asociar tu comportamiento de clics con un perfil de usuario y a no guardar ni compartir esa información, excepto para fines de contabilidad (saber cuántos clics hubo).
+
+**Funciones Opcionales que Protegen Tu Privacidad:**
+
+*   Ofrecemos algunas funciones extras opcionales que mejoran tu privacidad (como nuestra Protección de Email).
+*   Si decides usar una de estas funciones y requiere algún dato personal para funcionar (por ejemplo, tu dirección de correo para la Protección de Email):
+    *   Te informaremos claramente *antes* de que la actives qué información necesitamos.
+    *   Te explicaremos cómo la usaremos (solo para esa función específica).
+    *   Te diremos cómo puedes dejar de usar la función y eliminar esa información.
+    *   Solo pedimos lo estrictamente necesario y lo usamos *únicamente* para el propósito de esa función.
+
+**Cómo Mejoramos Nuestros Productos (Anónimamente):**
+
+*   Para mejorar y promocionar nuestros servicios, usamos solo **métodos anónimos**.
+    *   Por ejemplo, hacemos experimentos anónimos para probar diferentes diseños (sin saber quién ve qué diseño).
+    *   También revisamos lo que la gente dice públicamente sobre nosotros en redes sociales para considerar mejoras.
+
+**Uso de Cookies y Almacenamiento Local (Anónimo):**
+
+*   Ofrecemos varias opciones de configuración de búsqueda. Para guardarlas, usamos "cookies" anónimas o parámetros anónimos en la dirección web (URL), como tú prefieras.
+*   También usamos el almacenamiento local de tu dispositivo para guardar configuraciones de visualización de forma anónima (por ejemplo, para recordar que ya cerraste un aviso y no molestarte mostrándolo de nuevo).
+*   A veces, los experimentos anónimos que hacemos también usan almacenamiento local, pero nunca guardamos información que pueda identificarte a ti o tus búsquedas.
+*   Si usas funciones opcionales (como mantener iniciada la sesión de Protección de Email), usamos el almacenamiento mínimo necesario solo para que esa función opere.
+
+**Cuando Te Comunicas Directamente con Nosotros:**
+
+*   Si nos contactas voluntariamente (por ejemplo, nos envías un email, pides soporte, das tu opinión, te suscribes a nuestro boletín):
+    *   Protegeremos cualquier información personal que nos des (como tu email).
+    *   La usaremos *solo* para el propósito indicado (responderte, enviarte el boletín, etc.).
+    *   La mantendremos segura y solo por el tiempo necesario. Luego la eliminaremos, a menos que la ley nos obligue a conservarla más tiempo.
+    *   Puedes cancelar tu suscripción (por ejemplo, al boletín) en cualquier momento, y borraremos tu información.
+*   **Herramientas Internas:** Para gestionar estas comunicaciones, podemos usar herramientas de software de terceros (como nuestro sistema de correo electrónico o gestión de proyectos). Estos proveedores pueden tener acceso limitado, pero solo para prestar sus servicios.
+*   **Encuestas:** Si participas en encuestas, podríamos usar proveedores adicionales para procesarlas, limitando contractualmente su acceso a datos personales.
+*   **Postulaciones de Trabajo:** Si postulas a un trabajo con nosotros, la información que envíes se rige por nuestra Política de Información de Reclutamiento.
+
+**Respetamos y Apoyamos Tus Derechos Legales de Privacidad:**
+
+*   **No Podemos Entregar lo que No Tenemos:** Es fundamental entender que, si las autoridades nos piden legalmente historiales de búsqueda o navegación vinculados a ti, no podemos entregarlos porque **simplemente no los tenemos**.
+*   **Protección de Datos Limitados:** Si llegáramos a tener alguna información personal tuya muy limitada (como tu email si te suscribes a nuestro boletín), nos opondremos firmemente a los intentos del gobierno de obligarnos a entregarla, a menos que sea estrictamente requerido por ley.
+*   **Transferencia Internacional de Datos:** Es posible que esta información personal limitada sea transferida a otros países distintos de donde se recibió. Esto puede ocurrir porque tenemos servidores en todo el mundo, nuestro equipo trabaja desde diferentes lugares, o tú podrías estar usando una VPN desde otro país. Si realizamos transferencias internacionales, siempre cumpliremos con los requisitos legales aplicables para proteger tu información.
+*   **Tus Derechos:** Las leyes de privacidad te otorgan ciertos derechos sobre la información personal limitada que podríamos tener (proveniente de funciones opcionales o si nos contactaste). Para saber más sobre estos derechos (como pedir una copia, corregir o eliminar tu información), por favor revisa nuestra página de Derechos de Privacidad (Privacy Rights page).
+
+**No Nos Dirigimos a Niños Ni Recopilamos Su Información:**
+
+*   Nuestras aplicaciones y sitio web son para el público general.
+*   No nos dirigimos intencionalmente ni solicitamos información a niños menores de 13 años.
+
+**No Vendemos Tu Información Personal:**
+
+*   Nunca hemos vendido información personal de nadie. Punto.
+
+**Actualizaciones de esta Política:**
+
+*   Si hacemos cambios a esta política de privacidad, publicaremos la versión modificada en nuestro sitio web.
+*   Indicaremos la fecha de la última modificación al principio de esta página y con un mensaje de actualización.

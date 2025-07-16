@@ -1,0 +1,150 @@
+POLÍTICA SIMPLIFICADA:
+
+**Política de Privacidad Simplificada de Yahoo para Chile**
+
+**Fecha de última actualización:** Septiembre de 2024
+
+**Propósito:** Aquí te explicamos de forma clara cómo recopilamos, usamos y protegemos tu información personal cuando usas los servicios de Yahoo en Chile. Queremos que entiendas tus derechos y cómo manejamos tus datos.
+
+**1. ¿Quiénes somos?**
+
+*   Yahoo (antes Verizon Media) es una empresa de tecnología y medios que te ofrece servicios digitales como AOL, Yahoo Mail, Yahoo Finanzas, entre otros.
+*   Usamos el nombre "Yahoo" para referirnos a Yahoo Inc., la empresa en Estados Unidos que te entrega estos servicios y es responsable de tus datos personales cuando los usas.
+*   Si ya tenías una cuenta de AOL o Yahoo, necesitas aceptar esta política para seguir usándola. Si creas una cuenta nueva, esta política aplica desde el primer día. Si usas servicios sin iniciar sesión, esta política aplica desde el 25 de mayo de 2018.
+
+**2. Nuestro Compromiso con tu Privacidad**
+
+*   Tú eres nuestra prioridad. Nos esforzamos por ser transparentes sobre cómo usamos tu información, mantenerla segura y darte opciones claras para controlarla.
+*   Esta política aplica a todas las marcas, sitios web, aplicaciones, productos y servicios de Yahoo (que llamaremos "Servicios"). Algunos servicios pueden tener detalles de privacidad adicionales que encontrarás en la página de "Información sobre productos y servicios específicos".
+
+**3. Tú Tienes el Control**
+
+*   Queremos que tengas herramientas para manejar tu información.
+*   Puedes visitar tus **Controles de Privacidad de Yahoo** para:
+    *   Revisar y editar la información de tu cuenta.
+    *   Ajustar tus preferencias de marketing (publicidad).
+    *   Gestionar tus datos de ubicación.
+    *   Ver y borrar tu historial de búsqueda.
+*   Algunos servicios específicos pueden tener sus propios controles de privacidad adicionales.
+
+**4. ¿Qué Información Recopilamos y Por Qué?**
+
+Recopilamos información para poder ofrecerte, mejorar y personalizar nuestros Servicios. Esto incluye:
+
+*   **Información que tú nos das directamente:**
+    *   **Al crear una cuenta:** Nombre, correo, contraseña, número de teléfono, fecha de nacimiento, etc. Necesitamos esto para identificarte y que puedas usar los Servicios.
+    *   **Al comunicarte o publicar contenido:** Recopilamos el contenido de tus correos, mensajes, comentarios, fotos, videos y archivos que subes o almacenas en nuestros Servicios. Analizamos este contenido (incluyendo correos entrantes y salientes) para ofrecerte funciones útiles, personalizar tu experiencia, mostrarte publicidad relevante y desarrollar nuevos servicios.
+    *   **Al usar nuestros servicios:** Recopilamos información sobre lo que buscas, las páginas que visitas, el contenido que ves y el software que instalas (como plugins). Esto nos ayuda a entender tus intereses y mejorar los servicios.
+    *   **Al usar servicios de pago:** Si compras algo o usas servicios que requieren pago, recopilamos tu información de pago y facturación para procesar la transacción.
+
+*   **Información de tus Dispositivos (Computador, Celular, Tablet, etc.):**
+    *   Recopilamos datos como tu dirección IP, tipo de navegador, sistema operativo, identificadores únicos de tu dispositivo (como ID de publicidad), información de cookies e información de tu red móvil.
+    *   **¿Por qué?** Para reconocerte aunque no inicies sesión, vincular tu actividad entre distintos dispositivos que uses, ofrecerte contenido y publicidad personalizados en todos ellos, y por seguridad.
+
+*   **Información de Ubicación:**
+    *   Recopilamos tu ubicación desde diferentes fuentes (GPS de tu celular, redes Wi-Fi, dirección IP).
+    *   **¿Por qué?** Para ofrecerte servicios basados en tu ubicación (como el clima local, noticias cercanas), resultados de búsqueda relevantes y publicidad local. Puedes controlar los permisos de ubicación en tus dispositivos o en nuestra página de ubicaciones.
+
+*   **Información de Cookies y Tecnologías Similares:**
+    *   Usamos cookies, balizas web ("web beacons") y otras tecnologías para recopilar información cuando interactúas con nuestros Servicios o con contenido y publicidad de Yahoo (incluso fuera de nuestros sitios y apps).
+    *   Esto incluye qué contenido o anuncios viste o en cuáles hiciste clic, cuánto tiempo pasaste en ciertas actividades, qué sitios visitaste antes de llegar a nosotros, y si interactuaste con anuncios específicos (como visitar la web del anunciante o comprar un producto).
+    *   **¿Por qué?** Para entender cómo usas los servicios, medir la efectividad de la publicidad, personalizar tu experiencia y ofrecer servicios a nuestros socios comerciales.
+
+*   **Información que Recibimos de Otros (Terceros):**
+    *   Recopilamos información tuya de otras fuentes como:
+        *   Cuando conectas tu cuenta Yahoo con servicios de terceros (como Facebook o Twitter).
+        *   Fuentes de acceso público.
+        *   Anunciantes que nos informan sobre tus interacciones con sus ofertas.
+        *   Otras empresas (incluyendo nuestras empresas afiliadas) que usan nuestros servicios o nos comparten datos sobre tu actividad en otros sitios o apps.
+    *   **¿Por qué?** Para complementar la información que tenemos, entender mejor tus intereses y ofrecerte una experiencia más personalizada.
+
+**5. ¿Cómo Usamos tu Información?**
+
+Usamos la información que recopilamos (combinándola si es necesario) para:
+
+*   **Ofrecerte y mejorar nuestros Servicios:** Mantener todo funcionando, desarrollar nuevas funciones y contenido relevante para ti.
+*   **Personalizar tu experiencia:** Mostrarte contenido y publicidad que creemos te pueden interesar, basándonos en tu actividad, intereses y ubicación.
+*   **Analizar contenido:** Revisar tus comunicaciones (correos, mensajes, etc.) para darte funciones personalizadas, publicidad y protegerte contra spam o contenido malicioso. Puedes controlar parte de esto en tus Controles de Privacidad.
+*   **Contactarte:** Enviarte información sobre tu cuenta, avisos importantes o mensajes de marketing (puedes ajustar tus preferencias de marketing).
+*   **Vincular tu actividad:** Conectar lo que haces en nuestros diferentes Servicios y dispositivos bajo un mismo usuario para darte una experiencia integrada.
+*   **Publicidad:** Ayudar a los anunciantes a mostrarte anuncios más relevantes, tanto dentro como fuera de nuestros Servicios, y medir si funcionan. Puedes optar por no recibir publicidad personalizada (ver sección 3).
+*   **Investigación e Innovación:** Usar datos (a menudo de forma anónima o agregada) para entender tendencias, mejorar nuestros servicios y desarrollar nuevas tecnologías.
+*   **Informes:** Crear informes con datos generales (no identificables personalmente) para socios, anunciantes o el público sobre el uso de nuestros servicios y tendencias.
+*   **Seguridad:** Detectar y protegernos contra fraudes, abusos o actividades ilegales.
+*   **Cumplir solicitudes:** Cuando nos lo pides o nos das permiso para algo específico.
+
+**6. ¿Cómo Compartimos tu Información?**
+
+**No vendemos, ni licenciamos, ni compartimos tu información personal identificable** (como tu nombre o correo electrónico) con empresas, organizaciones o personas fuera de Yahoo, **excepto** en los siguientes casos:
+
+*   **Con tu Consentimiento:** Si nos das permiso explícito para compartir tu información.
+*   **Dentro de Yahoo:** Compartimos información con otras empresas y servicios que son parte de la familia Yahoo. Estas empresas usan la información siguiendo sus propias políticas de privacidad.
+*   **Con Socios de Confianza:** Compartimos información con empresas que trabajan para nosotros (proveedores de servicios), siguiendo nuestras instrucciones y con acuerdos de confidencialidad para proteger tus datos.
+*   **Con Socios de Publicidad, Analítica y Negocios:**
+    *   Compartimos información **agregada** (resúmenes estadísticos) o **seudónima** (sin identificadores directos como nombre o correo) con socios como anunciantes, publicistas o empresas de análisis. Por ejemplo, podemos decirles cuántas personas vieron su anuncio o instalaron su app, pero no quiénes fueron esas personas.
+    *   Cuando usas aplicaciones o sitios de terceros que se integran con nuestros Servicios (por ejemplo, un botón "Compartir en Yahoo"), ellos pueden recopilar información sobre tu actividad según *sus propias* políticas de privacidad.
+    *   Otras empresas que muestran anuncios en nuestras páginas o apps también pueden usar cookies y tecnologías similares para recopilar información directamente de tu navegador o dispositivo. El uso que hacen de esa información se rige por *sus* políticas de privacidad, no la nuestra.
+*   **Por Razones Legales:** Podemos acceder, conservar y compartir tu información si creemos de buena fe que es necesario para:
+    *   Cumplir con leyes, regulaciones, procesos legales o solicitudes de autoridades gubernamentales (chilenas o de otros países).
+    *   Hacer cumplir nuestros Términos de Servicio.
+    *   Investigar o prevenir fraudes, problemas de seguridad o técnicos.
+    *   Proteger los derechos, propiedad o seguridad de Yahoo, nuestros usuarios o el público.
+    *   Establecer o defender nuestros derechos legales.
+*   **En caso de Cambio de Dueño:** Si Yahoo o parte de sus servicios son vendidos, fusionados o adquiridos por otra empresa, podríamos transferir tu información al nuevo propietario, notificándote si corresponde.
+
+**7. Seguridad y Tiempo de Conservación de tus Datos**
+
+*   Tomamos medidas de seguridad técnicas, administrativas y físicas para proteger tu información contra acceso, uso o divulgación no autorizados. Puedes leer más en nuestra página de Seguridad en Yahoo.
+*   Guardamos tu información personal solo durante el tiempo necesario para ofrecerte los Servicios, o según lo requieran obligaciones legales o comerciales (por ejemplo, mantener registros financieros, por seguridad, para prevenir fraudes o cumplir con la ley).
+*   A veces, podemos conservar datos por más tiempo de forma anonimizada (sin que se te pueda identificar) para investigación, análisis de tendencias o desarrollo de productos.
+
+**8. Privacidad Infantil**
+
+*   Nuestros servicios son para el público general. No recopilamos intencionalmente información de niños menores de 13 años sin el permiso de sus padres o tutores, o según lo permita la ley.
+*   Con permiso parental, los menores de 13 años pueden tener una Cuenta Familiar de Yahoo. Puedes encontrar más información en la página de Cuentas Familiares y Privacidad Infantil.
+
+**9. Bases Legales para Usar tu Información**
+
+Para usar tu información de manera legal, nos basamos principalmente en estas razones:
+
+1.  **Necesidad contractual:** Necesitamos procesar tu información para poder entregarte los Servicios que contrataste al aceptar nuestros Términos de Servicio.
+2.  **Consentimiento:** Cuando nos has dado tu permiso específico para usar tu información de cierta manera (por ejemplo, para marketing).
+3.  **Intereses legítimos:** A veces usamos tu información porque es necesario para nuestros intereses comerciales legítimos (o los de un tercero), siempre que estos intereses no pasen por sobre tus derechos y libertades fundamentales. Por ejemplo, para mejorar nuestros servicios o prevenir fraudes.
+4.  **Otras bases:** Ocasionalmente, podemos usar tu información para cumplir una obligación legal o proteger intereses vitales (como la seguridad de alguien).
+
+**10. ¿Dónde Procesamos y Transferimos tus Datos?**
+
+*   Al usar nuestros Servicios, aceptas que tu información sea procesada, compartida, transferida y usada como se describe en esta política.
+*   **Importante:** Nos autorizas a transferir, procesar, almacenar y usar tu información en otros países además de Chile, como Estados Unidos.
+*   Es posible que las leyes de protección de datos y el acceso gubernamental a la información en esos países sean diferentes a las de Chile. Tomamos medidas para proteger tus datos cuando se transfieren internacionalmente, usando mecanismos como acuerdos basados en cláusulas contractuales aprobadas cuando es aplicable.
+
+**11. Otros Puntos Importantes**
+
+*   Esta Política de Privacidad **solo aplica a los servicios de Yahoo**. No cubre las prácticas de empresas que no son propiedad de Yahoo ni están bajo nuestro control, ni a personas que no empleamos.
+*   Algunos productos de empresas afiliadas a Yahoo pueden tener sus propias políticas de privacidad.
+
+**12. Cambios a esta Política**
+
+*   Podemos actualizar esta Política de Privacidad de vez en cuando. Te recomendamos revisarla periódicamente.
+*   Si hacemos cambios importantes, te avisaremos antes de que entren en vigor.
+
+**13. ¿Preguntas o Dudas?**
+
+*   Si tienes preguntas, sugerencias o quieres hacer un reclamo sobre tu privacidad, puedes completar un **formulario de comentarios** en nuestro sitio web o escribirnos a:
+
+    Yahoo
+    Customer Care - Privacy Policy Issues
+    770 Broadway,
+    New York, NY 10003, USA
+
+*   **Contacto para Europa (si aplica):**
+    *   Responsable de Protección de Datos (DPO): Attn: Data Protection Officer, Yahoo EMEA, The EXO Building, North Wall Quay, Dublín 1, D01 W5Y2, Irlanda.
+    *   Representante Artículo 27: Correo: YahooGDPRrepresentative@mhc.ie / Dirección Postal: MHC GDPR Representative, Mason Hayes and Curran Professional Services Limited, South Bank House, Barrow Street, Dublin 4, Irlanda.
+
+**14. Historial de Cambios Recientes**
+
+*   Mayo 2018: Actualización general de la política.
+*   Octubre 2019: Cambio de nombre de Oath a Verizon Media.
+*   Octubre 2020: Actualizaciones sobre bases legales y transferencias de datos.
+*   Septiembre 2021: Actualización por cambio de nombre a Yahoo; información adicional sobre retención de datos.
+*   Septiembre 2024: Modificaciones sobre transferencias de datos.

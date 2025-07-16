@@ -1,0 +1,156 @@
+POLÍTICA SIMPLIFICADA:
+
+**Política de Privacidad Simplificada de Discord para Chile**
+
+**Fecha de última actualización:** 15 de marzo de 2024 (Versión original vigente desde 15 de abril de 2024)
+
+**Propósito:** Esta política explica de forma sencilla cómo recopilamos, usamos, guardamos, protegemos y compartimos tu información personal cuando usas Discord en Chile. Queremos que entiendas tus derechos y cómo cuidamos tu privacidad.
+
+---
+
+**1. ¡Bienvenido/a a Discord! Nuestro Compromiso con tu Privacidad**
+
+*   **Tu privacidad es clave:** Queremos que Discord sea un lugar seguro y entretenido para hablar con amigos. Respetar tu privacidad es fundamental para nosotros.
+*   **No vendemos tu información:** Ganamos dinero con suscripciones y productos, no vendiendo tus datos personales a terceros.
+*   **Pedimos solo lo necesario:** Solo te pedimos la información indispensable para crear tu cuenta, que Discord funcione bien, cumplir nuestras promesas contigo y obedecer la ley. Cualquier otra información es opcional.
+*   **La seguridad es prioridad:** Contamos con un equipo dedicado a mantener la comunidad segura y usamos cierta información para detectar y prevenir contenido dañino o que incumpla nuestras reglas.
+*   **Tú tienes el control:** Te damos herramientas para que manejes tu privacidad en Discord.
+*   **Responsable de tus datos en Chile:** Para usuarios en Chile, la empresa responsable de tus datos es **Discord Inc.**
+
+**2. ¿Qué es Discord y Cómo Funciona?**
+
+*   Discord es una aplicación para chatear (por texto, voz o video), unirte a comunidades (llamadas "servidores") y pasar el rato con amigos online. Puedes usarla en tu celular, computador o web.
+*   **Tú decides qué compartes:** Puedes enviar mensajes directos (privados) o participar en servidores (que pueden ser más públicos).
+*   **Ojo con los espacios públicos:** En servidores grandes o abiertos, mucha gente podría ver lo que publicas. Los dueños de los servidores deciden quién entra y qué permisos tienen. A veces, usamos contenido de estos espacios públicos para mejorar Discord o para temas de seguridad (siempre respetando tu privacidad). Piensa bien dónde compartes tu información.
+
+**3. ¿Qué Información Recopilamos?**
+
+Recopilamos información de tres maneras:
+
+*   **Información que tú nos das:**
+    *   **Para tu cuenta:** Nombre de usuario, contraseña, tu fecha de nacimiento (para verificar edad) y una forma de contactarte (email o teléfono). Puedes añadir un nombre para mostrar si quieres. A veces pedimos verificar tu cuenta (ej: con un teléfono).
+    *   **Contenido que creas:** Mensajes que escribes (incluso borradores), mensajes de voz, emojis personalizados, archivos que subes, información de tu perfil y de los servidores que creas. *Importante: Generalmente no guardamos el contenido de llamadas de voz o video.*
+    *   **Si compras algo:** Información de pago (nombre, dirección de facturación). Esto lo manejan empresas expertas en pagos (como Stripe o PayPal), nosotros solo vemos información limitada (ej: los últimos 4 dígitos de tu tarjeta). Si vendes algo, podríamos necesitar más datos (ej: cuenta bancaria, identificación) para pagarte y cumplir la ley.
+    *   **Tus acciones en Discord:** Qué amigos agregas, con qué usuarios o bots interactúas, a qué servidores te unes, qué compras o vendes, etc. Puedes controlar parte de esto en tus ajustes.
+    *   **Funciones opcionales:** Si usas funciones como sincronizar contactos o conectar otras cuentas (ej: de música), podríamos pedirte más información o acceso a ella, siempre con tu permiso.
+    *   **Otra información directa:** Si participas en encuestas o contactas a nuestro equipo de soporte.
+
+*   **Información que recogemos automáticamente:**
+    *   **Sobre tu dispositivo:** Qué aparato usas (celular, computador), tu dirección IP (un número que identifica tu conexión a internet), sistema operativo, navegador y configuraciones (ej: si tienes micrófono).
+    *   **Cómo usas Discord:** Qué páginas visitas, en qué servidores o canales participas, qué funciones usas, con qué contenido interactúas.
+    *   **Cookies y tecnologías similares:** Pequeños archivos que nos ayudan a que Discord funcione y entender cómo lo usas. Puedes controlar esto en nuestra Política de Cookies.
+    *   **Desde otros sitios:** Si haces clic en un anuncio de Discord en otra página, podemos saber de qué anuncio y plataforma vienes.
+
+*   **Información que recibimos de otras fuentes:**
+    *   Podemos recibir información sobre ti de otros usuarios o de terceros (ej: si interactúas con nuestras redes sociales, podríamos ver tu nombre de usuario de esa red).
+
+**4. ¿Para Qué Usamos Tu Información?**
+
+Usamos tu información por estas razones principales:
+
+*   **Para que Discord funcione (Cumplir nuestro contrato contigo):**
+    *   **Ofrecerte el servicio:** Para que puedas enviar mensajes, hacer llamadas, unirte a servidores, gestionar tu cuenta y hacer compras. Si conectas otras cuentas, usamos esa info para que la función sirva (ej: mostrar qué música escuchas).
+    *   **Mantener una comunidad segura:** Para detectar y actuar contra usuarios o contenido que rompa nuestras reglas (Condiciones del Servicio, Directivas de la Comunidad). Esto incluye revisar denuncias, detectar fraudes o programas maliciosos y buscar contenido ilegal o dañino. Usamos sistemas automáticos para ayudar en esto.
+    *   **Contactarte:** Para verificar tu cuenta, enviarte avisos importantes sobre Discord o sobre tus compras.
+    *   **Darte soporte:** Para responder tus preguntas y solucionar problemas.
+
+*   **Para nuestros intereses legítimos (Mejorar y proteger Discord):**
+    *   **Proteger nuestros servicios:** Para mantener Discord seguro, prevenir abusos y hacer cumplir nuestras reglas.
+    *   **Entender cómo va nuestro negocio:** Para medir nuestro rendimiento, hacer informes y cumplir obligaciones legales.
+    *   **Personalizar tu experiencia:** Para mostrarte contenido o funciones que te puedan interesar (ej: servidores recomendados). Puedes controlar cuánto usamos tu información para esto en tus ajustes.
+    *   **Mejorar Discord:** Para entender cómo usan la app nuestros usuarios, qué funciones les gustaría tener y cómo hacer Discord más fácil y seguro. A veces analizamos contenido público (sin identificarte) para entender tendencias. También puedes limitar esto en tus ajustes.
+    *   **Promocionar Discord:** Para mostrarte anuncios sobre nuestras funciones (dentro y fuera de Discord) y medir si funcionan. Usamos solo la información necesaria para esto.
+    *   **Informarte sobre novedades:** Para contarte sobre nuevos productos, pedir tu opinión o sugerirte experiencias (puedes elegir no recibir estos mensajes de marketing).
+
+*   **Para cumplir con la ley:**
+    *   Guardamos información si la ley nos obliga (ej: por una orden judicial) o para defendernos en caso de problemas legales. Si pides ejercer tus derechos (ver más abajo), podemos pedirte verificar tu identidad.
+
+*   **Con tu permiso:**
+    *   A veces te pediremos permiso específico para usar tu información para algo concreto (ej: enviarte publicidad si la ley local lo exige). Puedes retirar tu permiso cuando quieras.
+
+*   **Para proteger a alguien:**
+    *   En casos muy raros, si creemos que la vida de alguien corre peligro, podríamos usar o compartir información para ayudar.
+
+**5. ¿Con Quién Compartimos Tu Información?**
+
+Compartimos tu información solo en estas situaciones:
+
+*   **Cuando tú nos lo indicas:** Al publicar en un servidor, esa información se comparte con quienes tengan acceso a él (según los permisos que ponga el dueño del servidor). Si conectas servicios de terceros (bots, otras apps), podemos compartir cierta información con ellos para que funcionen. Si compras algo a otro usuario, podemos darle tus datos necesarios para la entrega.
+*   **Con nuestros proveedores:** Empresas que nos ayudan a operar Discord (ej: procesadores de pago como Stripe/PayPal, servicios de almacenamiento en la nube como Google, plataformas de publicidad para medir nuestros anuncios). Solo les damos la información necesaria para su trabajo.
+*   **Si la ley lo exige:** Si recibimos una solicitud legal válida (ej: de la policía o un tribunal). Intentaremos avisarte si es posible y legal.
+*   **En emergencias:** Si creemos que es necesario para evitar un daño grave a alguien.
+*   **Para hacer cumplir nuestras reglas y derechos:** Para aplicar nuestras Condiciones del Servicio y políticas, o proteger nuestros derechos, propiedad o seguridad, y la de otros.
+*   **Con empresas de nuestro grupo:** Compañías que son parte de la familia Discord.
+*   **Si hay cambios en la empresa:** Si Discord se vende, fusiona o pasa por un proceso similar.
+*   **Información general o anónima:** Podemos compartir datos generales que no te identifican personalmente (ej: estadísticas de cuánta gente usa una función).
+
+**6. ¿Por Cuánto Tiempo Guardamos Tu Información?**
+
+Guardamos tu información solo mientras la necesitemos para los fines que te explicamos en esta política, o mientras la ley nos obligue a mantenerla. Puedes encontrar más detalles en nuestra política de retención de datos (aunque el principio general es este).
+
+**7. ¿Cómo Protegemos Tu Información?**
+
+Tomamos medidas para mantener tu información segura:
+
+*   **Encriptación:** Usamos tecnología (como TLS) para proteger tu información mientras viaja por internet y cuando está guardada.
+*   **Acceso controlado:** Limitamos quiénes dentro de Discord (empleados, contratistas) pueden ver tu información personal.
+*   **Tú también puedes ayudar:** Usa una contraseña segura y activa la "autenticación de dos factores" para proteger tu cuenta.
+
+**8. Tú Tienes el Control de Tu Privacidad**
+
+Queremos que tengas control sobre tu información. Aquí te explicamos cómo:
+
+*   **Decide qué compartes y dónde:** Tú eliges qué mensajes enviar, a qué servidores unirte y qué poner en tu perfil. Piensa bien antes de compartir en espacios públicos.
+*   **Ajusta tu configuración de privacidad:** En los "Ajustes de Usuario" (el icono del engranaje), puedes:
+    *   Mostrar u ocultar tu actividad actual (ej: qué juego juegas).
+    *   Filtrar contenido explícito.
+    *   Decidir quién puede agregarte como amigo.
+    *   **Limitar cómo usamos tus datos:** Puedes desactivar opciones para que no usemos tu información para mejorar nuestros servicios o para personalizar tu experiencia (esto limitará cierta recolección de datos de uso).
+*   **Desactiva o elimina tu cuenta:**
+    *   **Desactivar:** Pausa tu cuenta y el procesamiento de datos nuevos. Puedes reactivarla cuando quieras.
+    *   **Eliminar:** Borra tu información identificable de forma permanente y anonimiza otros datos. Encuentra cómo hacerlo en nuestro Centro de Ayuda.
+*   **Edita o borra tu contenido:**
+    *   Puedes editar o borrar mensajes o contenido que hayas publicado si aún tienes acceso a ese espacio.
+    *   Si tienes permisos, puedes editar o borrar servidores o canales.
+    *   *Nota:* Aunque borres algo, podríamos tener que guardar cierta información por razones legales o como se describe en nuestra política de retención.
+*   **Pide una copia de tus datos:** En los Ajustes de Usuario ("Privacidad y Seguridad"), puedes solicitar una copia de la información que tenemos sobre ti. Te la enviaremos en formatos comunes (como CSV, JSON) en unos 30 días.
+*   **Tus Derechos:** Tienes derecho a:
+    *   Acceder a tu información personal.
+    *   Corregir información incorrecta.
+    *   Eliminar tu información personal.
+    *   Limitar cómo usamos tu información.
+    *   Recibir tu información en un formato portable.
+    *   Oponerte a ciertos usos de tu información.
+    *   Retirar tu permiso (si lo diste para algo específico).
+    Puedes ejercer la mayoría de estos controles directamente en la app o contactándonos (ver sección 13).
+
+**9. Transferencias Internacionales de Datos**
+
+*   Discord tiene su sede en Estados Unidos (EE.UU.), por lo que tu información se procesa y guarda principalmente allí. También puede guardarse en otros países donde tengamos servidores o proveedores.
+*   Al usar Discord, aceptas que tu información pueda ser transferida a EE.UU. y otros países, donde las leyes de privacidad podrían ser diferentes a las de Chile.
+*   Usamos medidas legales (como contratos aprobados) para proteger tu información cuando viaja fuera de tu región.
+
+**10. Servicios Ofrecidos por Terceros (Bots y Aplicaciones)**
+
+*   En Discord puedes usar aplicaciones, juegos o "bots" creados por desarrolladores externos (no por Discord). Por ejemplo, bots para moderar servidores o juegos.
+*   Estos servicios de terceros tienen sus propias políticas de privacidad y reglas. **Es importante que las leas antes de usarlos**, porque Discord no controla lo que ellos hacen con tu información ni somos responsables por ello. Tú decides si usas estos servicios.
+
+**11. Oficial de Protección de Datos (DPO)**
+
+Si tienes preguntas específicas sobre protección de datos, puedes contactar a nuestro Oficial de Protección de Datos en: dpo@discord.com.
+
+**12. Cambios a esta Política de Privacidad**
+
+*   Podemos actualizar esta política de vez en cuando. Siempre pondremos la fecha de la última actualización al principio.
+*   Si los cambios son importantes, te avisaremos de forma más clara (por ejemplo, con un mensaje en la app o por correo electrónico), como lo exija la ley.
+
+**13. ¿Tienes Preguntas? Contáctanos**
+
+Si tienes cualquier duda sobre esta política o cómo manejamos tu información, escríbenos a: **privacy@discord.com**.
+
+También puedes enviarnos una carta a la dirección de Discord Inc. (responsable para usuarios en Chile):
+
+Discord Inc.
+ATTN: Privacy Policy
+444 De Haro Street #200
+San Francisco, CA 94107, USA.

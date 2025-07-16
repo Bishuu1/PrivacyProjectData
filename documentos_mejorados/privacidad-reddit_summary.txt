@@ -1,0 +1,184 @@
+POLÍTICA SIMPLIFICADA: Política de Privacidad de Reddit para Usuarios Chilenos
+
+**Título:** Política de Privacidad Simplificada de Reddit para Chile
+**Fecha de última actualización:** 16 de agosto de 2024
+**Propósito:** Aquí te explicamos de forma simple cómo juntamos, usamos y cuidamos tu información personal cuando usas Reddit. Queremos que entiendas tus derechos y tomes las mejores decisiones sobre tu privacidad.
+
+**Resumen Rápido (Lo Esencial):**
+
+*   **Reddit es público:** Tus posts, comentarios y perfil los puede ver cualquiera. Piensa bien antes de publicar.
+*   **Juntamos poca info tuya:** Solo lo necesario. No te pedimos tu nombre real ni tu ubicación exacta para crear una cuenta. Tú decides cuánta info compartes.
+*   **Usamos tus datos para mejorar Reddit:** Sirven para que la plataforma funcione y la gente pueda conectarse. No vendemos tus datos personales a terceros.
+*   **Todos tienen derechos sobre sus datos:** No importa de dónde seas, puedes pedir copia de tu info, borrar tu cuenta o preguntarnos sobre nuestras políticas.
+*   **Si tienes dudas, pregúntanos:** Hicimos esta política fácil de entender, pero si algo no queda claro, contáctanos.
+
+**1. Qué significa que Reddit sea público**
+
+Mucha de la información en Reddit es pública y cualquiera puede verla, incluso sin tener cuenta. Al usar Reddit, aceptas compartir esta información públicamente.
+
+*   **Tu contenido:** Lo que publicas (posts, comentarios, mensajes en chats públicos) puede ser visto por todos, junto con tu nombre de usuario y la fecha/hora.
+*   **Buscadores e IA:** Tu contenido público puede aparecer en resultados de Google o en respuestas de chatbots como ChatGPT.
+*   **Tu perfil:** Tu página de perfil es pública. Muestra tu nombre de usuario, posts y comentarios anteriores, karma, trofeos, info "acerca de", avatar, si eres moderador, tu antigüedad ("día del pastel"), etc.
+*   **Compartir en redes sociales:** Si usas funciones para compartir contenido de Reddit en otras plataformas (Facebook, X, etc.), se comparte información según la configuración de esa plataforma. Revisa sus políticas de privacidad.
+*   **Acceso de terceros:** Permitimos que moderadores y desarrolladores accedan al contenido público de Reddit usando herramientas y APIs (interfaces de programación), siguiendo nuestras reglas y, en algunos casos, pagando licencias. Revisa nuestra Política de Contenido Público para más detalles.
+
+**2. Qué información juntamos sobre ti**
+
+Recopilamos información de distintas maneras:
+
+**A. Información que tú nos das directamente:**
+
+*   **Información de tu cuenta:**
+    *   No necesitas cuenta para solo mirar Reddit.
+    *   Si creas una cuenta, necesitas un nombre de usuario (público, no tiene que ser tu nombre real) y una contraseña (o verificarte por email, Google/Apple login, o SMS si no usas contraseña).
+    *   Puedes elegir intereses (ej: historia, deportes) para personalizar tu inicio o unirte a comunidades (ej: r/Chile).
+    *   Puedes agregar info opcional a tu perfil (biografía, género, edad, ubicación, foto, enlaces sociales). Puedes borrarla cuando quieras.
+    *   Guardamos tus preferencias y configuraciones.
+*   **Contenido no público:** Borradores de posts/comentarios, mensajes privados, chats, mensajes a moderadores ("modmail"), reportes que envías y otras comunicaciones con nosotros o moderadores.
+*   **Acciones que realizas:** Tus interacciones como votar, guardar, ocultar, reportar contenido, seguir o bloquear usuarios, suscribirte a comunidades o ser moderador.
+*   **Información de transacciones:**
+    *   Si compras algo en Reddit (ej: Premium, Avatares), necesitamos info de pago para procesar la compra (usamos servicios externos seguros como Stripe, que tienen sus propias políticas).
+    *   Guardamos qué compraste, cuándo, cuánto pagaste y fechas de renovación.
+    *   Si usas funciones de blockchain (Avatares Coleccionables, Reddit Vault), podemos juntar tu dirección pública de blockchain. **Importante:** Nunca guardamos tu clave privada de la Vault.
+*   **Otra información:** Si llenas formularios, participas en encuestas o promociones, postulas a un trabajo, pides ayuda o te comunicas con nosotros.
+
+**B. Información que juntamos automáticamente:**
+
+*   **Datos de registro y uso (Logs):** Cuando usas Reddit, registramos info como tu dirección IP (la borramos después de 100 días, excepto la usada para crear tu cuenta), tipo de navegador, sistema operativo, dispositivo, páginas visitadas, clics, búsquedas, etc.
+*   **Información de cookies y tecnologías similares:** Usamos cookies (pequeños archivos que guarda tu navegador) para que Reddit funcione bien, recordar tus preferencias (como el idioma), entender cómo usas la plataforma, personalizar contenido y anuncios, y medir si la publicidad funciona. Revisa nuestro Aviso de Cookies para más detalles.
+*   **Información de ubicación:** Podemos saber tu ubicación aproximada por tu dirección IP o si tú decides compartirla (ej: asociando tu contenido a un lugar).
+
+**C. Información que recibimos de otras fuentes:**
+
+*   **Otros usuarios y terceros:** Podemos recibir info sobre ti de otros (ej: datos demográficos o de intereses de anunciantes) y combinarla con la que tenemos para personalizar anuncios. Puedes controlar esto en tu configuración.
+*   **Servicios vinculados:** Si conectas tu cuenta de Reddit a otro servicio (ej: una app externa, login con Google/Apple), recibimos información sobre tu uso de ese servicio según lo que autorices.
+*   **Integraciones de terceros:** Recibimos info de sitios web que usan herramientas de Reddit (como videos incrustados o nuestra tecnología de anuncios). Por ejemplo, si visitas una web con un post de Reddit incrustado, sabemos qué página visitaste. Puedes controlar cómo usamos esto para personalizar tu experiencia.
+
+**D. Información recopilada por terceros (Importante):**
+
+*   **Contenido incrustado (Embeds):** A veces, Reddit muestra contenido de otros sitios (ej: videos de YouTube, tuits de X) directamente en la plataforma. Esos servicios te entregan el contenido directamente y juntan datos según *sus* propias políticas de privacidad, no la nuestra.
+*   **Medición de audiencia:** Trabajamos con empresas que nos ayudan a entender quiénes usan Reddit (demografía), usando cookies para reconocer tu dispositivo.
+
+**E. Información específica para ciertos usuarios:**
+
+*   **Anunciantes (Reddit Ads):** Si usas nuestra plataforma de anuncios, te pedimos nombre, email, info de tu empresa (que puede ser pública por ley), info de pago y, a veces, documentos para verificar tu identidad. Podemos grabar tus sesiones en la plataforma de anuncios para mejorarla.
+*   **Usuarios de Reddit Pro:** Si te registras, podemos pedir info adicional (tipo de perfil, nombre, industria, sitio web, tamaño de empresa) y documentos de verificación para ciertas funciones.
+*   **Participantes de programas Reddit (ej: Programa de Colaboradores):** Si participas, juntamos (directamente o a través de terceros) info adicional como nombre, fecha de nacimiento, dirección, email, info fiscal, documento de identidad y datos de pago para verificar tu elegibilidad, pagarte y cumplir la ley. Estos proveedores tienen sus propias políticas.
+
+**3. Para qué usamos tu información**
+
+Usamos la información que juntamos para:
+
+*   **Hacer que Reddit funcione:** Entregar, mantener y mejorar nuestros servicios.
+*   **Personalizar tu experiencia:** Mostrarte contenido, funciones y anuncios que calcen con tus intereses y actividad.
+*   **Mantener la seguridad:** Proteger a Reddit y a nuestros usuarios (bloquear spam, combatir abusos, hacer cumplir nuestras reglas y la ley).
+*   **Gestionar la publicidad:** Mostrar anuncios, optimizarlos, medir si son efectivos y a quién llegan.
+*   **Investigar y desarrollar:** Crear nuevos servicios y funciones.
+*   **Comunicarnos contigo (operativo):** Enviarte avisos técnicos, actualizaciones, alertas de seguridad, facturas y mensajes administrativos.
+*   **Darte soporte:** Ayudarte si tienes problemas o preguntas.
+*   **Comunicarnos contigo (marketing):** Contarte sobre productos, servicios, ofertas y noticias que podrían interesarte (puedes desactivar estas comunicaciones).
+*   **Analizar el uso:** Entender cómo se usan nuestros servicios, qué tendencias hay y qué actividades se realizan.
+
+**4. Con quién compartimos tu información**
+
+Además de la información que es pública por naturaleza (ver punto 1), podemos compartir tu información en estos casos:
+
+*   **Con tu permiso:** Si tú nos autorizas o nos pides que compartamos algo (ej: al usar botones para compartir en redes sociales).
+*   **Con servicios vinculados:** Si conectas tu cuenta de Reddit a un servicio de terceros, compartimos la información que tú autorices con ese servicio.
+*   **Con nuestros proveedores de servicios:** Compartimos información con empresas que nos ayudan a operar (ej: procesadores de pago, servicios de almacenamiento en la nube, medición de anuncios, verificación para programas). Ellos deben seguir reglas estrictas de confidencialidad y seguridad.
+*   **Para cumplir con la ley:** Si una ley, regulación, proceso legal o solicitud gubernamental válida lo exige (ej: una orden judicial). Intentaremos avisarte antes si la ley lo permite. Puedes ver más en nuestro Reporte de Transparencia.
+*   **En emergencias:** Si creemos que es necesario para prevenir un daño físico grave e inminente a una persona.
+*   **Para hacer cumplir nuestras reglas y proteger derechos:** Si creemos que tus acciones violan nuestras reglas o políticas, o para proteger los derechos y seguridad de Reddit, nuestros usuarios u otros.
+*   **Con nuestras empresas afiliadas:** Podemos compartir información dentro del grupo de empresas de Reddit.
+*   **Información agregada o anónima:** Podemos compartir datos generales que no te identifican personalmente (ej: decir a un anunciante cuántas personas vieron su anuncio, sin decir quiénes).
+
+**5. Cómo cuidamos tu información**
+
+Tomamos medidas para proteger tu información contra pérdida, robo, mal uso, acceso no autorizado, divulgación, alteración y destrucción.
+
+*   **Medidas técnicas:** Usamos seguridad como HTTPS para la transmisión de datos y controles de acceso para limitar quién dentro de Reddit puede ver tu información personal no pública.
+*   **Tu rol en la seguridad:** Puedes ayudar activando la autenticación de dos pasos en tu cuenta.
+*   **Tiempo de almacenamiento:** Guardamos tu información solo el tiempo necesario para los fines por los que la juntamos, o por razones legales o comerciales legítimas (ej: si tu cuenta es suspendida, podemos guardar ciertos datos para evitar que crees cuentas nuevas).
+
+**6. Tus derechos y cómo controlas tu información**
+
+Tienes opciones para proteger y limitar cómo se junta, usa y comparte tu información. Todos nuestros usuarios tienen estos derechos básicos:
+
+*   **Acceder y modificar tu información:** Puedes ver y cambiar parte de tu información directamente en la configuración de tu cuenta. También puedes pedir una copia de toda la información personal que Reddit tiene sobre ti (sigue el proceso descrito aquí o en el Centro de Ayuda).
+*   **Borrar tu cuenta:** Puedes eliminar tu cuenta desde la configuración. Tu perfil dejará de ser visible y se desvinculará de tu contenido. **Ojo:** Tus posts y comentarios antiguos seguirán visibles para otros, a menos que los borres específicamente *antes* de borrar la cuenta. El proceso de borrado completo tarda hasta 90 días. Podríamos conservar cierta información si es necesario por razones legales o de seguridad legítimas.
+*   **Controlar el acceso de servicios vinculados:** Puedes ver qué servicios externos (apps, sitios) tienen acceso a tu cuenta y revocarles el permiso desde la configuración de tu cuenta ("aplicaciones" y "cuentas conectadas").
+*   **Controlar la publicidad personalizada:** Puedes elegir que no usemos información de terceros (socios publicitarios) para personalizar los anuncios que ves en Reddit. Hazlo en la sección de Privacidad de la configuración de tu cuenta.
+*   **Controlar el uso de cookies:** La mayoría de los navegadores te permiten borrar o rechazar cookies. Si lo haces, algunas partes de Reddit podrían no funcionar bien. Revisa nuestro Aviso de Cookies para más detalles.
+*   **Controlar publicidad y análisis de terceros:** Puedes usar herramientas para limitar cómo ciertas empresas (como Google Analytics, Nielsen, Quantcast) recopilan datos para análisis o publicidad personalizada. Visita los sitios de Digital Advertising Alliance, Network Advertising Initiative o Your Online Choices (si estás en Europa) para más información.
+*   **Señal "Do Not Track" (No rastrear):** Los navegadores pueden enviar una señal para indicar que no quieres ser rastreado. Actualmente no respondemos a esta señal, pero te ofrecemos las otras opciones de control descritas aquí.
+*   **Controlar las comunicaciones promocionales:** Puedes elegir no recibir emails promocionales siguiendo las instrucciones en esos emails o cambiando tus preferencias en la configuración de tu cuenta. Seguirás recibiendo mensajes importantes sobre tu cuenta o el servicio.
+*   **Controlar las notificaciones móviles:** Si activaste notificaciones en tu celular, puedes desactivarlas en cualquier momento desde la configuración de tu dispositivo.
+*   **Controlar la información de ubicación (basada en IP):** Puedes controlar si usamos tu ubicación aproximada (deducida de tu IP) para personalizar tu feed y recomendaciones en la configuración de tu cuenta ("Personalización de la ubicación").
+
+**Cómo ejercer tus derechos:**
+Puedes usar las opciones dentro de tu cuenta o contactarnos. Si tienes problemas o preguntas, escríbenos a `redditdatarequests@reddit.com` (idealmente desde el email asociado a tu cuenta) o usa los formularios de contacto disponibles. Necesitaremos verificar tu identidad antes de procesar tu solicitud. Si rechazamos tu solicitud, puedes apelar contactándonos al mismo email. Reddit no te discriminará por ejercer tus derechos de privacidad.
+
+**7. Dónde guardamos y procesamos tu información (Transferencias Internacionales)**
+
+Reddit tiene su sede en Estados Unidos (EE.UU.). Tu información se procesa y almacena principalmente en servidores en EE.UU. También podemos usar servidores en otros países.
+
+*   **Al usar Reddit, aceptas que tu información se transfiera a EE.UU. y otros países.** Las leyes de protección de datos en esos lugares pueden ser diferentes a las de Chile.
+*   Cuando transferimos datos personales desde Europa (EEE, Reino Unido, Suiza) a EE.UU., lo hacemos cumpliendo con mecanismos legales aprobados, como las Cláusulas Contractuales Tipo o el Marco de Privacidad de Datos (Data Privacy Framework - DPF).
+*   **Marco de Privacidad de Datos (DPF):** Reddit cumple con los principios del DPF establecidos por el Departamento de Comercio de EE.UU. para las transferencias de datos desde la UE, Reino Unido y Suiza hacia EE.UU. Esto asegura un nivel adecuado de protección. Estamos sujetos a la supervisión de la Comisión Federal de Comercio de EE.UU. (FTC). Si tienes una queja sobre esto que no resolvamos, puedes recurrir a JAMS (un servicio de resolución de disputas gratuito) y, en última instancia, a arbitraje vinculante bajo ciertas condiciones.
+
+**8. Información adicional para usuarios del Espacio Económico Europeo (EEE) y Reino Unido (RU)**
+
+*   **Aplicabilidad:** Esta sección aplica específicamente si vives en el EEE o el RU.
+*   **Responsables del tratamiento:** Para usuarios del EEE, es Reddit Netherlands B.V. Para usuarios del RU, es Reddit, Inc. (con Reddit UK Limited como representante).
+*   **Derechos adicionales:** Tienes derechos específicos bajo el RGPD (Reglamento General de Protección de Datos), como acceso, rectificación, supresión, portabilidad, restricción del tratamiento, oposición y retiro del consentimiento. Puedes ejercerlos como se describe en la sección 6. También tienes derecho a reclamar ante tu autoridad local de protección de datos.
+*   **Bases legales para procesar tu información:** Solo procesamos tu información si tenemos una base legal válida según el RGPD. Estas bases pueden ser:
+    *   **Necesidad contractual:** Para cumplir nuestro contrato contigo (ej: darte el servicio de Reddit).
+    *   **Interés legítimo:** Para fines legítimos nuestros (ej: seguridad, investigación, marketing), siempre que no afecten tus derechos fundamentales.
+    *   **Consentimiento:** Si nos diste tu permiso explícito para un fin específico.
+    *   **Obligación legal:** Para cumplir con la ley.
+
+**9. Información adicional para usuarios de California (EE.UU.)**
+
+*   **Aplicabilidad:** Esta sección aplica específicamente si vives en California, según su ley (CCPA).
+*   **Información recopilada:** En los últimos 12 meses, hemos recopilado categorías de información personal como identificadores (usuario, email, IP), información comercial (compras), actividad en internet (uso de Reddit), geolocalización (por IP), mensajes, contenido audiovisual, información profesional/demográfica (si la proporcionas) e inferencias (para recomendaciones/anuncios). Más detalles en la sección 2.
+*   **Uso y compartición:** Usamos y compartimos esta información como se describe en las secciones 3 y 4.
+*   **Derechos bajo CCPA:** Tienes derechos adicionales como saber qué datos tenemos, pedir que se borren o corrijan, y optar por no "vender" o "compartir" tu información (Reddit declara que no realiza estas acciones según la definición de la CCPA). Tienes derecho a no ser discriminado por ejercer estos derechos.
+*   **Cómo ejercerlos:** Usa las opciones de la sección 6 o contáctanos. Verificaremos tu identidad. Puedes usar un agente autorizado (podríamos pedir pruebas de autorización).
+
+**10. Uso por menores de edad**
+
+*   **Edad mínima:** No puedes crear una cuenta ni usar Reddit si tienes menos de 13 años.
+*   **Leyes locales:** Si vives fuera de EE.UU., debes tener la edad mínima requerida por la ley de tu país para usar nuestros servicios, o contar con el permiso verificado de tus padres o tutores legales.
+
+**11. Cambios a esta política**
+
+Podemos cambiar esta Política de Privacidad de vez en cuando.
+
+*   **Notificación:** Si hacemos cambios, actualizaremos la fecha de "última actualización" al principio. Si son cambios importantes, te avisaremos (por email si lo diste, o con un aviso dentro de Reddit).
+*   **Revisión:** Te recomendamos revisar esta política periódicamente.
+*   **Aceptación:** Si continúas usando Reddit después de que los cambios entren en vigor, significa que aceptas la política actualizada.
+
+**12. Cómo contactarnos**
+
+Si tienes preguntas sobre esta política, contáctanos:
+
+**Reddit, Inc.**
+548 Market St. #16093
+San Francisco, California 94104
+EE.UU.
+
+**Oficina de Protección de Datos (DPO):**
+`dpo@reddit.com`
+
+**Para usuarios en el Espacio Económico Europeo:**
+Reddit Netherlands B.V.
+Euro Business Center
+Keizersgracht 62, 1015CS Amsterdam
+Países Bajos
+
+**Para usuarios en el Reino Unido:**
+Reddit UK Limited
+5 New Street Square,
+London, United Kingdom,
+EC4A 3TW
+`ukrepresentative@reddit.com`

@@ -1,0 +1,93 @@
+¡Excelente! Aquí tienes la versión simplificada de la política de privacidad y términos de uso, siguiendo tus instrucciones de experto legal.
+
+***
+
+### **POLÍTICA SIMPLIFICADA**
+
+**Título:** Política de Privacidad y Términos de Uso Simplificados de Itaú Chile.
+**Fecha de última actualización:** [Fecha de la versión original del documento].
+**Propósito:** Aquí te explicamos de forma simple y clara cómo funcionan nuestros servicios digitales (como la App y la página web) y cómo recopilamos, usamos y protegemos tu información personal. Queremos que sepas qué estás aceptando cuando los usas.
+
+---
+
+### **1. Reglas Claras para Usar Nuestros Servicios Digitales**
+
+Estas reglas aplican a todas nuestras plataformas digitales: la App Itaú, la página web, y cualquier otro portal de Banco Itaú Chile y sus filiales.
+
+*   **Tu Contrato es lo Principal:** Recuerda que este documento complementa, pero no cambia, las condiciones de los contratos que ya firmaste con nosotros para tus productos (como tu cuenta corriente o tarjeta de crédito).
+*   **Actualizaciones:** Podemos modificar estas condiciones cuando sea necesario. Siempre te informaremos de los cambios importantes.
+
+#### **a. Cómo Ingresar de Forma Segura**
+Para entrar a tu cuenta y hacer operaciones, necesitas identificarte. Usamos distintas formas para asegurarnos de que eres tú, como:
+*   Tu clave secreta.
+*   Tu huella digital.
+*   Reconocimiento facial u otros datos biométricos.
+
+Estas opciones estarán disponibles si tu celular o dispositivo tiene la tecnología para usarlas.
+
+#### **b. Tu Clave es Tu Responsabilidad**
+**Tu clave es tuya y de nadie más.** Es secreta, personal y no puedes compartirla. Cuidarla es tu responsabilidad. Cualquier operación hecha con tus claves se considerará como si la hubieras firmado tú mismo, según la Ley N° 19.799 de Firma Electrónica.
+
+#### **c. ¿Perdiste o te Robaron el Celular?**
+Avísanos **al tiro** por nuestros canales de emergencia. Así podremos bloquear tus accesos y proteger tu cuenta. La responsabilidad en estos casos se rige por lo que dice la ley (especialmente la Ley N° 20.009 sobre fraudes).
+
+#### **d. Usa Nuestros Servicios para lo que Son**
+Si detectamos un uso incorrecto o ilegal de nuestras plataformas (como fraudes o estafas), podemos registrar esa actividad y entregar la información a la policía o a los tribunales para que investiguen y sancionen a los responsables.
+
+---
+
+### **2. Tu Privacidad: Cómo Cuidamos tu Información**
+
+En Itaú, nos tomamos muy en serio la protección de tus datos. Al usar nuestros servicios, aceptas cómo manejamos tu información, tal como te lo explicamos aquí.
+
+#### **a. ¿Qué Información Recopilamos y Para Qué la Usamos?**
+
+Recopilamos distintos tipos de datos para poder darte el mejor servicio, con seguridad y cumpliendo la ley.
+
+| **Tipo de Información que Recopilamos** | **Para qué la Usamos (Finalidad)** |
+| :--- | :--- |
+| **Tus Datos Personales y de Contacto:**<br>Nombre, RUT, dirección, teléfono, email. | Para identificarte, contactarte y actualizar tu información. |
+| **Tu Información Financiera y Comercial:**<br>Datos de tus productos, transacciones, deudas, ingresos. | Para gestionar tus productos, analizar tu comportamiento financiero, evaluar riesgos y ofrecerte soluciones a tu medida. |
+| **Datos Biométricos:**<br>Tu huella digital o rostro (si activas esa opción). | Para que puedas ingresar a tu cuenta de forma más fácil y segura. |
+| **Información de tu Dispositivo y Uso de la App:**<br>Modelo de tu celular, sistema operativo, otras apps instaladas, y cómo usas nuestra App. | Para prevenir fraudes, mejorar la seguridad, y garantizar que la App funcione bien en tu equipo. |
+| **Tu Voz o Imagen:**<br>Podemos grabar llamadas o interacciones. | Para verificar tu identidad al contratar productos y como respaldo de tus instrucciones. |
+
+**Obtenemos esta información de varias fuentes:**
+*   **Directamente de ti:** Cuando contratas un producto, llenas un formulario o nos contactas.
+*   **De tu actividad:** Al usar nuestra App, página web o hacer transacciones.
+*   **De fuentes públicas:** Como bases de datos autorizadas para instituciones financieras.
+
+#### **b. Tu Permiso es Clave (Tu Autorización)**
+
+Al aceptar estas condiciones, nos das permiso para:
+
+1.  **Gestionar tu Información:** Recopilar, guardar, organizar y usar tus datos para las finalidades que te explicamos en la tabla anterior.
+2.  **Usar Proveedores Externos:** Podemos usar empresas especializadas, **incluso fuera de Chile o "en la nube"**, para que nos ayuden a procesar o guardar tu información de forma segura. Estos proveedores son seleccionados cuidadosamente y deben cumplir nuestros mismos estándares de seguridad. **Nosotros, Itaú, siempre seremos los responsables de tus datos.**
+3.  **Compartir Información Dentro del Grupo Itaú:** Podemos compartir tu información con otras empresas de nuestro grupo (filiales o relacionadas) para ofrecerte mejores servicios, beneficios, y para cumplir con la ley.
+4.  **Colaborar con Socios Comerciales:** Podemos compartir ciertos datos con empresas con las que tenemos alianzas para ofrecerte promociones o mejoras en tus productos. Siempre lo haremos cumpliendo con la Ley de Protección de Datos (N° 19.628) y el Secreto Bancario (art. 154 de la Ley General de Bancos).
+
+#### **c. ¿Por Cuánto Tiempo Guardamos tus Datos?**
+Conservamos tu información mientras seas nuestro cliente y por el tiempo que la ley nos exige después de que termine nuestra relación (por ejemplo, por temas contables o legales). También podremos usarla para contactarte con ofertas, a menos que nos pidas que no lo hagamos.
+
+#### **d. Tu Seguridad es Nuestra Prioridad**
+Tomamos todas las medidas técnicas y organizativas necesarias para proteger tu información de accesos no autorizados, pérdidas o fraudes. Seguimos los estándares de la industria y las normas de reguladores como la **Comisión para el Mercado Financiero (CMF)**.
+
+---
+
+### **3. Otros Puntos Importantes**
+
+*   **Cuidado con los Links a Otras Páginas:** Si en nuestra web o App hay un link a un sitio de otra empresa, no somos responsables de cómo ellos manejan tu información. Revisa sus propias políticas de privacidad.
+*   **¿Qué Pasa si Algo no Está Aquí?** Si un tema no se explica en este documento, se aplican las condiciones de los contratos de tus productos que ya firmaste con nosotros.
+*   **Leyes que nos Rigen:** Todo lo que hacemos se rige por las leyes de la República de Chile.
+*   **Validez y Cambios a esta Política:** Esta política está vigente desde su fecha de publicación. Si la actualizamos, te lo informaremos.
+
+---
+
+### **4. Glosario Simple: ¿Qué Significan estos Términos?**
+
+*   **Datos Personales:** Cualquier información sobre ti (tu nombre, RUT, teléfono, etc.).
+*   **Datos Sensibles:** Información más íntima, como tu estado de salud, origen racial u opiniones políticas. Somos extra cuidadosos con estos datos.
+*   **Responsable del Tratamiento:** Somos nosotros, Itaú. Decidimos cómo y para qué se usan tus datos.
+*   **Encargado del Tratamiento:** Es una empresa externa que contratamos para que nos ayude a procesar tus datos (por ejemplo, un proveedor de servicios en la nube). Actúan por encargo nuestro y bajo nuestras reglas.
+*   **Tratamiento de Datos:** Es cualquier cosa que hacemos con tu información: guardarla, organizarla, usarla, compartirla o eliminarla.
+*   **Titular de Datos:** Eres tú, la persona dueña de la información.

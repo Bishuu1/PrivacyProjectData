@@ -1,0 +1,194 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Aviso de Privacidad Simplificado de Twitch para Chile
+**Fecha de última actualización:** 30 de junio de 2023
+**Propósito:** Explicamos de forma sencilla cómo recogemos, usamos y protegemos tu información personal cuando usas los servicios de Twitch en Chile. Queremos que entiendas tus derechos y opciones.
+
+---
+
+**Información Importante Antes de Empezar**
+
+*   **Quiénes somos:** Twitch Interactive, Inc. ("Twitch") es parte de la familia Amazon.com, Inc. ("Amazon"). Este aviso aplica a todos los sitios web, apps y servicios de Twitch (como www.twitch.tv).
+*   **Tu Aceptación:** Al usar Twitch, aceptas las prácticas descritas aquí.
+*   **Responsable de tus datos:** Para la ley, Twitch Interactive, Inc. en EE.UU. es responsable de tu información.
+*   **Información Pública:** Algunas cosas que haces en Twitch son públicas (transmitir, chatear, tu perfil). Otros usuarios pueden ver y usar esa información. ¡Tenlo en cuenta!
+*   **Cookies:** Usamos cookies. Para saber más, revisa nuestro Aviso sobre Cookies por separado.
+
+---
+
+**1. Qué Información Recogemos Sobre Ti**
+
+Necesitamos cierta información para que Twitch funcione. Si no nos la das o pides borrarla, quizás no puedas usar nuestros servicios.
+
+*   **Información que tú nos das directamente:**
+    *   Al crear tu cuenta, comprar algo, participar en concursos o usar funciones de Twitch.
+    *   Puede incluir: tu nombre, nombre de usuario, email, dirección, teléfono, datos de pago, y tu voz o imagen si creas contenido.
+*   **Información que recogemos automáticamente:**
+    *   Cuando usas Twitch o abres nuestros emails, usamos tecnologías como las cookies para guardar información de tu sistema.
+    *   Puede incluir: tu dirección de internet (IP), identificadores de usuario y dispositivo, tipo de navegador, páginas que visitas, y cómo usas Twitch.
+    *   **¿Para qué usamos esto?** Para recordar tus datos, personalizar tu experiencia (incluidos anuncios), ver si nuestro marketing funciona, entender cómo se usa Twitch en general, y seguir tu participación en promociones.
+*   **Información de Eventos en Vivo (presenciales):**
+    *   Si asistes a un evento de Twitch, podemos tomar fotos, grabar videos o escanear tu credencial (con tu permiso).
+    *   Usamos esta información para análisis, promociones o gestionar premios. Si un expositor escanea tu credencial (con tu permiso), le compartiremos tu información y ellos la usarán según su propia política de privacidad.
+*   **Información de otras fuentes:**
+    *   Podemos obtener información tuya de terceros, como anunciantes, juegos que usas, o redes sociales (Discord, Steam, YouTube) si conectas tus cuentas.
+    *   También de servicios externos (como Riot o Steam) sobre cómo los usas, incluyendo el contenido que transmites en Twitch.
+    *   **¿Para qué?** Para complementar tu información, mejorar tu experiencia, la seguridad, y nuestros servicios y anuncios.
+
+---
+
+**2. Cómo Usamos Tu Información Personal**
+
+Usamos tu información para:
+
+*   **Hacer que Twitch funcione y mejore:** Operar, mantener, mejorar y desarrollar los servicios de Twitch.
+*   **Mantener la seguridad:** Proteger nuestros sitios, apps y eventos.
+*   **Gestionar tu cuenta:** Incluyendo realizar y recibir pagos si eres Partner o Afiliado.
+*   **Mejorar tu experiencia:** Recomendarte contenido que te pueda gustar y mostrarte publicidad relevante.
+*   **Permitir tu participación:** Para que comentes, juegues, concurses o uses programas de recompensas.
+*   **Prevenir fraudes y abusos.**
+*   **Entender cómo usan Twitch nuestros usuarios.**
+*   **Comunicarnos contigo:**
+    *   Usamos tu email y/o teléfono para enviarte notificaciones importantes, darte soporte o contactarte sobre tu contenido.
+    *   Puedes cancelar las notificaciones por SMS respondiendo "STOP".
+    *   Puedes cancelar emails promocionales desde tu configuración de cuenta o usando el enlace en el email.
+    *   Puedes controlar las notificaciones push desde tu celular o la app.
+*   **Cumplir con la ley:** Si la ley nos obliga (por orden judicial, por ejemplo), podemos recoger y usar tus datos.
+*   **Con tu permiso:** A veces te pediremos permiso para usar tu información para un fin específico. Si lo das, puedes retirarlo cuando quieras.
+*   **Por razones legales (intereses legítimos):** También usamos tus datos para fines como analizar el uso de Twitch, responder a tus consultas, protegernos de usos ilegales o defender nuestros derechos.
+
+---
+
+**3. Cuándo Compartimos Tu Información Personal**
+
+**Importante: No vendemos tu información personal a terceros.**
+
+Compartimos tu información solo en estos casos:
+
+*   **Con proveedores de servicios:** Empresas que nos ayudan con tareas como guardar datos, dar seguridad, procesar pagos, analizar datos, etc. Les exigimos proteger tu información y usarla solo para lo que les pedimos.
+*   **Con nuestra familia de empresas (Amazon):** Compartimos información con Amazon y sus filiales. Ellos deben seguir esta política o prácticas igual de protectoras. Usamos esta información combinada para mejorar los servicios de Twitch y Amazon.
+*   **Por motivos legales:** Si la ley nos obliga (por ejemplo, una orden judicial) o si creemos de buena fe que es necesario para cumplirla.
+*   **Para proteger a Twitch y otros:** Si creemos que es necesario para protegernos de fraudes o usos ilegales, investigar denuncias, proteger la seguridad de Twitch o los derechos y seguridad de Twitch, nuestros usuarios u otros.
+*   **En otros casos, con tu aviso:** Si fuéramos a compartir tu información con otros terceros (aparte de los mencionados), te avisaríamos para que puedas decidir si estás de acuerdo o no.
+
+---
+
+**4. Tus Derechos y Opciones Sobre Tu Información**
+
+Tienes control sobre tu información:
+
+*   **Página de Opciones de Privacidad:** Aquí encuentras opciones sobre tu privacidad en Twitch, incluyendo cómo ver, actualizar o borrar tu información.
+*   **Puedes negarte a compartir:** Puedes elegir no dar cierta información, pero quizás algunas funciones de Twitch no estarán disponibles.
+*   **Actualizar tu perfil:** Puedes modificar tu información de perfil en la configuración de tu cuenta.
+*   **Tus Derechos:** Según la ley de tu país, puedes tener derecho a:
+    *   **Acceder:** Ver la información personal que tenemos sobre ti o pedir una copia.
+    *   **Rectificar:** Corregir información incorrecta o desactualizada.
+    *   **Eliminar:** Pedir que borremos cierta información tuya.
+    *   **Restringir:** Limitar cómo usamos o compartimos tu información.
+    *   **Oponerte:** Impedir que usemos tu información para marketing directo.
+    *   **Portabilidad:** Pedir que enviemos tu información a otro proveedor.
+    *   **Retirar consentimiento:** Si nos diste permiso para algo, puedes retirarlo.
+*   **Cómo ejercer tus derechos:**
+    *   Puedes contactarnos a través del Portal de Asistencia (elige "Preguntas sobre Privacidad").
+    *   Para protegerte, quizás te pidamos verificar tu identidad antes de procesar tu solicitud.
+*   **Nota:** Aunque ejerzas tus derechos, a veces tendremos que seguir usando tu información por razones legales o legítimas. Si crees que tus derechos han sido vulnerados, puedes reclamar ante la autoridad de protección de datos de Chile o acudir a los tribunales.
+
+---
+
+**5. Cómo Cerrar Tu Cuenta y Borrar Tu Perfil**
+
+*   **Para cerrar tu cuenta de www.twitch.tv:** Visita https://www.twitch.tv/user/delete_account
+*   **Para otros servicios de Twitch:** Contacta al Servicio de Atención al Cliente (en "Preguntas sobre Privacidad").
+*   **¿Qué pasa después?** Al cerrar tu cuenta, borraremos tu información de perfil. Sin embargo, podemos conservar cierta información si la ley nos lo exige o permite, o para las actividades descritas en esta política (por ejemplo, por seguridad o razones legales).
+
+---
+
+**6. Sitios Web y Servicios de Terceros**
+
+*   **Enlaces externos:** Twitch puede tener enlaces a otros sitios o servicios. Esos sitios tienen sus propias políticas de privacidad, que no controlamos. Te recomendamos leerlas.
+*   **Conectar cuentas:** Si conectas tu cuenta de Twitch con un servicio de terceros (como Discord, Riot Games, Xbox), nos autorizas a compartir cierta información tuya con ellos (como tu nombre de usuario y datos de uso). Lee también las políticas de esos servicios.
+
+---
+
+**7. Extensiones y Aplicaciones de Terceros**
+
+*   **Extensiones en Canales:** Son herramientas interactivas creadas por terceros que los streamers pueden añadir a sus canales.
+*   **Qué información reciben los desarrolladores:** Cuando interactúas con una Extensión, el desarrollador recibe información automática sobre ti (similar a la descrita en la sección 1).
+*   **Tu ID de usuario:** No compartimos tu nombre de usuario de Twitch con el desarrollador a menos que tú le des permiso explícito dentro de la Extensión o la instales en tu propio canal.
+*   **Información que das directamente:** Eres responsable de la información que le des directamente al desarrollador (por ejemplo, llenando un formulario en la Extensión).
+*   **Recomendación:** Revisa la política de privacidad del desarrollador de la Extensión o App para saber más sobre cómo usan tu información.
+
+---
+
+**8. Anunciantes y Análisis de Datos**
+
+*   **Análisis:** Usamos servicios externos para analizar cómo se usa Twitch (usando cookies y tecnologías similares).
+*   **Publicidad:** Trabajamos con redes de publicidad y anunciantes para mostrarte anuncios más relevantes, dentro y fuera de Twitch.
+*   **Qué comparten:** Podemos compartir (o ellos recoger directamente) datos como cookies o identificadores de publicidad móvil para mostrarte anuncios basados en tus intereses y medir si funcionan.
+*   **Anunciantes en Twitch:** A veces, los anunciantes usan tecnología (como cookies) para enviarte anuncios directamente y medir su efectividad. Sus prácticas no están cubiertas por nuestra política.
+*   **Tus opciones:** Puedes encontrar opciones para controlar la publicidad personalizada en nuestra página de Opciones de Publicidad.
+
+---
+
+**9. Señal "No Rastrear" (Do Not Track - DNT)**
+
+*   Algunos navegadores tienen una opción "No Rastrear" (DNT).
+*   Actualmente, Twitch no responde a estas señales DNT de los navegadores.
+*   Te ofrecemos opciones sobre la publicidad a través de los enlaces en nuestra página de Opciones de Publicidad.
+
+---
+
+**10. Seguridad de Tus Datos**
+
+*   Usamos medidas técnicas, físicas y organizativas para proteger tu información.
+*   Sin embargo, ninguna medida de seguridad es 100% infalible. No podemos garantizar totalmente la seguridad de tu información. Cuando nos envías datos, lo haces bajo tu propio riesgo.
+
+---
+
+**11. Por Cuánto Tiempo Guardamos Tus Datos**
+
+*   Guardamos tu información el tiempo necesario para cumplir los propósitos descritos en esta política (por ejemplo, para que uses Twitch, por seguridad).
+*   También la guardamos si la ley nos lo exige o permite (por ejemplo, por temas de impuestos o contabilidad).
+*   Cuando cierras tu cuenta, borramos la información que no estemos obligados legalmente a conservar.
+
+---
+
+**12. Privacidad de Menores de Edad**
+
+*   **IMPORTANTE: Si tienes menos de 13 años, NO puedes usar Twitch.**
+*   No recogemos intencionadamente información de menores de 13 años. Si descubrimos que lo hemos hecho, la eliminaremos.
+*   Si eres padre/madre o tutor de un menor de 13 años que creó una cuenta, contacta al Servicio de Atención al Cliente ("Preguntas sobre Privacidad") para cerrar la cuenta y borrar sus datos.
+
+---
+
+**13. Si Twitch Cambia de Dueño (Fusión o Venta)**
+
+*   Si Twitch (o parte de sus activos) es vendido, fusionado o hay un cambio de control, podemos transferir la información que hemos recogido de los usuarios a la nueva entidad.
+
+---
+
+**14. Transferencias Internacionales de Datos**
+
+*   Tu información puede ser guardada y procesada en tu región, en Estados Unidos (donde están nuestros centros de datos principales) o en otros países donde Twitch, sus filiales o proveedores de servicios tengan instalaciones.
+*   Si transferimos tu información a otros países, tomaremos medidas para asegurar que esté protegida de acuerdo con esta política y la ley aplicable.
+
+---
+
+**15. Cambios a Este Aviso de Privacidad**
+
+*   Podemos cambiar esta política en cualquier momento. Publicaremos los cambios aquí.
+*   Te recomendamos revisar esta página periódicamente.
+*   Si sigues usando Twitch después de los cambios, significa que los aceptas.
+*   No haremos cambios importantes que reduzcan la protección de tu información ya recogida sin tu consentimiento.
+
+---
+
+**16. Cómo Contactar a Twitch**
+
+*   Si tienes preguntas sobre esta política o tu privacidad:
+    *   Usa el **Portal de Asistencia de Twitch**: ve a la categoría "Preguntas sobre Privacidad".
+    *   Envía un email a: **privacy@twitch.tv**.
+    *   Escribe a nuestra dirección postal: Twitch Interactive, Inc., 350 Bush Street, 2nd Floor, San Francisco, CA 94104, EE. UU.
+*   Intentaremos responderte en 30 días.
+
+---

@@ -1,0 +1,109 @@
+POLÍTICA SIMPLIFICADA:
+
+**Política de Privacidad Simplificada para Chile**
+
+**Fecha de última actualización:** [Basado en el original: Fecha de entrada en vigencia fuera del EEE, el Reino Unido y Suiza: 13 de marzo de 2024]
+
+**Propósito:** Te explicamos de forma clara cómo recolectamos, usamos y protegemos tu información personal cuando usas Pinterest en Chile. Queremos que entiendas qué hacemos con tus datos y qué opciones tienes.
+
+**1. ¿Qué información recolectamos y cómo?**
+
+Obtenemos información tuya de tres maneras principales:
+
+*   **Información que tú nos das directamente:**
+    *   **Al crear tu cuenta:** Tu nombre, correo electrónico, fecha de nacimiento, género, país, idioma e intereses. Si tienes cuenta de empresa, podrías añadir datos de raza/etnia (según dónde vivas).
+    *   **Al usar Pinterest:** Cuando guardas o subes contenido (Pines, fotos), comentas, envías mensajes o interactúas con otros.
+    *   **Tu ubicación exacta:** Si activas esta opción en tu celular o dispositivo.
+    *   **Cuando nos contactas:** Guardamos el contenido de tus mensajes (por ejemplo, si pides ayuda).
+    *   **Tus contactos:** Si eliges sincronizarlos, usamos información de tus contactos que ya están en Pinterest para ayudarles a encontrarse.
+
+*   **Información técnica que recibimos cuando usas Pinterest:**
+    *   **Datos de tu equipo:** Tipo de dispositivo (celular, computador), sistema operativo, proveedor de internet, configuraciones e identificadores únicos.
+    *   **Datos de tu actividad (Datos de registro):** Guardamos automáticamente información como tu dirección IP (que indica tu ubicación general), qué sitios web con funciones de Pinterest visitas (ej. botón "Guardar"), tipo de navegador, y cuándo usas nuestros servicios.
+    *   **Cookies y tecnologías similares:** Usamos "cookies" (pequeños archivos) para recordar tus preferencias (como el idioma) y entender cómo usas Pinterest. Puedes leer más en nuestra Política de Cookies.
+    *   **Información sobre cómo usas Pinterest y lo que deducimos:** Analizamos tu actividad (Pines que miras, búsquedas, tableros que creas) y la información de tu perfil para entender tus gustos y preferencias (ej. si guardas recetas, deducimos que te gusta cocinar). También podemos deducir cosas como tu nivel de estudios o profesión.
+    *   **Información de ubicación (aproximada):** Usamos tu dirección IP para saber tu ubicación general, incluso si no compartes la ubicación exacta. Las fotos que subes también pueden tener datos de dónde se tomaron.
+    *   **Tus configuraciones:** Guardamos las opciones que eliges en tu configuración de privacidad y notificaciones.
+
+*   **Información que recibimos de socios y anunciantes:**
+    *   **Otras plataformas:** Si te registras o inicias sesión con Facebook o Google, ellos nos dan algo de información tuya para facilitar el proceso. Si conectas otras cuentas, podemos usar esa información para mejorar tu experiencia. Si usas el botón "Guardar" en otros sitios, también recibimos datos de tu actividad allí.
+    *   **Socios técnicos y de marketing:** A veces recibimos información tuya de empresas que nos ayudan con servicios técnicos o de marketing.
+    *   **Anunciantes y otros socios:** Nos comparten información sobre ti para medir si sus anuncios funcionan bien en Pinterest o para mostrarnos qué tipo de anuncios te podrían interesar. Por ejemplo, pueden decirnos si visitaste su sitio web después de ver un anuncio en Pinterest, o darnos información sobre tus intereses generales. Esto a veces se hace con un código especial en su sitio web (Etiqueta de Pinterest). Puedes controlar cómo usamos esta información en tu Configuración de Privacidad.
+
+**2. ¿Para qué usamos tu información?**
+
+Usamos tu información principalmente para:
+
+*   **Para que tu experiencia en Pinterest sea mejor y personalizada:**
+    *   **Reconocerte** cuando usas Pinterest.
+    *   **Sugerirte Pines, tableros o contenido** que creemos te gustarán, basándonos en lo que haces dentro y fuera de Pinterest (ej. si buscas "zapatos", te mostramos Pines de zapatos).
+    *   **Responder** tus preguntas o comentarios.
+    *   **Ayudarte a conectar** con otras personas con intereses similares y permitir que tus amigos te encuentren (ej. buscando tu correo).
+    *   **Permitir la búsqueda con fotos,** si activas esta función (ej. tomas foto de un mueble y te mostramos similares).
+    *   **Personalizar tu experiencia según tu ubicación exacta,** si nos das permiso (ej. mostrarte Pines de tiendas cercanas).
+    *   **Enviarte noticias y actualizaciones** por correo, notificaciones, SMS o teléfono (puedes cancelar la suscripción a correos promocionales y ajustar las notificaciones en tu configuración).
+
+*   **Para mantener la seguridad y mejorar Pinterest:**
+    *   **Revisar tu actividad y mensajes** para detectar spam o actividades peligrosas. A veces colaboramos con la policía para mantener Pinterest seguro.
+    *   **Investigar conductas sospechosas** o que violen nuestras reglas.
+    *   **Verificar tu edad** si es necesario (podríamos pedir una foto de tu cara y compararla con un documento de identidad).
+    *   **Usar tu información si hay problemas legales** o investigaciones.
+    *   **Analizar cómo se usa Pinterest** para entender qué funciona mejor y cómo mejorar (ej. comparar dos versiones de una función).
+    *   **Mejorar nuestros servicios y crear nuevas funciones,** incluyendo el entrenamiento de nuestra tecnología (como modelos de aprendizaje automático).
+    *   **Crear datos generales y anónimos** (que no te identifican) para análisis. Nos comprometemos a mantener estos datos anónimos.
+
+*   **Para mostrarte anuncios relevantes:**
+    *   **Decidir qué anuncios mostrarte** en Pinterest (y a veces fuera, a través de socios), basándonos en tus intereses y actividad (ej. si buscas carpas, te mostramos anuncios de artículos para acampar).
+    *   **Mostrarte anuncios sobre Pinterest** en otros sitios web o aplicaciones. Para esto, compartimos información técnica (como identificadores o tu correo en formato codificado) con plataformas como Facebook o Google. Puedes controlar esto.
+    *   **Informar a los anunciantes** si sus anuncios funcionan bien y cómo mejorarlos. Compartimos datos sobre los anuncios que ves o con los que interactúas (a veces de forma general, como porcentajes, y a veces individualmente, si lo permite tu configuración y lugar de residencia).
+
+    *Nota:* Algunas de estas actividades con anuncios pueden considerarse "publicidad dirigida" o "venta/compartir datos" según leyes de algunos lugares (como EE.UU.). Puedes oponerte a esto en tu configuración de privacidad. Seguirás viendo anuncios, pero no basados en tu actividad fuera de Pinterest.
+
+**3. Tus Derechos y Opciones**
+
+Tienes control sobre tu información. Dependiendo de dónde vivas, tienes ciertos derechos. Puedes ejercerlos desde la configuración de tu cuenta o contactando a nuestro Centro de asistencia:
+
+*   **Acceso:** Puedes pedir una copia de la información que tenemos sobre ti en un formato que puedas llevar a otro servicio.
+*   **Corrección:** Puedes corregir o actualizar la información de tu perfil.
+*   **Eliminación:** Puedes pedir que eliminemos tu información y tu cuenta. Hay una opción para esto en la configuración.
+*   **Oposición a publicidad dirigida / "venta" / "uso compartido":** Puedes pedirnos que no usemos ni compartamos tu información para ciertos tipos de publicidad personalizada (como se explicó antes). Puedes hacerlo en la configuración de privacidad.
+
+**Opciones adicionales:**
+
+*   Puedes **editar tu perfil**, **conectar o desconectar tu cuenta** de otros servicios (Facebook, Google), ajustar la **privacidad de tus tableros** (secretos) y **cerrar tu cuenta** cuando quieras.
+*   Tu **navegador** y **dispositivo móvil** también tienen opciones para controlar cookies, compartir ubicación, fotos, etc.
+*   Si usas herramientas que envían una señal de "no rastrear" (como el Control de Privacidad Global), la respetaremos cuando uses Pinterest.
+
+No te trataremos diferente si ejerces tus derechos. A veces, podríamos tener que limitar tu solicitud si afecta a otros, viola derechos de terceros (incluidos los nuestros) o si la ley nos obliga a guardar la información. Si rechazamos tu solicitud, puedes apelar contactándonos.
+
+**4. ¿Cómo y cuándo compartimos tu información?**
+
+*   **Contenido público:** Lo que publicas como público (Pines, tableros, perfil) puede ser visto por cualquiera. También podemos compartir esta información pública a través de herramientas técnicas (APIs) con socios (ej. para analizar tendencias).
+*   **Con otros servicios (si tú lo indicas):** Si conectas tu cuenta de Pinterest a otro servicio o publicas contenido de Pinterest allí.
+*   **Para publicidad:** Compartimos datos con socios para mostrarte anuncios (dentro y fuera de Pinterest) y para medir el rendimiento de los anuncios (ej. si llenas un formulario en un anuncio).
+*   **Con proveedores de servicios:** Empresas que trabajan para nosotros y siguen nuestras instrucciones (ej. consultores de seguridad para detectar spam).
+*   **Con autoridades (si la ley lo exige):** Si recibimos una solicitud legal válida (de la policía, tribunales), podemos compartir información si creemos que es necesario para cumplir la ley, proteger la seguridad o derechos de alguien, o prevenir fraude o problemas técnicos graves. También en emergencias para prevenir daños graves.
+*   **Con nuestra familia de empresas:** Subsidiarias y filiales de Pinterest.
+*   **En caso de cambios en la empresa:** Si Pinterest se vende, fusiona o pasa por un proceso similar, tu información podría ser transferida al nuevo dueño o entidad involucrada.
+
+**5. Transferencia de tu información fuera de Chile**
+
+Pinterest es un servicio global. Al usarlo, aceptas que tu información pueda ser transferida y guardada en otros países, como Estados Unidos, para los fines descritos aquí. Las leyes de privacidad y el acceso de las autoridades a tu información en esos países pueden ser diferentes a las de Chile.
+
+**6. ¿Cuánto tiempo guardamos tu información?**
+
+Guardamos tu información solo por el tiempo necesario para ofrecerte Pinterest, cumplir con los fines de esta política y nuestras obligaciones legales. Cuando ya no la necesitemos para estos fines, la eliminaremos o la haremos anónima para que no se te pueda identificar. Por ejemplo, mantenemos la información básica de tu cuenta (nombre, correo, contraseña) mientras tengas la cuenta activa.
+
+**7. Uso por menores de edad**
+
+Pinterest no es para menores de 13 años. Si vives en un lugar donde la edad mínima para consentir el uso de datos es mayor, debes tener esa edad para usar Pinterest.
+
+**8. Cambios a esta política**
+
+Podemos cambiar esta política de vez en cuando. Si lo hacemos, publicaremos los cambios en esta página. Si sigues usando Pinterest después de los cambios, significa que aceptas la nueva política. Si los cambios son importantes, te avisaremos de forma más directa (quizás por correo).
+
+**9. ¿Cómo contactarnos?**
+
+*   La mejor forma es a través de nuestro **Centro de ayuda**.
+*   Si vives en EE.UU., el responsable es Pinterest, Inc. (651 Brannan Street, San Francisco, CA 94107, USA). Aunque estés en Chile, esta es la empresa matriz.
+*   También puedes contactar a nuestro **Responsable de Protección de Datos** (puedes encontrar cómo hacerlo a través del Centro de Ayuda o buscando el contacto específico en el sitio de Pinterest).

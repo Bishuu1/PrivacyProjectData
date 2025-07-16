@@ -1,0 +1,186 @@
+POLÍTICA SIMPLIFICADA:
+
+**Política de Privacidad Simplificada de Canva para Chile**
+
+**Fecha de última actualización:** 14 de noviembre de 2023
+
+**Propósito:** Te explicamos de forma clara cómo recogemos, usamos, compartimos y protegemos tu información personal cuando usas la plataforma Canva (el "Servicio"). Queremos que entiendas tus derechos y nuestras responsabilidades. Si usas Canva, aceptas esta política.
+
+**1. ¿Qué información tuya recogemos?**
+
+Recopilamos información para poder ofrecerte y mejorar Canva. Lo hacemos de distintas maneras:
+
+*   **Información que tú nos das directamente:**
+    *   Cuando creas una cuenta: Tu nombre, correo electrónico, fecha de nacimiento, teléfono, etc.
+    *   Cuando te comunicas con nosotros: Mensajes, comentarios, solicitudes de ayuda.
+    *   El contenido que creas o subes: Tus diseños, fotos, videos, textos y cualquier elemento que uses en Canva ("Tu Contenido").
+    *   *¿Por qué?* Para que puedas usar Canva, comunicarnos contigo y ayudarte si tienes problemas. Sin esta información, quizás no puedas usar todas las funciones.
+
+*   **Información que recibimos de otras aplicaciones (Terceros):**
+    *   Si te conectas a Canva usando otra cuenta (como Google o Facebook): Recibimos información básica de esa cuenta (tu ID de usuario, información pública que hayas autorizado).
+    *   Si usas aplicaciones dentro de Canva (ej. para buscar fotos o conectar redes sociales): Podemos recibir y compartir información con esas aplicaciones para que funcionen.
+    *   *Importante:* Revisa siempre la configuración de privacidad de esas otras aplicaciones antes de conectarlas.
+
+*   **Información que obtenemos de otras fuentes:**
+    *   Fuentes públicas, redes sociales o empresas de datos: Podemos obtener información sobre ti (como tu cargo o empresa) para entender mejor tus intereses y personalizar lo que te ofrecemos.
+    *   Otros usuarios de Canva: Si alguien comparte un diseño contigo.
+    *   Interacción con nuestros anuncios: Qué anuncios viste antes de llegar a Canva.
+    *   *¿Por qué?* Para personalizar tu experiencia y mostrarte ofertas que te puedan interesar.
+    *   *Tu opción:* Puedes pedirnos que no usemos información de terceros para personalizar tu experiencia escribiéndonos a privacy@canva.com.
+    *   ***Excepción Canva para Educación:*** No usamos información de terceros para mostrar ofertas o anuncios a estudiantes.
+
+*   **Información que recogemos automáticamente sobre cómo usas Canva:**
+    *   Datos de uso: Qué haces en Canva, qué funciones usas, en qué haces clic.
+    *   Información técnica: Tipo de navegador, páginas visitadas, etc.
+    *   *¿Por qué?* Para analizar cómo se usa Canva, mejorar el servicio y medir el tráfico.
+
+*   **Cookies y tecnologías parecidas:**
+    *   Usamos "cookies" (pequeños archivos en tu computador o dispositivo) y tecnologías similares.
+    *   *¿Para qué?* Para que inicies sesión más rápido, recordar tus preferencias, entender cómo usas Canva, mejorar tu experiencia y mostrarte publicidad relevante.
+    *   *Tu control:* Puedes controlar o rechazar las cookies desde tu navegador, pero algunas funciones de Canva podrían no funcionar bien. Lee nuestra [Política de Cookies](https://www.canva.com/es_es/politicas-legales/cookie-policy/) para más detalles.
+    *   ***Excepción Canva para Educación:*** No usamos cookies para mostrar anuncios a estudiantes.
+
+*   **Información de registro (Logs):**
+    *   Tu navegador o dispositivo nos envía información técnica automáticamente cada vez que usas Canva (ej. tipo de navegador, páginas visitadas).
+    *   *¿Por qué?* Para mantener registros técnicos del servicio.
+
+*   **Balizas Web (o Píxeles Transparentes):**
+    *   Pequeñas imágenes invisibles que nos ayudan a saber si abriste un correo o cómo usas ciertas partes del sitio, de forma anónima.
+    *   *¿Por qué?* Para mejorar nuestros informes y el servicio.
+
+*   **Identificadores de tu dispositivo móvil:**
+    *   Si usas Canva en tu celular o tablet, podemos usar identificadores únicos de tu dispositivo (como el ID de publicidad).
+    *   *¿Por qué?* Para entender cómo usas Canva desde el móvil y mejorar tu experiencia.
+
+*   **Tu ubicación:**
+    *   Podemos saber tu ubicación aproximada (por tu IP) o más precisa (si la das tú, por ejemplo, al comprar algo).
+    *   *¿Por qué?* Para personalizar contenido, cumplir leyes locales, análisis, entender el tipo de uso (personal, educativo, profesional) y estimar impuestos.
+    *   ***Excepción Canva para Educación:*** No usamos la ubicación de estudiantes para mostrar anuncios.
+
+*   **El contenido que creas o subes:**
+    *   Recibimos los diseños, imágenes, videos, documentos y otros elementos que subes o creas en tu cuenta.
+
+**2. ¿Para qué usamos tu información?**
+
+Usamos la información que recogemos para varios fines:
+
+*   **Para que uses Canva:** Permitirte iniciar sesión, usar las herramientas, acceder a tus diseños, facturarte si corresponde.
+*   **Para mejorar Canva:** Analizar cómo se usa el servicio, entender tendencias, corregir errores y desarrollar nuevas funciones.
+*   **Para personalizar tu experiencia:** Recordar tu información para que no la ingreses siempre, recomendarte plantillas o elementos que te puedan gustar según tu uso y el de otros usuarios.
+*   **Para comunicarnos contigo:** Enviarte correos importantes sobre tu cuenta, seguridad o cambios en el servicio. También podemos enviarte información sobre funciones u ofertas (puedes cancelar la suscripción a estos últimos).
+*   **Para mostrar publicidad:** Usamos información (incluyendo cookies) para mostrarte anuncios que creemos te interesan (dentro y fuera de Canva) y medir si son efectivos. ***Esto no aplica a estudiantes de Canva para Educación.***
+*   **Para entrenar nuestra Inteligencia Artificial (IA):** Analizamos actividad y contenido (como imágenes) para mejorar nuestras herramientas de IA (ej. quitar fondos, detectar contenido prohibido, traducir audio, predecir ofertas). ***Puedes elegir que no usemos tu contenido para esto en la configuración de tu cuenta. No usamos contenido de estudiantes de Canva para Educación para entrenar IA.***
+*   **Para darte soporte:** Usamos tu información para ayudarte si tienes problemas técnicos.
+*   **Para seguridad:** Monitorear actividad sospechosa, detectar fraudes o incumplimientos de nuestros términos.
+*   **Para cumplir con la ley:** Si la ley nos obliga a usar o compartir tu información (ej. por orden judicial).
+*   **Para lo que nos autorices específicamente:** Si te pedimos permiso para usar tu información para algo concreto y tú aceptas.
+
+**3. ¿Con quién compartimos tu información?**
+
+No vendemos tu información personal. La compartimos solo en estos casos:
+
+*   **Con empresas colaboradoras (Proveedores de Servicios):** Compartimos información con empresas que nos ayudan a operar Canva (ej. para procesar pagos, almacenar datos, enviar correos, analizar datos, dar soporte, seguridad, marketing). Les exigimos proteger tu información y solo usarla para lo que les pedimos.
+*   **Cómo puedes compartir tú tu información y contenido:**
+    *   **Contenido público:** Si haces tu perfil o un diseño público, cualquiera podrá verlo y usarlo. Incluso si lo borras, podría quedar en copias guardadas por otros o en archivos temporales (caché).
+    *   **Trabajo en Equipo:** Si estás en un equipo de Canva, la información y contenido que crees o tu actividad dentro del equipo puede ser vista por otros miembros y por el dueño o administrador del equipo. El dueño puede reasignar la propiedad de tu contenido creado en el equipo. Guarda tu información personal o confidencial en una cuenta personal separada si no quieres compartirla con el equipo.
+    *   **Colaborar en diseños:** Cuando invitas a otros a ver o editar un diseño, o aceptas una invitación:
+        *   Otros colaboradores (incluso anónimos) podrán ver tu nombre y avatar si están en el diseño al mismo tiempo.
+        *   Tu nombre y hora de acceso quedan visibles para otros editores del diseño. Puedes hacer tu acceso anónimo en la configuración si no quieres esto.
+        *   **Opciones para compartir enlaces:**
+            *   `Solo las personas añadidas:` Es la opción más privada y por defecto. Solo quienes invites por correo o cuenta Canva pueden acceder.
+            *   `Cualquier persona que tenga el enlace:` Cualquiera con el enlace puede acceder (ver o editar según configures). **¡Cuidado!** No uses esta opción para información confidencial. Por defecto (excepto en Educación), permite acceso anónimo.
+            *   `Solo tu equipo:` Solo miembros de tu equipo con el enlace pueden acceder.
+
+*   **Si Canva cambia de dueños:** Si Canva se vende, fusiona o pasa por un proceso similar, tu información podría ser transferida a los nuevos dueños. Te avisaremos si esto ocurre y afecta cómo se manejan tus datos.
+*   **Si usas Canva con tu correo del trabajo:** Si tu empleador tiene una cuenta Canva asociada a tu dominio de correo, podríamos compartir información básica (nombre, correo) con ellos. Puedes pedirnos que no lo hagamos si usas Canva de forma personal escribiendo a privacy@canva.com.
+*   **Al usar aplicaciones de otras empresas conectadas a Canva:** Si usas apps de terceros integradas (ej. Google Drive, YouTube), podrías compartir información con ellas. Revisa sus políticas de privacidad; nosotros no las controlamos.
+*   **Datos generales (anónimos):** Podemos compartir datos agrupados y anónimos (que no te identifican) con terceros para análisis o estadísticas.
+*   **Con autoridades legales:** Compartimos información si la ley nos lo exige, para cumplir órdenes judiciales, proteger la seguridad, investigar fraudes o defender nuestros derechos o los tuyos.
+
+**4. Publicidad**
+
+*   Trabajamos con socios publicitarios (como Google, Facebook) para mostrarte anuncios personalizados sobre Canva, tanto dentro de nuestro servicio como en otros sitios web.
+*   Podemos compartir cierta información con ellos (como tu correo electrónico encriptado, ubicación general, información de cookies, cómo usas Canva) para que los anuncios sean más relevantes y para medir su efectividad.
+*   También usamos esta información para encontrar a nuevas personas que podrían estar interesadas en Canva.
+*   Puedes tener cierto control sobre esto a través de la configuración de cookies y, en algunos casos, optando por no participar en ciertos servicios de socios (contáctanos en privacy@canva.com para más info).
+*   ***Recordatorio importante:*** Esto **no aplica a estudiantes** que usan Canva para Educación. No les mostramos anuncios.
+
+**5. ¿Dónde guardamos tu información? (Transferencias internacionales)**
+
+*   Tu información se guarda y procesa en servidores ubicados en distintos países, incluyendo la Unión Europea, Estados Unidos, Australia, Singapur y otros donde Canva o sus colaboradores tienen operaciones.
+*   Esto significa que tu información puede ser transferida fuera de Chile a países con leyes de protección de datos diferentes.
+*   Siempre tomamos medidas para asegurarnos de que tu información esté protegida donde sea que esté, cumpliendo con las leyes aplicables. Al usar Canva, aceptas estas transferencias.
+
+**6. ¿Cómo protegemos tu información?**
+
+*   Nos tomamos la seguridad muy en serio y usamos medidas técnicas y organizativas adecuadas para proteger tu información.
+*   Usamos verificación (como contraseña) para proteger tu cuenta.
+*   **Tu responsabilidad:** Es fundamental que mantengas tu contraseña segura y no la compartas. Controla quién tiene acceso a tu correo electrónico asociado a Canva.
+*   **Importante:** Ningún sistema es 100% seguro. Aunque hacemos nuestro mejor esfuerzo, no podemos garantizar la seguridad absoluta de tu información.
+
+**7. Tus opciones y derechos sobre tu información**
+
+Tú tienes control sobre tu información personal:
+
+*   **Controlar tu cuenta:** Puedes ver, corregir, descargar o eliminar la información de tu cuenta directamente desde la "Configuración de tu cuenta".
+*   **Comunicaciones de marketing:** Puedes dejar de recibir correos promocionales haciendo clic en el enlace "cancelar suscripción" en los correos o desde la configuración de tu cuenta. *Nota:* No puedes cancelar los correos esenciales sobre el servicio (ej. avisos de seguridad, facturación).
+*   **Cookies:** Puedes gestionar las cookies a través de la configuración de tu navegador (consulta nuestra Política de Cookies).
+*   **Uso de datos de terceros para personalizar:** Puedes solicitar que no usemos datos de terceros para personalizar tus ofertas contactándonos en privacy@canva.com o desde la configuración.
+*   **Uso de tus datos para IA:** Puedes gestionar si tu contenido se usa para entrenar nuestros modelos de IA desde la "Configuración de tu cuenta".
+*   **Tus derechos legales (Acceso, Rectificación, Cancelación/Supresión, Oposición - ARCO):** La ley chilena (Ley 19.628) y otras leyes te dan derechos sobre tus datos personales. Tienes derecho a:
+    *   **Acceder** a la información personal que tenemos sobre ti.
+    *   **Rectificarla** si es incorrecta o incompleta.
+    *   **Cancelar (eliminarla)** en ciertas circunstancias.
+    *   **Oponerte** a que usemos tu información para ciertos fines (como marketing directo).
+    *   Solicitar una copia electrónica de tu información (portabilidad).
+    *   Retirar tu consentimiento si lo diste para un uso específico.
+*   **Cómo ejercer tus derechos:** Escríbenos a privacy@canva.com para hacer una solicitud. Verificaremos tu identidad antes de procesarla.
+*   **Limitaciones:** A veces no podremos cumplir tu solicitud completamente (ej. si afecta los derechos de otra persona o si necesitamos la información por razones legales). Te explicaremos por qué si es el caso.
+*   **Reclamaciones:** Si crees que no hemos respetado tus derechos, puedes contactarnos o presentar una queja ante la autoridad de protección de datos correspondiente (en Chile, el Consejo para la Transparencia o el SERNAC pueden tener competencia dependiendo del caso).
+
+**8. ¿Por cuánto tiempo guardamos tu información?**
+
+*   Guardamos tu información mientras tengas una cuenta activa.
+*   Si cierras tu cuenta, conservaremos tu información (como datos de perfil y contenido) por un tiempo razonable necesario para cumplir con obligaciones legales (ej. auditorías), resolver disputas, mantener registros y hacer copias de seguridad.
+
+**9. Canva para Educación (Información especial para colegios y estudiantes)**
+
+*   Canva.com (el servicio general) no está dirigido a niños menores de 13 años (o la edad mínima legal en Chile para consentir el tratamiento de datos). Los menores no pueden registrarse por sí mismos.
+*   **Canva para Educación** es una versión especial para estudiantes, usada bajo la supervisión de un profesor o colegio.
+*   **Consentimiento:** El colegio o los padres/apoderados dan el consentimiento para que los estudiantes usen Canva para Educación.
+*   **Información de estudiantes:** Recopilamos información necesaria para el servicio. La compartimos **solo** con empresas colaboradoras esenciales para que Canva para Educación funcione (ej. almacenamiento, soporte), y les exigimos protegerla. **No vendemos datos de estudiantes.**
+*   **Publicidad y IA:** **No mostramos anuncios** a estudiantes en Canva para Educación. **No usamos el contenido creado por estudiantes** para entrenar nuestros modelos de Inteligencia Artificial.
+*   **Control del colegio:** El colegio tiene control sobre los datos de sus estudiantes y puede solicitar revisarlos, modificarlos o eliminarlos.
+*   **Eliminación de datos:** Eliminamos las cuentas de estudiantes si el colegio cierra su cuenta de Canva para Educación, si el colegio lo solicita, o si una cuenta de estudiante está inactiva por mucho tiempo (avisamos antes).
+*   **Privacidad de diseños y sitios web:** Los diseños de estudiantes son privados por defecto (solo accesibles por invitación). Los sitios web creados por estudiantes no son indexados por buscadores por defecto (solo accesibles por enlace). Los profesores pueden cambiar estas configuraciones.
+*   **Comunicación:** Podemos comunicarnos con estudiantes para dar soporte técnico (si lo solicitan) o enviar avisos importantes sobre el servicio.
+
+**10. Enlaces a otros sitios web**
+
+*   Si haces clic en un enlace dentro de Canva que te lleva a otro sitio web o servicio, nuestra política de privacidad ya no aplica allí.
+*   No somos responsables de las prácticas de privacidad de esos otros sitios. Revisa siempre sus propias políticas.
+
+**11. Cumplimiento Legal**
+
+*   Canva Pty Ltd, una empresa australiana, es la responsable de tus datos personales a nivel global.
+*   Cumplimos con las leyes de protección de datos aplicables, incluida la Ley 19.628 sobre Protección de la Vida Privada en Chile.
+
+**12. Cambios a esta política**
+
+*   Podemos actualizar esta política de vez en cuando. La fecha de "Última actualización" al inicio te indicará cuándo fue el último cambio.
+*   Si hacemos cambios importantes sobre cómo usamos tu información, te avisaremos a través de nuestro sitio web o por correo electrónico.
+*   Te recomendamos revisar esta página periódicamente.
+
+**13. ¿Cómo contactarnos?**
+
+Si tienes preguntas sobre esta política, tus derechos o quieres hacer una queja, contáctanos:
+
+*   **Correo electrónico:** privacy@canva.com
+*   **Dirección postal:**
+    Head of Privacy
+    Canva Pty Ltd
+    110 Kippax St
+    Surry Hills NSW 2010
+    Australia
+
+¡Tu privacidad es importante para nosotros!

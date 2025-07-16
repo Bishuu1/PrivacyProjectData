@@ -1,0 +1,299 @@
+POLÍTICA SIMPLIFICADA:
+
+**Política de Privacidad Simplificada de Computrabajo Chile**
+
+**Fecha de última actualización:** 28 de febrero de 2024
+
+**Propósito:** Aquí te explicamos de forma clara y sencilla cómo recopilamos, usamos, compartimos y protegemos tu información personal cuando usas Computrabajo en Chile, ya seas un candidato buscando empleo o una empresa buscando talento. Queremos que entiendas tus derechos y cómo cuidamos tus datos.
+
+---
+
+**POLÍTICA DE PRIVACIDAD PARA CANDIDATOS (Personas buscando empleo)**
+
+Esta parte es para ti si eres una persona (Candidato, Usuario Particular, Demandante de Trabajo) que usa Computrabajo para buscar empleo o servicios relacionados en Chile.
+
+**1. ¿Quién es responsable de tus datos?**
+
+*   **Empresa:** DGNET Ltd. ("DGNET" o "nosotros")
+*   **Registro:** Companies House de Escocia, Reino Unido, nº 189977.
+*   **Dirección:** 26 Frederick Street, 1er Piso, Edimburgo, EH2 2JR, Reino Unido.
+*   **Contacto:** Puedes contactarnos a través de nuestro [formulario de contacto](https://cl.computrabajo.com/privacidad/).
+
+**2. ¿Qué información tuya recopilamos?**
+
+Para que uses Computrabajo, necesitamos algunos datos:
+
+*   **Para crear tu cuenta:** Tu nombre, apellidos, correo electrónico y una contraseña.
+*   **Si usas redes sociales para registrarte (si está disponible):** Recibiremos tus datos desde esa red social, pero solo si tú les diste permiso para compartirlos con nosotros.
+*   **Información de tu perfil (opcional):** Puedes añadir tu formación, experiencia laboral, habilidades, qué tipo de trabajo buscas, tus intereses, una foto y tu ciudad o ubicación. También puedes subir tu CV en formato Word o PDF.
+*   **Información de tus dispositivos:** Recibimos datos como tu ubicación, dirección IP, tipo de navegador, sistema operativo y complementos que usas al navegar.
+*   **Información de Cookies:** Recopilamos datos sobre cómo usas nuestra web a través de cookies (pequeños archivos). Te lo explicamos en detalle en nuestra Política de Cookies (ver sección 9).
+
+**3. ¿Para qué usamos tu información y por qué podemos hacerlo (Base Legal)?**
+
+Nuestro objetivo principal es conectar a personas que buscan trabajo en Chile con empresas que ofrecen empleo aquí.
+
+Usamos tus datos personales para:
+
+*   **3.1. Gestionar nuestros servicios:**
+    *   **Crear y mantener tu cuenta** en Computrabajo.
+    *   **Ponerte en contacto con empresas:** Cuando postulas a una oferta, compartimos tus datos con la empresa. Dependiendo de tu configuración de privacidad, las empresas también podrían ver tu perfil y CV aunque no hayas postulado directamente.
+    *   **Permitir que las empresas te encuentren:** Según tu nivel de privacidad, las empresas pueden buscar perfiles como el tuyo en nuestra base de datos.
+    *   **Administrar tu CV:** Puedes editarlo y gestionarlo desde tu área personal.
+    *   **Enviarte ofertas de trabajo por email (alertas):** Recibirás ofertas de forma automática y gratuita. Si integramos servicios de terceros (como otras apps) para enviarte ofertas, su uso se regirá por sus propias políticas.
+    *   **Facilitar la comunicación con empresas:** A través de nuestro chat o formularios. Revisamos estos mensajes para prevenir fraudes o usos indebidos. Si usamos otros servicios de mensajería (como WhatsApp) integrados, se aplicarán sus políticas.
+    *   **Administrar el día a día:** Enviarte recordatorios, avisos técnicos, actualizaciones, alertas de seguridad y mensajes de soporte. Si usas el formulario de contacto, usamos tus datos para responderte.
+    *   **Enviarte comunicaciones comerciales:** Noticias, encuestas, boletines, invitaciones a eventos sobre nuestros productos y servicios, *solo si nos das tu permiso (consentimiento)*.
+    *   **Mostrar evaluaciones anónimas:** Publicamos de forma anónima tus opiniones sobre empresas, entrevistas o salarios para ayudar a otros usuarios.
+*   **3.2. Gestionar nuestro Blog:** Si comentas en nuestro blog, gestionamos tu suscripción y mostramos tus comentarios de forma anónima.
+*   **3.3. Mejorar nuestros servicios:** Analizamos cómo usas la web (mediante cookies) para adaptarla a tus gustos y necesidades. Puedes controlar tus cookies (ver Política de Cookies).
+*   **3.4. Mostrarte publicidad relevante:** Usamos datos de navegación (con cookies) para mostrarte anuncios que te puedan interesar, *solo si nos das tu permiso*. No tomamos decisiones automáticas importantes sobre ti basadas solo en esto. Tu perfil de cookies podría usarse en otras webs para mostrarte publicidad. Puedes configurar tus preferencias (ver Política de Cookies).
+*   **3.5. Enviarte promociones:** Boletines y publicidad de otros sitios de DGNET o de nuestros socios, *solo si nos das tu permiso*.
+*   **3.6. Crear estadísticas:** Generamos informes generales con datos agrupados y anónimos (que no te identifican) para entender mejor cómo se usa nuestra web y mejorar el servicio.
+*   **3.7. Prevenir fraudes y abusos:** Detectar actividades fraudulentas, spam, ataques, etc.
+*   **3.8. Cumplir con la ley:** Compartir tus datos con autoridades si nos lo exigen legalmente.
+
+**¿Por qué podemos usar tus datos (Base Legal)?**
+
+*   **Para darte el servicio (ejecución de contrato):** Usamos tus datos para las finalidades 3.1 y 3.2 porque son necesarios para que puedas usar Computrabajo según lo acordado.
+*   **Porque tú nos das permiso (consentimiento):** Para las finalidades 3.3 (mejora con cookies no esenciales), 3.4 (publicidad personalizada) y 3.5 (promociones), necesitamos tu permiso explícito.
+*   **Por nuestro interés legítimo:** Para las finalidades 3.6 (estadísticas) y 3.7 (seguridad y prevención de fraude), usamos tus datos porque es fundamental para nuestro funcionamiento y para proteger el servicio.
+*   **Porque la ley nos obliga (obligación legal):** Para la finalidad 3.8, compartimos datos si una ley o una orden judicial nos lo exige.
+
+**4. ¿Cuánto tiempo guardamos tus datos?**
+
+Guardamos tus datos personales mientras tengas tu cuenta activa o mientras sea necesario para darte nuestros servicios. También los guardamos si necesitamos cumplir con obligaciones legales. Si pides borrar tu cuenta o tus datos, los eliminaremos, a menos que la ley nos obligue a conservarlos por más tiempo.
+
+**5. ¿Con quién compartimos tus datos?**
+
+Podemos compartir tu información con:
+
+*   **Empresas que ofrecen empleo (Usuarios Profesionales):**
+    *   Cuando postulas a una oferta.
+    *   Si tu nivel de privacidad lo permite, cuando una empresa busca candidatos en nuestra base de datos.
+    *   **Importante:** Una vez que una empresa recibe tus datos, ellos también son responsables de protegerlos según sus propias políticas de privacidad y las leyes del país donde estén (que puede ser distinto al tuyo y tener otras normas). Les exigimos que traten tus datos de forma confidencial y solo para fines de selección.
+*   **Proveedores de Servicios:** Empresas (incluidas otras del grupo DGNET) que nos ayudan a operar Computrabajo (ej. almacenamiento de datos, soporte técnico).
+    *   Actúan solo siguiendo nuestras instrucciones (son "encargados del tratamiento").
+    *   Tenemos contratos con ellos para garantizar que protegen tus datos y no los usan para fines propios.
+    *   Pueden estar ubicados en otros países con distintas leyes de protección de datos.
+    *   Puedes ver una lista de nuestros principales proveedores [aquí](https://cl.computrabajo.com/privacidad/). (Nota: El enlace original no lleva a una lista específica, revisar si hay un link actualizado).
+*   **Organismos Públicos:** Si la ley, una orden judicial o una autoridad competente nos lo pide.
+*   **Transferencias Internacionales:** Si compartimos tus datos con empresas o proveedores fuera de Chile, en países que quizás no tengan un nivel de protección de datos considerado "adecuado", tu consentimiento al usar nuestros servicios cubre explícitamente esta transferencia.
+*   **Enlaces a otras webs:** Si haces clic en enlaces a sitios externos (ej. PayU Latam), saldrás de Computrabajo. No somos responsables de cómo esas webs traten tus datos. Revisa sus propias políticas de privacidad.
+
+**6. ¿Cómo dejar de recibir comunicaciones comerciales y alertas?**
+
+Puedes darte de baja fácilmente:
+*   Haz clic en el enlace "cancelar suscripción" (o similar) que encontrarás al final de cada correo electrónico de alertas o publicidad.
+*   Es posible que tengas que indicar el motivo o darte de baja por cada tipo de email que recibes (ej. alertas de empleo, boletines).
+
+**7. ¿Cuáles son tus derechos sobre tus datos?**
+
+Tienes derechos sobre la información personal que manejamos:
+
+*   **Acceder:** Puedes pedirnos saber qué datos tenemos sobre ti y solicitar una copia.
+*   **Rectificar:** Puedes editar tus datos directamente en tu perfil o pedirnos que corrijamos información incorrecta o incompleta.
+*   **Oponerte o Restringir:** Puedes pedirnos que dejemos de usar tus datos para ciertos fines (ej. marketing directo) o que limitemos su uso, salvo que tengamos razones legales importantes para seguir usándolos.
+*   **Suprimir (Borrar):** Puedes pedirnos que eliminemos tus datos personales (el "derecho al olvido").
+*   **Portabilidad:** Si es técnicamente posible, puedes pedirnos que te entreguemos tus datos en un formato común o que los enviemos directamente a otra empresa.
+
+**¿Cómo ejercer tus derechos?**
+*   Contacta con nosotros usando el [formulario de contacto](https://cl.computrabajo.com/privacidad/) o la dirección indicada en la sección 1.
+*   Responderemos a tu solicitud en los plazos que marca la ley.
+*   Ten en cuenta que estos derechos pueden tener limitaciones según la ley aplicable.
+*   Si tienes una queja que no resolvemos, puedes contactar a la autoridad de protección de datos competente.
+*   **Importante:** Si quieres ejercer tus derechos sobre los datos que ya tiene una empresa a la que postulaste, debes contactar directamente a esa empresa.
+
+**8. ¿Cómo protegemos tu información?**
+
+Nos tomamos en serio la seguridad de tus datos:
+*   Usamos medidas técnicas y organizativas adecuadas (seguridad informática, procedimientos internos) para proteger tu información contra pérdida, mal uso o acceso no autorizado.
+*   Tenemos planes de acción en caso de sospecha de una brecha de seguridad. Si ocurre una violación de seguridad que lo requiera por ley, te notificaremos a ti y a la autoridad competente.
+*   **Aviso:** Aunque hacemos todo lo posible, la transmisión de información por internet nunca es 100% segura. Cualquier dato que envíes es bajo tu propio riesgo.
+
+**9. Política de Cookies (Archivos pequeños en tu navegador)**
+
+*   **¿Qué son las Cookies?** Son pequeños archivos que se guardan en tu dispositivo (computador, celular) cuando visitas nuestra web. Nos ayudan a reconocerte, asegurar tu acceso, saber si alguien intenta entrar a tu cuenta desde otro lugar, recordar tu sesión y mejorar la velocidad de carga. También nos ayudan a mostrarte anuncios relevantes.
+*   **¿Por qué las usamos?** Para mejorar tu experiencia, ofrecerte contenido personalizado y publicidad que te interese (esto nos ayuda a mantener gratuitos otros servicios).
+*   **¿Qué tipos usamos?**
+    *   **Necesarias:** Esenciales para que la web funcione (ej. iniciar sesión, seguridad).
+    *   **Funcionales:** Permiten funciones extra como compartir contenido o recordar preferencias.
+    *   **Analíticas:** Nos ayudan a entender cómo usan los visitantes la web (de forma anónima) para mejorarla.
+    *   **De Desempeño:** Miden qué tan bien funciona la web.
+    *   **De Publicidad:** Permiten mostrarte anuncios personalizados basados en tus intereses y navegación.
+*   **Cookies de Terceros:** Usamos cookies de otras empresas (ej. Google, LinkedIn, Facebook, Microsoft) para análisis y publicidad. La siguiente tabla detalla las principales:
+
+    *(Nota: La tabla original es muy extensa y técnica. Se mantiene la estructura para precisión legal, pero se simplifican ligeramente algunas descripciones si es posible sin perder el sentido.)*
+
+    | Tipo de cookie | ID                   | Descripción                                                                | Duración         | Origen de la cookie   |
+    |----------------|----------------------|----------------------------------------------------------------------------|------------------|-----------------------|
+    | Necesaria      | AWSALBCORS           | Manejo del tráfico de red                                                  | 7 días           | Amazon Web Services   |
+    | Necesaria      | ASP.NET_SessionId    | Guarda datos de tu sesión mientras navegas                                 | Sesión           | Microsoft ASP.NET     |
+    | Necesaria      | __RequestVerificationToken | Ayuda a prevenir fraudes                                                   | Sesión           | ASP.NET MVC Tech.     |
+    | Necesaria      | __cf_bm              | Detecta programas automáticos (bots)                                       | 1 hora           | Cloudflare            |
+    | Necesaria      | __hssrc              | Maneja reinicios y cambios de sesión                                       | Sesión           | Hubspot               |
+    | Necesaria      | __hssc               | Monitorea la sesión                                                        | 1 hora           | HubSpot               |
+    | Funcionales    | lidc                 | Rastrea tráfico entre LinkedIn y tu navegador                              | 1 día            | LinkedIn              |
+    | Funcionales    | UserMatchHistory     | Sincroniza datos para anuncios de LinkedIn                                 | 1 mes            | LinkedIn              |
+    | Funcionales    | li_gc                | Guarda tu permiso para usar cookies no esenciales                          | 6 meses          | LinkedIn              |
+    | Analíticas     | _ga                  | Calcula datos anónimos de visitas/sesiones para informes analíticos        | 1 año, 1 mes, 4 días | Google Analytics    |
+    | Analíticas     | _gid                 | Guarda info anónima de uso web para informes analíticos                    | 1 día            | Google Analytics    |
+    | Analíticas     | _gcl_au              | Analiza la efectividad de la publicidad web                                | 3 meses          | Google Tag Manager    |
+    | Analíticas     | __hstc               | Guarda info de la sesión (dominio, fecha/hora, número)                     | 6 meses          | HubSpot               |
+    | Analíticas     | hubspotutk           | Rastrea visitantes en la web                                               | 6 meses          | HubSpot               |
+    | Analíticas     | _fbp                 | Permite publicidad en Facebook y plataformas relacionadas                  | 3 meses          | Facebook              |
+    | Analíticas     | AnalyticsSyncHistory | Guarda información sobre cuándo se sincronizaron las cookies analíticas    | 1 mes            | LinkedIn              |
+    | Analíticas     | CONSENT              | Registra datos estadísticos anónimos sobre videos de YouTube vistos        | 2 años           | YouTube               |
+    | Analíticas     | __gads               | Cuenta cuántas veces ves un anuncio, mide éxito de campañas                | 1 año, 24 días   | Google                |
+    | Analíticas     | CLID                 | Guarda un ID de usuario para análisis de Microsoft Clarity                 | 1 año            | Microsoft Clarity     |
+    | Analíticas     | _clsk                | Agrupa vistas de página por usuario en una sesión para análisis            | 1 día            | Microsoft Clarity     |
+    | Analíticas     | SM                   | Sincroniza identificadores entre dominios de Microsoft                     | Sesión           | Microsoft Clarity     |
+    | Desempeño      | _gat                 | Limita la cantidad de datos recogidos en sitios con mucho tráfico          | 1 minuto         | Google Universal Analytics |
+    | Desempeño      | AWSALB               | Maneja tráfico y mapea la sesión a un servidor                             | 7 días           | Amazon Web Services   |
+    | Desempeño      | _uetsid              | Registra interacción de usuarios que ya visitaron el sitio (para Bing Ads) | 1 día            | Bing Ads              |
+    | Desempeño      | _uetvid              | Registra interacción de usuarios que ya visitaron el sitio (para Bing Ads) | 1 año, 24 días   | Bing Ads              |
+    | Publicitarias  | MUID                 | Reconoce navegadores que visitan sitios de Microsoft (para Bing Ads)       | 1 año, 24 días   | Bing                  |
+    | Publicitarias  | test_cookie          | Comprueba si tu navegador acepta cookies (para DoubleClick)                | 15 minutos       | DoubleClick           |
+    | Publicitarias  | IDE                  | Guarda información de uso para mostrar publicidad personalizada (DoubleClick) | 1 año, 24 días   | DoubleClick           |
+    | Publicitarias  | li_sugr              | Guarda información de comportamiento para personalizar anuncios (LinkedIn)   | 3 meses          | LinkedIn              |
+    | Publicitarias  | bcookie              | Reconoce tu navegador a través de botones de compartir/anuncios (LinkedIn) | 1 año            | LinkedIn              |
+    | Publicitarias  | bscookie             | Guarda acciones realizadas en el sitio (LinkedIn)                          | 1 año            | LinkedIn              |
+    | Publicitarias  | __gsas               | Personaliza publicidad (Google AdManager)                                  | 1 año, 24 días   | Google AdManager      |
+    | Publicitarias  | NID                  | Limita cuántas veces ves un anuncio y mide efectividad (Google)            | 6 meses          | Google                |
+    | Publicitarias  | GoogleAdServingTest  | Identifica qué publicidad se mostró                                        | 1 hora           | Google                |
+
+*   **¿Cómo controlar las Cookies?**
+    *   Puedes desactivar o eliminar cookies cambiando la configuración de tu navegador (Chrome, Firefox, Safari, Explorer, etc.). Busca las instrucciones específicas para tu navegador.
+    *   **Advertencia:** Si desactivas las cookies, es posible que Computrabajo no funcione correctamente o que tu experiencia se vea limitada.
+    *   Puedes usar herramientas "opt-out" (de exclusión) que ofrecen algunos terceros, como el complemento de Google Analytics: [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).
+    *   No somos responsables de las políticas de privacidad de los terceros mencionados en esta sección.
+
+**10. ¿Cuál es la edad mínima para usar Computrabajo?**
+
+*   Debes tener **16 años o más** para crear una cuenta y usar nuestros servicios.
+*   Si eres menor de 18 años (o la mayoría de edad en tu país), debes usar Computrabajo bajo la supervisión de tus padres, tutor u otro adulto responsable.
+*   Si descubrimos que un menor de edad nos ha dado información sin permiso de sus padres, eliminaremos esa información y la cuenta.
+
+**11. ¿Qué pasa si cambia esta Política de Privacidad?**
+
+*   Podemos actualizar esta política publicando una nueva versión en la web.
+*   Si hacemos cambios importantes que puedan afectar tus derechos, te avisaremos por email o con un mensaje destacado en nuestra web.
+*   Te recomendamos revisar esta política de vez en cuando.
+*   Si sigues usando Computrabajo después de que publiquemos los cambios, significa que aceptas la nueva política.
+*   Si no estás de acuerdo con los cambios, tienes derecho a cerrar tu cuenta.
+
+**12. ¿Cómo contactarnos?**
+
+*   Si tienes preguntas sobre esta política o quieres ejercer tus derechos, usa nuestro [formulario de contacto](https://cl.computrabajo.com/privacidad/) o la dirección postal indicada en la sección 1.
+*   Para ayudarnos a gestionar tu solicitud, por favor danos: tu nombre completo, el email que usas en Computrabajo, el motivo de tu solicitud y qué derecho quieres ejercer. Puede que necesitemos verificar tu identidad.
+*   **Importante:** No incluyas información sensible (como datos bancarios) en los formularios de contacto, ya que podríamos usar servicios de terceros para gestionarlos.
+
+---
+
+**POLÍTICA DE PRIVACIDAD PARA EMPRESAS (Usuarios Profesionales)**
+
+Esta parte es para ti si representas a una empresa o entidad (Cliente, Usuario Profesional, Ofertante de Empleo) que usa los servicios, productos o herramientas de Computrabajo para publicar ofertas o buscar candidatos. Se refiere a los datos personales de los representantes, empleados o usuarios que actúan en nombre de la empresa cliente.
+
+**1. ¿Quién es responsable de los datos de los usuarios de la empresa?**
+
+*   **Empresa:** DGNET Ltd. ("DGNET" o "nosotros")
+*   **Registro:** Companies House de Escocia, Reino Unido, nº 189977.
+*   **Dirección:** 26 Frederick Street, 1er Piso, Edimburgo, EH2 2JR, Reino Unido.
+*   **Contacto:** Puedes contactarnos a través de nuestro [formulario de contacto](https://cl.computrabajo.com/privacidad/).
+
+**2. ¿Qué datos recopilamos de los usuarios de la empresa?**
+
+Para prestar servicios a tu empresa, podemos recopilar la siguiente información de las personas que la representan o usan la cuenta:
+
+*   **Información de contacto y cuenta:** Nombre completo, cargo en la empresa, correo electrónico profesional, número de teléfono profesional y contraseña (si aplica), nombre de la empresa cliente. Esto se pide al registrarse, crear cuentas de usuario, publicar ofertas o solicitar información/soporte.
+*   **Detalles de uso:** Información sobre las acciones realizadas en nuestra web o herramientas (ej. ofertas publicadas, candidatos contactados).
+*   **Información de navegación:** Datos de tráfico, dirección IP, ubicación, duración de la visita, sistema operativo, navegador y recursos accedidos al usar nuestra web o herramientas.
+*   **Información de Cookies:** Recopilamos datos sobre cómo usan los representantes la web a través de cookies (ver sección 8 de esta política para empresas).
+*   **Importante:** No te pediremos datos personales sensibles (salud, religión, etc.) ni financieros a través de la plataforma. Por favor, no incluyas este tipo de información.
+
+**3. ¿Para qué usamos estos datos y por qué podemos hacerlo (Base Legal)?**
+
+Usamos los datos de los usuarios de la empresa cliente para:
+
+*   a. **Prestar los servicios contratados:** Gestionar la cuenta de la empresa, permitir la publicación de ofertas, facilitar el acceso a herramientas, atender consultas y notificar sobre cambios o información relevante del servicio.
+*   b. **Gestionar nuestro Blog:** Si un usuario de la empresa comenta en el blog, gestionamos la suscripción y mostramos los comentarios de forma anónima.
+*   c. **Enviar comunicaciones comerciales:** Novedades, productos, servicios, eventos, encuestas, boletines, invitaciones a webinars de DGNET.
+*   d. **Personalizar y mejorar la experiencia:** Optimizar el uso de la web y herramientas para la empresa cliente.
+*   e. **Enviar comunicaciones de servicio:** Alertas técnicas, reportes, actualizaciones, notificaciones de seguridad y otros mensajes relacionados con el servicio contratado.
+*   f. **Responder solicitudes:** Atender consultas hechas a través de la web.
+*   g. **Enviar otras promociones:** Comunicaciones comerciales, boletines o publicidad de otros sitios, productos o socios de DGNET.
+*   h. **Mejorar nuestros servicios:** Analizar cómo los usuarios de la empresa usan la web (mediante cookies) para adaptarla a sus necesidades. Se pueden gestionar las cookies (ver Política de Cookies).
+*   i. **Mostrar publicidad inteligente:** Usar datos de navegación (con cookies) para mostrar publicidad personalizada, *solo si contamos con el consentimiento del usuario*. No se toman decisiones automáticas importantes basadas solo en esto. El perfil de cookies puede usarse en otras webs para publicidad. Se pueden configurar las preferencias (ver Política de Cookies).
+*   j. **Crear estadísticas:** Generar informes generales con datos agregados y anónimos (que no identifican a usuarios individuales ni a la empresa) para entender el uso de nuestros servicios y mejorarlos.
+*   k. **Prevenir fraudes y abusos:** Detectar usos indebidos de nuestros servicios.
+*   l. **Cumplir con la ley:** Compartir datos con autoridades si nos lo exigen legalmente.
+
+**¿Por qué podemos usar estos datos (Base Legal)?**
+
+*   **Para cumplir el contrato con la empresa (ejecución de contrato):** Usamos los datos para las finalidades a), b), c), d) y e) porque son necesarios para prestar el servicio contratado por la empresa cliente.
+*   **Porque el usuario nos da permiso (consentimiento):** Para las finalidades f), g), h) (cookies no esenciales) e i) (publicidad personalizada), necesitamos el consentimiento del usuario individual de la empresa.
+*   **Por nuestro interés legítimo:** Para las finalidades j) (estadísticas) y k) (seguridad y prevención de fraude), usamos los datos porque es fundamental para nuestro funcionamiento y proteger el servicio.
+*   **Porque la ley nos obliga (obligación legal):** Para la finalidad l), compartimos datos si una ley o una orden judicial nos lo exige.
+
+**4. ¿Cuánto tiempo guardamos los datos de los usuarios de la empresa?**
+
+Guardamos los datos personales de los usuarios de la empresa mientras la cuenta de la empresa cliente esté activa o sea necesario para prestar los servicios contratados. También los guardamos si necesitamos cumplir con obligaciones legales. Si la empresa cliente pide eliminar su cuenta o los datos de sus usuarios, los borraremos, a menos que la ley nos obligue a conservarlos por más tiempo.
+
+Si un usuario de la empresa desea retirar su consentimiento (cuando esa sea la base legal), debe contactarnos (ver sección 11). Retirar el consentimiento puede impedir la prestación del servicio, a menos que la empresa designe a otro representante.
+
+**5. ¿Con quién compartimos los datos de los usuarios de la empresa?**
+
+Podemos compartir esta información con:
+
+*   **Proveedores de Servicios:** Empresas (incluidas otras del grupo DGNET) que nos ayudan a operar nuestros servicios para empresas (ej. hosting, soporte).
+    *   Actúan solo siguiendo nuestras instrucciones (son "encargados del tratamiento").
+    *   Tenemos contratos con ellos para garantizar que protegen los datos y no los usan para fines propios.
+    *   Pueden estar ubicados en otros países con distintas leyes de protección de datos.
+    *   Puedes ver una lista de nuestros principales proveedores [aquí](https://cl.computrabajo.com/privacidad/). (Nota: El enlace original no lleva a una lista específica, revisar si hay un link actualizado).
+*   **Organismos Públicos:** Si la ley, una orden judicial o una autoridad competente nos lo pide.
+*   **Transferencias Internacionales:** Si compartimos datos con empresas o proveedores fuera de Chile, en países que quizás no tengan un nivel de protección de datos considerado "adecuado", el consentimiento del usuario (si aplica) o la necesidad contractual cubre explícitamente esta transferencia.
+*   **Enlaces a otras webs:** Si haces clic en enlaces a sitios externos, saldrás de Computrabajo. No somos responsables de cómo esas webs traten los datos. Revisa sus propias políticas de privacidad.
+
+**6. ¿Cuáles son los derechos de los usuarios de la empresa sobre sus datos?**
+
+Las personas (empleados, representantes) que usan Computrabajo en nombre de la empresa cliente tienen derechos sobre *sus propios datos personales*:
+
+*   **Acceder:** Pueden pedirnos saber qué datos personales suyos tenemos y solicitar una copia.
+*   **Rectificar:** Pueden pedirnos que corrijamos sus datos personales si son incorrectos (a veces pueden hacerlo desde el área privada).
+*   **Oponerte o Restringir:** Pueden pedirnos que dejemos de usar sus datos para ciertos fines o que limitemos su uso, salvo que tengamos razones legales o contractuales importantes para seguir usándolos.
+*   **Suprimir (Borrar):** Pueden pedirnos que eliminemos sus datos personales.
+*   **Portabilidad:** Si es técnicamente posible, pueden pedirnos que les entreguemos sus datos en un formato común o que los enviemos a otra entidad.
+
+**¿Cómo ejercer estos derechos?**
+*   El usuario debe contactar con nosotros usando el [formulario de contacto](https://cl.computrabajo.com/privacidad/) o la dirección indicada en la sección 1.
+*   Debe proporcionar: nombre completo, email profesional usado en la plataforma, motivo de la solicitud, derecho a ejercer y documentos que acrediten su identidad (y representación si actúa por otro).
+*   Responderemos en los plazos legales. Los derechos pueden tener limitaciones legales.
+*   Si tienen una queja no resuelta, pueden contactar a la autoridad de protección de datos (para DGNET, es la ICO en el Reino Unido).
+
+**7. ¿Cómo protegemos la información de los usuarios de la empresa?**
+
+Aplicamos las mismas medidas de seguridad descritas en la sección 8 de la política para candidatos: medidas técnicas y organizativas, planes ante brechas de seguridad y notificación si es legalmente requerido. La advertencia sobre la seguridad de la transmisión por internet también aplica aquí.
+
+**8. Política de Cookies (Para usuarios de empresas)**
+
+*   **¿Qué son, por qué las usamos y qué tipos hay?** La explicación es la misma que en la sección 9 de la política para candidatos. Usamos cookies para mejorar la experiencia del usuario de la empresa, personalizar el contenido y mostrar publicidad relevante.
+*   **Cookies de Terceros:** Usamos las mismas cookies de terceros detalladas en la tabla de la sección 9 de la política para candidatos.
+*   **¿Cómo controlar las Cookies?** Las opciones para desactivar, eliminar o gestionar las cookies a través del navegador o herramientas de "opt-out" son las mismas que se explican en la sección 9 de la política para candidatos. La advertencia sobre el impacto en la funcionalidad también aplica.
+
+**9. ¿Cuál es la edad mínima para los usuarios de la empresa?**
+
+Las personas que utilicen la plataforma en nombre de la empresa cliente deben tener la mayoría de edad legal aplicable en su país. Si la empresa nos proporciona datos de usuarios menores de edad (según la ley local), tomaremos medidas para eliminarlos si tenemos conocimiento de ello.
+
+**10. ¿Qué pasa si cambia esta Política de Privacidad?**
+
+*   Podemos actualizar esta política publicando una nueva versión en la web o herramienta.
+*   Si hacemos cambios importantes que afecten los derechos de los usuarios de la empresa o aumenten sus obligaciones, notificaremos a la empresa cliente por email o mediante un aviso en la plataforma.
+*   Recomendamos revisar esta política periódicamente.
+*   El uso continuado de los servicios por parte de la empresa y sus usuarios implica la aceptación de la política actualizada.
+*   Si la empresa no está de acuerdo con los cambios, puede cancelar los servicios según lo estipulado en su contrato o condiciones de uso.
+
+**11. ¿Cómo contactarnos?**
+
+*   Tanto la empresa cliente como sus usuarios individuales pueden contactarnos para consultas sobre esta política o para ejercer los derechos indicados, usando nuestro [formulario de contacto](https://cl.computrabajo.com/privacidad/) o la dirección postal de la sección 1.
+*   Para ayudarnos a gestionar la solicitud, por favor proporcionen: nombre completo, email usado en la plataforma, motivo de la solicitud y qué derecho se desea ejercer. Puede ser necesario verificar la identidad y/o representación.
+*   **Importante:** No incluyan información sensible (como datos bancarios) en los formularios de contacto.

@@ -1,0 +1,140 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada para Usuarios en Chile
+**Fecha de última actualización:** 4 de noviembre de 2024 (Basado en la fecha de "Actualización" del documento original, aunque el formato año/mes/día parece invertido o el año es futuro)
+**Propósito:** Aquí te explicamos de forma sencilla cómo recopilamos, usamos y protegemos tu información personal cuando utilizas nuestros servicios en OpenAI (como nuestro sitio web, aplicaciones como ChatGPT, etc.). Queremos que entiendas tus derechos y cómo cuidamos tus datos.
+
+*(Nota: Esta política no cubre los datos que procesamos para clientes de nuestras herramientas para empresas, como la API. Eso se rige por contratos específicos con ellos.)*
+
+---
+
+**1. Qué Información Recopilamos Sobre Ti**
+
+Recopilamos información tuya de distintas maneras:
+
+**a) Información que tú nos das directamente:**
+
+*   **Al crear tu cuenta:** Tu nombre, datos de contacto (email, teléfono), contraseña, fecha de nacimiento, información de pago y tu historial de compras con nosotros.
+*   **Contenido que creas o subes:** Los textos que escribes (como tus preguntas a ChatGPT), archivos, imágenes o audios que subes al usar nuestros servicios.
+*   **Cuando te comunicas con nosotros:** Tu nombre, datos de contacto y el contenido de tus mensajes (por email, redes sociales, etc.).
+*   **Otra información:** Datos que nos das al participar en eventos, encuestas, o para verificar tu identidad o edad.
+
+**b) Información que recogemos automáticamente cuando usas nuestros servicios:**
+
+*   **Datos de conexión y uso (Registros):** Tu dirección IP (un número que identifica tu conexión a internet), tipo de navegador, configuración, fecha y hora de uso, y cómo interactúas con nuestros servicios (qué funciones usas, qué miras, qué acciones realizas). También tu zona horaria, país, tipo de computador o celular.
+*   **Información de tu dispositivo:** Nombre del dispositivo, sistema operativo, identificadores únicos y navegador que usas. La información depende de tu equipo y configuración.
+*   **Ubicación aproximada:** Usamos tu dirección IP para saber la zona general desde donde te conectas (país, región). Esto nos ayuda con la seguridad (detectar inicios de sesión raros) y a darte mejores respuestas. A veces, podrías darnos tu ubicación más precisa (como la del GPS de tu celular) si activas esa opción en algún servicio.
+*   **Cookies y tecnologías similares:** Usamos pequeños archivos llamados "cookies" para que nuestros servicios funcionen bien, recordar tus preferencias (incluso si no tienes cuenta) y mejorar tu experiencia. Puedes leer más en nuestra Política de Cookies.
+
+**c) Información que recibimos de otras fuentes:**
+
+*   **Socios de confianza:** Por ejemplo, empresas de seguridad que nos ayudan a prevenir fraudes y abusos.
+*   **Proveedores de marketing:** Nos dan información sobre posibles clientes para nuestros servicios empresariales.
+*   **Fuentes públicas (Internet):** Recopilamos información disponible públicamente para entrenar y mejorar los modelos de inteligencia artificial que usan nuestros servicios (como ChatGPT). Puedes saber más sobre esto [aquí](https://openai.com/es-419/policies/privacy-policy/). *(Nota: El enlace original dirigía a un artículo del centro de ayuda, se mantiene la referencia genérica aquí)*.
+
+---
+
+**2. Para Qué Usamos Tu Información**
+
+Usamos tu información personal para varios fines:
+
+*   **Para darte nuestros servicios:** Operar, mantener y analizar cómo funcionan nuestros servicios (por ejemplo, para que ChatGPT pueda responder tus preguntas).
+*   **Para mejorar y desarrollar:** Crear nuevas funciones, mejorar las existentes y hacer investigación.
+*   **Para comunicarnos contigo:** Enviarte información sobre nuestros servicios, eventos, cambios importantes o mejoras.
+*   **Para seguridad y prevención:** Evitar fraudes, actividades ilegales o mal uso de nuestros servicios, y proteger la seguridad de nuestros sistemas.
+*   **Para cumplir con la ley:** Cumplir con nuestras obligaciones legales y proteger tus derechos, los nuestros y los de terceros.
+
+**Información anónima:** A veces, juntamos información de varios usuarios y la modificamos para que ya no se pueda identificar a nadie (la "anonimizamos"). Usamos esta información anónima para análisis, mejorar servicios e investigar, sin intentar volver a identificarte (a menos que la ley lo exija).
+
+**Uso de tu contenido para mejorar:** Usamos el contenido que nos proporcionas (textos, etc.) para mejorar nuestros servicios, incluyendo el entrenamiento de los modelos como ChatGPT. Tienes la opción de pedirnos que no usemos tu contenido para este fin. Consulta [estas instrucciones](https://openai.com/es-419/policies/privacy-policy/) para saber cómo hacerlo. *(Nota: El enlace original dirigía a instrucciones específicas, se mantiene la referencia genérica aquí)*.
+
+---
+
+**3. Con Quién Compartimos Tu Información**
+
+Podemos compartir tu información personal en estas situaciones:
+
+*   **Con proveedores de servicios:** Empresas que nos ayudan a operar, como proveedores de almacenamiento en la nube (hosting), atención al cliente, procesamiento de pagos, seguridad, análisis de datos, envío de correos, etc. Solo pueden usar tu información siguiendo nuestras instrucciones y para cumplir sus tareas con nosotros.
+*   **En caso de cambios en el negocio:** Si OpenAI pasa por una fusión, venta, reorganización, quiebra o proceso similar, tu información podría ser compartida durante la negociación y transferida a la nueva entidad o filial como parte del acuerdo.
+*   **Con autoridades o por razones legales:** Si la ley nos obliga, o si creemos de buena fe que es necesario para:
+    *   Cumplir una obligación legal.
+    *   Proteger nuestros derechos o propiedad.
+    *   Investigar posibles violaciones de nuestros términos, políticas o la ley.
+    *   Detectar o prevenir fraude o actividades ilegales.
+    *   Proteger la seguridad de nuestros productos, empleados, usuarios o el público.
+    *   Defendernos de responsabilidades legales.
+*   **Con nuestras empresas filiales:** Compartimos información con empresas que controlan, son controladas por, o están bajo control común con OpenAI. Usarán la información respetando esta política.
+*   **Con administradores de cuentas empresariales:** Si usas una cuenta creada por tu empresa (ej. ChatGPT Enterprise), el administrador de esa cuenta puede acceder y controlar tu cuenta y contenido. Si te registras con tu email de trabajo, podríamos informar a tu organización que tienes una cuenta y darles algunos datos (como tu email) para que puedan añadirte a una cuenta empresarial.
+*   **Con otros usuarios o terceros (si tú lo decides):** Algunas funciones te permiten compartir información. Por ejemplo, puedes compartir un link a una conversación de ChatGPT o conectar con aplicaciones de terceros. Tú controlas qué compartes. Revisa siempre los términos y políticas de privacidad de esos terceros antes de compartir.
+
+---
+
+**4. Por Cuánto Tiempo Guardamos Tu Información**
+
+Guardamos tu información personal solo durante el tiempo necesario para darte nuestros servicios o para otros fines legítimos, como:
+
+*   Resolver conflictos.
+*   Mantener la seguridad.
+*   Cumplir con nuestras obligaciones legales.
+
+El tiempo exacto depende de varios factores, como:
+
+*   Para qué la necesitamos (ej. ¿es necesaria para darte el servicio?).
+*   La cantidad y tipo de información.
+*   Qué tan sensible es.
+*   El riesgo de daño si se usa o divulga sin permiso.
+*   Las leyes que debemos cumplir.
+
+**Ejemplo:** Los chats temporales de ChatGPT no quedan en tu historial y se guardan solo por 30 días por seguridad. Puedes encontrar más información sobre cómo controlar tus datos [aquí](https://openai.com/es-419/policies/privacy-policy/). *(Nota: El enlace original dirigía a controles de datos, se mantiene la referencia genérica aquí)*.
+
+---
+
+**5. Tus Derechos Sobre Tu Información**
+
+Según dónde vivas, la ley te da ciertos derechos sobre tu información personal. En general, podrías tener derecho a:
+
+*   **Acceder:** Saber qué información tenemos sobre ti y cómo la usamos.
+*   **Eliminar:** Pedir que borremos tu información de nuestros registros.
+*   **Rectificar:** Corregir o actualizar tu información si es incorrecta.
+*   **Portabilidad:** Pedir una copia de tu información en un formato que puedas llevar a otro servicio.
+*   **Limitar el uso:** Pedir que restrinjamos cómo usamos tu información.
+*   **Retirar tu consentimiento:** Si nos diste permiso para algo específico, puedes retirarlo cuando quieras.
+*   **Oponerte:** Oponerte a ciertas formas en que usamos tu información.
+*   **Reclamar:** Presentar una queja ante la autoridad local de protección de datos si crees que no hemos respetado tus derechos.
+
+**Cómo ejercer tus derechos:**
+Puedes gestionar parte de tu información directamente en tu cuenta de OpenAI. Si no puedes hacerlo desde ahí, o para otros derechos, puedes enviar tu solicitud a través de [privacy.openai.com](https://privacy.openai.com) o al correo electrónico [dsar@openai.com](mailto:dsar@openai.com). También puedes contactar a nuestro Responsable de Protección de Datos en [privacy@openai.com](mailto:privacy@openai.com).
+
+**Importante sobre la precisión de la IA:**
+Modelos como ChatGPT a veces generan respuestas que pueden parecer hechos, pero no siempre son correctas. Predicen las palabras más probables, no necesariamente las verdaderas. **No debes asumir que todo lo que dicen es exacto.** Si ChatGPT genera información materialmente incorrecta *sobre ti* y quieres que la corrijamos o eliminemos, puedes solicitarlo en [privacy.openai.com](https://privacy.openai.com) o [dsar@openai.com](mailto:dsar@openai.com). Analizaremos tu solicitud según la ley aplicable y nuestras capacidades técnicas.
+
+**Datos usados para entrenar modelos:** Para saber cómo ejercer tus derechos sobre la información que recolectamos de internet para entrenar nuestros modelos, consulta [este artículo del centro de ayuda](https://openai.com/es-419/policies/privacy-policy/). *(Nota: El enlace original dirigía a un artículo específico, se mantiene la referencia genérica aquí)*.
+
+**Transferencia internacional de datos:** Procesamos y almacenamos tu información personal en servidores ubicados en distintas partes del mundo, incluyendo Estados Unidos. Aunque las leyes de protección de datos varían, aplicamos las protecciones de esta política donde sea que estén tus datos y solo los transferimos usando mecanismos legales válidos.
+
+---
+
+**6. Menores de Edad**
+
+*   Nuestros servicios **no son para menores de 13 años**. No recopilamos intencionalmente información de niños menores de esa edad. Si crees que un menor de 13 nos ha dado información, por favor contáctanos en [privacy@openai.com](mailto:privacy@openai.com) para que investiguemos y la eliminemos si corresponde.
+*   Los usuarios **menores de 18 años** deben tener permiso de sus padres o tutor legal para usar nuestros servicios.
+
+---
+
+**7. Cómo Protegemos Tu Información (Seguridad)**
+
+Tomamos medidas de seguridad técnicas, administrativas y organizativas razonables para proteger tu información personal contra pérdida, mal uso, acceso no autorizado, divulgación, alteración o destrucción.
+
+Sin embargo, **ninguna transmisión por internet o correo electrónico es 100% segura o libre de errores.** Por eso, ten cuidado al decidir qué información nos envías. No somos responsables si eludes alguna configuración de privacidad o medida de seguridad en nuestros servicios o en sitios de terceros.
+
+---
+
+**8. Cambios a Esta Política de Privacidad**
+
+Podemos actualizar esta Política de Privacidad de vez en cuando. Cuando lo hagamos, publicaremos la versión actualizada en esta página e indicaremos la nueva fecha de entrada en vigencia. Si la ley requiere otro tipo de aviso, también lo haremos.
+
+---
+
+**9. ¿Preguntas? Contáctanos**
+
+Si tienes alguna duda o inquietud que no se responda en esta política, por favor contacta a nuestro equipo de asistencia. *(Nota: El original no provee un link directo o email aquí, solo menciona al equipo de asistencia)*.

@@ -1,0 +1,81 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad y Uso Simplificada de BancoEstado.
+**Fecha de última actualización:** 2 de marzo de 2025 (Según fecha de consulta del documento original).
+**Propósito:** Aquí te explicamos de forma clara cómo usamos y protegemos tu información personal cuando visitas nuestro sitio web (www.bancoestado.cl) o usas nuestros servicios en línea. También te contamos cuáles son tus derechos y responsabilidades al usar nuestro portal.
+
+**¿Qué Significan Estas Palabras?**
+
+*   **BancoEstado (o Nosotros):** Se refiere al Banco del Estado de Chile.
+*   **Portal:** Es nuestro sitio web www.bancoestado.cl y los servicios que ofrecemos en línea.
+*   **Usuario (o Tú):** Cualquier persona que visita nuestro portal, sea cliente o no.
+*   **Links o Enlaces (Hipervínculos):** Son direcciones web que te llevan a otras páginas (nuestras o de terceros) al hacer clic en un texto o imagen.
+*   **Cookies:** Pequeños archivos que guardamos en tu computador para reconocerte (de forma anónima) y mejorar tu experiencia en nuestro sitio.
+
+**Acceso y Uso de Nuestro Sitio Web**
+
+*   **Acceso General:** Cualquier persona puede visitar nuestro portal para informarse sobre BancoEstado y sus servicios.
+*   **Acceso para Clientes:** Si eres cliente y tienes tu clave de acceso, puedes usar servicios adicionales, ver información específica de tus productos y realizar operaciones bancarias. Estas operaciones se rigen por los contratos que firmaste con nosotros y por estas condiciones.
+*   **Disponibilidad del Sitio:** Hacemos lo posible para que nuestro portal funcione siempre bien y sin interrupciones. Sin embargo, por la naturaleza de internet, no podemos garantizar que estará disponible el 100% del tiempo. Usamos sistemas de seguridad que cumplen con los estándares exigidos a los bancos en Chile.
+*   **Cambios en el Sitio y las Condiciones:** Podemos modificar el portal, la información, los servicios, las operaciones disponibles y estas condiciones generales en cualquier momento y sin previo aviso.
+
+**Cómo Debes Usar Nuestro Sitio Web**
+
+*   **Uso Responsable:** Debes usar nuestro portal y sus servicios respetando la ley chilena, el orden público y las buenas costumbres.
+*   **Propiedad Intelectual:** El contenido de nuestro sitio (textos, gráficos, sonidos, etc.) está protegido por la Ley de Propiedad Intelectual (Ley N° 17.336). Si usas información de nuestro portal para otros fines, debes indicar que la fuente es BancoEstado, a menos que prohibamos expresamente su reproducción.
+
+**Tu Información Personal: Cómo la Usamos y Protegemos**
+
+*   **Recopilación y Uso:** Cuando nos entregas voluntariamente tus datos personales (como nombre, RUT, datos de contacto) a través de nuestro portal, los tratamos con confidencialidad. Usamos esta información solo para fines propios del Banco (como gestionar productos, ofrecerte servicios, etc.).
+*   **Tus Derechos:** Tienes derecho a pedirnos que eliminemos tus datos personales de nuestras bases de datos cuando lo desees.
+*   **Datos de Facebook Leads:** Si nos das tus datos a través de un formulario en una publicación de Facebook (Facebook Leads), aceptas que:
+    *   Guardemos y usemos esa información.
+    *   La incorporemos a nuestras bases de datos.
+    *   Te contactemos en el futuro para ofrecerte productos y servicios de BancoEstado.
+    *   Aseguramos la confidencialidad de estos datos.
+
+**Ofertas de Productos en Línea**
+
+*   **Solicitudes Online:** Si solicitas un producto (como un crédito o una cuenta) a través de nuestro portal, tu solicitud no significa una aprobación automática. Debes cumplir con los requisitos que pedimos y nosotros debemos evaluar y aprobar tu solicitud.
+*   **Condiciones:** Si hay diferencias entre las condiciones de una oferta mostrada en el portal y las condiciones escritas en el contrato final, generalmente prevalecen las condiciones escritas (a menos que se trate de un error evidente). Sin embargo, si hacemos una oferta especial exclusiva para el portal, indicaremos claramente que esas condiciones son las que valen.
+
+**Uso de Cookies**
+
+*   **¿Qué Hacen?:** Usamos "cookies" cuando navegas en nuestro sitio. Son pequeños archivos que nos ayudan a:
+    *   Reconocer tu computador de forma anónima (no sabemos quién eres personalmente).
+    *   Recordar tus preferencias (por ejemplo, si ya elegiste un portal específico).
+    *   Diagnosticar problemas técnicos.
+    *   Entender cómo se usa el sitio para mejorarlo.
+*   **Privacidad:** Las cookies no nos entregan tu nombre ni otros datos personales directos.
+
+**Nuestra Responsabilidad y la Tuya**
+
+*   **Riesgos de Internet:** Usar internet siempre implica algunos riesgos (como virus, fraudes, intervención de terceros). Al usar nuestro portal, entiendes y aceptas asumir estos riesgos. BancoEstado no se hace responsable por daños que terceros puedan causar a tus equipos o a ti.
+*   **Enlaces a Otros Sitios:** En nuestro portal puede haber links a sitios web de otras empresas o instituciones. Los incluimos porque creemos que pueden ser útiles para ti. Sin embargo, tú accedes a ellos bajo tu propia responsabilidad y según las condiciones de esos sitios. BancoEstado no es responsable por el contenido o servicios de esos sitios externos (a menos que tengamos un acuerdo específico para procesar operaciones iniciadas allí).
+
+**Seguridad de tus Operaciones**
+
+*   **Protección:** Cuando realizas operaciones que requieren privacidad (como transferencias, consulta de saldos), usamos tecnología de seguridad estándar en la industria:
+    *   **Autenticación:** Te pediremos que te identifiques (generalmente con tu RUT y clave).
+    *   **Encriptación (SSL):** Protegemos la información que viaja entre tu computador y nuestros servidores para que no pueda ser leída por terceros.
+
+**Consejos para Proteger tu Información**
+
+Tu seguridad también depende de ti. Sigue estos consejos:
+
+*   **Cuida tus Claves:** Tu clave secreta es personal e intransferible. No la compartas con NADIE.
+*   **Cámbialas Regularmente:** Modifica tus claves y códigos PIN periódicamente.
+*   **Usa Claves Diferentes:** No uses la misma clave para tu tarjeta, la banca en línea y la banca telefónica.
+*   **Crea Claves Seguras:** Elige claves que sean difíciles de adivinar. Evita usar tu RUT, fechas de nacimiento, secuencias obvias (1234, 1111) o datos fáciles de obtener.
+*   **Memorízalas:** No anotes tus claves. Apréndetelas de memoria.
+
+**Leyes Aplicables y Dónde Resolver Conflictos**
+
+*   Cualquier problema, duda o conflicto que surja por el uso de nuestro portal, su información o los servicios ofrecidos, se resolverá de acuerdo con las leyes vigentes en Chile y será competencia de los tribunales chilenos.
+
+**Información Legal Adicional**
+
+*   **Cumplimiento Ley del Consumidor:** BancoEstado cumple con la Ley N° 19.496 sobre Protección de los Derechos de los Consumidores (Ley SERNAC).
+*   **Garantía Estatal:** Infórmate sobre la garantía estatal de los depósitos en www.cmfchile.cl.
+*   **Emisores de Tarjetas:** Infórmate sobre las entidades autorizadas para emitir tarjetas de pago en Chile en los registros de la Comisión para el Mercado Financiero (CMF) en www.cmfchile.cl.
+*   **Casa Matriz:** Nuestra oficina principal está en Avenida Libertador Bernardo O'Higgins N° 1111, Santiago, Chile.

@@ -1,0 +1,97 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada de La Cuarta
+
+**Fecha de última actualización:** 2 de Marzo, 2025
+
+**Propósito:** Te explicamos de forma clara y sencilla cómo recopilamos, usamos y protegemos tu información personal cuando visitas o interactúas con el sitio web de La Cuarta (www.lacuarta.com). Queremos que entiendas tus derechos y cómo cuidamos tus datos.
+
+---
+
+**1. ¿Quiénes Somos y Por Qué Esta Política?**
+
+*   **Quiénes somos:** Somos La Cuarta, el medio de comunicación responsable de este sitio web.
+*   **Nuestro compromiso:** Nos tomamos en serio tu privacidad. Esta política explica qué información tuya recogemos, para qué la usamos y cómo la mantenemos segura, cumpliendo con la ley chilena (Ley N° 19.628 sobre Protección de la Vida Privada).
+
+**2. ¿Qué Información Recopilamos Sobre Ti?**
+
+Podemos recopilar distintos tipos de información cuando usas nuestro sitio:
+
+*   **Información que tú nos das directamente:**
+    *   Cuando te suscribes a newsletters (correo electrónico).
+    *   Cuando participas en concursos o encuestas (nombre, datos de contacto, etc.).
+    *   Cuando nos contactas (tu mensaje y datos de contacto).
+*   **Información que recopilamos automáticamente:**
+    *   **Cómo usas el sitio:** Qué noticias lees, cuánto tiempo pasas en cada página, en qué haces clic.
+    *   **Datos técnicos:** Tu dirección IP (un número que identifica tu conexión a internet), tipo de navegador (Chrome, Firefox, etc.), sistema operativo (Windows, MacOS, Android), tipo de dispositivo (computador, celular).
+    *   **Cookies y tecnologías similares:** Pequeños archivos que guardamos en tu dispositivo para mejorar tu experiencia, recordar tus preferencias y entender cómo se usa el sitio. Más abajo te explicamos más sobre esto.
+
+**3. ¿Para Qué Usamos Tu Información?**
+
+Usamos tu información personal para varios fines importantes:
+
+*   **Para que el sitio funcione:** Asegurarnos de que puedas navegar y usar todas las funciones.
+*   **Para mejorar tu experiencia:** Mostrarte contenido que creemos que te puede interesar, recordar tus preferencias (como el tamaño de letra).
+*   **Para comunicarnos contigo:** Enviarte noticias o boletines (si te suscribes), responder a tus consultas.
+*   **Para entender y mejorar:** Analizar cómo se usa el sitio para hacerlo más útil y atractivo. Usamos datos generales (no individuales) para esto.
+*   **Para mostrar publicidad:** Parte de nuestro financiamiento viene de la publicidad. Podemos usar datos generales (no tu nombre directo) para mostrar avisos más relevantes para ti o para grupos de usuarios con intereses similares.
+*   **Para cumplir con la ley:** Si una autoridad legal nos lo pide (como un tribunal), podríamos tener que entregar información.
+
+**4. ¿Con Quién Compartimos Tu Información?**
+
+Tu confianza es importante. Solo compartimos tu información en casos específicos:
+
+*   **Proveedores de Servicios:** Empresas que nos ayudan a operar el sitio (ej: almacenamiento de datos en la nube, análisis de visitas, envío de correos). Estas empresas solo pueden usar tu información para la tarea específica que les pedimos y deben protegerla.
+*   **Publicidad:** Podemos compartir datos generales o agrupados (que no te identifican personalmente) con anunciantes o redes publicitarias para mostrar avisos. A veces, las cookies de terceros recopilan información para este fin (ver sección Cookies).
+*   **Obligaciones Legales:** Si la ley nos obliga o una autoridad competente (como un juez) nos lo exige formalmente.
+*   **Cambios en la Empresa:** Si La Cuarta se vende, fusiona o reorganiza, tu información podría ser transferida a la nueva entidad, siempre manteniendo los compromisos de esta política.
+
+**Nunca venderemos tu información personal identificable (como tu nombre o correo) a terceros para sus propios fines de marketing sin tu permiso explícito.**
+
+**5. Cookies y Tecnologías Similares**
+
+*   **¿Qué son?** Son pequeños archivos de texto que se guardan en tu navegador cuando visitas un sitio web.
+*   **¿Para qué las usamos?**
+    *   **Necesarias:** Para que el sitio funcione correctamente.
+    *   **De rendimiento:** Para entender cómo usan el sitio los visitantes y así mejorarlo (ej: Google Analytics).
+    *   **De funcionalidad:** Para recordar tus preferencias (ej: si ya viste un aviso).
+    *   **De publicidad:** Para ayudar a mostrar anuncios que sean más relevantes para tus intereses (pueden ser nuestras o de terceros).
+*   **Tu control:** La mayoría de los navegadores te permiten ver, administrar, eliminar y bloquear las cookies. Revisa la configuración de tu navegador para ajustarlo a tus preferencias. Ten en cuenta que si bloqueas todas las cookies, algunas partes del sitio podrían no funcionar bien.
+
+**6. ¿Cuáles Son Tus Derechos Sobre Tu Información? (Derechos ARCO)**
+
+La ley chilena te da derechos sobre tu información personal. Estos son conocidos como derechos ARCO:
+
+*   **Acceso:** Tienes derecho a saber qué información personal tuya tenemos y cómo la estamos usando.
+*   **Rectificación:** Si tu información es incorrecta, incompleta o está desactualizada, puedes pedir que la corrijamos.
+*   **Cancelación (Supresión):** Puedes pedir que eliminemos tu información personal si crees que ya no es necesaria para los fines que te explicamos, si retiraste tu consentimiento (si aplica) o si consideras que se está usando de forma indebida. Hay casos en que la ley nos obliga a mantenerla por un tiempo.
+*   **Oposición:** Puedes oponerte a que usemos tu información para ciertos fines específicos (como enviarte publicidad, si aplica), siempre que no sea esencial para el servicio o una obligación legal.
+
+**¿Cómo ejercer tus derechos?**
+Para ejercer cualquiera de estos derechos, por favor contáctanos a través de [Incluir aquí el Correo Electrónico o Canal de Contacto designado para privacidad, ejemplo: privacidad@lacuarta.cl]. Necesitaremos verificar tu identidad para proteger tu información.
+
+**7. ¿Cómo Protegemos Tu Información?**
+
+*   Implementamos medidas de seguridad técnicas y organizativas para proteger tu información contra pérdida, robo, acceso no autorizado, modificación o divulgación.
+*   Sin embargo, ten en cuenta que ninguna transmisión por internet o sistema de almacenamiento es 100% seguro. Hacemos nuestro mejor esfuerzo, pero no podemos garantizar la seguridad absoluta.
+
+**8. ¿Por Cuánto Tiempo Guardamos Tu Información?**
+
+Guardaremos tu información personal solo durante el tiempo necesario para cumplir con los fines descritos en esta política, o por el tiempo que la ley chilena nos exija (por ejemplo, por temas legales o contables). Después, la eliminaremos de forma segura o la haremos anónima (para que no se pueda relacionar contigo).
+
+**9. Privacidad de Menores de Edad**
+
+Nuestro sitio web no está dirigido a menores de 18 años (o la edad mínima legal aplicable en Chile). No recopilamos intencionalmente información personal de menores de edad. Si eres padre, madre o tutor y crees que tu hijo/a nos ha proporcionado información personal, por favor contáctanos para que la eliminemos.
+
+**10. Cambios a Esta Política de Privacidad**
+
+Podemos actualizar esta política de vez en cuando para reflejar cambios en nuestras prácticas o en la ley. Cuando hagamos cambios importantes, lo indicaremos actualizando la "Fecha de última actualización" al principio de esta página. Te recomendamos revisar esta política periódicamente.
+
+**11. ¿Tienes Dudas? Contáctanos**
+
+Si tienes alguna pregunta sobre esta Política de Privacidad Simplificada o sobre cómo manejamos tu información personal, no dudes en contactarnos:
+
+*   **Correo electrónico:** [Incluir aquí el Correo Electrónico de Contacto designado para privacidad, ejemplo: privacidad@lacuarta.cl]
+*   **Dirección postal:** [Incluir Dirección Física si es relevante y requerida por ley]
+
+¡Gracias por confiar en La Cuarta!

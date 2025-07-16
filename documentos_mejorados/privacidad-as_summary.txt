@@ -1,0 +1,94 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada para Usuarios Chilenos de Servicios AS
+**Fecha de última actualización:** [Fecha]
+**Propósito:** Te explicamos de forma clara cómo recopilamos, usamos y protegemos tu información personal cuando utilizas nuestros servicios (Servicios AS). Queremos que entiendas tus derechos y nuestras responsabilidades.
+
+**1. Introducción: ¿De qué se trata esto?**
+
+*   Para usar nuestros servicios (noticias, apps, tiendas online, videos, etc., llamados "Servicios AS"), necesitas leer y aceptar esta Política de Privacidad y nuestras Condiciones de Servicio.
+*   Al aceptarla, estás de acuerdo con cómo manejamos tu información personal.
+*   **¿Quién es el "Usuario"?** Eres tú, cualquier persona que accede o usa nuestros Servicios AS, aunque no te registres.
+*   **¿Qué son los "Servicios AS"?** Son todos los productos, servicios y contenidos (gratuitos o de pago) que ofrecemos en internet, como:
+    *   Información y noticias.
+    *   Programas y aplicaciones (apps).
+    *   Tiendas online.
+    *   Sitios web.
+    *   Videos bajo demanda.
+    *   Comunicaciones comerciales o corporativas.
+*   Esta política se aplica siempre que uses nuestros servicios, sin importar desde qué dispositivo (computador, celular, tablet, Smart TV, etc.) o desde qué lugar del mundo te conectes.
+
+**2. Cumplimiento Legal: Seguimos las reglas**
+
+*   Diario AS es una empresa ubicada en España. Por eso, cumplimos con las leyes de protección de datos de España y Europa.
+*   Te garantizamos que respetamos todas las obligaciones legales sobre protección de tu información y privacidad.
+
+**3. ¿Quién es responsable de tu información?**
+
+*   La empresa responsable de guardar y cuidar tus datos personales es:
+    *   **Diario AS, S.L.**
+    *   Domicilio: C/ Valentín Beato, 44 – 28037, Madrid, España.
+    *   N.I.F (Número de Identificación Fiscal español): B-81511834.
+*   Como parte del Grupo PRISA, hemos designado un **Delegado de Protección de Datos**. Puedes contactarlo si tienes dudas, quejas o sugerencias sobre cómo usamos tus datos, o para ejercer tus derechos.
+    *   Correo electrónico: dpo@prisa.com
+
+**4. ¿Para qué usamos tu información personal?**
+
+Usamos los datos que nos entregas para diferentes fines:
+
+*   **Personalizar tu experiencia:** Adaptar los servicios a tu perfil, ubicación geográfica, preferencias y gustos.
+*   **Entender y mejorar nuestros servicios:** Analizamos cómo usas los Servicios AS para definir tipos de usuarios, mejorar lo que ofrecemos y administrar los servicios.
+*   **Mostrarte contenido y publicidad relevante:** Te mostramos información (editorial o comercial) adaptada a tu perfil, tanto en nuestros servicios como en los de socios. Este perfil lo creamos basándonos en cómo usas los servicios y, a veces, en la ubicación de tu dispositivo (siempre te pediremos permiso específico para usar tu ubicación).
+*   **Desarrollar nuevos servicios:** Crear nuevas ofertas que puedan interesarte.
+*   **Resolver problemas técnicos:** Gestionar problemas y mantener los Servicios AS funcionando correctamente.
+
+**5. ¿Qué tipo de información tuya recopilamos?**
+
+Cuando usas los Servicios AS, recogemos ciertos datos sobre ti. Principalmente:
+
+*   **Tu dirección IP:** Es como la "dirección" de tu conexión a internet.
+*   **Un código de usuario:** Un identificador único que te asignamos nosotros.
+
+Estos datos pueden considerarse personales si permiten identificarte. Con ellos, podemos vincular la siguiente información:
+
+*   **Datos de uso y navegación:** Qué servicios usas, cómo los usas, cuándo, qué tipo de usuario eres, si accedes a publicidad. Lo usamos para estadísticas, publicidad, controlar el uso y entender mejor tus intereses.
+*   **Intereses y perfil (deducidos):** Basándonos en tu navegación, deducimos qué te podría interesar. También recogemos información sobre tu dispositivo (modelo, sistema operativo, identificadores únicos), red móvil, errores del sistema, tipo de navegador, idioma, fecha/hora de conexión, y el uso de *cookies* y tecnologías similares (explicadas en nuestra **POLÍTICA DE COOKIES**). Esto nos ayuda a analizar el uso y mostrarte información personalizada. **Importante:** Al usar nuestros servicios, aceptas nuestra Política de Cookies.
+*   **Tecnologías de seguimiento:** Usamos pequeñas imágenes transparentes en webs y apps que nos permiten saber si accediste a un contenido y reconocerte si vuelves. Sirve para estadísticas, análisis y mostrar contenido personalizado.
+*   **Enlaces rastreados:** Algunos enlaces a servicios de terceros pueden tener un código para que sepan que vienes desde nuestros Servicios AS.
+*   **Información de ubicación:** El país o zona desde donde te conectas. Sirve para personalizar servicios y verificar si tienes derecho a ver ciertos contenidos (como videos).
+
+**6. ¿Compartimos tu información con otros?**
+
+*   **Regla general:** No entregaremos tus datos personales a ninguna empresa externa sin una razón legal válida que lo justifique.
+*   **Excepción para medición:** Usamos proveedores externos (como empresas de análisis web) que utilizan *cookies* para ayudarnos a medir cómo se usan nuestros Servicios AS. Puedes consultar nuestra **POLÍTICA DE COOKIES** para más detalles.
+
+**7. Menores de 14 años**
+
+*   Si tienes **menos de 14 años**, NO debes usar nuestros Servicios AS sin el permiso de tus padres o tutores legales.
+*   Si sospechamos que un usuario es menor de 14 años, podríamos pedir una copia de su carnet de identidad (o documento similar) o la autorización firmada por sus padres o tutores.
+
+**8. ¿Cuáles son tus derechos sobre tu información?**
+
+Tienes derecho a controlar tu información personal. Puedes pedirnos:
+
+*   **Acceso:** Saber qué datos tenemos sobre ti.
+*   **Rectificación:** Corregir datos incorrectos o incompletos.
+*   **Supresión (Olvido):** Que eliminemos tus datos personales.
+*   **Oposición:** Oponerte a que usemos tus datos para fines específicos (como publicidad personalizada).
+*   **Portabilidad:** Recibir tus datos en un formato común para poder llevarlos a otro servicio si quieres.
+*   **Limitación:** Pedir que limitemos el uso de tus datos en ciertas circunstancias.
+
+**¿Cómo ejercer tus derechos?**
+Envíanos una solicitud por correo postal a la dirección de Diario AS (indicada en el punto 3), adjuntando una copia escaneada de tu carnet de identidad (u otro documento que acredite quién eres) y especificando qué derecho quieres ejercer. Te recomendamos indicar qué Servicios AS usas o has usado para que podamos atenderte mejor.
+
+**¿Tienes quejas?**
+Puedes presentar una queja ante la Agencia Española de Protección de Datos (www.aepd.es) o contactar a nuestro Delegado de Protección de Datos en dpo@prisa.com.
+
+**9. ¿Por cuánto tiempo guardamos tu información?**
+
+*   Mantendremos y usaremos tus datos personales mientras sigas siendo usuario activo de nuestros Servicios AS.
+*   Si ejerces tu derecho a que eliminemos tus datos (**supresión**), los "bloquearemos". Esto significa que los guardaremos de forma segura y con acceso restringido durante **5 años**. Los conservamos este tiempo extra solo por si las autoridades competentes los necesitan para investigar posibles responsabilidades legales relacionadas con el uso de tus datos. Pasado ese plazo, los eliminaremos definitivamente.
+
+**10. ¿Cuál es nuestra base legal para usar tu información?**
+
+*   La razón legal principal por la que tratamos tus datos es nuestro **"interés legítimo"**. Esto significa que necesitamos usar tu información para poder ofrecerte, gestionar y mejorar nuestros Servicios AS de manera eficaz y segura.

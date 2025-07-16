@@ -1,0 +1,120 @@
+POLÍTICA SIMPLIFICADA:
+
+**Política de Privacidad Simplificada de miAndina**
+
+**Fecha de última actualización:** Marzo de 2024
+
+**Propósito:** ¡Hola! Queremos explicarte de forma clara y sencilla cómo Embotelladora Andina S.A. ("Andina", "nosotros") recoge, usa y protege tu información personal cuando usas nuestro sitio web https://registro.miandina.cl/form (el "Sitio Web" o "Sitio"). Queremos que sepas qué hacemos con tus datos y cómo cuidamos tu privacidad.
+
+**1. ¿Por qué tenemos esta Política?**
+
+*   Esta política te informa sobre qué datos personales (incluyendo los sensibles) recogemos cuando usas nuestro Sitio Web.
+*   Te explicamos para qué usamos esos datos y cómo los mantenemos seguros.
+*   También te contamos cuáles son tus derechos sobre tu información y cómo puedes ejercerlos.
+*   **Importante:** Al usar nuestro Sitio Web, aceptas esta política. Si no estás de acuerdo, por favor no uses el sitio. Leer este documento completo es tu responsabilidad.
+
+**2. Tu Consentimiento es Clave**
+
+*   Para usar nuestro Sitio Web, necesitamos tu permiso (consentimiento) para tratar tus datos personales como explicamos aquí. Aceptarás esto junto con los Términos y Condiciones del sitio.
+*   Debes ser mayor de 18 años o representar a una empresa para usar el Sitio Web.
+*   Tu permiso nos permite incluirte en nuestras bases de datos, enviarte comunicaciones y ofrecerte una experiencia más personalizada.
+*   Puedes usar nuestro Sitio Web desde cualquier país, pero al hacerlo, aceptas que usemos tu información en Chile o donde operemos, siempre siguiendo esta política.
+
+**3. ¿Qué Información Recopilamos?**
+
+Recogemos la información que tú nos entregas directamente al usar el Sitio Web. Esto puede incluir:
+
+*   Tu nombre completo.
+*   Tu RUT (Rol Único Tributario) o Cédula Nacional de Identidad.
+*   Tu dirección (domicilio).
+*   Tu correo electrónico.
+*   Tu número de teléfono.
+*   Tus preferencias de productos o servicios.
+*   Otros datos que necesitemos para que puedas realizar acciones específicas en el Sitio Web (como hacer un pedido).
+
+**No recopilamos datos automáticamente sin tu acción.** Tú decides qué información entregarnos al llenar los formularios del sitio.
+
+**4. ¿Para Qué Usamos Tu Información?**
+
+Usamos tus datos personales para diferentes fines, siempre con tu permiso:
+
+*   **Para identificarte y gestionar tu cuenta:** Verificar quién eres, mantener tu cuenta de cliente, tus estados de pago y créditos.
+*   **Para prestarte servicios:** Comunicarnos contigo, responder tus preguntas, procesar y entregar tus pedidos, guardar tu historial de compras.
+*   **Para mejorar nuestro servicio:** Entender tus intereses y hábitos de consumo (a través de estudios y análisis, a veces con ayuda de terceros), mejorar el Sitio Web según tus preferencias.
+*   **Para mantenerte informado:** Enviarte noticias sobre nuestros productos, ofertas, promociones o información publicitaria (general o personalizada). **¡Ojo!** Puedes desactivar estas notificaciones en tu celular o pedirnos dejar de recibirlas (más info en la sección 8).
+*   **Para la logística:** Compartir tu dirección y datos de contacto con el transportista para que pueda entregarte tu compra.
+*   **Para seguridad:** Mantener la seguridad de nuestros sistemas y de nuestro personal.
+*   **Para análisis y estadísticas:** Crear informes estadísticos (siempre de forma anónima y agrupada) para entender mejor el mercado. Podríamos compartir estas conclusiones anónimas con terceros para publicidad relevante.
+*   **Para cumplir con la ley:** Si una autoridad (como un tribunal o entidad gubernamental) nos lo pide legalmente, o si es necesario para investigar un fraude o proteger derechos, podríamos compartir tu información.
+*   **Con empresas relacionadas y proveedores:** Podemos compartir tus datos con empresas del grupo Andina o con proveedores que nos ayudan (como los de almacenamiento de datos o auditores), siempre asegurándonos de que protejan tu privacidad con contratos.
+*   **Para grabar consultas:** Las conversaciones con nuestro soporte técnico o centro de ayuda pueden ser grabadas para mejorar el servicio y investigar problemas.
+
+**5. ¿Cómo Protegemos Tu Información?**
+
+*   Nos tomamos en serio la seguridad de tus datos. Usamos tecnología como SSL (verás un candado en tu navegador) para proteger la información que nos envías.
+*   Almacenamos tus datos con altos estándares de seguridad.
+*   Usamos servicios seguros (como los de Amazon Web Services - AWS) con medidas como firewalls y encriptación.
+*   Tus datos pueden ser almacenados y procesados en Chile o en el extranjero, siempre con empresas que cumplen con estándares de seguridad.
+*   **Importante:** Aunque hacemos todo lo posible, ninguna transmisión por internet es 100% segura.
+
+**¿Por cuánto tiempo guardamos tus datos?** Los guardamos solo el tiempo necesario para cumplir el propósito por el que los recogimos, o hasta que tú nos pidas eliminarlos (siempre que la ley no nos obligue a conservarlos por más tiempo por razones legales o fiscales). Luego, los borramos o los hacemos anónimos.
+
+**6. ¿Compartimos Tu Información?**
+
+Solo compartimos tu información personal en los siguientes casos y siempre cuidando tu privacidad:
+
+*   **Con empresas relacionadas de Andina:** Para los fines descritos en esta política.
+*   **Con proveedores de servicios:** Empresas que nos ayudan a operar, como transportistas para la entrega, empresas de almacenamiento de datos, procesadores de pago o agencias de marketing (siempre bajo contrato de confidencialidad).
+*   **Por obligación legal:** Si autoridades competentes nos lo exigen mediante una orden judicial o un requerimiento legal válido.
+*   **Para proteger derechos:** Si es necesario para investigar posibles delitos, fraudes, infracciones o situaciones que pongan en peligro tu seguridad, la nuestra o la de otros.
+
+**No consideramos "terceros" a nuestras empresas relacionadas ni a proveedores esenciales que actúan bajo nuestras instrucciones y acuerdos de privacidad.**
+
+**7. Tus Derechos Sobre Tu Información (¡Tú tienes el control!)**
+
+La ley chilena (Ley N° 19.628) te da varios derechos sobre tus datos personales. Puedes:
+
+*   **Acceder:** Saber qué datos tuyos tenemos y cómo los usamos.
+*   **Rectificar:** Corregir tus datos si son incorrectos, inexactos o incompletos.
+*   **Cancelar o Eliminar:** Pedir que borremos tus datos (salvo que la ley nos obligue a mantenerlos).
+*   **Limitar el Tratamiento:** Pedir que usemos tus datos solo para ciertos fines.
+*   **Oponerte:** Oponerte a que usemos tus datos por motivos personales (dejaremos de hacerlo a menos que tengamos una razón legal poderosa para continuar).
+*   **Portabilidad:** Recibir tus datos en un formato común para poder llevarlos a otro servicio, o pedirnos que los enviemos a un tercero si es técnicamente posible.
+*   **Retirar tu Consentimiento:** Cambiar de opinión y retirar tu permiso para que usemos tus datos (esto no afecta lo que hicimos antes con tu permiso).
+*   **Reclamar:** Presentar una queja ante la autoridad de protección de datos si crees que no respetamos tus derechos.
+*   **Oponerte a la Publicidad:** Pedirnos que dejemos de enviarte publicidad por correo electrónico u otros medios.
+
+**¿Cómo ejercer tus derechos?**
+Puedes hacerlo a través de:
+*   El chat de soporte en nuestro Sitio Web (en horario hábil).
+*   Nuestros canales de ayuda (generando un requerimiento).
+*   Llamando al 600 360 3600 (en horario hábil).
+
+Tenemos hasta 14 días hábiles para responderte. Podríamos pedirte verificar tu identidad antes de hacer cambios.
+
+**8. Mensajes y Comunicaciones de Marketing**
+
+*   Te enviaremos comunicaciones (ofertas, noticias, etc.) solo si aceptaste recibirlas al aceptar esta política.
+*   Siempre te diremos de qué se trata el mensaje y quién lo envía (Andina).
+*   **Si no quieres recibir más mensajes:** Puedes solicitarlo por el chat de soporte o llamando al 600 360 3600 (en horario hábil). Dejaremos de enviarte comunicaciones futuras. También puedes desactivar las notificaciones "push" directamente en la configuración de tu celular.
+
+**9. ¿Y si nos contactas por otros medios?**
+
+Esta política también aplica si nos entregas tus datos personales por teléfono, correo electrónico, redes sociales u otras aplicaciones relacionadas con nuestro Sitio Web.
+
+**10. Cambios a esta Política**
+
+Podemos actualizar esta política de vez en cuando. Si lo hacemos, te avisaremos en el Sitio Web y te pediremos que aceptes la nueva versión para seguir usándolo. Así siempre estarás informado.
+
+**11. Ley Aplicable y Dónde Resolver Conflictos**
+
+*   Esta política se rige por las leyes de Chile.
+*   Cualquier problema o conflicto relacionado con esta política se resolverá en los tribunales competentes de Santiago de Chile.
+*   Si eres consumidor, siempre podrás acudir al tribunal que te corresponda según la Ley del Consumidor (Ley N°19.496).
+
+**12. ¿Tienes Dudas? Contáctanos**
+
+*   **Dirección:** Embotelladora Andina S.A - Av. Miraflores 9153, Renca, Santiago - Chile
+*   **Teléfono:** 600 360 3600
+
+Siempre encontrarás la versión más actualizada de esta política en nuestro Sitio Web.

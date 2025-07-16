@@ -1,0 +1,89 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada del Sitio Web del SII
+**Fecha de última actualización:** [Fecha - Mantener la fecha original si existe o indicar cuándo se revisó]
+**Propósito:** Aquí te explicamos de forma simple cómo el Servicio de Impuestos Internos (SII) recoge, usa y protege tu información personal cuando usas nuestro sitio web www.sii.cl. Queremos que entiendas tus derechos y cómo cuidamos tus datos.
+
+**1. Nuestro Compromiso Contigo**
+
+*   Esta política explica cómo manejamos tu información personal en nuestro sitio web.
+*   Complementa los Términos de Uso generales del sitio.
+*   Nuestro objetivo es ser transparentes y proteger tus datos de acuerdo con la ley chilena (Ley N°19.628 sobre Protección de la Vida Privada).
+*   Esta política es informativa, no un contrato legal.
+
+**2. ¿Qué Información Recolectamos y Cómo?**
+
+Recolectamos información de dos maneras principales:
+
+*   **Automáticamente:** Cuando navegas por nuestro sitio, usamos herramientas informáticas para registrar información general sobre tu visita (qué páginas ves, cuánto tiempo te quedas, etc.). Esto nos ayuda a entender cómo se usa el sitio y a mejorarlo. Esta información es anónima y no te identifica personalmente.
+*   **Manualmente (Cuando tú nos la das):** Te pediremos información personal directamente cuando:
+    *   Te registras como contribuyente.
+    *   Realizas trámites tributarios específicos.
+    *   Te suscribes a algún servicio.
+    *   En estos casos, podríamos pedirte datos como: nombre, apellido, RUT, correo electrónico, dirección, teléfono, fecha de nacimiento, sexo, ocupación, etc. Siempre te diremos por qué necesitamos esta información.
+
+**Importante:**
+*   Generalmente, dar tus datos personales es voluntario. Sin embargo, a veces es obligatorio por ley o necesario para poder identificarte de forma segura (por ejemplo, para entrar a tu sesión personal de contribuyente).
+*   Tú eres responsable de que la información que nos entregas sea verdadera y esté al día. Si tus datos cambian, por favor actualízalos.
+
+**3. ¿Para Qué Usamos tu Información?**
+
+Usamos tu información personal para:
+
+*   **Mantener la conexión:** Permitirte usar nuestros servicios en línea de forma segura.
+*   **Cumplir nuestras funciones:** Como Servicio público, usamos tus datos para cumplir con las tareas que nos encarga la ley.
+*   **Gestionar y mejorar servicios:** Administrar los servicios en los que te registras (como tu portal personal) y mejorarlos continuamente.
+*   **Entender el uso:** Analizar cómo usan los usuarios nuestros servicios para hacerlos más eficientes y útiles.
+*   **Desarrollar nuevos servicios:** Diseñar nuevas herramientas y funciones para ti.
+*   **Comunicarnos contigo:**
+    *   Enviarte actualizaciones importantes sobre los servicios.
+    *   Informarte sobre temas técnicos u operativos relacionados con tus trámites o el sitio web (por medios tradicionales o electrónicos como el email).
+*   **Realizar encuestas (Opcional):** Podríamos enviarte encuestas para conocer tu opinión sobre nuestros servicios. Responderlas es totalmente voluntario.
+
+**4. ¿Cómo Protegemos tu Información?**
+
+La seguridad de tus datos es fundamental para nosotros:
+
+*   **Medidas de Seguridad:** Usamos tecnología y procedimientos para proteger tu información contra pérdida, mal uso, acceso no autorizado o robo. Esto incluye sistemas de seguridad como SSL (verás "https://" y un candado en tu navegador en páginas seguras) que encriptan tu información durante la transmisión.
+*   **Confidencialidad:** Mantenemos tus datos personales confidenciales. No los venderemos ni compartiremos con terceros, excepto cuando la ley chilena nos obligue a hacerlo.
+*   **Seguridad en Internet:** Aunque tomamos todas las medidas razonables, recuerda que ninguna transmisión o sistema de seguridad en internet es 100% infalible.
+*   **Uso Estadístico:** Podemos usar información general y anónima sobre cómo se usa el sitio para hacer estadísticas, pero esta información no te identificará personalmente.
+
+**5. Uso de Cookies**
+
+*   **¿Qué son?:** Usamos "cookies", que son pequeños archivos que se guardan en tu navegador cuando visitas nuestro sitio. Nos ayudan a mejorar tu experiencia.
+*   **¿Para qué las usamos?:**
+    *   Para facilitar tu navegación.
+    *   Para reconocerte si ya te has registrado antes (así no tienes que iniciar sesión cada vez que vuelves).
+    *   Para recopilar información técnica (como tu dirección IP).
+    *   Para hacer estudios estadísticos (saber cuántos nos visitan, qué páginas son más populares, distinguir usuarios nuevos de recurrentes).
+    *   Para entender cómo te mueves dentro de nuestro sitio.
+*   **Importante:** Necesitas aceptar las cookies para poder iniciar sesión y usar las áreas personalizadas del sitio.
+*   **Tu Control:** Puedes configurar tu navegador para que te avise antes de aceptar cookies o para bloquearlas directamente. Sin embargo, si las bloqueas, algunas partes del sitio podrían no funcionar correctamente.
+
+**6. Base Legal para Tratar tus Datos**
+
+Manejamos tu información personal siguiendo estrictamente las leyes chilenas, incluyendo:
+
+*   Constitución Política de Chile (Artículo 19 N°4).
+*   Ley N° 19.628 sobre Protección de la Vida Privada (especialmente artículos 4° y 20°).
+*   Decreto Supremo N°14 de 2014.
+*   Decreto Supremo N°1 de 2015.
+*   Ley Orgánica del SII (Artículo 4° bis).
+
+**7. Tus Derechos y Responsabilidades**
+
+*   **Tus Derechos:** Tienes derecho a que tu información sea tratada de forma segura, confidencial y de acuerdo a la ley. La Ley 19.628 te otorga derechos específicos sobre tus datos personales.
+*   **Tus Responsabilidades:**
+    *   Entregar información verdadera y exacta.
+    *   Mantener tu información actualizada.
+    *   Leer y comprender esta política.
+
+**8. Aceptación y Cambios en esta Política**
+
+*   **Aceptación:** Al usar el sitio web del SII (www.sii.cl), aceptas las prácticas descritas en esta Política de Privacidad.
+*   **Cambios:** Podemos actualizar esta política si cambian las leyes o nuestros servicios. Si hacemos cambios importantes, los anunciaremos en esta página antes de que entren en vigor. Te recomendamos revisar esta política periódicamente para estar informado.
+
+**9. ¿Tienes Dudas?**
+
+Si tienes preguntas sobre cómo manejamos tu información personal o necesitas hacer una consulta tributaria (si eres un contribuyente registrado), por favor utiliza los canales de contacto oficiales del SII que encuentras en nuestro sitio web.

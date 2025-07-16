@@ -1,0 +1,138 @@
+POLÍTICA SIMPLIFICADA:
+Título: Política de Privacidad Simplificada de CNN Chile
+Fecha de última actualización: 2 de julio de 2024
+Propósito: Aquí te explicamos de forma clara cómo recopilamos, usamos y protegemos tu información personal cuando usas nuestro sitio web y servicios. Queremos que entiendas tus derechos y cómo cuidamos tus datos.
+
+**1. Nuestro Compromiso con Tu Privacidad**
+
+*   **Tu privacidad es importante:** Respetamos tu privacidad y cumplimos con las leyes chilenas sobre protección de datos personales.
+*   **Qué es información personal:** Es cualquier dato que pueda identificarte, como tu nombre, dirección, fecha de nacimiento, datos de tus dispositivos (computador, celular), información de pago, y cómo usas nuestro sitio web.
+*   **Enlaces a otros sitios:** Si haces clic en un enlace que te lleva fuera de CNN Chile (a sitios de terceros), recuerda que ellos tienen sus propias políticas de privacidad. Lee sus políticas para saber cómo usan tu información. Nuestra política solo aplica a nuestro sitio.
+
+**2. Qué Información Recopilamos**
+
+Recopilamos información de dos maneras:
+
+*   **Información que tú nos das ("Proporcionada Voluntariamente"):**
+    *   Es cualquier dato que nos entregas de forma activa y consciente.
+    *   Por ejemplo: cuando te suscribes a nuestro boletín (newsletter), creas una cuenta, participas en promociones o te pones en contacto con nosotros.
+    *   Podemos pedirte datos como tu nombre, correo electrónico, etc.
+
+*   **Información que recopilamos automáticamente ("Recopilada Automáticamente"):**
+    *   Son datos que tus dispositivos (computador, celular, tablet) envían automáticamente cuando visitas nuestro sitio.
+    *   **Datos de Registro:** Nuestros servidores guardan información estándar que envía tu navegador web, como:
+        *   Tu dirección IP (un número que identifica tu conexión a internet).
+        *   Tipo y versión de tu navegador (Chrome, Firefox, etc.).
+        *   Las páginas que visitas en nuestro sitio.
+        *   La fecha y hora de tu visita.
+        *   Cuánto tiempo pasas en cada página.
+        *   Otros detalles técnicos de tu visita.
+    *   **Datos de Errores:** Si ocurre un error mientras usas el sitio, podemos guardar automáticamente detalles técnicos sobre tu dispositivo y lo que estabas haciendo, para entender y arreglar el problema. Puede que no te avisemos siempre que esto ocurra.
+    *   **Importante:** Aunque esta información automática por sí sola no te identifica, a veces podríamos combinarla con otros datos para identificarte.
+
+**3. Para Qué Usamos Tu Información**
+
+Solo usamos tu información personal cuando tenemos una razón válida y legal para hacerlo. Principalmente, la usamos para:
+
+*   **Entregarte nuestros servicios:** Asegurarnos de que el sitio web funcione correctamente para ti.
+*   **Personalizar tu experiencia:** Adaptar el contenido o la apariencia del sitio según tus preferencias (si es posible).
+*   **Comunicarnos contigo:** Responder a tus consultas, enviarte noticias o información que solicitaste.
+*   **Mejorar nuestro sitio:** Analizar cómo se usa el sitio (sin identificarte individualmente en los reportes generales), investigar y desarrollar nuevas funciones.
+*   **Marketing y Publicidad:** Enviarte información sobre nuestros productos, servicios u ofertas que creemos que te pueden interesar (siempre con tu permiso previo o la opción de darte de baja). También podemos mostrar publicidad.
+*   **Permitirte usar todo:** Asegurar que puedas acceder y usar nuestro sitio web, aplicaciones asociadas y redes sociales.
+
+*   **Combinación de datos:** A veces podemos combinar la información que nos diste voluntariamente con la que se recopiló automáticamente, o con datos generales de otras fuentes confiables (siempre respetando la ley), para mejorar nuestros servicios y tu experiencia.
+
+**4. Cómo Protegemos Tu Información**
+
+*   **Medidas de seguridad:** Usamos medidas de seguridad razonables y aceptadas en la industria para proteger tu información contra pérdida, robo, acceso no autorizado, copia o modificación.
+*   **Ningún sistema es 100% seguro:** Aunque hacemos nuestro mejor esfuerzo, ningún método de transmisión por internet o almacenamiento electrónico es totalmente seguro. No podemos garantizar seguridad absoluta.
+*   **Tu responsabilidad:** Si tienes una cuenta con nosotros, eres responsable de elegir una contraseña segura y mantenerla confidencial para proteger tu propia información.
+
+**5. Por Cuánto Tiempo Guardamos Tu Información**
+
+*   **Solo lo necesario:** Guardamos tu información personal solo por el tiempo necesario para cumplir el propósito por el cual la recopilamos (explicado en esta política).
+*   **Ejemplo:** Si creaste una cuenta, guardaremos tus datos mientras tu cuenta exista.
+*   **Eliminación o Anonimización:** Cuando ya no necesitemos tu información para ese propósito original, la eliminaremos o la haremos anónima (quitando todo lo que te identifique).
+*   **Excepciones:** Podríamos necesitar guardar tu información por más tiempo si la ley nos obliga (por ejemplo, por temas legales, contables, de archivo histórico o estadístico).
+
+**6. Privacidad de Menores de Edad**
+
+*   Nuestros servicios no están dirigidos a niños menores de 13 años.
+*   No recopilamos intencionalmente información personal de menores de 13 años.
+
+**7. Con Quién Compartimos Tu Información**
+
+Podemos compartir tu información personal con:
+
+*   **Empresas de nuestro grupo:** Como nuestra empresa matriz, filiales u otras empresas relacionadas.
+*   **Proveedores de servicios:** Empresas externas que nos ayudan a operar y prestar nuestros servicios (ej. proveedores de almacenamiento de datos, servidores, análisis web como Google Analytics, plataformas de envío de correos como MailChimp, redes de publicidad como Google AdSense, soporte técnico, asesores legales o financieros, procesadores de pago). Solo les damos la información necesaria para su trabajo.
+*   **Nuestros empleados y contratistas:** Personas que trabajan para nosotros y necesitan acceso para cumplir sus funciones.
+*   **Socios comerciales:** Empresas con las que colaboramos.
+*   **Autoridades:** Juzgados, tribunales, reguladores y policías, si la ley lo exige o para proteger nuestros derechos legales.
+*   **Terceros para marketing directo:** Agentes o subcontratistas que nos ayudan a enviarte información o publicidad (siempre con tu consentimiento o derecho a oponerte).
+*   **Compradores de la empresa:** Si vendemos nuestro negocio o activos, tu información puede ser transferida al comprador, quien deberá seguir respetando esta política o una similar.
+
+**Actualmente usamos servicios de:** Google Analytics, MailChimp, Google AdSense (esta lista puede cambiar).
+
+**8. Tus Derechos Sobre Tu Información**
+
+Tienes derechos sobre tu información personal. Aquí te los explicamos:
+
+*   **Tu Elección:** No estás obligado a darnos tu información personal. Sin embargo, si no lo haces, es posible que no puedas usar algunas funciones de nuestro sitio o servicios. Al darnos tu información, aceptas que la usemos según esta política.
+*   **Información de Terceros:** Si recibimos información sobre ti de otra persona o empresa, la protegeremos como se indica aquí. Si tú nos das información sobre otra persona, confirmas que tienes su permiso para hacerlo.
+*   **Marketing:** Si aceptaste recibir publicidad nuestra, puedes cambiar de opinión y pedirnos que dejemos de enviártela en cualquier momento. Contacta con nosotros o usa el enlace "darse de baja" en los correos.
+*   **Acceder:** Puedes pedirnos detalles sobre la información personal que tenemos tuya.
+*   **Corregir:** Si crees que tu información es incorrecta, incompleta o desactualizada, contáctanos para que la corrijamos. Haremos lo razonable para actualizarla.
+*   **No Discriminación:** No te trataremos de forma injusta si ejerces tus derechos de privacidad. No te negaremos servicios ni te cobraremos precios distintos por ello (a menos que la información sea esencial para darte ese servicio específico).
+*   **Notificación de Filtraciones:** Si ocurre una filtración de datos que afecte tu información, cumpliremos con las leyes aplicables para notificarte si es necesario.
+*   **Reclamos:** Si crees que no hemos respetado tus derechos o la ley de protección de datos, contáctanos primero con los detalles. Investigaremos tu reclamo y te responderemos por escrito. También tienes derecho a contactar a la autoridad de protección de datos correspondiente en Chile si no estás conforme.
+*   **Darte de Baja (Cancelar Suscripción):** Para dejar de recibir nuestros correos electrónicos o comunicaciones, usa la opción de "cancelar suscripción" o "opt-out" en la comunicación, o contáctanos directamente. Podríamos pedirte verificar tu identidad.
+
+**9. Uso de Cookies**
+
+*   **Qué son:** Usamos "cookies", que son pequeños archivos de texto que nuestro sitio web guarda en tu computador o dispositivo cuando nos visitas.
+*   **Para qué sirven:** Nos ayudan a entender cómo usas nuestro sitio y a recordar tus preferencias para mostrarte contenido relevante.
+*   **Más información:** Puedes leer todos los detalles en nuestra Política de Cookies (busca el enlace en nuestro sitio).
+
+**10. Si la Empresa Cambia de Dueño (Transferencias Comerciales)**
+
+*   Si CNN Chile es vendida, fusionada, o en el caso improbable de que cierre, tu información personal podría ser uno de los activos transferidos a la nueva entidad o comprador.
+*   Al usar nuestros servicios, aceptas que esto pueda ocurrir, y que el nuevo dueño podrá seguir usando tu información según esta política (o una nueva que deberá cumplir con la ley).
+
+**11. Enlaces a Otros Sitios Web (Límites de nuestra política)**
+
+*   Nuestro sitio puede contener enlaces a sitios web externos que no operamos nosotros.
+*   No tenemos control sobre el contenido ni las prácticas de privacidad de esos sitios. No somos responsables por ellos. Te recomendamos leer sus propias políticas de privacidad.
+
+**12. Actualizaciones de esta Política**
+
+*   Podemos cambiar esta Política de Privacidad de vez en cuando para reflejar cambios en nuestras prácticas, la tecnología o la ley.
+*   Publicaremos los cambios aquí mismo, en esta página. Revisa la "Fecha de última actualización" al principio.
+*   Si los cambios son importantes o la ley lo exige, te avisaremos (por ejemplo, por correo electrónico si estás registrado) y te daremos un enlace a la nueva política.
+*   Si la ley requiere tu permiso para nuevos usos de tu información, te lo pediremos o te daremos la opción de aceptar o rechazar.
+
+**13. Transferencias Internacionales de Información**
+
+*   Tu información personal puede ser almacenada y procesada en Chile o en otros países donde nosotros, nuestros socios o proveedores tengamos instalaciones (como Estados Unidos, Reino Unido o países de Europa).
+*   Al entregarnos tu información, aceptas que pueda ser transferida a estos lugares.
+*   Nos aseguraremos de que cualquier transferencia internacional de información cumpla con las leyes aplicables y esté protegida por medidas adecuadas (como contratos especiales o basándose en estándares legales reconocidos). Ten en cuenta que las leyes de protección de datos pueden ser diferentes en otros países.
+
+**14. Derechos Adicionales (Si Aplican Leyes Internacionales)**
+
+*   Además de los derechos mencionados, si tu información está protegida por leyes internacionales específicas (como el RGPD de Europa) porque te encuentras allí o tus datos se procesan bajo esas normas, podrías tener derechos adicionales.
+*   Estos pueden incluir:
+    *   **Restringir el procesamiento:** Pedir que limitemos cómo usamos tu información en ciertas circunstancias.
+    *   **Oponerte al procesamiento:** Oponerte a que usemos tu información para ciertos fines (como marketing directo o basados en nuestros "intereses legítimos").
+    *   **Portabilidad de datos:** Pedir una copia de tu información en un formato electrónico que puedas llevar a otro servicio.
+    *   **Supresión (Derecho al olvido):** Pedir que eliminemos tu información en ciertas situaciones específicas.
+
+**15. Contacto**
+
+Si tienes dudas, preguntas sobre tu privacidad o quieres ejercer tus derechos, puedes contactarnos:
+
+Oscar Rivera
+admin@cnnchile.cm
+
+---
+*Fin de la Política Simplificada*

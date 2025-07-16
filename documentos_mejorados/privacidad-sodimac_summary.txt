@@ -1,0 +1,88 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada [NOMBRE DE LA EMPRESA/SERVICIO - *Nota: Este nombre no se incluye en el documento original y debe ser añadido*]
+
+**Fecha de última actualización:** 27 de Julio de 2023 (*Nota: Esta es la fecha de protocolización notarial del documento original. La fecha efectiva de la política podría ser diferente y debería especificarse en el documento completo.*)
+
+**Propósito:** Aquí te explicamos de forma sencilla cómo [NOMBRE DE LA EMPRESA/SERVICIO] recopila, usa, comparte y protege tu información personal cuando usas nuestros servicios en Chile, cumpliendo con la ley chilena.
+
+---
+
+**IMPORTANTE: El documento que nos entregaste NO es la Política de Privacidad completa.**
+
+Lo que recibimos es un **Certificado Notarial** (emitido por la Segunda Notaría de Santiago, Notario Francisco Leiva Carvajal). Este certificado *confirma* que un documento llamado "PROTOCOLIZACION POLITICA DE PRIVACIDAD" fue registrado oficialmente como Escritura Pública el 27 de julio de 2023 (Repertorio 55033).
+
+**Esto significa que:**
+*   Existe una Política de Privacidad oficial.
+*   Fue registrada legalmente en esa fecha.
+*   Se puede verificar su autenticidad usando el código CVE: 002-00229712 en www.notariosyconservadores.cl o www.notarialeiva.cl.
+
+**PERO, el texto completo de la política NO está en el certificado.**
+
+---
+
+**Para poder simplificar la Política de Privacidad real, necesitaríamos el texto completo de la "Escritura Pública" mencionada.**
+
+**Aun así, aquí tienes una ESTRUCTURA SIMPLIFICADA de cómo se vería una Política de Privacidad fácil de entender, basada en los requisitos legales y las buenas prácticas:**
+
+---
+
+**(INICIO DE LA ESTRUCTURA EJEMPLO - Contenido a completar con la política real)**
+
+**1. ¿Quiénes Somos y Qué Hacemos?**
+*   Aquí explicaríamos quién es la empresa responsable de tus datos ([NOMBRE DE LA EMPRESA/SERVICIO]).
+*   Te contaríamos brevemente qué servicios ofrecemos para que entiendas el contexto.
+
+**2. ¿Qué Información Personal Recopilamos?**
+*   Te detallaríamos qué tipo de datos tuyos juntamos. Por ejemplo:
+    *   **Datos que tú nos das directamente:** Como tu nombre, RUT, correo electrónico, teléfono, dirección, cuando te registras o contactas.
+    *   **Datos que recopilamos automáticamente:** Como tu dirección IP, tipo de dispositivo, navegador que usas, cómo navegas en nuestro sitio/app (a través de cookies u otras tecnologías).
+    *   **Datos que podríamos obtener de otras fuentes:** Si aplica, explicaríamos si recibimos información tuya de terceros (siempre con tu permiso o si la ley lo permite).
+
+**3. ¿Para Qué Usamos Tu Información? (Finalidades)**
+*   Te explicaríamos de forma clara *por qué* necesitamos tu información. Ejemplos:
+    *   Para prestarte nuestros servicios (ej: crear tu cuenta, procesar pagos).
+    *   Para comunicarnos contigo (ej: responder tus dudas, enviarte avisos importantes).
+    *   Para mejorar nuestros servicios (ej: analizar cómo se usan para hacerlos mejores).
+    *   Para cumplir con la ley chilena (ej: requerimientos de autoridades).
+    *   Para enviarte publicidad o promociones (solo si nos das tu permiso explícito).
+
+**4. ¿Con Quién Compartimos Tu Información?**
+*   Te diríamos si compartimos tus datos con otros y por qué. Ejemplos:
+    *   **Proveedores de Servicios:** Empresas que nos ayudan a operar (ej: servidores, procesadores de pago, empresas de envío). Les exigimos proteger tus datos.
+    *   **Empresas del Grupo:** Si somos parte de un grupo empresarial.
+    *   **Autoridades:** Si la ley nos obliga (ej: tribunales, fiscalía).
+    *   **Otros:** Si tú nos das permiso específico para compartirla con alguien más.
+*   Si enviamos tus datos fuera de Chile, te explicaríamos cómo nos aseguramos de que estén protegidos.
+
+**5. ¿Cómo Protegemos Tu Información?**
+*   Te contaríamos qué medidas de seguridad usamos para cuidar tus datos personales y evitar que se pierdan, usen mal o accedan sin permiso (medidas técnicas y organizativas).
+
+**6. ¿Por Cuánto Tiempo Guardamos Tus Datos?**
+*   Te explicaríamos por cuánto tiempo mantenemos tu información personal (generalmente, mientras sea necesaria para cumplir los fines para los que la juntamos o mientras la ley nos obligue).
+
+**7. Tus Derechos sobre Tu Información Personal (Derechos ARCOP)**
+*   Te explicaríamos de forma sencilla los derechos que tienes según la ley chilena (Ley 19.628):
+    *   **Acceso:** Derecho a saber qué datos tuyos tenemos.
+    *   **Rectificación:** Derecho a corregir tus datos si están incorrectos o incompletos.
+    *   **Cancelación (o Supresión):** Derecho a pedir que eliminemos tus datos cuando ya no sean necesarios o si crees que los estamos usando mal (con algunas excepciones legales).
+    *   **Oposición:** Derecho a oponerte a que usemos tus datos para ciertos fines (como publicidad).
+    *   **Portabilidad:** (Si aplica según futuras leyes) Derecho a recibir tus datos en un formato común o a pedir que los transfiramos a otra empresa.
+*   Te indicaríamos cómo puedes ejercer estos derechos (ej: un correo electrónico o formulario de contacto).
+
+**8. Uso de Cookies y Tecnologías Similares**
+*   Si usamos cookies (pequeños archivos que se guardan en tu navegador) u otras tecnologías, te explicaríamos cuáles usamos, para qué, y cómo puedes gestionarlas (aceptarlas, rechazarlas o configurarlas).
+
+**9. Cambios a esta Política de Privacidad**
+*   Te diríamos que esta política puede cambiar y cómo te avisaríamos (ej: por correo o con un aviso en nuestro sitio web). Siempre indicaríamos la fecha de la última actualización.
+
+**10. ¿Tienes Dudas? Contáctanos**
+*   Te daríamos la información de contacto (correo electrónico, teléfono o dirección) para que puedas preguntarnos cualquier cosa sobre esta política o tus datos personales.
+
+**(FIN DE LA ESTRUCTURA EJEMPLO)**
+
+---
+
+**Conclusión:**
+
+Para entregarte la versión simplificada y legalmente precisa que necesitas, es fundamental que nos proporciones el **texto completo** de la Política de Privacidad que fue protocolizada según el certificado notarial que enviaste. Con ese texto, podremos aplicar las técnicas de simplificación detalladas en tu solicitud.

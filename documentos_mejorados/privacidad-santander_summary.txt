@@ -1,0 +1,113 @@
+**POLÍTICA SIMPLIFICADA: Entendiendo Cómo Cuidamos Tu Información Personal en Banco Santander Chile**
+
+**Fecha de última actualización:** [Fecha - *Nota: Usar la fecha de la política original si está disponible, o la fecha de esta simplificación*]
+
+**Propósito:** En Banco Santander Chile, nos importa mucho proteger tu información personal. Esta política te explica de forma simple cómo recopilamos, usamos y cuidamos tus datos cuando usas nuestro portal, aplicaciones y servicios, cumpliendo con la Ley chilena N°19.628 de Protección de la Vida Privada. Queremos que entiendas claramente qué hacemos con tu información y por qué.
+
+**1. Quiénes Somos y Cómo Contactarnos**
+
+*   **Responsable de tus datos:** Banco Santander Chile (RUT: 97.036.000-K), con domicilio en Bandera 140, Santiago. Nosotros somos quienes decidimos cómo y para qué usar tus datos personales.
+*   **Contacto para tus derechos:** Si tienes dudas o quieres ejercer tus derechos sobre tus datos, escríbenos a: **derechosarco@santander.cl**
+
+**2. Tu Información y Tu Permiso**
+
+*   **¿Qué son los Datos Personales?** Es cualquier información sobre ti que te identifica o permite identificarte (ej: tu nombre, RUT, correo electrónico).
+*   **¿Qué son los Datos Sensibles?** Es información más íntima, como tu salud, origen racial, opiniones políticas o creencias. Tratamos estos datos con especial cuidado.
+*   **Tu Autorización es Clave:** Para usar tus datos personales, generalmente necesitamos tu permiso (autorización). Al aceptar esta política y usar nuestros servicios (por la web, apps, etc.), nos das esa autorización para tratar tu información como te explicamos aquí. Te pediremos permiso de formas claras (ej: ventanas emergentes, casillas para marcar).
+*   **Cuándo NO necesitamos permiso:** A veces, la ley nos obliga a tratar tus datos sin tu permiso explícito (por ejemplo, para cumplir regulaciones).
+*   **Tu Responsabilidad:** Es importante que la información que nos das sea verdadera y esté al día. Si cambia algo (como tu dirección o teléfono), por favor actualízala.
+*   **Ojo con Links a Otros Sitios:** Esta política es solo para Banco Santander. Si haces clic en un enlace que te lleva a otro sitio web (incluso si lo recomendamos), ellos tendrán sus propias políticas de privacidad que debes revisar.
+
+**3. ¿Qué Información Guardamos Sobre Ti?**
+
+Recopilamos distintos tipos de información para poder darte nuestros servicios:
+
+*   **Información que tú nos entregas directamente:**
+    *   Al registrarte o usar nuestros canales: Nombre, RUT, fecha de nacimiento, estado civil, nacionalidad, domicilio, correo electrónico, teléfono, información sobre tu trabajo y residencia fiscal.
+    *   Al contactarnos (chat, email, etc.): Consultas, reclamos, documentos que nos envíes (como certificados, comprobantes, fotos de errores en la app).
+*   **Información que generamos cuando usas nuestros servicios:**
+    *   Datos de tus productos y operaciones: Números de cuenta o tarjeta, saldos, tipos de productos contratados, historial de pagos y transacciones, giros, deudas.
+    *   Datos de uso de nuestras apps y web: Cómo navegas, qué funciones usas, tu dirección IP, tipo de dispositivo (celular, computador), sistema operativo, red móvil (para mejorar la app y por seguridad).
+    *   Datos Biométricos (solo si usas la función): Tu huella digital o rostro para validar tu identidad de forma segura en algunas de nuestras apps. Solo se usan para registrarte en esa función específica.
+*   **Información de Cookies y tecnologías similares:** Usamos pequeños archivos (cookies) en nuestra web y apps para mejorar tu experiencia (ej: recordar tus preferencias).
+*   **Información de fuentes externas:** A veces obtenemos información tuya de otras fuentes permitidas por ley (ej: bases de datos públicas o de riesgo crediticio, siempre que sea legal).
+*   **Información sobre terceros:** Si nos das datos de otras personas (ej: al agregar un cotitular), tú confirmas que tienes su permiso para hacerlo y les has contado para qué usaremos su información.
+
+**4. ¿Para Qué Usamos Tu Información? (Finalidades)**
+
+Usamos tus datos personales principalmente para:
+
+*   **Gestionar tu relación con nosotros:**
+    *   Cumplir los contratos de los productos y servicios que tienes (ej: administrar tu cuenta corriente, tarjeta de crédito).
+    *   Responder tus preguntas, reclamos o solicitudes.
+    *   Verificar tu identidad y prevenir fraudes.
+*   **Ofrecerte productos y mejorar tu experiencia:**
+    *   Informarte sobre otros productos o servicios del Banco que podrían interesarte.
+    *   Enviarte publicidad, ofertas y promociones nuestras o de empresas asociadas.
+    *   Crear un perfil de usuario (individual o general) para entender tus intereses y ofrecerte cosas más adecuadas (ej: usando modelos que predicen qué te podría gustar).
+    *   Realizar estudios y estadísticas para mejorar nuestros servicios.
+    *   Darte beneficios o recompensas por usar nuestros productos o apps.
+*   **Comunicarnos contigo:**
+    *   Contactarte por distintos medios (carta, email, teléfono, SMS, WhatsApp, notificaciones en la app) para informarte sobre tus productos, ofertas, o temas importantes. Usaremos los datos de contacto que nos hayas dado.
+*   **Cumplir con la ley y nuestras obligaciones:**
+    *   Prevenir el lavado de dinero, financiamiento del terrorismo y cumplir otras normativas bancarias y legales (chilenas e internacionales).
+    *   Responder a requerimientos de autoridades o tribunales si la ley lo exige.
+
+**5. Uso Específico de Tu Ubicación (Geolocalización)**
+
+*   **Cuándo la usamos:** Solo si tienes activada la ubicación en tu celular y nos das permiso, capturamos tu ubicación geográfica cuando inicias sesión en nuestras apps.
+*   **Para qué:**
+    *   Mostrarte oficinas o cajeros cercanos.
+    *   Ofrecerte productos o servicios relevantes para tu zona.
+    *   Detectar y prevenir fraudes (ej: si alguien intenta usar tu cuenta desde un lugar inusual).
+*   **Tú tienes el control:** Puedes activar o desactivar el permiso de ubicación para nuestras apps en cualquier momento desde los ajustes de tu celular.
+
+**6. ¿Con Quién Compartimos Tu Información?**
+
+Para poder operar y darte los mejores servicios, a veces necesitamos compartir tu información con:
+
+*   **Otras empresas del Grupo Santander:** Dentro o fuera de Chile, siempre cumpliendo con altos estándares de seguridad.
+*   **Proveedores y Socios (Mandatarios):** Empresas que nos ayudan a hacer nuestro trabajo bajo nuestras instrucciones. Por ejemplo:
+    *   Los que fabrican y envían tus tarjetas.
+    *   Empresas que nos ayudan a verificar tu identidad o prevenir fraudes.
+    *   Proveedores de tecnología (almacenamiento en la nube, software).
+    *   Empresas de marketing (¡Ojo! No compartimos tus datos para que *ellos* te hagan marketing directo, solo para ayudarnos con *nuestro* marketing).
+    *   Empresas que nos ayudan a enviarte emails o SMS importantes.
+    *   Empresas con las que tenemos alianzas para ofrecerte beneficios.
+*   **Autoridades o Tribunales:** Si nos lo piden legalmente.
+*   **Futuras Empresas:** Si el Banco se fusiona, vende o cambia de dueño, podríamos compartir tus datos con la nueva entidad.
+*   **Cumplimiento Normativo (CMF):** Para cumplir con reglas específicas del regulador financiero (Comisión para el Mercado Financiero), podemos compartir información sobre ti y tus operaciones (incluso datos bajo secreto bancario, si la norma lo permite y para las finalidades aquí descritas).
+
+**Importante:** Todos con quienes compartimos tu información deben cumplir con las leyes de protección de datos y nuestros estándares de seguridad.
+
+**7. Tus Derechos Sobre Tu Información (Derechos ARCO)**
+
+La ley te da derechos sobre tus datos personales. Puedes pedirnos:
+
+*   **Acceso:** Saber qué datos tuyos tenemos y cómo los estamos usando.
+*   **Rectificación:** Corregir tus datos si están incorrectos, desactualizados o incompletos.
+*   **Cancelación:** Eliminar tus datos si ya no hay una razón legal para que los guardemos (ej: si ya no eres cliente y no hay obligación legal de mantenerlos) o si están "caducos".
+*   **Oposición:** Pedirnos que dejemos de usar tus datos para fines específicos, como enviarte publicidad (si no quieres recibir más ofertas).
+
+**¿Cómo ejercer tus derechos?** Envíanos un correo electrónico a **derechosarco@santander.cl** explicando qué derecho quieres ejercer.
+
+**8. ¿Cuánto Tiempo Guardamos Tus Datos?**
+
+Guardaremos tu información mientras seas nuestro cliente o mientras tengamos tu permiso para usarla. Sin embargo, podemos mantenerla por más tiempo si:
+
+*   Hay una obligación legal que nos exija conservarla (por ejemplo, normativas bancarias).
+*   Necesitamos la información para defendernos en caso de juicios o investigaciones.
+
+Después de ese tiempo, eliminaremos tus datos de forma segura.
+
+**9. Ley Aplicable y Tribunales**
+
+Esta política se rige por las leyes de Chile. Cualquier problema o disputa se resolverá en los tribunales de justicia de Santiago.
+
+**10. Cambios a esta Política**
+
+Si hacemos cambios importantes a esta política, te avisaremos oportunamente. Para seguir usando nuestros servicios después de un cambio, tendrás que revisar y aceptar la nueva versión actualizada.
+
+**11. Vigencia**
+
+Esta política simplificada está vigente desde la fecha indicada al inicio.

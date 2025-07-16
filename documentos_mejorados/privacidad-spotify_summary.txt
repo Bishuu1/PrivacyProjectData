@@ -1,0 +1,254 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Tu Privacidad en Spotify: Te lo explicamos fácil
+**Fecha de última actualización:** 10 de octubre de 2024
+**Propósito:** Aquí te explicamos de forma sencilla cómo recopilamos, usamos y protegemos tu información personal cuando usas Spotify en Chile. Queremos que entiendas tus derechos y cómo cuidamos tus datos.
+
+---
+
+**1. ¿De qué se trata esta Política?**
+
+Esta política explica cómo Spotify AB (nosotros) maneja tu información personal cuando usas nuestros servicios de música y podcasts en Chile.
+
+**Cubre:**
+*   Usar Spotify en cualquier dispositivo (celular, computador, parlantes inteligentes, etc.).
+*   Cómo personalizamos tu experiencia (recomendaciones, etc.).
+*   La tecnología necesaria para que Spotify funcione.
+*   Conectar tu cuenta de Spotify con otras aplicaciones.
+*   Nuestros planes gratuitos y de pago (Premium).
+*   Otros servicios nuestros que enlacen a esta política (como nuestro sitio web o ayuda al cliente).
+
+Llamaremos a todo esto los "Servicios de Spotify". Si lanzamos nuevos servicios, esta política también aplicará, a menos que digamos lo contrario.
+
+**Esta política *NO* es:**
+*   Los **Términos de Uso**: Ese es otro documento que explica el contrato legal entre tú y Spotify, las reglas de uso y tus derechos como usuario.
+*   La política de privacidad de **otras aplicaciones de Spotify** como Anchor, Soundtrap, Megaphone o Spotify Live. Esas tienen sus propias políticas.
+
+**Otros lugares donde encuentras info sobre tu privacidad:**
+*   **Centro de Privacidad:** Resúmenes fáciles de entender sobre temas clave.
+*   **Configuración de Privacidad de la Cuenta:** Aquí controlas cosas como los anuncios personalizados.
+*   **Configuración de Notificaciones:** Elige qué mensajes publicitarios quieres recibir.
+*   **Configuración (en la app y web):** Controla opciones como "Social" (para compartir lo que escuchas o iniciar sesiones privadas) o "Contenido explícito".
+*   **Política de Cookies:** Explica qué son las cookies (pequeños archivos guardados en tu dispositivo) y cómo las usamos.
+
+---
+
+**2. Tus Derechos y Control sobre tu Información**
+
+La ley te da derechos sobre tu información personal. Aquí te explicamos cuáles son y cómo usarlos en Spotify:
+
+| Tu Derecho a...               | Qué significa                                                                                                                                                                                                                                                                                                                        | Cómo ejercerlo                                                                                                                                                                                                                                                        |
+| :---------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Saber (Información)**       | Saber qué datos tuyos tenemos y cómo los usamos.                                                                                                                                                                                                                                                                                      | Te lo contamos en esta Política, en la app mientras la usas, y si nos contactas con preguntas.                                                                                                                                                                         |
+| **Acceder**                   | Pedir una copia de la información personal que tenemos sobre ti.                                                                                                                                                                                                                                                                      | Usa la opción "Descarga tus datos" en la "Configuración de Privacidad de la Cuenta" o contáctanos. Recibirás la información principal; si necesitas más detalles, escríbenos.                                                                                       |
+| **Corregir (Rectificación)**  | Pedir que arreglemos o completemos información tuya que esté incorrecta o incompleta.                                                                                                                                                                                                                                                   | Puedes editar tu información de usuario en "Editar perfil" dentro de tu cuenta, o contáctanos.                                                                                                                                                                         |
+| **Borrar (Eliminación)**      | Pedir que eliminemos parte de tu información personal. Por ejemplo, si ya no la necesitamos, si nos diste permiso y ahora lo retiras, o si te opones a que la usemos (ver "Oponerte"). **Ojo:** A veces no podemos borrar todo (por ejemplo, si la ley nos obliga a guardarla o si la necesitamos para defendernos legalmente). | Puedes borrar playlists o canciones desde tu perfil. Para borrar otros datos (como tu cuenta o historial), sigue los pasos en nuestra página de ayuda o contáctanos.                                                                                               |
+| **Limitar (Restricción)**     | Pedir que dejemos de usar tu información (toda o una parte) temporal o permanentemente. Esto aplica si tus datos son incorrectos, si los estamos usando ilegalmente, si ya no los necesitamos para algo específico, o mientras revisamos tu solicitud de "Oposición".                                                                  | Contáctanos para pedir esta limitación.                                                                                                                                                                                                                                   |
+| **Oponerte (Oposición)**      | Oponerte a que usemos tu información personal para ciertos fines, como cuando la usamos basándonos en nuestros "intereses legítimos" (explicados más abajo) o para mostrarte anuncios personalizados.                                                                                                                                    | Usa los controles en Spotify (ej: desactivar anuncios personalizados en "Configuración de Privacidad"). También puedes contactarnos.                                                                                                                                 |
+| **Llevar tus datos (Portabilidad)** | Pedir una copia de tus datos en un formato electrónico común para poder llevarlos a otro servicio. Esto aplica principalmente a datos que usamos con tu permiso o para cumplir nuestro contrato contigo.                                                                                                                              | Revisa la sección "Acceder" más arriba para ver cómo pedir tus datos.                                                                                                                                                                                                    |
+| **No a decisiones automáticas** | No ser objeto de decisiones importantes sobre ti que se tomen solo por sistemas automáticos (sin personas), si esas decisiones te afectan legalmente o de forma significativa.                                                                                                                                                           | No te preocupes, Spotify *no* toma este tipo de decisiones automáticas que te afecten de forma importante.                                                                                                                                                            |
+| **Retirar tu permiso (Consentimiento)** | Si nos diste permiso (consentimiento) para usar tus datos para algo específico, puedes cambiar de opinión y retirar ese permiso cuando quieras.                                                                                                                                                                                  | Ajusta la configuración correspondiente en Spotify o contáctanos.                                                                                                                                                                                                     |
+| **Reclamar**                  | Si tienes dudas o crees que no estamos respetando tus derechos, puedes contactar a la autoridad de protección de datos de Suecia (donde está nuestra sede) o a la autoridad local en Chile.                                                                                                                                           | Busca los datos de contacto de la autoridad sueca en su sitio web, o busca la información de la autoridad chilena correspondiente.                                                                                                                                      |
+
+**Control sobre Anuncios Personalizados:**
+*   **¿Qué son?** Son anuncios que te mostramos basados en la información que tenemos sobre tus gustos e intereses (por ejemplo, si escuchas mucha música rock, podríamos mostrarte anuncios de conciertos de rock).
+*   **¿Cómo controlarlos?** Puedes activar o desactivar los "Anuncios Personalizados" en la "Configuración de Privacidad de la Cuenta". Para algunos podcasts, puede haber un enlace en la descripción del episodio para controlar los anuncios de ese podcast específico (manejado por quien provee el podcast).
+*   **Importante:** Incluso si desactivas los anuncios personalizados, podrías seguir viendo anuncios (en el plan gratuito o en podcasts). Estos anuncios se basarán en información más general, como tu registro o lo que estás escuchando en ese momento (ej: anuncio de utensilios de cocina si escuchas un podcast de recetas).
+
+---
+
+**3. ¿Qué Información Personal Recopilamos sobre Ti?**
+
+Aquí te contamos qué tipo de datos personales juntamos:
+
+**a) Datos que nos das al registrarte o actualizar tu cuenta:**
+*   **Datos de Usuario:** Información básica para crear tu cuenta y usar Spotify.
+    *   Puede incluir: Nombre de perfil, email, contraseña, número de teléfono, fecha de nacimiento, género, país. A veces, tu dirección o universidad (si usas el plan de estudiante).
+    *   Obtenemos estos datos de ti (cuando te registras) o de tu dispositivo (como tu país).
+*   **Datos de Dirección:** Podemos pedir tu dirección para:
+    *   Verificar si calificas para ciertos planes.
+    *   Enviar avisos legales.
+    *   Darte soporte.
+    *   Gestionar pagos e impuestos.
+    *   Enviarte productos físicos si los pides.
+    *   A veces usamos apps como Google Maps para confirmar tu dirección.
+
+**b) Datos que recopilamos cuando usas Spotify:**
+*   **Datos de Uso:** Información sobre cómo interactúas con Spotify.
+    *   **Cómo usas Spotify:** Qué plan tienes, qué buscas, qué escuchas, playlists que creas, tu biblioteca, historial, configuración, cómo interactúas con otros usuarios, uso de apps conectadas.
+    *   **Lo que deducimos:** Nuestras conclusiones sobre tus gustos según cómo usas Spotify.
+    *   **Contenido que tú aportas:** Si participas en concursos, o publicas imágenes, texto, etc., en Spotify.
+    *   **Datos Técnicos:** Info sobre tu conexión y dispositivo. Ejemplos:
+        *   Identificadores de tu dispositivo o conexión a internet (como IPs o datos de cookies).
+        *   Tipo de conexión (wifi, 4G), proveedor de internet, rendimiento de red.
+        *   Tipo de navegador, idioma, sistema operativo, versión de la app de Spotify.
+        *   Información para descubrir y conectar con otros dispositivos (como parlantes en tu red wifi, dispositivos Bluetooth cercanos).
+    *   **Tu Ubicación General (no precisa):** País, región o estado. La sacamos de datos técnicos (IP, idioma) o tu moneda de pago. La necesitamos para:
+        *   Cumplir acuerdos con los dueños del contenido (algunas canciones solo están disponibles en ciertos países).
+        *   Mostrarte contenido y anuncios relevantes para tu zona.
+    *   **Datos de Sensores del Dispositivo:** Información de los sensores de tu celular (como movimiento u orientación) *solo si activas funciones que lo necesiten* y das permiso.
+
+**c) Datos Adicionales que Tú Decides Darnos:**
+*   **Datos de Voz:** Si usas funciones de voz (y están disponibles en Chile) y nos das permiso, grabamos y transcribimos tus comandos de voz. Puedes controlar esto (ver Política de Control de Voz).
+*   **Datos de Pagos y Compras:** Si compras algo o te suscribes a un plan pago, necesitamos tus datos de pago.
+    *   Puede incluir: Nombre, fecha de nacimiento, método de pago (ej: tarjeta de crédito/débito), algunos dígitos de tu tarjeta (nunca el número completo), código postal, teléfono, historial de compras.
+*   **Datos de Encuestas e Investigaciones:** Si respondes encuestas o participas en estudios, guardamos la información que nos das.
+
+**d) Datos que Recibimos de Otros (Terceros):**
+*   **Socios de Autenticación:** Si te registras o inicias sesión con otro servicio (ej: Facebook, Google), ese servicio nos da información para crear tu cuenta de Spotify. (Datos de Usuario).
+*   **Aplicaciones y Dispositivos Conectados:** Si conectas tu cuenta de Spotify a otras apps o dispositivos (redes sociales, parlantes, relojes, autos, consolas, asistentes de voz), podemos recibir información de ellos para que la conexión funcione. Te pediremos permiso antes. (Datos de Usuario, Datos de Uso).
+*   **Socios Técnicos:** Empresas que nos ayudan con servicios técnicos, como saber tu ubicación general (país/ciudad) a partir de tu IP, o proteger tu cuenta. (Datos de Usuario, Datos de Uso).
+*   **Socios de Pago y Comerciantes:** Si pagas a través de terceros (ej: tu compañía de celular), ellos nos dan datos para enviarte la factura y procesar el pago. Si te enviamos a una tienda (ej: de un artista), la tienda puede darnos datos de tu compra para calcular comisiones o analizar la efectividad. (Datos de Pagos y Compras).
+*   **Socios de Publicidad y Marketing:** Recibimos información de algunos socios sobre tus posibles intereses para mostrarte anuncios más relevantes. (Datos de Uso).
+*   **Empresas que Compramos:** Si compramos otra empresa, podemos recibir datos de ella para mejorar nuestros servicios. (Datos de Usuario, Datos de Uso).
+
+---
+
+**4. ¿Para Qué Usamos Tu Información Personal?**
+
+Usamos tu información personal por varias razones. Aquí te explicamos las principales:
+
+| Para qué usamos tus datos                                                                                                                                                              | Qué categorías de datos usamos (ver sección 3)                                                                                                   |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Para que Spotify funcione y puedas usarlo** (crear tu cuenta, personalizarla, darte la app).                                                                                          | Datos de Usuario, Dirección, Uso, Voz, Pagos y Compras.                                                                                          |
+| **Para ofrecerte funciones extra** (como compartir un enlace a una canción).                                                                                                            | Datos de Usuario, Dirección, Uso, Voz, Pagos y Compras.                                                                                          |
+| **Para ofrecer funciones opcionales** (si te pedimos permiso específico para ellas).                                                                                                    | Datos de Usuario, Uso, Encuestas, Pagos y Compras.                                                                                               |
+| **Para encontrar y arreglar problemas técnicos** en Spotify.                                                                                                                            | Datos de Usuario, Uso.                                                                                                                           |
+| **Para mejorar Spotify y crear cosas nuevas** (nuevas funciones, tecnologías, mejorar recomendaciones, analizar cómo usas las funciones nuevas).                                         | Datos de Usuario, Uso, Voz, Encuestas.                                                                                                           |
+| **Para mostrarte anuncios y promociones** (a veces basados en tus gustos). A veces, necesitaremos tu permiso (ej: para enviarte emails publicitarios).                                  | Datos de Usuario, Uso, Encuestas.                                                                                                                |
+| **Para cumplir con la ley** (ej: verificar tu edad, cumplir obligaciones fiscales).                                                                                                     | Datos de Usuario, Dirección, Uso, Voz, Pagos y Compras, Encuestas.                                                                              |
+| **Para responder a solicitudes legales** (de la policía, tribunales u otras autoridades).                                                                                               | Datos de Usuario, Dirección, Uso, Voz, Pagos y Compras, Encuestas.                                                                              |
+| **Para cumplir acuerdos con nuestros socios** (ej: informar a los dueños de la música cuántas veces se escuchó una canción, pero sin identificarte directamente).                         | Datos de Usuario, Uso, Voz, Pagos y Compras.                                                                                                     |
+| **Para manejar reclamos sobre contenido** (ej: denuncias por derechos de autor o contenido inapropiado).                                                                                 | Datos de Usuario, Uso, Voz, Pagos y Compras.                                                                                                     |
+| **Para defendernos legalmente si es necesario** (ej: si hay un juicio).                                                                                                                 | Datos de Usuario, Dirección, Uso, Voz, Pagos y Compras, Encuestas.                                                                              |
+| **Para planificar el futuro de Spotify** (analizar tendencias, planear lanzamientos en nuevos lugares).                                                                                | Datos de Usuario, Uso, Pagos y Compras.                                                                                                          |
+| **Para procesar tus pagos** (si tienes un plan pagado).                                                                                                                                  | Datos de Usuario, Pagos y Compras, Dirección.                                                                                                    |
+| **Para proteger Spotify y tu cuenta contra fraudes** y actividades ilegales.                                                                                                            | Datos de Usuario, Dirección, Uso, Pagos y Compras.                                                                                               |
+| **Para hacer encuestas y estudios** (entender qué piensas de Spotify y cómo lo usas).                                                                                                   | Datos de Usuario, Uso, Voz, Encuestas.                                                                                                           |
+
+*(Nota: Donde la ley lo requiere, usamos tu permiso (consentimiento) o la necesidad de cumplir nuestro contrato contigo como base legal. En otros casos, nos basamos en nuestros "intereses legítimos", que significa que tenemos una buena razón comercial para usar tus datos, siempre cuidando que no afecte tus derechos y libertades de forma desproporcionada).*
+
+---
+
+**5. ¿Con Quién Compartimos Tu Información Personal?**
+
+A veces compartimos tu información personal. Aquí te contamos con quién y por qué:
+
+**a) Información que siempre es pública en Spotify:**
+*   Tu nombre de perfil y foto de perfil.
+*   Tus playlists públicas.
+*   Contenido que publiques (con sus títulos, descripciones, etc.).
+*   A quién sigues y quién te sigue en Spotify.
+*(Otros usuarios no verán esto si los bloqueas).*
+*   Tú u otros pueden compartir tu perfil, contenido o playlists en otras plataformas (redes sociales, mensajería). Esas plataformas guardarán una copia.
+
+**b) Información que tú eliges compartir:**
+Compartimos estos datos solo si tú decides usar una función que lo requiera o si nos das permiso:
+
+| Con quién puedes elegir compartir | Qué datos compartes     | Por qué                                                                                                                                                                                                                                                           |
+| :-------------------------------- | :---------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Apps y dispositivos de terceros** | Datos de Usuario, Uso | Para conectar tu cuenta o usar Spotify con ellos (ej: redes sociales, parlantes, TVs, autos, asistentes de voz). Puedes ver y quitar conexiones en "Aplicaciones" en tu cuenta.                                                                                        |
+| **Comunidad de Soporte**          | Datos de Usuario        | Si usas el foro de ayuda de Spotify, tu nombre de perfil allí y tus preguntas/comentarios serán públicos para otros usuarios del foro.                                                                                                                             |
+| **Otros usuarios de Spotify**     | Datos de Usuario, Uso   | Para compartir tu actividad con otros (ej: tus seguidores). En "Configuración Social", puedes elegir si muestras tus artistas recientes o playlists. También puedes crear o unirte a playlists compartidas con amigos (que te darán recomendaciones basadas en eso). |
+| **Artistas y sellos**             | Datos de Usuario        | Solo si tú eliges recibir noticias u ofertas de ellos. Puedes retirar este permiso cuando quieras.                                                                                                                                                                  |
+
+**c) Información que compartimos con otros para que Spotify funcione:**
+Compartimos información con estas entidades para operar y mejorar Spotify:
+
+| Con quién compartimos              | Qué datos compartimos                                            | Por qué                                                                                                                                                                                                                                                                                                                                                                                      |
+| :--------------------------------- | :--------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Proveedores de servicios**       | Usuario, Dirección, Uso, Voz, Pagos, Encuestas                   | Empresas que nos ayudan a: dar soporte al cliente, operar nuestra tecnología, proteger nuestros sistemas (ej: Google reCAPTCHA), hacer marketing de Spotify.                                                                                                                                                                                                                              |
+| **Socios de pago**                 | Usuario, Pagos y Compras                                         | Para procesar tus pagos y prevenir fraudes.                                                                                                                                                                                                                                                                                                                                                  |
+| **Socios de publicidad**           | Usuario, Uso                                                     | Para mostrarnos anuncios más relevantes en Spotify y medir si los anuncios funcionan. Nos ayudan con la publicidad personalizada.                                                                                                                                                                                                                                                            |
+| **Socios de marketing**            | Usuario, Uso                                                     | Para promocionar Spotify con socios (ej: en otros sitios web, con fabricantes de dispositivos). Les damos datos para: que participes en promociones, medir la efectividad, mostrarte ofertas que te interesen (ellos pueden combinar nuestros datos con los suyos).                                                                                                                             |
+| **Plataformas de hosting (podcasts)** | Uso (ej: tu IP)                                               | Cuando escuchas un podcast, compartimos algunos datos con la plataforma que lo aloja (puede ser Spotify u otra). Revisa la política de privacidad de esa plataforma (indicada en la descripción del podcast) para saber cómo usan tus datos.                                                                                                                                                |
+| **Investigadores académicos**      | Usuario, Uso (seudonimizados)                                    | Para estudios estadísticos o académicos. Usamos datos "seudonimizados" (identificados con un código, no tu nombre) para proteger tu privacidad.                                                                                                                                                                                                                                           |
+| **Otras empresas del grupo Spotify** | Usuario, Dirección, Uso, Voz, Pagos, Encuestas                   | Para nuestras operaciones diarias, mantener y mejorar Spotify y los servicios de empresas que compramos. Ej: empleados de diferentes empresas colaboran, compartimos datos para medir efectividad de anuncios o entender tendencias de escucha.                                                                                                                                             |
+| **Autoridades y otros (legal)**    | Usuario, Uso                                                     | Si creemos de buena fe que es necesario: para cumplir una obligación legal, responder a un proceso legal válido (orden judicial, citación), proteger la seguridad nacional, el orden público, investigar un crimen, proteger la seguridad de alguien, prevenir daños graves, o en un litigio.                                                                                                |
+| **Compradores de nuestro negocio**   | Usuario, Dirección, Uso, Voz, Pagos, Encuestas                   | Si vendemos o negociamos vender Spotify, podemos transferir tus datos al comprador como parte de la transacción.                                                                                                                                                                                                                                                                             |
+
+---
+
+**6. ¿Por Cuánto Tiempo Guardamos Tu Información?**
+
+Guardamos tu información personal solo el tiempo necesario para:
+*   Mantener Spotify funcionando bien.
+*   Tomar decisiones informadas sobre nuevas funciones.
+*   Cumplir con nuestras obligaciones legales.
+*   Resolver problemas o disputas.
+
+**Cómo determinamos los plazos:**
+*   **Datos que guardamos hasta que los borres:** Tienes derecho a pedir que borremos datos (ver Sección 2). También puedes borrar cosas tú mismo (como tu foto de perfil). Guardamos esta info mientras quieras, a menos que necesitemos conservarla por razones específicas (ver abajo).
+*   **Datos que expiran solos:** Algunos datos tienen un plazo fijo y se borran automáticamente después (ej: búsquedas que haces, usualmente se borran a los 90 días).
+*   **Datos guardados hasta que borres tu cuenta:** Guardamos datos como tu nombre de usuario, perfil e historial de escucha mientras tu cuenta exista (para darte recomendaciones, playlists de recuerdos, etc.). Cuando borras tu cuenta, eliminamos o "desidentificamos" estos datos (para que ya no se asocien contigo).
+*   **Datos guardados más tiempo por razones limitadas:** Después de borrar tu cuenta, podemos guardar algunos datos por más tiempo si la ley nos obliga, si una autoridad lo pide para una investigación, o si los necesitamos para un juicio. También podemos guardar temporalmente datos eliminados para investigar posibles violaciones a nuestras reglas o proteger la seguridad.
+
+---
+
+**7. ¿Enviamos Tu Información a Otros Países?**
+
+Sí. Como Spotify es una empresa global, compartimos información personal con otras empresas del grupo Spotify, proveedores y socios en distintos países para que el servicio funcione.
+
+Estos países podrían tener leyes de protección de datos diferentes a las de Chile (quizás menos estrictas o con menos derechos para ti).
+
+**¿Cómo protegemos tus datos al enviarlos fuera?**
+Usamos herramientas legales para asegurarnos de que:
+*   La transferencia cumpla con la ley.
+*   Tus datos reciban un nivel de protección similar al que tendrían en Chile o Europa.
+
+**Mecanismos que usamos:**
+*   **Contratos Especiales (Cláusulas Contractuales Estándar - CCE):** Son contratos aprobados que obligan a la empresa que recibe los datos a protegerlos y darte derechos similares a los de Europa.
+*   **Decisiones de Adecuación:** Enviamos datos a países que la Comisión Europea ha determinado que tienen leyes de protección de datos adecuadas (ej: Canadá, Reino Unido, Suiza, etc.).
+*   **Medidas Adicionales:** También usamos protecciones extras como:
+    *   Encriptación (codificar los datos) y seudonimización (reemplazar tu nombre con un código).
+    *   Políticas para revisar y oponernos a solicitudes excesivas o ilegales de gobiernos.
+
+---
+
+**8. ¿Cómo Mantenemos Segura Tu Información Personal?**
+
+Nos tomamos en serio la protección de tus datos. Usamos medidas técnicas (como encriptación) y organizativas (como políticas de acceso) para proteger tu información.
+
+**Pero recuerda: ningún sistema es 100% seguro.**
+
+**Para proteger tu cuenta, te recomendamos:**
+*   Usar una **contraseña fuerte y única** (solo para Spotify).
+*   **Nunca compartir tu contraseña** con nadie.
+*   Limitar quién usa tu computador o navegador.
+*   **Cerrar sesión** siempre que termines de usar Spotify en un dispositivo compartido. Puedes usar la opción "Cerrar sesión en todas partes" en la página de tu cuenta.
+
+**¡Importante!** Si permites que otros usen tu cuenta, podrán acceder a tu información personal, controles y al servicio en tu nombre. Esto puede afectar tus recomendaciones y aparecerá en tu descarga de datos. Solo deja que otros usen tu cuenta si confías plenamente en ellos.
+
+---
+
+**9. Niños y Spotify**
+
+**Importante:** Esta política es para el servicio principal de Spotify, no para la app **Spotify Kids**, que tiene su propia política de privacidad.
+
+Hay una **edad mínima** para usar el servicio principal de Spotify (generalmente 13 años, pero puede variar según las leyes de Chile si se requiere permiso de los padres para menores de cierta edad).
+
+**Spotify NO es para niños:**
+*   Menores de 13 años.
+*   Menores de la edad mínima legal en Chile para que procesemos sus datos sin permiso de los padres.
+
+**No recopilamos intencionalmente datos de niños bajo el límite de edad.** Si eres menor de esa edad, por favor no uses Spotify (usa Spotify Kids si está disponible) y no nos des tus datos.
+
+**Si eres padre/madre** y descubres que tu hijo menor de edad nos dio datos, contáctanos. Tomaremos medidas para borrar esa información, lo que podría implicar eliminar la cuenta del niño.
+
+Si usas un **dispositivo compartido**, ten cuidado de no reproducir o recomendar contenido inapropiado para menores de 18 años.
+
+---
+
+**10. Cambios a esta Política**
+
+Podemos cambiar esta política de vez en cuando. Si hacemos cambios importantes, te avisaremos de forma clara y apropiada (por ejemplo, con un aviso dentro de Spotify, un email o una notificación en tu dispositivo).
+
+---
+
+**11. ¿Cómo Contactarnos?**
+
+Si tienes preguntas sobre esta política o tu privacidad en Spotify, puedes contactar a nuestro Oficial de Protección de Datos:
+*   **Email:** privacy@spotify.com
+*   **Correo postal:** Spotify AB, Regeringsgatan 19, 111 53 Estocolmo, Suecia.
+
+Spotify AB es la empresa responsable (el "controlador de datos") de la información personal que se maneja según esta política.

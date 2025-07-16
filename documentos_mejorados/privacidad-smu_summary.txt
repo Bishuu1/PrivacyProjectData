@@ -1,0 +1,118 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Protección de Datos Personales Simplificada - SMU y Filiales
+**Fecha de última actualización:** [Indicar Fecha de la última actualización del documento original si existe, o dejar como "[Fecha]"]
+**Propósito:** Aquí te explicamos de forma clara cómo SMU S.A. y sus empresas relacionadas (Rendic Hermanos S.A., Súper 10 S.A., Alvi Supermercados Mayoristas S.A., Red Apoyo S.A., Unidata S.A., Servicios Logísticos Santiago S.A. y Servicios Logísticos La Serena S.A.) cuidamos tu información personal. Queremos que sepas qué datos tuyos usamos, para qué y cómo los protegemos, siempre respetando la ley chilena. Esta política aplica a nuestros clientes, trabajadores(as), proveedores y cualquier persona relacionada con nosotros.
+
+**Conceptos Clave (Para que hablemos el mismo idioma):**
+
+*   **Nosotros (La Compañía):** SMU S.A. y las empresas mencionadas arriba.
+*   **Tú (Titular):** La persona natural dueña de los datos personales.
+*   **Datos Personales:** Cualquier información que te identifica o permite identificarte (ej: nombre, RUT, email, teléfono, dirección, historial de compras, datos de navegación web).
+*   **Datos Sensibles:** Información muy personal tuya, como tu estado de salud, origen racial, opiniones políticas, creencias religiosas o vida sexual. Los tratamos con especial cuidado.
+*   **Tratamiento de Datos:** Cualquier acción que hacemos con tus datos: recolectarlos, guardarlos, usarlos, organizarlos, compartirlos, transferirlos o eliminarlos.
+*   **Responsable:** La empresa (SMU o una de sus filiales) que decide *para qué* y *cómo* se usan tus datos.
+*   **Mandatario:** Un tercero (otra empresa o persona) que trata tus datos *en nuestro nombre* y siguiendo nuestras instrucciones (ej: un proveedor de servicios tecnológicos).
+*   **Cesión de Datos:** Cuando compartimos tus datos con un tercero que los usará para *sus propios fines*. Generalmente, necesitamos tu permiso para esto.
+*   **Anonimización:** Modificar tus datos para que ya no sea posible saber que son tuyos.
+*   **Base de Datos:** El lugar (físico o digital) donde guardamos conjuntos de datos personales.
+*   **Regulación Aplicable:** Las leyes chilenas sobre protección de la vida privada y datos personales (principalmente Ley 19.628, Ley 20.575, Ley 19.496 y Constitución).
+
+**Nuestros Principios Para Cuidar Tus Datos:**
+
+Actuamos siguiendo estas reglas fundamentales:
+
+1.  **Legalidad (Licitud):** Siempre cumplimos la ley. Solo tratamos tus datos si la ley nos autoriza o si tú nos das tu permiso claro.
+2.  **Propósito Claro (Finalidad):** Recolectamos tus datos solo para fines específicos, claros y legales que te informamos antes. No los usamos para otras cosas sin tu permiso o autorización legal.
+3.  **Datos Correctos (Calidad):** Nos esforzamos para que tus datos sean exactos, completos y estén al día para los fines que los usamos. Puedes pedirnos corregirlos si hay errores.
+4.  **Transparencia e Información:** Te informamos de manera clara y simple sobre cómo tratamos tus datos. Nuestras políticas de privacidad (como esta) siempre estarán disponibles y te dirán al menos:
+    *   Quiénes somos y cómo contactarnos.
+    *   Qué tipos de datos tratamos.
+    *   Para qué los usamos.
+    *   Con quién podríamos compartirlos.
+    *   Cómo los protegemos.
+    *   Cuáles son tus derechos y cómo ejercerlos.
+    *   Actualizamos estas políticas si hay cambios importantes o cada 2 años si hay cambios en la ley.
+5.  **Seguridad:** Protegemos tus datos con medidas técnicas y organizativas adecuadas para evitar pérdidas, filtraciones, accesos no autorizados o mal uso.
+6.  **Confidencialidad:** Todas las personas que trabajan con nosotros y acceden a tus datos deben guardar secreto, incluso después de dejar la Compañía.
+7.  **Usar Solo lo Necesario (Minimización):** Antes de tratar tus datos, evaluamos si realmente los necesitamos. Si podemos lograr el objetivo con datos anónimos o con menos datos, preferimos esa opción.
+8.  **Tiempo Justo (Proporcionalidad):** Solo recolectamos y usamos los datos estrictamente necesarios para el propósito informado. No los guardamos más tiempo del necesario. Después, los eliminamos o los hacemos anónimos de forma segura. Tenemos procedimientos para definir estos plazos.
+
+**¿Cuándo Podemos Usar Tus Datos? (Bases Legales):**
+
+Solo tratamos tus datos personales si tenemos una razón válida según la ley:
+
+1.  **La Ley Nos Autoriza u Obliga:** Cuando una ley chilena nos permite o exige tratar tus datos para cumplir una obligación legal.
+2.  **Tú Nos Das Permiso (Consentimiento):** Esta es la regla general. Te pediremos tu autorización de forma:
+    *   **Expresa:** Debes decir "sí" claramente, no se asume por silencio.
+    *   **Por Escrito:** Puede ser en papel o en formato digital (ej: marcar una casilla online).
+    *   **Informada:** Te explicaremos claramente para qué usaremos tus datos y si los compartiremos antes de que des tu permiso.
+    *   Guardamos un registro de tu consentimiento para poder demostrarlo.
+
+**Tus Derechos Sobre Tus Datos (Derechos ARCO y más):**
+
+La ley te da derechos sobre tu información personal. Puedes pedirnos:
+
+1.  **Acceder a tus Datos:** Saber qué datos tuyos tenemos, de dónde los sacamos, para qué los usamos y con quién los compartimos.
+2.  **Rectificar (Corregir) tus Datos:** Modificar tus datos si son incorrectos, inexactos, incompletos o están desactualizados.
+3.  **Cancelar (Eliminar) tus Datos:** Pedir que borremos tus datos si:
+    *   Ya no hay base legal para guardarlos.
+    *   Ya no son necesarios para el fin original.
+    *   Nos los diste voluntariamente y ya no quieres que los tengamos.
+    *   Se usan para publicidad y no quieres recibirla más.
+4.  **Bloquear (Suspender) el Uso:** Pedir que dejemos de usar temporalmente tus datos en los mismos casos que la cancelación, si aplica.
+5.  **Revocar tu Consentimiento:** Retirar el permiso que nos diste para usar tus datos (si esa era la base legal).
+
+**Importante:** A veces, la ley nos obliga a mantener ciertos datos, aunque pidas eliminarlos (por ejemplo, por razones legales o contractuales). Analizaremos cada solicitud caso a caso.
+
+**¿Cómo ejercer tus derechos?** Puedes hacerlo a través de nuestro canal de denuncias y consultas en la sección "derechos ARCO" de nuestra página web.
+
+**¿Cómo Protegemos Tus Datos? (Seguridad y Confidencialidad):**
+
+*   **Medidas de Seguridad:** Implementamos medidas técnicas (ej: sistemas seguros) y organizativas (ej: procedimientos internos) adecuadas para proteger tus datos contra pérdida, alteración, acceso no autorizado o destrucción. Evaluamos la seguridad constantemente, especialmente al implementar nuevas tecnologías.
+*   **Acceso Limitado:** Solo las personas de nuestro equipo que necesitan tus datos para cumplir sus funciones pueden acceder a ellos.
+*   **Confidencialidad:** Exigimos a nuestro personal y a quienes trabajen para nosotros que traten tus datos con absoluta confidencialidad.
+
+**Capacitación Continua:**
+
+Capacitamos a nuestro personal regularmente para que conozcan la importancia de proteger tus datos y cómo hacerlo correctamente.
+
+**Compartir Tus Datos Con Otros:**
+
+*   **Si Recibimos Datos de Terceros:** Nos aseguramos de que ese tercero nos los entregó legalmente y que podemos usarlos para los fines previstos.
+*   **Si Compartimos Datos con Terceros (Cesión):** Somos transparentes contigo. Si vamos a compartir tus datos con otra empresa para que los use para sus propios fines, te informaremos quién es y para qué, y te pediremos tu permiso si la ley lo requiere.
+*   **Si Usamos Proveedores (Mandatarios):** A veces, otras empresas nos ayudan a procesar tus datos (ej: almacenamiento en la nube, envío de correos). Les exigimos por contrato que protejan tu información, que solo la usen para lo que les pedimos y que cumplan con la ley y nuestras políticas. Identificamos a estos proveedores y formalizamos la relación con cláusulas o anexos específicos de protección de datos.
+
+**Transferencias Fuera de Chile:**
+
+Si necesitamos enviar tus datos personales fuera de Chile (ej: a un proveedor extranjero), lo haremos cumpliendo siempre la ley chilena. Te informaremos si esto ocurre en nuestras políticas de privacidad específicas. Preferimos enviar datos a países que tengan leyes de protección de datos similares o mejores que las de Chile.
+
+**Privacidad Desde el Inicio (Por Diseño y Por Defecto):**
+
+Cuando creamos nuevos productos, servicios, sistemas o proyectos que involucran tus datos, pensamos en tu privacidad desde el principio. Analizamos los riesgos y aplicamos medidas para proteger tu información antes de lanzarlos.
+
+**¿Quiénes Son Responsables Dentro de SMU?**
+
+Tenemos roles y responsabilidades definidos para asegurar que cumplimos esta política:
+
+*   **Directorio de SMU S.A.:** Supervisa todo, nombra al Encargado de Protección de Datos y asegura que tengamos los recursos necesarios.
+*   **Encargado de Protección de Datos (DPO):** Es nuestro experto principal. Supervisa el cumplimiento, asesora a la empresa, responde tus consultas sobre derechos, gestiona incidentes de seguridad y es el punto de contacto con la autoridad de protección de datos.
+*   **Responsables por Tipo de Dato:** Hay personas específicas designadas para supervisar el tratamiento de datos de:
+    *   Clientes del club de fidelización (en Unidata S.A.).
+    *   Clientes de e-commerce (en Unidata S.A.).
+    *   Trabajadores (en SMU S.A.).
+    *   Proveedores (en SMU S.A.).
+*   **Comité de Protección de Datos:** Un equipo interno con representantes de distintas áreas (DPO, responsables de datos, ciberseguridad, legal) que coordina esfuerzos y propone mejoras.
+*   **Todos los Trabajadores(as):** Deben conocer y cumplir esta política y las normas de seguridad.
+
+**¿Tienes Dudas o Quieres Reportar Algo?**
+
+Si tienes alguna duda sobre esta política, cómo usamos tus datos, o si crees que algo no se está haciendo bien, por favor contáctanos a través de nuestro **Canal de Denuncias y Consultas** disponible en nuestra página web. Dirige tu consulta o denuncia al Encargado de Protección de Datos.
+
+**Cumplimiento es Tarea de Todos:**
+
+Cumplir esta política y las leyes de protección de datos es muy importante. No hacerlo puede tener consecuencias negativas para la Compañía (multas, daño a la reputación), para los trabajadores(as) (medidas disciplinarias según el Reglamento Interno) y, lo más importante, para ti (posibles daños). Por eso, esta política es obligatoria para todos en SMU y sus filiales.
+
+**Vigencia de esta Política:**
+
+Esta política está vigente desde su publicación y no tiene fecha de término. Si hacemos cambios importantes, publicaremos la versión actualizada.

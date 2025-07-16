@@ -1,0 +1,118 @@
+POLÍTICA SIMPLIFICADA:
+
+**Política de Privacidad Simplificada - Secretaría de Gobierno Digital (SGD)**
+
+**Fecha de última actualización:** [Fecha - *Nota: Usar la fecha del documento original o la fecha de esta simplificación*]
+
+**Propósito:** En este documento te explicamos de forma clara y sencilla cómo la Secretaría de Gobierno Digital (SGD) recopila, usa y protege tu información personal cuando utilizas nuestras páginas web y servicios compartidos (como ClaveÚnica), siempre respetando las leyes chilenas. Queremos que entiendas qué pasa con tus datos y cuáles son tus derechos.
+
+---
+
+**1. Nuestro Compromiso con tu Privacidad**
+
+*   **Respetamos tus derechos:** Protegemos tu derecho a la privacidad y tus datos personales, como lo indica la Constitución de Chile (artículo 19 N°4) y la Ley N° 19.628 sobre Protección de la Vida Privada.
+*   **Información clara:** Te informamos cómo manejamos tu información cuando navegas o usas nuestros sitios.
+*   **Tus derechos:** Te explicamos qué derechos tienes sobre tus datos y cómo los cuidamos.
+*   **Aplicación:** Esta política se aplica a todas las páginas web de la SGD, a menos que se indique algo diferente en un sitio específico.
+
+---
+
+**2. Qué Hacemos con Tu Información (Tratamiento de Datos)**
+
+"Tratamiento de datos" significa cualquier acción que realizamos con tu información, como recogerla, guardarla, organizarla, usarla o compartirla. Cuando hablamos de "datos personales", nos referimos a información que te identifica o podría identificarte.
+
+**¿Para qué usamos tu información?**
+
+Usamos tu información para:
+
+*   **Medir y mejorar:** Entender cómo se usan nuestras páginas y servicios para hacerlos mejores, más fáciles de usar y más accesibles.
+*   **Ofrecer servicios:** Prestarte servicios públicos usando tecnología digital.
+*   **Colaborar con el Estado:** Compartir información necesaria con otras instituciones públicas, de forma segura y eficiente, como lo permite la ley.
+*   **Mantener la seguridad:** Analizar y monitorear el uso de nuestros sistemas para detectar problemas de seguridad o usos indebidos (por ejemplo, intentos de automatizar ClaveÚnica de forma no permitida).
+
+**¿Por qué podemos usar tu información? (Base Legal)**
+
+*   **Ley chilena:** La ley N° 19.628 (artículo 20) permite a los organismos públicos como la SGD tratar datos personales para cumplir con sus funciones, sin necesidad de pedir tu permiso específico para cada tarea.
+*   **Nuestras funciones:** La Ley N° 21.658 define las tareas de la SGD, que incluyen:
+    *   Proponer y coordinar la estrategia digital del gobierno.
+    *   Apoyar a otros organismos públicos en el uso de tecnología.
+    *   Crear y manejar plataformas digitales compartidas (como ClaveÚnica).
+    *   Evaluar y mejorar nuestros servicios y la experiencia de quienes los usan.
+
+**Compartir información entre organismos públicos (Interoperabilidad)**
+
+*   **¿Qué es?** Es la capacidad de las instituciones públicas para intercambiar información de forma segura y eficiente usando tecnología. Esto evita que tengas que entregar la misma información varias veces a distintas entidades del Estado.
+*   **¿Es legal?** Sí, es un deber legal (según la Ley N° 19.880) para hacer los trámites más fáciles y eficientes. Se basa en principios de eficiencia y coordinación del Estado.
+
+---
+
+**3. Cómo Recopilamos tu Información**
+
+Usamos dos formas principales para obtener información:
+
+**a) Recopilación Automática (Datos anónimos de navegación)**
+
+*   **¿Qué es?** Son sistemas (como software) que registran información técnica de forma automática mientras navegas por nuestros sitios.
+*   **¿Qué datos recoge?** Información general sobre cómo usas el sitio (páginas visitadas, clics), tu ubicación general (país y ciudad, *no* tu dirección exacta) y tipo de dispositivo.
+*   **Importante:** Esta información *no permite identificarte*. Hacemos anónima tu dirección IP y otros datos para proteger tu identidad.
+*   **¿Para qué?** Para entender cómo se usan nuestros sitios y así mejorar el contenido y la navegación.
+
+**b) Recopilación Manual (Información que tú nos das)**
+
+*   **¿Qué es?** Ocurre cuando tú nos entregas información directamente porque te la pedimos para algo específico.
+*   **¿Cuándo pasa?**
+    *   Al usar tu **ClaveÚnica** para identificarte.
+    *   Al llenar **formularios** para hacer trámites (por ejemplo, en SIMPLE o CeroFilas).
+    *   Al enviar consultas o problemas a nuestra **Mesa de Ayuda**.
+    *   Al usar otros **formularios de contacto**.
+*   **¿Para qué?** Para poder identificarte, procesar tus solicitudes, trámites o consultas.
+
+---
+
+**4. Cómo Guardamos y Quién Accede a Tu Información**
+
+*   **Acceso limitado:** Muy pocas personas dentro de la SGD tienen acceso a tus datos, y solo cuando es necesario para su trabajo.
+*   **No compartimos con cualquiera:** No entregamos tus datos personales a empresas o personas externas, excepto si la ley nos obliga (por ejemplo, por orden de un tribunal) o en los casos explicados en esta política.
+*   **Almacenamiento seguro:** Guardamos la información en bases de datos propias y también usamos servicios seguros de almacenamiento en la nube. Puedes ver información sobre nuestros proveedores en Mercado Público. Si usamos un proveedor con su propia política de privacidad, pondremos un enlace a ella.
+
+**Colaboración con Otros Organismos Públicos**
+
+Podemos compartir información con otras entidades del Estado sólo en estos casos:
+
+*   **Estadísticas:** Informes generales y anónimos sobre el uso de nuestros servicios (ej: cuántas personas usan un servicio), donde nadie puede ser identificado.
+*   **Datos personales necesarios:** Si otro organismo público necesita tus datos personales para cumplir *sus* funciones legales, podemos compartirlos de forma segura (según Ley N° 19.628, art. 20).
+*   **Datos disociados:** Información estadística elaborada a partir de datos personales, pero modificada para que sea imposible identificar a una persona en particular.
+
+---
+
+**5. Tus Derechos Sobre Tu Información Personal**
+
+Tú tienes derechos sobre la información personal que manejamos. Puedes solicitar:
+
+1.  **Saber qué datos tenemos:** Preguntar qué información tuya tenemos, de dónde la obtuvimos, para qué la guardamos y con quién la compartimos regularmente.
+2.  **Corregir tus datos:** Pedir que modifiquemos tu información si está incorrecta o desactualizada.
+3.  **Eliminar tus datos:** Solicitar que borremos tu información, si es legalmente posible hacerlo (hay casos donde la ley nos obliga a mantenerla).
+4.  **Información sobre nuestras bases de datos:** Preguntar sobre las bases de datos que manejamos, por qué existen, qué tipo de datos guardan y a quiénes incluyen.
+
+**¿Cómo ejercer tus derechos?**
+
+*   Puedes usar las opciones de configuración o actualización de datos en nuestras páginas web (si existen).
+*   También puedes contactarnos a través de los canales indicados en la sección "Cómo Contactarnos".
+*   **Importante:** Te pediremos que compruebes tu identidad antes de entregarte información o hacer cambios, para asegurarnos de que eres tú y proteger tu privacidad.
+
+---
+
+**6. Cómo Contactarnos**
+
+Si tienes más preguntas sobre esta política, necesitas más información o quieres ejercer tus derechos sobre tus datos personales, puedes contactarnos a través de:
+
+*   Nuestra **Mesa de Ayuda**.
+*   Realizando una **Solicitud de Transparencia** a través de los canales oficiales.
+
+---
+
+**7. Actualizaciones a esta Política**
+
+*   Podemos actualizar esta política de vez en cuando para reflejar cambios en cómo manejamos tu información o cambios en la ley.
+*   Si hacemos cambios importantes, te avisaremos de forma clara en nuestros sitios web.
+*   Te recomendamos revisar esta política periódicamente para estar al tanto de cómo protegemos tu información.

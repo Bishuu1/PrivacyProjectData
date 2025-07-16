@@ -1,0 +1,158 @@
+**POLÍTICA SIMPLIFICADA: Política de Privacidad de WhatsApp para Chile**
+
+**Fecha de última actualización:** 4 de enero de 2021
+
+**Propósito:** Aquí te explicamos de forma clara cómo obtenemos, usamos y cuidamos tu información personal cuando usas WhatsApp en Chile. Queremos que entiendas qué pasa con tus datos y cómo protegemos tu privacidad.
+
+**¿Quién te entrega el servicio en Chile?**
+Como vives fuera de Europa o Reino Unido, la empresa **WhatsApp LLC** ("WhatsApp" o "nosotros") te entrega nuestros Servicios. Esta política explica nuestras prácticas con tu información.
+
+---
+
+**1. Cambios Importantes en esta Política**
+
+Siempre hemos respetado tu privacidad. Esta versión actualizada explica con más detalle:
+
+*   **Cómo usamos tus datos:** Más información sobre las funciones nuevas y cómo manejamos tu información para mantenerla segura.
+*   **Comunicación con empresas:** Cómo trabajamos con negocios que usan WhatsApp para hablar contigo (a veces usan a Meta u otras empresas para guardar y manejar mensajes).
+*   **Conexión con Meta:** Como somos parte de las empresas de Meta (la dueña de Facebook e Instagram), explicamos cómo nos conectamos y compartimos información con ellos para ofrecerte mejores experiencias.
+
+---
+
+**2. ¿Qué Información Obtenemos?**
+
+Para que WhatsApp funcione bien y podamos ofrecerte, mejorar y personalizar nuestros servicios, necesitamos obtener cierta información tuya.
+
+El tipo de información depende de cómo uses WhatsApp. Hay datos *obligatorios* para usar el servicio (como tu número de teléfono para crear la cuenta) y datos *opcionales* para funciones extras (como tu ubicación si quieres compartirla). Siempre te avisaremos si una función necesita datos adicionales y tú decides si la usas o no. Puedes controlar los permisos en los ajustes de tu celular.
+
+**Información que Tú Nos Das:**
+
+*   **Tu Cuenta:**
+    *   **Obligatorio:** Tu número de celular y un nombre de perfil que elijas. Sin esto, no puedes crear una cuenta.
+    *   **Opcional:** Puedes agregar una foto de perfil e información "Info." sobre ti.
+*   **Tus Mensajes:**
+    *   **Normalmente NO los guardamos:** Tus mensajes se guardan en tu celular, no en nuestros servidores, una vez entregados.
+    *   **Cifrado de Extremo a Extremo:** Tus chats están protegidos. Significa que solo tú y la persona con quien hablas pueden leerlos. Ni WhatsApp ni nadie más puede hacerlo.
+    *   **Excepciones (Guardamos mensajes temporalmente):**
+        *   **Mensajes no entregados:** Si el destinatario está desconectado, guardamos el mensaje cifrado hasta 30 días para intentar entregarlo. Luego lo borramos.
+        *   **Reenvío de archivos:** Si reenvías una foto o video, lo guardamos temporalmente cifrado para que otros reenvíos sean más rápidos.
+*   **Tus Contactos:**
+    *   Puedes elegir subir los números de tu agenda de contactos (si las leyes lo permiten). Nosotros gestionamos esta información cuidando la privacidad de quienes aún no usan WhatsApp.
+    *   La información de los grupos y listas de difusión a los que te unes (nombre, foto, descripción) se asocia a tu cuenta.
+*   **Tu Estado:** Si decides poner un estado, nos das esa información.
+*   **Pagos y Compras:** Si usas funciones de pago o compras (si están disponibles en Chile), procesaremos información de la transacción (método de pago, envío, monto). Revisa la política de privacidad específica para pagos si usas esa función.
+*   **Soporte Técnico:** Si nos contactas por ayuda, podrías darnos información sobre tu uso del servicio, copias de mensajes o tu email para responderte.
+
+**Información que Obtenemos Automáticamente:**
+
+*   **Uso y Registros:** Recopilamos cómo usas WhatsApp: qué funciones usas (mensajes, llamadas, estados, grupos), tus ajustes, con quién interactúas (incluyendo empresas), cuánto tiempo y cuándo usas la app. También guardamos registros de errores y rendimiento. Sabemos cuándo te registraste, si estás "en línea" y cuándo fue tu "últ. vez".
+*   **Tu Dispositivo y Conexión:** Recopilamos datos de tu celular o computador: modelo, sistema operativo, nivel de batería, señal, versión de la app, navegador, red móvil, operador, idioma, zona horaria, tu dirección IP (un número que identifica tu conexión a internet) e identificadores únicos de tu dispositivo (especialmente los relacionados con otros productos de Meta).
+*   **Tu Ubicación:**
+    *   **Precisa:** Solo si nos das permiso, recogemos tu ubicación exacta para funciones como compartir ubicación o ver lugares cercanos. Puedes controlar esto en los ajustes de tu celular o la app.
+    *   **General:** Aunque no compartas tu ubicación exacta, usamos tu IP y el código de área de tu número para estimar tu ubicación general (ej. ciudad, país), principalmente para diagnóstico y solución de problemas.
+*   **Cookies:** Usamos pequeños archivos (cookies) para que WhatsApp funcione (especialmente en la web y escritorio), mejorar tu experiencia, entender cómo se usa la app y personalizarla (ej. recordar tu idioma).
+
+**Información que Recibimos de Otros (Terceros):**
+
+*   **Otros Usuarios:** Podemos recibir información sobre ti de otros usuarios. Por ejemplo, si un amigo tiene tu número en su agenda y usa WhatsApp, o si te envían mensajes o te llaman. Exigimos que tengan derecho legal para compartir esa información. *¡Ojo! Cualquier persona puede sacar pantallazos de tus chats o grabar llamadas y compartirlos.*
+*   **Reportes de Usuarios:** Si tú reportas a alguien, o alguien te reporta a ti o reporta alguna interacción, recibimos información de ambas partes para investigar posibles problemas o incumplimientos de nuestras normas.
+*   **Empresas en WhatsApp:** Los negocios con los que hablas pueden darnos información sobre sus interacciones contigo. Les pedimos que cumplan la ley al hacerlo. *Recuerda: lo que compartes con una empresa puede ser visto por varias personas allí, y a veces usan proveedores externos (incluido Meta) para gestionar sus mensajes.* Revisa la política de privacidad de la empresa si tienes dudas.
+*   **Proveedores de Servicios:** Trabajamos con otras empresas (incluidas otras empresas de Meta) que nos ayudan a operar WhatsApp: infraestructura técnica, entrega de mensajes, seguridad, análisis de uso, soporte al cliente, procesamiento de pagos, etc. Estas empresas pueden darnos información sobre ti (ej. tiendas de apps nos informan de errores).
+*   **Otros Servicios:** Si usas WhatsApp conectado a otros servicios (ej. si usas el botón de compartir de WhatsApp en una página de noticias, o haces una copia de seguridad en Google Drive/iCloud), esos servicios pueden recibir información tuya (como tus mensajes en el caso de la copia de seguridad) o nosotros podemos recibir información de ellos. Si usas servicios de terceros, aplican sus propias políticas de privacidad.
+
+---
+
+**3. ¿Cómo Usamos Tu Información?**
+
+Usamos la información que tenemos para:
+
+*   **Hacer funcionar y mejorar WhatsApp:** Darte soporte, completar compras, arreglar problemas, personalizar tu experiencia, entender cómo se usa el servicio, investigar y desarrollar nuevas funciones, y conectarte con otros productos de Meta si los usas. También la usamos para responderte cuando nos contactas.
+*   **Mantener la Seguridad:** Verificar cuentas, combatir el spam y conductas dañinas, proteger a los usuarios, investigar actividades sospechosas o violaciones de nuestras condiciones, y asegurarnos que WhatsApp se use legalmente.
+*   **Comunicarnos Contigo:** Enviarte mensajes sobre el servicio, informarte de cambios en nuestras políticas o condiciones, y enviarte novedades importantes. Podríamos enviarte marketing sobre nuestros servicios o los de las empresas de Meta.
+*   **Sin Anuncios de Terceros (Por Ahora):** Actualmente **no** mostramos anuncios de otras empresas en WhatsApp. Si esto cambia en el futuro, actualizaremos esta política.
+*   **Interacciones con Empresas:** Permitirte hablar con negocios (ver catálogos, hacer pedidos). Las empresas pueden enviarte notificaciones útiles (estado de vuelo, recibos, etc.) u ofertas. Queremos evitar el spam, así que puedes administrar estas comunicaciones.
+
+---
+
+**4. ¿Cómo y Con Quién Compartimos Tu Información?**
+
+Tú compartes información al usar WhatsApp. Nosotros también compartimos información para que el servicio funcione y mejore.
+
+*   **Con Quién Eliges Comunicarte:** Compartes tu información (mensajes, fotos, etc.) con los contactos y grupos que tú eliges.
+*   **Información de tu Cuenta:** Tu número, nombre de perfil, foto, info., estado "últ. vez" y confirmaciones de lectura pueden estar visibles para otros usuarios. Puedes ajustar en la configuración quién ve qué (ej. tu foto, "últ. vez").
+*   **Tus Contactos y Otros:** Las personas (y empresas) con las que hablas pueden guardar o compartir tu información (tu número, tus mensajes) con otros, dentro o fuera de WhatsApp. Puedes usar los ajustes y la función de bloquear para controlar con quién te comunicas.
+*   **Empresas en WhatsApp:** Ofrecemos a las empresas herramientas como estadísticas sobre cómo usan nuestros servicios.
+*   **Proveedores de Servicios (Terceros):** Compartimos información con empresas que nos ayudan a operar y mejorar WhatsApp (infraestructura, soporte, seguridad, análisis, etc., incluidas otras empresas de Meta). Les exigimos que usen tu información solo siguiendo nuestras instrucciones.
+*   **Otros Servicios:** Si usas servicios de terceros conectados a WhatsApp (ej. copias de seguridad, reproductores de video dentro de la app), esos servicios pueden recibir información tuya (ej. tus mensajes, tu dirección IP, que eres usuario de WhatsApp). Recuerda que aplican sus propias políticas.
+
+---
+
+**5. ¿Cómo Trabajamos con Otras Empresas de Meta?**
+
+WhatsApp es parte de la familia de empresas de Meta. Recibimos información de ellas y compartimos información con ellas para:
+
+*   Mejorar la infraestructura y la entrega de servicios.
+*   Entender cómo se usan nuestros servicios y los de ellos.
+*   Promover la seguridad y protección en todos los productos de Meta (combatir spam, abusos, etc.).
+*   Mejorar sus servicios y tu experiencia: darte sugerencias (amigos, contenido), personalizar funciones, ayudarte con compras, mostrarte ofertas y anuncios relevantes *en otros productos de Meta*.
+*   Ofrecer integraciones: permitirte conectar tu cuenta de WhatsApp con otros servicios de Meta (ej. pagar con Facebook Pay, chatear desde Portal).
+
+Puedes leer más sobre las prácticas de privacidad de las otras empresas de Meta en sus propias políticas.
+
+---
+
+**6. ¿Qué Pasa si WhatsApp Cambia de Dueño?**
+
+Si WhatsApp participa en una fusión, venta, quiebra o reestructuración, compartiremos tu información con la nueva empresa o dueños, siempre cumpliendo con las leyes de protección de datos aplicables.
+
+---
+
+**7. Cómo Administrar y Conservar Tu Información**
+
+Tú tienes control sobre tu información:
+
+*   **Acceder o Llevarte tu Información (Portabilidad):** Puedes usar la opción "Solicitar info. de mi cuenta" en Ajustes > Cuenta dentro de la app.
+*   **Cuánto Tiempo Guardamos tu Información:** Guardamos tu información solo el tiempo necesario para los fines descritos en esta política (ofrecer el servicio, cumplir obligaciones legales, proteger nuestros derechos). El tiempo exacto depende del tipo de información y por qué la necesitamos.
+*   **Herramientas para Administrar tu Información:**
+    *   **Ajustes de la App:** Puedes cambiar quién ve tu "últ. vez", foto de perfil, info., estado, y confirmaciones de lectura. Puedes administrar tus contactos, grupos, listas de difusión y usar la función de "Bloquear".
+    *   **Cambiar tus Datos:** Puedes actualizar tu número de celular usando la función "Cambiar número". También puedes cambiar tu nombre, foto e info. cuando quieras.
+    *   **Eliminar tu Cuenta:** Puedes borrar tu cuenta de WhatsApp en cualquier momento desde la app (Ajustes > Cuenta > Eliminar mi cuenta).
+        *   **¿Qué pasa al eliminarla?** Se borran tus mensajes pendientes de entrega, tu información de cuenta (foto, nombre), te sales de todos los grupos y se elimina tu historial de mensajes en tu copia de seguridad de WhatsApp.
+        *   **Importante:** Eliminar la app de tu celular **no** es lo mismo que eliminar tu cuenta (guardaríamos tu info más tiempo). Borrar tu cuenta no afecta la información que otros usuarios tienen sobre ti (como copias de los mensajes que les enviaste).
+
+---
+
+**8. Leyes, Nuestros Derechos y Protección**
+
+Podemos acceder, guardar y compartir tu información si creemos de buena fe que es necesario para:
+
+*   Responder a solicitudes legales (leyes, regulaciones, procesos judiciales, peticiones del gobierno).
+*   Hacer cumplir nuestras Condiciones y otras políticas (investigar posibles violaciones).
+*   Detectar, investigar, prevenir o abordar fraudes, actividades ilegales o problemas de seguridad.
+*   Proteger los derechos, propiedad o seguridad de nuestros usuarios, de WhatsApp, de Meta o de otras personas (incluyendo prevenir daños graves o muerte).
+
+---
+
+**9. Nuestras Operaciones Internacionales (Transferencia de Datos)**
+
+WhatsApp comparte información a nivel mundial: internamente con las empresas de Meta y externamente con nuestros socios y proveedores, y con las personas con las que te comunicas.
+
+Tu información puede ser transferida y almacenada en otros países fuera de Chile, como Estados Unidos, donde están nuestros centros de datos y los de Meta. Estas transferencias son necesarias para darte el servicio globalmente. Ten en cuenta que las leyes de protección de datos en esos países pueden ser diferentes a las de Chile.
+
+---
+
+**10. Actualizaciones de esta Política**
+
+Podemos cambiar o actualizar esta Política de Privacidad. Te avisaremos si los cambios son importantes y siempre actualizaremos la fecha de "última actualización" al inicio. Te recomendamos revisar esta política de vez en cuando.
+
+---
+
+**11. ¿Tienes Preguntas? Contáctanos**
+
+Si tienes dudas sobre esta Política de Privacidad, puedes escribirnos a:
+
+WhatsApp LLC
+Privacy Policy
+1601 Willow Road
+Menlo Park, California 94025
+Estados Unidos de América

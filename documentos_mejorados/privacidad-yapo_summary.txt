@@ -1,0 +1,83 @@
+POLÍTICA SIMPLIFICADA:
+
+**Título:** Política de Privacidad Simplificada de Yapo.cl
+
+**Fecha de última actualización:** 2 de marzo de 2025
+
+**Propósito:** Te explicamos de forma simple cómo cuidamos tu información personal cuando usas Yapo.cl. Queremos que sepas qué datos recopilamos, para qué los usamos y cómo los protegemos.
+
+**1. ¿Qué Información Recopilamos y Para Qué?**
+
+Cuando usas Yapo.cl, recopilamos información de dos maneras principales:
+
+*   **Automáticamente:** Mientras navegas, registramos datos técnicos como:
+    *   La dirección de internet (URL) desde donde llegaste a Yapo.cl.
+    *   Tu dirección IP (un número único para tu conexión a internet).
+    *   El tipo de navegador que usas (ej. Chrome, Firefox).
+    *   El día y la hora en que accedes.
+    *   Esta información nos ayuda a entender cómo se usa nuestro sitio y mejorar tu experiencia. No te identifica personalmente y usualmente la borramos después de 24 meses.
+
+*   **Cuando te Registras o Interactúas:** Si decides registrarte o usar ciertas funciones, te pediremos información como:
+    *   Tu nombre.
+    *   Tu número de teléfono.
+    *   Tu correo electrónico.
+    *   Tu domicilio.
+    *   Si eres un usuario profesional (ej. una tienda), también tu RUT.
+    *   **Importante:** Solo recopilamos esta información personal si tú nos das tu permiso claro y directo (autorización explícita).
+
+**¿Para qué usamos tus datos?**
+
+*   **Para identificarte:** Así podemos conectarte con otros usuarios interesados en tus avisos o productos.
+*   **Para darte nuestros servicios:** Usamos tu información para que puedas publicar, buscar y gestionar tus avisos en Yapo.cl.
+*   **Para mejorar tu experiencia:** Usamos "cookies" (pequeños archivos guardados en tu dispositivo) para que el sitio sea más fácil de usar. Por ejemplo, para recordar tus avisos favoritos o ayudarte a publicar más rápido.
+
+**Compartir información dentro de nuestro grupo:**
+
+*   Podemos compartir tu información con otras empresas de nuestro grupo corporativo (Frontier Digital Ventures) si es necesario para ofrecerte nuestros servicios, siempre manteniendo la misma protección y finalidad aquí descrita.
+
+**2. ¿Cómo Protegemos tu Información? (Seguridad)**
+
+*   **Tecnología Segura:** Usamos sistemas de seguridad como la encriptación SSL para proteger la información que nos envías voluntariamente a través de Yapo.cl.
+*   **Almacenamiento Seguro:** Guardamos tu información en servidores seguros.
+*   **Control:** Tenemos medidas para prevenir la pérdida, mal uso, alteración o entrega no autorizada de tus datos.
+
+**3. Mantenemos tus Datos Correctos (Calidad)**
+
+*   Nos esforzamos para que la información personal que recopilamos y usamos sea correcta, completa y adecuada para los fines que te hemos explicado.
+
+**4. ¿Con Quién Podríamos Compartir tu Información? (Publicación e Intercambio)**
+
+Al aceptar esta política, nos autorizas a compartir tu información en situaciones específicas:
+
+*   **Con Empresas Relacionadas:** Podemos compartir tus datos con empresas afiliadas o relacionadas a Yapo.cl, pero solo para los mismos fines que te explicamos aquí (por ejemplo, para ofrecerte servicios relacionados).
+*   **Con Autoridades (Si la Ley lo Requiere):** Podemos entregar tu información a autoridades como el Ministerio Público, Tribunales, Policía de Investigaciones u otras, si nos lo solicitan legalmente (por ejemplo, en el marco de una investigación o por razones de interés público). Siempre lo haremos respetando la Ley 19.628 sobre Protección a la Vida Privada y otras leyes aplicables en Chile.
+
+**5. Publicidad y Correos Electrónicos**
+
+*   Al aceptar nuestros Términos y Condiciones y esta Política de Privacidad, también aceptas recibir correos electrónicos con información comercial y publicidad de Yapo.cl.
+*   Esto puede incluir novedades, ofertas y promociones sobre nuestros productos y servicios.
+*   Podríamos contratar a proveedores externos para que nos ayuden a enviar estos correos, pero ellos solo podrán usar tus datos para esta finalidad específica.
+*   **Tú decides:** Puedes pedirnos dejar de recibir estos correos en cualquier momento (ver sección "Tus Derechos").
+
+**6. Tus Derechos: Controla tu Información**
+
+Tú tienes derechos sobre tus datos personales. Puedes:
+
+*   **Verificar (Acceder):** Revisar qué datos personales tenemos sobre ti.
+*   **Corregir (Rectificar):** Pedirnos que corrijamos información incorrecta o incompleta.
+*   **Eliminar (Cancelar):** Solicitar que borremos tus datos personales de nuestros registros.
+*   **Oponerte al uso para publicidad:** Pedirnos que dejemos de enviarte correos publicitarios.
+
+**¿Cómo ejercer tus derechos?**
+
+*   Envíanos un correo electrónico a **soporte@yapo.cl** con tu solicitud.
+*   Te confirmaremos que recibimos tu petición y te informaremos cuando hayamos realizado la acción solicitada (verificación, corrección o eliminación).
+
+**7. Cambios a esta Política de Privacidad**
+
+*   Podemos modificar esta Política de Privacidad en el futuro. Esto podría ser para adaptarnos a cambios en la ley, nuevas prácticas de la industria o cambios internos en Yapo.cl.
+*   Te informaremos sobre cualquier cambio importante de la misma manera que te notificamos los cambios en nuestros Términos y Condiciones de uso.
+
+**8. ¿Tienes Dudas? (Consultas)**
+
+*   Si tienes alguna pregunta sobre esta Política de Privacidad o cómo manejamos tus datos en Yapo.cl, por favor contáctanos escribiendo a **soporte@yapo.cl**.
