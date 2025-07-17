@@ -1,0 +1,74 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE DGNET LTD. (COMPUTRABAJO) CONFORME A LA LEY CHILENA DE PROTECCIÓN DE DATOS PERSONALES**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de DGNET Ltd. para Candidatos o Usuarios Particulares de Computrabajo en Chile detalla:
+*   **Responsable del tratamiento:** DGNET Ltd., con domicilio en Reino Unido, y un formulario de contacto.
+*   **Datos recopilados:** Datos de identificación (nombre, correo, contraseña), datos profesionales (académicos, experiencia, CV), datos de dispositivos y redes (ubicación, IP, cookies).
+*   **Finalidades del tratamiento:** Gestión de servicios de la plataforma (creación de cuenta, contacto con ofertantes, búsqueda de perfil, gestión de CV, recepción de ofertas, mensajería), gestión de suscripciones al blog, mejora de servicios (cookies), publicidad inteligente, envío de boletines, generación de información agregada, prevención de abusos y fraudes, y transferencia a organismos públicos.
+*   **Bases de legitimación:** Ejecución de contrato (para servicios principales), consentimiento (para cookies, publicidad, boletines), interés legítimo (para información agregada y prevención de fraude), y cumplimiento de obligaciones legales (transferencias a autoridades).
+*   **Conservación de datos:** Mientras la cuenta esté activa, sea necesario para prestar servicios, hasta solicitud de supresión, o para cumplir obligaciones legales.
+*   **Destinatarios/Transferencia de datos:** Empresas ofertantes, proveedores de servicios (incluyendo empresas del grupo, algunos pudiendo estar en jurisdicciones distintas), y entidades públicas. Se menciona el consentimiento explícito para transferencias a países sin decisión de adecuación.
+*   **Derechos de los titulares:** Acceso, rectificación, oposición/limitación, supresión y portabilidad. Se indica cómo ejercerlos.
+*   **Baja de comunicaciones:** Mediante enlace en correos.
+*   **Seguridad:** Se menciona una sección de seguridad, aunque el texto proporcionado se corta antes de detallarla.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+Basado en los extractos de la ley proporcionados:
+
+*   ✅ **Art. 11.c) Domicilio postal y medio de contacto:** La política identifica el domicilio postal del responsable (aunque en el extranjero) y proporciona un formulario de contacto como medio para notificar solicitudes. Esto cumple con la exigencia de "domicilio postal, la dirección de correo electrónico, el formulario de contacto o la identificación del medio tecnológico equivalente".
+*   ✅ **Art. 11.d) Categorías de datos, universo de personas, destinatarios, finalidades, base de legitimidad:**
+    *   **Categorías de datos:** Detalladas en la sección "2. DATOS QUE RECOPILAMOS".
+    *   **Universo de personas:** Claramente definido como "Candidato", "Usuario Particular" o "Demandante de Trabajo".
+    *   **Destinatarios:** Especificados en la sección "5. TRANSFERENCIA DE DATOS Y DESTINATARIOS" (empresas ofertantes, proveedores de servicios, entidades públicas).
+    *   **Finalidades:** Detalladas en la sección "3. FINALIDADES Y LEGITIMACIÓN".
+    *   **Base de legitimidad:** Especificada para cada finalidad en la sección "3. FINALIDADES Y LEGITIMACIÓN", incluyendo el consentimiento, ejecución de contrato, interés legítimo y obligación legal.
+    *   **Intereses legítimos:** Se identifican los intereses legítimos para las finalidades 3.6 (generar información agregada) y 3.7 (prevención de abusos y fraudes).
+*   ✅ **Art. 12 y 13 Licitud del tratamiento:** La política establece bases de licitud para sus tratamientos (consentimiento, ejecución de contrato, interés legítimo, cumplimiento de obligaciones legales), lo cual se alinea con los artículos 12 y 13.
+*   ✅ **Art. 14.a) Informar y poner a disposición antecedentes de licitud:** La política en sí misma es un esfuerzo por cumplir esta obligación, detallando finalidades y bases de legitimación.
+*   ✅ **Art. 14.b) Recolección de fuentes lícitas con fines específicos, explícitos y lícitos:** La política describe que los datos se recogen directamente del usuario o con su consentimiento de servicios de terceros, y los fines están detallados.
+*   ✅ **Art. 14 (Responsable sin domicilio en Chile):** Siendo DGNET Ltd. una empresa sin domicilio en Chile, cumple al señalar un "formulario de contacto" como medio para recibir comunicaciones de titulares y de la Agencia (aunque un correo electrónico dedicado podría ser más idóneo para la Agencia).
+*   ✅ **Art. 16 sexies (Datos de geolocalización - parcialmente):** Se informa que se recopilan "datos de ubicación" (tipo de dato). La finalidad y duración se infieren de las finalidades generales y plazos de conservación, y se menciona la posibilidad de compartirlos con terceros (proveedores de servicios).
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+*   ❎ **Art. 11.a) Referencia a la ley y su versión:** La política no menciona explícitamente la Ley N° 21.719 (o la Ley N° 19.628 como marco base que la nueva ley modifica y complementa) ni su versión.
+*   ❎ **Art. 11.b) Individualización del representante legal y encargado de prevención:**
+    *   No se individualiza al representante legal de DGNET Ltd. en Chile, lo cual es relevante si la empresa realiza tratamiento de datos de personas en Chile de forma habitual.
+    *   No se menciona la existencia o identificación de un "encargado de prevención" (Delegado de Protección de Datos).
+*   ❎ **Art. 14.c) Comunicar o ceder información exacta, completa y actual:** Si bien se mencionan los destinatarios, la política no establece explícitamente el compromiso del responsable de asegurar que la información comunicada o cedida sea exacta, completa y actual en el momento de la cesión.
+*   ❎ **Art. 14 bis) Deber de secreto o confidencialidad por parte del responsable:** La política menciona que los "Usuarios Profesionales deben tratar tus datos personales como confidenciales", pero no establece de forma explícita y directa el deber de secreto o confidencialidad de DGNET Ltd. y su personal respecto a los datos que trata, ni la subsistencia de este deber tras la relación.
+*   ❎ **Art. 16 sexies (Datos de geolocalización - parcialmente):** Aunque se menciona la recolección de datos de ubicación:
+    *   No se informa de manera "clara, suficiente y oportuna" la **finalidad específica** del tratamiento de los datos de geolocalización (se infiere de forma general).
+    *   No se detalla la **duración específica** del tratamiento para estos datos.
+    *   No se especifica si los datos de geolocalización se comunicarán o cederán a un tercero para la **prestación de un servicio con valor añadido específico** derivado de la geolocalización.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Incluir Referencia Legal:** Añadir una sección o párrafo que indique que la política se rige y cumple con la Ley N° 21.719 sobre protección de datos personales de Chile (o la Ley N° 19.628 en lo que siga vigente y sea aplicable, con mención a las actualizaciones de la Ley N° 21.719).
+2.  **Identificar Representante Legal y Encargado de Prevención:**
+    *   Si DGNET Ltd. tiene un volumen de tratamiento significativo o sistemático de datos de residentes en Chile, considerar la designación de un representante legal en Chile para efectos de protección de datos e identificarlo en la política.
+    *   Evaluar la necesidad de designar un Encargado de Prevención (DPO) y, en caso de existir, identificarlo en la política.
+3.  **Reforzar Compromiso con la Calidad de Datos en Cesiones:** En la sección "5. TRANSFERENCIA DE DATOS Y DESTINATARIOS", añadir un compromiso explícito de que DGNET Ltd. tomará medidas razonables para asegurar que los datos personales comunicados o cedidos a terceros sean exactos, completos y actuales.
+4.  **Declarar Explícitamente el Deber de Confidencialidad:** Incluir una cláusula específica donde DGNET Ltd. declare su obligación de mantener secreto o confidencialidad sobre los datos personales que trata, extendiendo esta obligación a sus empleados y manifestando que este deber subsiste aún después de concluida la relación con el titular.
+5.  **Detallar Tratamiento de Datos de Geolocalización:**
+    *   En la sección "2. DATOS QUE RECOPILAMOS" o en una subsección específica, detallar las finalidades específicas para las cuales se utilizan los datos de geolocalización (ej. personalización de servicios, ofertas de empleo cercanas, seguridad, etc.).
+    *   Especificar el período de conservación particular para los datos de geolocalización, si es diferente del general, o cómo se aplica el general a estos.
+    *   Si los datos de geolocalización se comparten con terceros para ofrecer servicios con valor añadido basados en la ubicación, describirlo claramente, identificando el tipo de servicio.
+
+**5. Puntuación general de cumplimiento**
+
+*   Art. 11.a) Referencia a la ley: ❎
+*   Art. 11.b) Individualización del responsable (parcialmente), representante legal y encargado de prevención: ❎
+*   Art. 11.c) Domicilio postal y medio de contacto: ✅
+*   Art. 11.d) Categorías, universo, destinatarios, finalidades, base de legitimidad, intereses legítimos: ✅
+*   Art. 12 y 13 Licitud del tratamiento: ✅
+*   Art. 14.a) Informar y poner a disposición antecedentes de licitud: ✅
+*   Art. 14.b) Recolección lícita y fines específicos: ✅
+*   Art. 14.c) Comunicar información exacta, completa y actual: ❎
+*   Art. 14 (Responsable sin domicilio en Chile - contacto): ✅
+*   Art. 14 bis) Deber de secreto o confidencialidad del responsable: ❎
+*   Art. 16 sexies) Datos de geolocalización (información específica): ❎
+
+**6. Puntuación total: 6 / 11 ✅**

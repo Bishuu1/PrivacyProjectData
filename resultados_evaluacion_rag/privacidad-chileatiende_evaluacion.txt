@@ -1,0 +1,78 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DEL INSTITUTO DE PREVISIÓN SOCIAL (PORTAL CHILEATIENDE) FRENTE A LA LEY DE PROTECCIÓN DE DATOS PERSONALES DE CHILE**
+
+**Introducción**
+La presente evaluación analiza la política de privacidad del Instituto de Previsión Social (IPS) para su PORTAL CHILEATIENDE, contrastándola con las disposiciones pertinentes de la legislación chilena sobre protección de datos personales, principalmente enfocada en los extractos proporcionados de la Ley 19.628 (que, según el contexto de la solicitud, se entiende como base para evaluar frente a los principios que recogería la Ley 21.719).
+
+**1. Resumen de los puntos principales de la política de privacidad**
+La política de privacidad del IPS para el PORTAL CHILEATIENDE establece lo siguiente:
+*   **Objetivo:** Garantizar el respeto a la vida privada, la honra y la protección de datos personales, en conformidad con la Ley Nº 19.628.
+*   **Recopilación de Datos:**
+    *   **Mecanismos Automáticos:** Procesos informáticos para generar registros de actividad (patrones de navegación, audiencia) sin identificación personal, usados para mejorar contenidos de forma disociada.
+    *   **Mecanismos Manuales:** Requerimientos formales de datos personales (nombre, domicilio, correo, etc.) para mejorar la calidad de la información y la atención ciudadana.
+*   **Tratamiento de Datos:**
+    *   **Datos Automáticos (disociados):** Podrán ser utilizados para informar a entidades públicas, gubernamentales o terceros sobre patrones de actividad.
+    *   **Datos Personales (manuales):** Tratados para mejorar la calidad de información y atención. Con la aceptación de la política, el usuario autoriza al IPS a:
+        *   Comunicar datos personales a otros organismos del Estado u "otros terceros" con el fin de mejorar la información y atención.
+        *   Comunicar a terceros información estadística elaborada a partir de datos personales disociados.
+    *   **Confidencialidad:** Se mantendrá la confidencialidad y no se transmitirán a terceros, salvo mandato legal u orden judicial.
+*   **Derechos del Titular:**
+    *   Solicitar información sobre los bancos de datos (fundamento, finalidad, tipos de datos, universo).
+    *   Solicitar información sobre sus datos personales (procedencia, destinatario, propósito, destinatarios regulares de transmisiones).
+    *   Solicitar modificación de datos incorrectos o no actualizados.
+    *   Solicitar eliminación o cancelación de datos, si procede.
+*   **Obligaciones del IPS:**
+    *   Deber de confidencialidad (cita múltiples normativas).
+    *   Velar por la confidencialidad, prohibir adulteración o difusión no autorizada.
+    *   La información entregada por el usuario es privada y bajo responsabilidad del IPS.
+    *   Garantizar resguardo e integridad de la información mediante protocolos de ingreso, autenticación y acceso.
+*   **Contacto:** Se proporciona dirección física, teléfono y redes sociales para información adicional.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+Basado en los extractos legales proporcionados:
+*   ✅ **Información sobre licitud y fines (p10.a, p10.b):** La política informa sobre la recopilación de datos y declara fines generales como "mejorar la calidad de información del portal y dar una mejor atención ante consultas de la ciudadanía", lo cual se alinea con las funciones de un órgano público (Art. 20).
+*   ✅ **Recopilación de fuentes lícitas y fines específicos (p10.b):** Se distinguen mecanismos automáticos (datos disociados o para disociar) y manuales (con consentimiento implícito al entregar la información para los fines declarados).
+*   ✅ **Comunicación de información (p10.c):** Se contempla la comunicación a otros organismos del Estado y la posibilidad de que el titular solicite la modificación de datos incorrectos (III.3), lo que indirectamente apunta a la exactitud.
+*   ✅ **Derechos del titular (Art. 4º y p11.f):** La política reconoce el derecho a solicitar información sobre los datos (acceso), su modificación (rectificación) y su eliminación o cancelación (supresión).
+*   ✅ **Tratamiento por órganos públicos (Art. 20):** El tratamiento de datos se declara para el cumplimiento de funciones que se entienden legales y dentro de su competencia. Se menciona la obligación de secreto y confidencialidad.
+*   ✅ **Mención general de seguridad (p11.e):** Aunque no detallado, se menciona que "el IPS ha velado y velará suficientemente por la confidencialidad de la información" y que existen "protocolos necesarios para el correcto tratamiento de la información".
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+*   ❎ **Referencia a legislación desactualizada:** La política se basa explícitamente en la Ley Nº 19.628 de 1999. La evaluación se solicita contra la Ley 21.719, que actualiza y moderniza el marco de protección de datos. La política no refleja los estándares y requisitos de esta nueva ley (o de las modificaciones intermedias relevantes).
+*   ❎ **Derechos del titular incompletos (Art. 4º y p11.f):**
+    *   No se menciona explícitamente el derecho de **oposición** al tratamiento de los datos.
+    *   No se menciona explícitamente el derecho a la **portabilidad** de los datos.
+    *   Aunque el Art. 4º de la ley menciona el derecho de **bloqueo**, la política solo habla de "eliminación o cancelación".
+*   ❎ **Información sobre el derecho a recurrir ante la Agencia (p11.g):** La política no informa al titular sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales en caso de que el responsable rechace o no responda oportunamente sus solicitudes.
+*   ❎ **Detalle de la política y medidas de seguridad (p11.e):** La ley requiere informar sobre "La política y las medidas de seguridad adoptadas para proteger las bases de datos". La política del IPS hace menciones genéricas a la confidencialidad y a "protocolos", pero no describe la política de seguridad ni las medidas técnicas y organizativas concretas implementadas.
+*   ❎ **Información sobre transferencias internacionales (p11.h):** No se informa si se realizan transferencias de datos personales a terceros países u organizaciones internacionales, ni sobre el nivel de protección o las garantías existentes en caso de realizarse. Si no se realizan, sería buena práctica indicarlo.
+*   ❎ **Consentimiento para cesión a "otros terceros":** La política establece que al aceptarla, el usuario autoriza al IPS a "Comunicar a otros organismos del Estado u otros terceros sus datos personales con el único objetivo de mejorar la calidad de información del portal y dar una mejor atención ante consultas de la ciudadanía". La cesión a "otros terceros" (no especificados) basada en una aceptación genérica de la política y para un fin tan amplio, podría no cumplir con los requisitos de consentimiento específico, informado e inequívoco que exige la nueva normativa para cada finalidad particular, especialmente si estos "terceros" no son órganos públicos actuando en el marco de sus competencias.
+*   ❎ **Información sobre la base de licitud para cada tratamiento (p10.a, p11.d):** Si bien se mencionan fines generales, no se detallan las bases de licitud específicas para cada tipo de tratamiento o cesión, especialmente si se invocan intereses legítimos (no aplica directamente a órganos públicos que actúan por competencia legal, pero sí para la claridad hacia el titular).
+*   ❎ **Plazos de conservación:** No se informa sobre los plazos durante los cuales los datos personales serán conservados o los criterios utilizados para determinar ese plazo.
+*   ❎ **Procedimiento detallado para ejercer derechos:** Si bien se enumeran algunos derechos, no se detalla el procedimiento específico que el titular debe seguir para ejercerlos ante el IPS (canales específicos para solicitudes ARCOPOL, plazos de respuesta del IPS, etc.).
+
+**4. Recomendaciones para mejorar el cumplimiento**
+1.  **Actualizar la Referencia Legal:** Modificar la política para que se fundamente y cumpla con la Ley 21.719 (y/o la normativa vigente que la reemplace o complemente), eliminando la referencia exclusiva a la Ley 19.628.
+2.  **Completar los Derechos del Titular:** Incluir explícitamente los derechos de oposición, portabilidad y bloqueo, detallando cómo pueden ejercerse.
+3.  **Informar sobre Recurso a la Agencia:** Añadir una sección que informe al titular sobre su derecho a recurrir a la Agencia de Protección de Datos Personales.
+4.  **Detallar Medidas de Seguridad:** Describir de forma más concreta la política de seguridad y las principales medidas técnicas y organizativas adoptadas para la protección de los datos.
+5.  **Clarificar Transferencias Internacionales:** Especificar si se realizan transferencias internacionales de datos. En caso afirmativo, informar sobre el país u organización, el nivel de adecuación y/o las garantías adoptadas. Si no se realizan, indicarlo.
+6.  **Revisar Consentimiento para Cesiones:** Para la cesión de datos a "otros terceros" (que no sean organismos públicos en ejercicio de sus competencias), obtener un consentimiento específico, informado e inequívoco para cada finalidad, o identificar claramente otra base de licitud válida. Evitar autorizaciones genéricas.
+7.  **Especificar Bases de Licitud:** Para cada tratamiento significativo, especialmente cesiones, indicar la base de licitud que lo ampara (consentimiento, obligación legal, ejercicio de potestades públicas, etc.).
+8.  **Establecer Plazos de Conservación:** Definir y comunicar los plazos de conservación de los datos personales o los criterios para su determinación.
+9.  **Detallar Procedimiento de Ejercicio de Derechos:** Establecer un procedimiento claro y accesible para que los titulares ejerzan sus derechos, incluyendo canales de contacto específicos para estas solicitudes y los plazos de respuesta.
+10. **Designar un Delegado de Protección de Datos (DPD):** Considerar la designación de un DPD y publicar sus datos de contacto, figura clave en la nueva regulación para supervisar el cumplimiento y servir de enlace.
+
+**5. Puntuación general de cumplimiento (basado en los extractos legales proporcionados)**
+*   Referencia a legislación vigente y principios actualizados: ❎
+*   Información al titular sobre el tratamiento (p10.a, p10.b, p11.e, p11.h): ❎ (parcialmente cubierta, pero con omisiones importantes como seguridad detallada y transferencias internacionales)
+*   Derechos del titular y cómo ejercerlos (Art. 4º, p11.f, p11.g): ❎ (incompletos y falta información sobre recurso a la Agencia)
+*   Obligaciones del responsable (p10.a-e): ✅ (cumple en aspectos generales como fines e información básica, pero débil en especificidad y actualización)
+*   Tratamiento por órganos públicos (Art. 20): ✅ (los fines declarados se enmarcan en funciones públicas)
+*   Mecanismos de seguridad (descripción detallada según p11.e): ❎
+*   Consentimiento y licitud para cesiones a "otros terceros": ❎
+
+**6. Puntuación total**
+✅✅ (2 de 7 secciones evaluadas como cumpliendo principalmente con los aspectos básicos de los extractos proporcionados, aunque con las salvedades indicadas).
+
+**Conclusión Final**
+La política de privacidad del IPS para el PORTAL CHILEATIENDE establece una base en cuanto a la protección de datos, reconociendo algunos derechos y obligaciones fundamentales. Sin embargo, su principal deficiencia radica en estar anclada a la Ley 19.628, que ha sido superada por normativas más recientes y exigentes como la Ley 21.719. Esto se traduce en la omisión de derechos, información crucial para el titular (como el recurso a la Agencia o detalles de seguridad) y mecanismos de consentimiento que podrían no ser adecuados bajo el nuevo estándar. Se requieren actualizaciones significativas para alinearla plenamente con el marco legal vigente en Chile.

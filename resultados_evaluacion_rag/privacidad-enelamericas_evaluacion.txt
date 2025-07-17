@@ -1,0 +1,96 @@
+**EVALUACIÓN DE POLÍTICA DE PRIVACIDAD FRENTE A LA LEY CHILENA**
+
+**Introducción**
+
+La presente evaluación analiza la política de privacidad de Enel Américas S.A. (en adelante, "la Política") con fecha 2/3/25, en relación con las disposiciones pertinentes de la Ley sobre Protección de Datos Personales de Chile (principalmente basada en los extractos proporcionados de la Ley 19.628, que es la ley actualmente vigente hasta la plena entrada en vigor de la Ley 21.719, aunque el requerimiento menciona esta última). Se asume que los artículos proporcionados son los relevantes para este análisis específico.
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad**
+
+La Política de Enel Américas S.A. establece lo siguiente:
+*   **Responsable y DPO:** Identifica a Enel Américas S.A. como Responsable de la Protección de Datos Personales (RPD) y designa un Oficial de Protección de Datos Personales (DPO) con un correo de contacto.
+*   **Tipos de Datos:** Detalla las categorías de datos personales tratados (identificación, navegación, consumo, pago, contacto, datos adquiridos por servicio al cliente). Menciona el posible enriquecimiento con fuentes públicas.
+*   **Modalidades de Tratamiento:** Indica que el tratamiento será manual y/o mediante medios informáticos o telemáticos.
+*   **Finalidades y Bases Jurídicas:** Enumera diversas finalidades para el tratamiento de datos, asociando a cada una una base jurídica, principalmente "Consentimiento del interesado" y "Obligación Legal".
+*   **Destinatarios:** Señala que los datos pueden ser accedidos por empleados, empresas del Grupo Enel, terceros subcontratados (encargados), y cedidos a empresas del grupo o socios comerciales (con consentimiento para marketing) y autoridades públicas (por obligación legal).
+*   **Transferencia de Datos:** Indica que los datos se tratarán en Chile, pudiendo ser tratados y almacenados en la Unión Europea (UE) o fuera de la UE bajo ciertas garantías (decisión de adecuación, BCRs, cláusulas contractuales estándar) o con consentimiento explícito.
+*   **Período de Conservación:** Establece que los datos se conservarán según los principios de proporcionalidad y necesidad, y por 10 años tras la finalización de una relación contractual, salvo obligaciones legales.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley**
+
+Basado en los artículos proporcionados:
+
+*   ✅ **Artículo 4 letra a) (parcialmente):**
+    *   Se informa la existencia de tratamiento de datos personales (implícito en toda la política).
+    *   Se identifican las finalidades del tratamiento (Sección 3.2).
+    *   Se identifica al responsable del tratamiento (Sección 1.1).
+*   ✅ **Artículo 4 letra b) (parcialmente):**
+    *   Se individualiza al responsable de datos: Enel Américas S.A., Rut: N° 94.271.000-3, domicilio: Avenida Santa Rosa 76, piso 17 comuna de Santiago; teléfono: 562 23534400 (Sección 1.1).
+    *   Se identifica un Oficial de Protección de Datos Personales (DPO), asimilable al "encargado de prevención" (Sección 1.2).
+*   ✅ **Artículo 4 letra c):**
+    *   Se proporciona el domicilio postal (Sección 1.1).
+    *   Se proporciona una dirección de correo electrónico (dpo.chile@enel.com) que puede servir como medio para notificar solicitudes de los titulares (Sección 1.2).
+*   ✅ **Artículo 4 letra d) (parcialmente):**
+    *   Se especifican las categorías, clases o tipos de datos que trata (Sección 2.1).
+    *   Se identifican los destinatarios a los que se prevé comunicar o ceder los datos (Sección 4).
+    *   Se detallan las finalidades de los tratamientos (Sección 3.2).
+    *   Se indica la base de legitimidad para cada tratamiento (Sección 3.2, aunque con observaciones).
+*   ✅ **Artículo 13 (parcialmente):**
+    *   La política basa varios tratamientos en el consentimiento del titular (Art. 13.a) y en la obligación legal (Art. 13.b).
+    *   Menciona la ejecución de contratos y medidas precontractuales (Sección 3.3), aunque la tabla de finalidades (3.2) podría ser más precisa al asignar estas bases.
+*   ✅ **Artículo 14 letra b):**
+    *   La política indica que los datos se obtienen legítimamente (Sección 2.1) y se tratan con fines específicos y explícitos (Sección 3.2).
+*   ✅ **Artículo 14 letra d):**
+    *   Se menciona un caso de cancelación de datos obtenidos para medidas precontractuales no completadas (Sección 3.2, "Guardar y continuar").
+*   ✅ **Artículo 15 (parcialmente):**
+    *   Se contempla la cesión de datos con consentimiento del titular para fines de marketing (Sección 4.1.c).
+    *   Se contempla la cesión de datos cuando lo disponga la ley (a autoridades, Sección 4.2).
+*   ✅ **Artículo 3° Principio de finalidad:**
+    *   Los datos son recolectados con fines específicos y explícitos, detallados en la Sección 3.2.
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley o Son Ambiguos**
+
+*   ❎ **Artículo 4 letra b): Falta de individualización del representante legal.**
+    *   La política identifica al responsable de datos (Enel Américas S.A.) y a un DPO, pero no menciona explícitamente al representante legal de Enel Américas S.A.
+*   ❎ **Artículo 4 letra d): Descripción genérica del universo de personas y detalle de intereses legítimos.**
+    *   **Universo de personas:** No se describe de forma genérica el universo de personas que comprenden sus bases de datos (e.g., "clientes", "usuarios del sitio web", "potenciales clientes", etc.). Es muy general.
+    *   **Intereses legítimos:** Aunque el Art. 13.d permite el tratamiento basado en intereses legítimos y la política lo menciona como una posible base jurídica general en la Sección 3.1 ("Enel tratará sus Datos Personales solamente en los casos en que sean válidas una o más de las bases jurídicas siguientes..."), la tabla de finalidades (Sección 3.2) no especifica ningún tratamiento basado en "interés legítimo" ni detalla cuáles serían estos intereses. Si se utilizara esta base, la ley exige que se informe cuáles serían.
+*   ❎ **Artículo 13: Claridad en la base de legitimidad para ejecución contractual.**
+    *   La Sección 3.2 atribuye la finalidad "Ejecutar los contratos firmados con el Responsable..." a la base jurídica de "Obligación Legal". Si bien pueden existir obligaciones legales derivadas de un contrato, la ejecución del contrato en sí misma es una base de legitimación distinta (Art. 13.c "Cuando el tratamiento sea necesario para la ejecución de un contrato en el que el titular es parte o para la ejecución de medidas precontractuales adoptadas a solicitud del titular"). Esta distinción es importante.
+*   ❎ **Terminología Confusa: "Responsable de la Protección de los Datos Personales (RPD)" y "Encargado".**
+    *   La Sección 1.1 se refiere a Enel Américas S.A. como "Responsable de la Protección de los Datos Personales (RPD)". La ley habla de "responsable de datos". "RPD" suele ser la sigla para "Reglamento de Protección de Datos".
+    *   La Sección 2.1 indica "El Encargado procesará y tratará los datos personales... El Encargado será Enel u otra empresa relacionada o no...". Si "Enel" se refiere a Enel Américas S.A. (el Responsable), esta redacción es confusa, ya que el Responsable define los fines y medios, mientras que el Encargado trata datos *por cuenta* del Responsable. Debería clarificarse si Enel Américas S.A. actúa solo como Responsable y quiénes son los Encargados.
+*   ❎ **Artículo 15: Cesión de datos por interés legítimo o ejecución contractual.**
+    *   Si bien la ley permite la cesión por interés legítimo o para la ejecución de un contrato, la política solo menciona explícitamente el consentimiento o la disposición legal como bases para la cesión en la Sección 4. No se detalla si se realizan cesiones bajo estas otras bases permitidas.
+*   ❎ **Artículo 14 letra a): Acreditación de licitud.**
+    *   Si bien la política informa, no detalla explícitamente el mecanismo o la forma en que el titular puede solicitar y obtener los antecedentes que acrediten la licitud del tratamiento, más allá del contacto general con el DPO.
+*   ❎ **Artículo 14 letra c): Garantía de exactitud en la cesión.**
+    *   La política menciona la necesidad de entrega y actualización por parte del titular (3.3), pero no enfatiza la obligación del responsable de asegurar que la información *cedida* sea exacta, completa y actual.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Representante Legal:** Incluir la individualización completa del representante legal de Enel Américas S.A. en la Sección 1.1, conforme al Art. 4.b.
+2.  **Universo de Personas:** En la Sección correspondiente a los datos tratados (o en una nueva), describir de forma genérica el universo de personas cuyas bases de datos se manejan (ej. "clientes activos e inactivos, usuarios registrados en el sitio web, solicitantes de información, etc."), según Art. 4.d.
+3.  **Intereses Legítimos:** Si se utiliza la base de "interés legítimo" para algún tratamiento (Art. 13.d), especificar claramente en la Sección 3.2 para qué finalidades se aplica y cuáles son dichos intereses legítimos, conforme al Art. 4.d. Si no se utiliza, considerar eliminar la mención general para evitar confusión.
+4.  **Clarificar Bases Jurídicas:** Revisar la tabla de finalidades (Sección 3.2) para asegurar que la base jurídica asignada sea la más precisa. Específicamente, distinguir entre "Ejecución de contrato" (Art. 13.c) y "Obligación Legal" (Art. 13.b) cuando corresponda.
+5.  **Terminología:**
+    *   Utilizar "Responsable de datos" o "Responsable del tratamiento" en lugar de "Responsable de la Protección de los Datos Personales (RPD)" para referirse a la entidad.
+    *   Aclarar la figura del "Encargado" en la Sección 2.1, distinguiendo claramente cuándo Enel Américas S.A. es Responsable y quiénes actúan como Encargados por cuenta de ésta.
+6.  **Cesión de Datos:** Si se realizan cesiones basadas en la ejecución de un contrato o en un interés legítimo (Art. 15), indicarlo explícitamente en la Sección 4, detallando las circunstancias.
+7.  **Acreditación de Licitud:** Especificar de manera más clara cómo el titular puede solicitar y obtener la información que acredita la licitud del tratamiento (Art. 14.a), por ejemplo, a través del DPO y los canales de contacto provistos.
+8.  **Exactitud en Cesiones:** Reforzar la obligación del responsable de asegurar que los datos cedidos sean exactos, completos y actuales (Art. 14.c).
+9.  **Derechos de los Titulares:** Aunque no se proporcionaron los artículos específicos sobre derechos ARCO/ARSOP, es fundamental que la política detalle claramente cuáles son los derechos de los titulares (acceso, rectificación, cancelación/supresión, oposición, portabilidad, etc.) y el procedimiento para ejercerlos.
+
+**5. Puntuación General de Cumplimiento (respecto a los artículos proporcionados)**
+
+*   **Artículo 4 letra a) (Existencia, fines, responsable):** ✅
+*   **Artículo 4 letra b) (Individualización responsable, rep. legal, DPO/enc. prevención):** ❎
+*   **Artículo 4 letra c) (Domicilio postal, email/contacto para solicitudes):** ✅
+*   **Artículo 4 letra d) (Categorías, universo, destinatarios, fines, base legitimidad, int. legítimos):** ❎
+*   **Artículo 13 (Licitud del tratamiento):** ❎
+*   **Artículo 14 (Obligaciones del responsable):** ✅ (Cumple parcialmente con varias, pero con brechas en a y c).
+*   **Artículo 15 (Cesión de datos personales):** ✅ (Cumple parcialmente, pero podría ser más exhaustivo).
+*   **Artículo 3° (Principios - Licitud, Finalidad):** ✅
+
+**6. Puntuación Total**
+
+Total de ✅: **5 / 8**

@@ -1,0 +1,69 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE INACAP FRENTE A LA LEY 19.628**
+
+**Nota Preliminar:** La solicitud hace referencia a la Ley 21.719, sin embargo, los extractos legales proporcionados corresponden a la Ley 19.628 sobre Protección de la Vida Privada, que es la normativa actualmente vigente y pertinente en Chile para la protección de datos personales. La Ley 21.719 trata sobre la Transformación Digital del Estado. Por lo tanto, la presente evaluación se realizará con base en los extractos de la Ley 19.628 proporcionados.
+
+**1. Resumen de los puntos principales de la política de privacidad de INACAP**
+
+*   **Responsable y Alcance:** INACAP (Centro de Formación Técnica, Instituto Profesional y Universidad Tecnológica de Chile INACAP) establece términos para el uso de su Sitio Web. Los convenios de intercambio de información con entidades públicas y privadas primarán por especialidad.
+*   **Datos para Análisis Estadístico y Anónimo:** INACAP declara que los datos personales registrados y procesados para análisis estadísticos y anónimos (incluyendo cookies) serán tratados automatizadamente e incorporados a ficheros de su propiedad, no accesibles a terceros.
+*   **Consentimiento y Finalidades:** Los usuarios autorizan a INACAP a procesar sus datos personales (recolectados vía diversos formularios) con el propósito de informarlos y/o contactarlos sobre iniciativas institucionales (Oferta Académica, Admisión, Actividades, Matrícula, etc.).
+*   **Uso Adicional para Estadísticas:** Se autoriza el uso de todos los datos registrados para análisis estadísticos y anónimos, con tratamiento automatizado en ficheros propios no accesibles a terceros.
+*   **Procesamiento Interno:** El procesamiento puede ser realizado por cualquiera de las entidades que conforman INACAP.
+*   **Otros Tratamientos:** Se declara que podrían existir otros tratamientos autorizados por ley o consentimiento.
+*   **Propiedad Intelectual:** Se establecen condiciones sobre la reproducción de información del sitio, declarando INACAP la propiedad de la información y copyright.
+*   **Enlaces Externos:** INACAP no se responsabiliza por sitios externos vinculados.
+*   **Exención de Responsabilidad:** INACAP no asume responsabilidad por la precisión o actualización de la información de terceros reproducida, ni por errores de telecomunicaciones.
+*   **Gratuidad del Servicio:** El servicio de información es gratuito, salvo cobros autorizados por ley.
+*   **Modificación Unilateral de Términos:** INACAP se reserva el derecho a cambiar unilateralmente los términos y condiciones sin notificación expresa, implicando la utilización del sitio la aceptación tácita de dichas modificaciones.
+*   **Información de Contacto:** Se proporciona dirección física, números de teléfono y correo electrónico general.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley (basado en los extractos proporcionados)**
+
+*   ✅ **Identificación del Responsable:** La política identifica a las entidades que componen INACAP como responsables del tratamiento.
+*   ✅ **Finalidades Específicas y Lícitas (parcialmente Art. 10b):** Se declaran finalidades como informar sobre iniciativas institucionales y realizar análisis estadísticos. El uso para fines estadísticos y anónimos se alinea con lo permitido por la ley (página 17 de los extractos, referente a fines históricos, estadísticos, científicos y de investigación).
+*   ✅ **Tratamiento para Fines Estadísticos (Página 17):** La política declara el tratamiento de datos para análisis estadísticos y anónimos, incorporándolos a ficheros propios "no accesibles a terceros", lo cual es un primer paso hacia las medidas de seguridad requeridas, aunque la ley exige "adoptar y acreditar" dichas medidas.
+*   ✅ **Información de Contacto (Art. 34 bis b):** La política proporciona domicilio postal, correo electrónico y teléfono, lo que podría considerarse como un medio para que el titular ejerza sus derechos, cumpliendo con la no comisión de esta infracción leve.
+*   ✅ **Mención a la Ley:** La política hace referencia a la Ley 19.628, indicando un reconocimiento de su aplicabilidad.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley (basado en los extractos proporcionados)**
+
+*   ❎ **Deber de Información y Transparencia (Art. 10a y Art. 14 ter, vía Art. 34 bis a - Infracción Leve):**
+    *   **Derechos de los Titulares:** No se informa explícitamente a los titulares sobre sus derechos de acceso, rectificación, cancelación y oposición (derechos ARCO), ni el procedimiento para ejercerlos. La ley exige "informar y poner a disposición del titular los antecedentes que acrediten la licitud del tratamiento" y "entregar de manera expedita dicha información cuando le sea requerida".
+    *   **Detalle sobre Cookies:** Menciona el uso de cookies pero no proporciona una política de cookies detallada que explique tipos, finalidades específicas de cada una, duración y, fundamentalmente, un mecanismo para gestionar el consentimiento granular para cookies no esenciales.
+    *   **Medidas de Seguridad:** Si bien se menciona que los ficheros para estadísticas "no son accesibles a terceros", no se detallan las "medidas de calidad y seguridad necesarias" que la ley exige adoptar y acreditar (página 17). Para datos sensibles (si se recolectaran, aunque no se especifica), se exige identificar riesgos e implementar medidas de mitigación.
+    *   **Transferencias Internacionales:** No se menciona si se realizan transferencias internacionales de datos. Si ocurrieran sin cumplir las normas, sería una infracción grave (Art. 34 m).
+    *   **Convenios de Intercambio:** Se indica que "los términos de los eventuales convenios de intercambio de información que INACAP celebre con entidades públicas y privadas, los que primarán por especialidad". Esto es preocupante, ya que no se informa al titular sobre la existencia, contenido o implicancias de dichos convenios, ni cómo estos podrían afectar el tratamiento de sus datos o si se requeriría consentimiento adicional.
+*   ❎ **Consentimiento para Modificaciones de la Política:** La cláusula que establece que "INACAP se reserva el derecho a cambiar unilateralmente estos términos y condiciones en cualquier momento, sin necesidad de notificación expresa a los usuarios. La utilización por parte del usuario o el acceso al Sitio INACAP implicará la aceptación tácita de dichas modificaciones" es contraria al principio de consentimiento informado y específico. Cambios sustanciales en la forma de tratar los datos personales, especialmente si implican nuevas finalidades o cesiones, requieren un nuevo consentimiento explícito o, como mínimo, una notificación clara y la oportunidad de oponerse. Podría interpretarse como un incumplimiento del deber de información (Art. 10a) o, en casos graves, destinar datos a una finalidad distinta a la consentida (Art. 34 quáter b - Infracción Gravísima).
+*   ❎ **Supresión o Anonimización (Art. 10d):** No se menciona la obligación de suprimir o anonimizar datos personales obtenidos para la ejecución de medidas precontractuales una vez que estas no prosperan.
+*   ❎ **Acreditación de Medidas de Seguridad (Página 17):** La ley exige que los responsables "deberán adoptar y acreditar que han cumplido con todas las medidas de calidad y seguridad necesarias". La política no ofrece información sobre cómo se acredita este cumplimiento.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Información Completa y Transparente:**
+    *   Incluir una sección detallada sobre los derechos de los titulares (acceso, rectificación, cancelación, oposición – ARCO/ARCOP) y un procedimiento claro y accesible para ejercerlos.
+    *   Desarrollar e implementar una Política de Cookies detallada, informando sobre tipos de cookies, finalidades, duración y ofreciendo un mecanismo de consentimiento granular para cookies no esenciales.
+    *   Especificar las medidas de seguridad técnicas y organizativas implementadas para proteger los datos personales, y cómo se acredita su cumplimiento. Si se tratan datos sensibles, detallar la identificación de riesgos y medidas de mitigación.
+    *   Aclarar si se realizan transferencias internacionales de datos y, en caso afirmativo, bajo qué salvaguardas y en cumplimiento de la ley.
+    *   Proporcionar información transparente sobre los "convenios de intercambio de información", sus implicancias para la privacidad de los datos y cómo se obtiene el consentimiento si es necesario.
+2.  **Gestión del Consentimiento para Cambios:**
+    *   Eliminar la cláusula de modificación unilateral con aceptación tácita. Implementar un procedimiento que asegure que los usuarios sean notificados de cualquier cambio en la política de privacidad y que, para cambios sustanciales, se obtenga un nuevo consentimiento explícito.
+3.  **Retención y Supresión de Datos:**
+    *   Especificar los plazos de conservación de los datos personales para las distintas finalidades.
+    *   Incluir una cláusula sobre la supresión o anonimización de datos obtenidos en fases precontractuales, conforme al Art. 10d.
+4.  **Claridad en las Fuentes y Licitud:**
+    *   Asegurar y declarar que los datos personales se recogen de fuentes de acceso lícitas (Art. 10b).
+5.  **Designación de un Delegado de Protección de Datos (DPD) o Contacto Específico:**
+    *   Considerar la designación de un DPD o, al menos, un punto de contacto específico para consultas y ejercicio de derechos en materia de protección de datos, más allá del contacto general.
+
+**5. Puntuación general de cumplimiento**
+
+*   Información y Transparencia (Art. 10a, 14 ter): ❎
+*   Fines Específicos, Explícitos y Lícitos (Art. 10b): ✅ (con la salvedad de la cláusula de modificación unilateral)
+*   Comunicación y Cesión (Art. 10c): ✅ (para el tratamiento interno y la no cesión de datos estadísticos a terceros; falta claridad sobre otros convenios)
+*   Supresión/Anonimización (Art. 10d): ❎
+*   Seguridad y Calidad (Página 17): ❎
+*   Consentimiento para Cambios en la Política: ❎
+*   Ejercicio de Derechos del Titular: ❎
+*   Información de Contacto para Derechos (Art. 34 bis b): ✅
+
+**6. Puntuación total: 3/8 ✅**

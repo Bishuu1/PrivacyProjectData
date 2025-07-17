@@ -1,0 +1,82 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE BOOKING.COM FRENTE A LA LEY 21.719 DE CHILE**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de Booking.com, con fecha 5 de septiembre de 2024, declara un fuerte compromiso con la protección de los datos personales de sus usuarios. Explica cómo se recopilan, usan y procesan los datos personales a través de sus diversas plataformas (páginas web, apps, sitios de colaboradores, redes sociales).
+
+*   **Datos Recopilados:** Incluyen información básica (nombre, contacto, datos de pago, acompañantes), información adicional del viaje (hora de llegada), datos del dispositivo (IP, navegador, idioma), datos de geolocalización (con consentimiento), información de comunicaciones con servicio al cliente o proveedores, comentarios, datos de cuentas de usuario (configuración, fotos, historial), e información para check-in online (pasaporte, DNI).
+*   **Finalidades Principales:** Gestionar reservas online, asegurar el mejor servicio, contactar al usuario sobre descuentos, ofertas especiales y otros productos/servicios de interés.
+*   **Compartición de Datos:** Con Proveedores de viaje (para completar reservas), instituciones financieras, anunciantes, filiales del grupo Booking.com y Booking Holdings Inc., autoridades gubernamentales (si es requerido por ley). Se detallan colaboraciones específicas para servicios de transporte terrestre (con Rentalcars.com) y seguros.
+*   **Comunicaciones:** Booking.com puede facilitar y procesar comunicaciones entre el usuario y los Proveedores de viaje.
+*   **Dispositivos Móviles:** Se ofrecen apps que recopilan y procesan datos, pudiendo usar servicios de ubicación.
+*   **Redes Sociales:** Integración con redes sociales puede implicar recopilación de datos por Booking.com o por el proveedor de la red social.
+*   **IA y Decisiones Automatizadas:** Se menciona el uso de IA y sistemas de automatización de decisiones para innovar y mejorar servicios.
+*   **Seguridad y Retención:** Se han implementado procedimientos para prevenir acceso no autorizado y mal uso. No se especifica el período de retención en el texto principal.
+*   **Menores de Edad:** El servicio es para mayores de 18 años, o con consentimiento parental/legal si se procesa información de niños.
+*   **Control del Usuario:** Se menciona el derecho a revisar datos, solicitar acceso o supresión mediante un formulario.
+*   **Responsable del Tratamiento:** Booking.com B.V., ubicada en Ámsterdam, Países Bajos.
+*   **Disposiciones Específicas por País:** Se indica que puede haber información adicional según la ley aplicable, pero no se detalla para Chile en el extracto.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley (basado en los extractos proporcionados)**
+
+*   ✅ **Identificación del responsable del tratamiento:** La política identifica claramente a Booking.com B.V. como el responsable del tratamiento de datos. (Cumple con un requisito básico implícito en la ley, aunque no un artículo específico de los proporcionados lo exija textualmente como "información a entregar al titular", es fundamental).
+*   ✅ **Información sobre la fuente de los datos personales (parcialmente):** La política explica que recopila datos directamente del usuario ("Datos personales que nos das") y automáticamente de los dispositivos ("recopilamos información de tu ordenador, tu teléfono, tu tablet"). (Cumple parcialmente con el Art. X.j, aunque no menciona explícitamente si proceden de "fuentes de acceso público").
+*   ✅ **Información sobre la existencia de decisiones automatizadas y elaboración de perfiles (parcialmente):** La política informa sobre el uso de IA y sistemas de automatización de decisiones. (Cumple con la primera parte del Art. X.l, al informar su existencia).
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley (basado en los extractos proporcionados)**
+
+*   ❎ **Información sobre geolocalización (Art. 16 sexies):**
+    *   Si bien se menciona la recopilación de datos de geolocalización ("podrás decidir permitir que Booking.com vea tu ubicación actual"), no se informa de manera clara, suficiente y oportuna sobre:
+        *   La **duración específica** del tratamiento de estos datos de geolocalización.
+        *   Si los datos de geolocalización se **comunicarán o cederán a un tercero para la prestación de un servicio con valor añadido**.
+*   ❎ **Periodo de conservación de los datos personales (Art. X.i):** La política menciona "procedimientos de seguridad y retención" y enlaza a "Leer más", pero el texto principal no especifica "el periodo durante el que se conservarán los datos personales" o los criterios utilizados para determinarlo.
+*   ❎ **Derecho a retirar el consentimiento (Art. X.k):** Aunque se menciona el consentimiento para la geolocalización, la política no informa explícitamente sobre "la existencia del derecho a retirarlo en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo a su retirada".
+*   ❎ **Información sobre decisiones automatizadas y elaboración de perfiles (Art. X.l):** Si bien se menciona su existencia, no se proporciona en el texto principal "información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular". Se remite a un "Leer más".
+*   ❎ **Derecho a la portabilidad de los datos (Art. Y, definición v) y Art. A.f):** La política menciona el derecho a "solicitar el acceso o la supresión", pero no informa explícitamente sobre el derecho del titular a la portabilidad de sus datos, es decir, "recibir los datos personales que le incumban (...) y poder comunicarlos o transferirlos a otro responsable de datos", ni "a que sus datos personales se transmitan directamente de responsable a responsable cuando sea técnicamente posible".
+*   ❎ **Especificación de intereses legítimos (Art. Z, "basan en la satisfacción de intereses legítimos, cuáles serían éstos"):** Si el tratamiento para "informarte de los últimos descuentos y ofertas especiales, así como de otros productos o servicios que podamos considerar de interés para ti" se basa en interés legítimo, la política no lo declara explícitamente como tal ni detalla cuáles serían esos intereses legítimos.
+*   ❎ **Información sobre la política y medidas de seguridad (Art. A.e):** La política menciona que "Hemos implementado una serie de procedimientos para prevenir el acceso no autorizado...", pero remite a "Leer más" en lugar de describir "La política y las medidas de seguridad adoptadas" en el propio documento o de forma más detallada.
+*   ❎ **Información completa sobre los derechos del titular (Art. A.f):** La política menciona el derecho de acceso y supresión. Sin embargo, no informa explícitamente sobre los derechos de **rectificación, oposición y portabilidad** (ya mencionado) en los mismos términos que la ley.
+*   ❎ **Información sobre el derecho a recurrir ante la Agencia (Art. A.g):** La política no informa al titular sobre "El derecho que le asiste de recurrir ante la Agencia, en caso de que el responsable rechace o no responda oportunamente las solicitudes que le formule".
+*   ❎ **Información sobre transferencias internacionales de datos (Art. A.h):** Aunque se indica que el responsable está en Países Bajos (UE, con nivel adecuado), la política menciona la compartición con "filiales del grupo empresarial de Booking.com y las demás sociedades que forman el grupo empresarial Booking Holdings Inc.", que podrían estar en países sin nivel adecuado de protección. La política no detalla:
+    *   Si se realizan transferencias a terceros países u organizaciones internacionales específicas más allá de la UE.
+    *   Si estos ofrecen o no un nivel adecuado de protección.
+    *   En caso de no contar con nivel adecuado, no informa si existen "garantías que justifiquen tal transferencia".
+*   ❎ **Tratamiento de datos relativos a la salud (Art. B "Se prohíbe el tratamiento y la cesión de los datos relativos a la salud..."):** La política indica que se pueden recopilar datos sobre "preferencias de comida o posibles restricciones de movilidad". Las "restricciones de movilidad" pueden considerarse datos relativos a la salud. La política no aborda las condiciones específicas, prohibiciones o excepciones legales para el tratamiento de esta categoría especial de datos según la ley chilena, ni obtiene un consentimiento explícito y específico para ello si fuera necesario.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Geolocalización:** Especificar la duración del tratamiento de datos de geolocalización y si se ceden a terceros para servicios de valor añadido, indicando la finalidad.
+2.  **Periodo de Conservación:** Incluir en el cuerpo principal de la política el periodo exacto de conservación de los datos personales o, en su defecto, los criterios claros y específicos utilizados para determinar dicho plazo para cada categoría de datos y finalidad.
+3.  **Retiro del Consentimiento:** Añadir una cláusula que informe explícitamente al titular de su derecho a retirar el consentimiento en cualquier momento, explicando cómo hacerlo y que la retirada no afectará la licitud del tratamiento previo.
+4.  **Decisiones Automatizadas:** Integrar en el texto principal la información significativa sobre la lógica aplicada en las decisiones automatizadas (incluida la elaboración de perfiles) y las consecuencias previstas para el titular, en lugar de solo enlazar a más información.
+5.  **Derecho a la Portabilidad:** Incluir una sección que describa claramente el derecho a la portabilidad de los datos, conforme a la definición y alcance de la ley.
+6.  **Intereses Legítimos:** Si se utiliza el interés legítimo como base de licitud para ciertos tratamientos (ej. marketing directo), declararlo explícitamente y detallar cuáles son esos intereses.
+7.  **Medidas de Seguridad:** Proporcionar un resumen más detallado de las medidas de seguridad técnicas y organizativas implementadas directamente en la política, en lugar de solo una mención genérica con un enlace.
+8.  **Derechos del Titular (ARSOP):** Listar y explicar de forma completa todos los derechos que asisten al titular: acceso, rectificación, supresión, oposición y portabilidad, indicando cómo ejercerlos.
+9.  **Recurso ante la Agencia:** Añadir una cláusula informando al titular de su derecho a recurrir ante la Agencia de Protección de Datos Personales de Chile en caso de disconformidad con la respuesta del responsable o falta de respuesta.
+10. **Transferencias Internacionales:** Detallar los países u organizaciones internacionales a los que se transfieren datos. Indicar si cuentan con un nivel adecuado de protección. Si no, especificar las garantías adoptadas para justificar dichas transferencias (ej. cláusulas contractuales tipo, normas corporativas vinculantes, consentimiento explícito para la transferencia específica tras ser informado de los riesgos, etc.).
+11. **Datos de Salud:** Si se recopilan datos que puedan considerarse relativos a la salud (como "restricciones de movilidad"):
+    *   Identificarlos claramente como datos sensibles.
+    *   Especificar la base legal para su tratamiento conforme a las excepciones permitidas por la ley chilena (ej. consentimiento explícito del titular para finalidades específicas, necesidad para la formulación/ejercicio/defensa de reclamaciones, fines de medicina preventiva/laboral, etc.).
+    *   Implementar medidas de seguridad reforzadas para estos datos.
+12. **Lenguaje y Acceso:** Asegurar que toda la información requerida por ley esté presente en el cuerpo principal de la política de privacidad de forma clara, concisa y fácilmente accesible, minimizando la dependencia de enlaces externos para información esencial. Considerar una sección específica o anexo para Chile que aborde los requisitos de la Ley 21.719.
+
+**5. Puntuación general de cumplimiento (por sección relevante de la ley evaluada)**
+
+*   Información sobre geolocalización (Art. 16 sexies - información completa): ❎
+*   Periodo de conservación (Ley Art. X.i): ❎
+*   Fuente de los datos (Ley Art. X.j - mención fuentes acceso público): ❎ (Parcialmente cumplido, pero falta mención explícita de fuentes de acceso público si aplica)
+*   Derecho a retirar consentimiento (Ley Art. X.k): ❎
+*   Decisiones automatizadas (Ley Art. X.l - información completa sobre lógica y consecuencias): ❎
+*   Derecho a la portabilidad (Ley Art. Y y Art. A.f): ❎
+*   Especificación de intereses legítimos (Ley Art. Z): ❎
+*   Información sobre medidas de seguridad (Ley Art. A.e - detalle en política): ❎
+*   Información sobre derechos ARSOP completos (Ley Art. A.f): ❎
+*   Información sobre derecho a recurrir a la Agencia (Ley Art. A.g): ❎
+*   Información sobre transferencias internacionales (Ley Art. A.h - detalle y garantías): ❎
+*   Manejo de datos de salud según prohibiciones/excepciones (Ley Art. B): ❎
+*   Identificación del responsable (Requisito básico): ✅
+
+**6. Puntuación total:**
+
+*   Total de ✅: **1** / 13 secciones evaluadas.

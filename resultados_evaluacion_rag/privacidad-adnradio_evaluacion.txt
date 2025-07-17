@@ -1,0 +1,81 @@
+**EVALUACIÓN DE POLÍTICA DE PRIVACIDAD CONFORME A LA LEY 19.628 DE CHILE**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de Ibero Americana Radio Chile establece lo siguiente:
+*   **Identificación del Responsable:** Se identifica a Ibero Americana Radio Chile, con domicilio fiscal en Eliodoro Yáñez 1783 y teléfono de contacto 22390200, como propietaria de la página web y, por ende, responsable del fichero de datos.
+*   **Finalidad del Tratamiento:** Los datos facilitados voluntariamente se incorporarán a un fichero mixto para realizar gestiones comerciales y administrativas en la relación con los clientes. También se menciona el contacto para recibir información sobre productos y servicios.
+*   **Base de Legitimación:** El tratamiento se basa en el consentimiento del usuario, quien declara haber sido informado y acepta el tratamiento automatizado. El envío de datos es obligatorio para contactar y recibir información.
+*   **Derechos de los Titulares:** Se informa sobre los derechos de Acceso, Rectificación, Oposición, Cancelación y Portabilidad, que pueden ejercerse enviando un email a `contacto@iarc.cl` con el asunto "LOPD".
+*   **Cesión de Datos:**
+    *   Para ganadores de concursos/promociones: Se autoriza la publicación de datos personales en la web y perfiles sociales de la empresa.
+    *   Para fines comerciales: Se consiente la comunicación de datos a proveedores externos de Ibero Americana Radio Chile en sectores como telecomunicaciones, financiero, ocio, formación, gran consumo, automoción y energía, para envío de promociones y prospección comercial.
+*   **Legislación Aplicable:** Se somete a la legislación y jurisdicción chilena, mencionando explícitamente el artículo 19 N° 4 de la Constitución y la Ley N° 19.628.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley (Ley 19.628, según extractos proporcionados)**
+
+*   **Identificación del Responsable y Contacto:**
+    *   Se individualiza al responsable de datos (Ibero Americana Radio Chile) y su domicilio postal (Eliodoro Yáñez 1783). (Cumple parcialmente con el espíritu del Art. "b" de información requerida).
+    *   Se proporciona una dirección de correo electrónico (`contacto@iarc.cl`) como medio para que los titulares realicen solicitudes. (Cumple con el espíritu del Art. "c" de información requerida).
+*   **Derechos de los Titulares:**
+    *   Se mencionan los derechos de Acceso, Rectificación, Cancelación (equivalente a Supresión) y Oposición. Se añade Portabilidad. (Cumple parcialmente con Art. 4º, aunque falta el derecho de Bloqueo).
+*   **Base de Legitimación (Consentimiento):**
+    *   La política declara que el tratamiento se basa en el consentimiento del titular. (Cumple con la regla general del Art. 12).
+*   **Finalidades del Tratamiento:**
+    *   Se describen las finalidades generales del tratamiento (gestiones comerciales y administrativas, contacto, información de productos/servicios, publicidad). (Cumple parcialmente con el espíritu del Art. "d" de información requerida).
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley (Ley 19.628, según extractos proporcionados)**
+
+*   **Información al Titular (Requisitos de información, basados en el extracto "d) Las categorías, clases o tipos de datos..."):**
+    *   **Representante Legal y Encargado de Prevención:** No se individualiza al representante legal del responsable ni se menciona la existencia (o no) de un encargado de prevención. (Incumple Art. "b" de información requerida).
+    *   **Categorías de Datos:** No se especifican las categorías, clases o tipos de datos que se tratan (ej. datos identificativos, de contacto, económicos, etc.). Se limita a "los datos que voluntariamente nos facilita". (Incumple Art. "d" de información requerida).
+    *   **Universo de Personas:** La "descripción genérica del universo de personas" es vaga ("clientes", "usuarios"). (Incumple Art. "d" de información requerida).
+    *   **Destinatarios de la Cesión:** Para la cesión con fines comerciales, se mencionan "proveedores externos" y sectores, pero no se identifican los destinatarios específicos o categorías más concretas de estos. (Incumple Art. "d" de información requerida).
+    *   **Intereses Legítimos:** Si alguna parte del tratamiento se basara en interés legítimo (no parece ser el caso aquí, ya que todo se basa en consentimiento), no se especifica cuál sería.
+*   **Derechos del Titular (Art. 4º):**
+    *   No se menciona explícitamente el derecho de "Bloqueo" de los datos personales.
+*   **Consentimiento (Art. 12):**
+    *   **Especificidad:** El consentimiento para la cesión de datos a "proveedores externos" de múltiples sectores para "envío de promociones publicitarias y prospección comercial" es demasiado amplio y general. El Art. 12 exige que el consentimiento sea "específico". Un consentimiento tan genérico para cesiones a múltiples terceros con fines diversos podría no considerarse suficientemente específico.
+    *   **Libertad:** La afirmación "El envío de datos de carácter personal es obligatorio para contactar y recibir información sobre nuestros productos y servicios. El no facilitar los datos personales solicitados o el no aceptar la presente política de protección de datos supone la imposibilidad de suscribirse, registrarse o recibir información" podría ser cuestionable si se agrupan consentimientos para finalidades distintas (ej. prestación del servicio vs. marketing de terceros) bajo una única aceptación obligatoria.
+*   **Cesión de Datos Personales (Art. 15):**
+    *   Aunque se recaba el consentimiento para la cesión, la falta de especificidad sobre los cesionarios (más allá de "proveedores externos" y sectores) dificulta que el titular comprenda cabalmente a quién y para qué se ceden sus datos, lo que afecta la calidad del consentimiento informado y específico requerido.
+*   **Obligaciones del Responsable (Basado en el extracto "a) Informar y poner a disposición..."):**
+    *   **Información sobre Licitud:** Si bien la política es un intento de informar, carece de detalles cruciales (como los plazos de conservación de los datos).
+    *   **Supresión de Datos Precontractuales:** No se menciona la obligación de suprimir o anonimizar datos obtenidos para la ejecución de medidas precontractuales si el contrato no llega a celebrarse. (Incumple Art. "d" de obligaciones del responsable).
+    *   **Otros Deberes:** Faltan elementos importantes como:
+        *   Plazos de conservación de los datos personales.
+        *   Información sobre transferencias internacionales de datos (si las hubiera).
+        *   Procedimientos en caso de violaciones de seguridad de los datos.
+        *   Una descripción, aunque sea general, de las medidas de seguridad implementadas, más allá de la genérica afirmación "tiene implementadas todas las medidas de seguridad establecidas en la ley".
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Actualizar la Política:** Revisar y actualizar la política para alinearla completamente con todas las disposiciones de la Ley 19.628 (y considerar las mayores exigencias de la Ley 21.719, aunque la evaluación se basa en los extractos de la 19.628 proporcionados).
+2.  **Información Completa del Responsable:** Incluir la individualización del representante legal y, si existe, del encargado de prevención de datos.
+3.  **Detalle del Tratamiento:**
+    *   Especificar las categorías de datos personales recolectados (ej., nombre, RUT, correo electrónico, dirección, datos de navegación, etc.).
+    *   Describir con mayor precisión el universo de personas cuyas bases de datos se manejan.
+    *   Para las cesiones, identificar a los destinatarios o, al menos, categorías mucho más específicas de destinatarios y las finalidades concretas para cada tipo de cesión.
+4.  **Consentimiento Granular y Específico:**
+    *   Desglosar las solicitudes de consentimiento. Por ejemplo, un consentimiento para el tratamiento necesario para la prestación del servicio, otro para el envío de comunicaciones comerciales propias, y consentimientos separados y específicos para la cesión de datos a terceros para fines de marketing, detallando el tipo de tercero y finalidad.
+    *   Asegurar que el no otorgar consentimiento para finalidades secundarias (como marketing de terceros) no impida el acceso al servicio principal, si los datos para dichas finalidades no son esenciales para este.
+5.  **Derechos de los Titulares:** Incluir explícitamente el derecho de Bloqueo y, preferiblemente, una breve descripción de cada derecho.
+6.  **Plazos de Conservación:** Indicar los períodos durante los cuales se conservarán los datos personales, o los criterios utilizados para determinar ese plazo, para cada finalidad.
+7.  **Medidas de Seguridad:** Describir de forma general pero clara las medidas técnicas y organizativas implementadas para proteger los datos personales.
+8.  **Transferencias Internacionales:** Si se realizan transferencias internacionales de datos, informar sobre ellas, los países de destino y las garantías adecuadas.
+9.  **Procedimiento ante Brechas de Seguridad:** Informar sobre cómo se gestionarán las posibles violaciones de seguridad de los datos.
+10. **Lenguaje Claro y Accesible:** Redactar la política en un lenguaje claro, sencillo y fácilmente comprensible para cualquier titular.
+11. **Fecha de Actualización:** Incluir la fecha de la última versión de la política de privacidad.
+
+**5. Puntuación general de cumplimiento (respecto a los extractos de la Ley 19.628 proporcionados)**
+
+*   **Identificación del Responsable y Medios de Contacto (Art. "b", "c" de info requerida):** ✅ (Parcial, falta representante legal)
+*   **Información sobre el Tratamiento (Finalidades, Categorías de Datos, Destinatarios, Base de Legitimidad) (Art. "d" de info requerida):** ❎
+*   **Derechos de los Titulares (Art. 4º):** ✅ (Parcial, falta derecho de bloqueo)
+*   **Consentimiento para el Tratamiento (Art. 12):** ❎
+*   **Cesión de Datos Personales (Art. 15):** ❎
+*   **Obligaciones Generales del Responsable (Art. sobre obligaciones "a) Informar...", etc.):** ❎
+
+**6. Puntuación total:**
+
+**Total ✅: 2 / 6**

@@ -1,0 +1,101 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE LA UNIVERSIDAD DE CHILE FRENTE A LA LEY 21.719 (MODIFICATORIA DE LA LEY 19.628)**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La Política de Privacidad de la Información y Datos Personales de la Universidad de Chile ("la Universidad") tiene como objetivo informar a los usuarios sobre el tratamiento de sus datos personales recogidos a través de sus plataformas y sistemas. Establece que el acceso a sus portales implica la aceptación de esta política.
+
+Principales aspectos:
+*   **Alcance:** Aplica a académicos, personal de colaboración, estudiantes, proveedores, pacientes y cualquier persona que entregue datos, así como a quienes traten dicha información.
+*   **Marco Legal:** Se basa en el artículo 19 Nº4 de la Constitución y la Ley Nº19.628.
+*   **Deberes y Obligaciones:** La Universidad se compromete a adoptar medidas de seguridad para proteger la confidencialidad e integridad de los datos. El personal está obligado a mantener reserva y debida diligencia. Los datos se administrarán conforme a la ley y finalidades permitidas. Se establecen cláusulas de confidencialidad para terceros que traten datos.
+*   **Recopilación y Almacenamiento:** Los datos se usarán para fines indicados en cada plataforma, dentro de las competencias legales de la Universidad (Art. 20 Ley Nº19.628). Se requiere consentimiento explícito para tratamientos distintos. El almacenamiento es temporal, para el funcionamiento de las plataformas.
+*   **Uso de la Información:** Los datos se almacenan el tiempo necesario para el servicio o finalidad. No se difunde información personal salvo excepciones (directorio académico, autorización expresa). Datos no identificables pueden ser entregados a órganos del Estado.
+*   **Fines Estadísticos:** Los datos pueden ser tratados para estadística si no se identifica a los titulares.
+*   **Comunicación a Terceros:** Se permite la comunicación/cesión según la Ley Nº19.628, sin consentimiento del titular en casos de competencia de la Universidad. Se listan casos específicos: prestación de servicios con terceros (con garantías), datos estadísticos, mandato legal/judicial, seguridad nacional/interés público, o comisión de delitos con orden judicial.
+*   **Derechos de los Titulares:** Se reconocen los derechos de la Ley Nº19.628: solicitar información, modificar datos incorrectos/desactualizados, y solicitar eliminación/cancelación si ya no son necesarios.
+*   **Uso de Cookies:** Se utilizan cookies propias y de terceros (Google Analytics) para análisis y personalización, sin almacenar información personal identificable.
+*   **Modificación y Vigencia:** La Universidad se reserva el derecho de modificar la política. La política es informativa y no contractual. Fue aprobada el 13 de enero de 2021.
+*   **Incumplimiento:** Se establecen consecuencias por incumplimiento para estudiantes, personal y entidades externas.
+*   **Definiciones:** Incluye definiciones de términos clave.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+La política de privacidad de la Universidad de Chile presenta varios aspectos que se alinean con las disposiciones de la Ley 19.628 (considerando las modificaciones de la Ley 21.719, aunque la política es anterior a esta última):
+
+*   ✅ **Información sobre licitud del tratamiento (parcialmente p.10, a):** La política declara su adhesión a la Ley 19.628 y al Art. 19 N°4 de la Constitución, y menciona que el tratamiento se realiza dentro de las competencias legales de la Universidad (Art. 20 Ley 19.628), lo cual es un indicio de licitud.
+*   ✅ **Recolección para fines específicos, explícitos y lícitos (p.10, b):** La política establece que "En cada plataforma o sistema computacional, se informará acerca de las finalidades específicas para las que se recogen los datos" y que "Los datos personales de los(as) titulares serán utilizados para el cumplimiento de los fines indicados en las plataformas o sistemas computacionales respectivos y siempre dentro de las competencias y atribuciones legales de la Universidad".
+*   ✅ **Limitación del tratamiento al cumplimiento de fines (p.10, b):** Se indica que "En ningún caso estos datos serán tratados con fines diferentes, sin el previo consentimiento explícito del (de la) titular".
+*   ✅ **Consentimiento del titular (Art. 12, p.9):** La política enfatiza la necesidad de "consentimiento explícito del (de la) titular" para tratamientos distintos a los informados inicialmente o para el tratamiento de datos en general, lo que se alinea con el requisito de consentimiento libre, informado y específico.
+*   ✅ **Tratamiento de datos por órganos públicos (Art. 20, p.19):** La política invoca el artículo 20 de la Ley N°19.628 para justificar el tratamiento de datos dentro de sus competencias.
+*   ✅ **Descripción genérica del universo de personas (p.11, d):** Se identifican los tipos de titulares ("académicos(as), personal de colaboración, estudiantes, proveedores, pacientes y en general todo(a) quien entregue datos personales").
+*   ✅ **Destinatarios a los que se prevé comunicar o ceder los datos (parcialmente p.11, d):** Se mencionan comunicaciones a terceros para prestación de servicios, órganos del Estado, por mandato legal o judicial, lo que da una idea de los destinatarios.
+*   ✅ **Finalidades de los tratamientos (parcialmente p.11, d):** Se indica que las finalidades se informarán en cada plataforma y se relacionan con las competencias de la Universidad.
+*   ✅ **Base de legitimidad del tratamiento (parcialmente p.11, d):** Se infiere el consentimiento y el cumplimiento de obligaciones legales y competencias de un órgano público como bases de legitimidad.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+A pesar de los puntos positivos, la política presenta varias áreas de incumplimiento o cumplimiento parcial respecto a las exigencias de la Ley 19.628, especialmente considerando las precisiones y nuevas obligaciones introducidas o reforzadas por la Ley 21.719 (aunque la política es de 2021, la evaluación se pide contra la ley vigente):
+
+*   ❎ **Informar y poner a disposición antecedentes que acrediten la licitud (p.10, a):** Si bien se declara la licitud, la política no especifica *cómo* se ponen a disposición del titular los antecedentes que acreditan dicha licitud de manera expedita cuando sean requeridos.
+*   ❎ **Comunicar o ceder información exacta, completa y actual (p.10, c):** La política menciona la comunicación y cesión, pero no enfatiza explícitamente la obligación de que esta información sea siempre "exacta, completa y actual" al momento de la comunicación o cesión.
+*   ❎ **Suprimir o anonimizar datos precontractuales (p.10, d):** No se menciona específicamente la obligación de suprimir o anonimizar los datos personales del titular cuando fueron obtenidos para la ejecución de medidas precontractuales.
+*   ❎ **Referencia a la versión actualizada de la ley (p.11, a):** La política se refiere a la Ley N°19.628, pero fue aprobada (13 de enero de 2021) antes de la publicación de la Ley 21.719 (13 de diciembre de 2024, con vigencia diferida para algunas disposiciones). No hace referencia a esta importante modificación ni indica que se aplica la "versión vigente" de la ley.
+*   ❎ **Individualización completa del responsable y otros roles (p.11, b):**
+    *   Si bien se identifica a "la Universidad de Chile" como responsable, falta la "individualización del responsable de datos y su representante legal".
+    *   No se identifica al "encargado de prevención, si existiere". Dada la envergadura de la Universidad, es esperable que exista o se aclare su ausencia.
+*   ❎ **Información de contacto para solicitudes de derechos (p.11, c):** La política no proporciona de manera clara y centralizada "El domicilio postal, la dirección de correo electrónico, el formulario de contacto o la identificación del medio tecnológico equivalente de uso común y fácil acceso mediante el cual se le notifican las solicitudes que realicen los titulares" para el ejercicio de sus derechos. Se menciona que el titular "podrá en todo momento ejercer los derechos", pero no se especifica un canal único o preferente.
+*   ❎ **Detalle de categorías de datos, finalidades específicas y bases de legitimidad (p.11, d):**
+    *   Las "categorías, clases o tipos de datos que trata" se mencionan de forma muy genérica ("datos personales"). No hay un detalle mayor (ej. datos identificativos, académicos, de salud para pacientes, etc.).
+    *   Si bien se dice que las finalidades se informarán "en cada plataforma", la política general podría ser más explícita sobre las *principales* finalidades transversales.
+    *   No se detallan explícitamente las "bases de legitimidad del tratamiento" para cada una de las principales finalidades (ej. consentimiento para X, obligación legal para Y, competencia pública para Z).
+    *   No se mencionan los "intereses legítimos" como base de tratamiento, lo cual es correcto si no se utilizan, pero si se llegaran a usar, deberían especificarse.
+*   ❎ **Comunicación de cambios a otros destinatarios (p.11, "solicitud"):** La política menciona el derecho a la rectificación y supresión, pero no indica explícitamente que "cuando el responsable haya comunicado dichos datos a otras personas, deberá comunicar a éstas los cambios realizados en virtud de la rectificación, supresión u oposición".
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+Para alinear la política de privacidad con la Ley 19.628 y sus modificaciones por la Ley 21.719, se recomienda:
+
+1.  **Actualizar Referencias Legales:** Incluir una referencia explícita a la Ley N°19.628 "y sus modificaciones", o directamente a la Ley N°19.628 en su texto actualizado y vigente, considerando la Ley 21.719. Indicar que la política se interpretará conforme a la normativa de protección de datos vigente en Chile.
+2.  **Completar Identificación del Responsable:**
+    *   Especificar el nombre completo y RUT de la Universidad de Chile como responsable.
+    *   Identificar al representante legal de la Universidad para efectos de protección de datos.
+    *   Designar e identificar a un Encargado de Prevención de tratamiento de datos personales (Delegado de Protección de Datos) o, en su defecto, la unidad o persona encargada de estas materias dentro de la Universidad.
+3.  **Establecer un Canal de Contacto Específico:** Proveer una dirección de correo electrónico dedicada, un formulario en línea específico y/o una dirección postal clara para que los titulares puedan ejercer sus derechos y realizar consultas sobre privacidad.
+4.  **Detallar Categorías de Datos y Finalidades:**
+    *   Enumerar las principales categorías de datos personales que se tratan (ej., datos de identificación, contacto, académicos, laborales, de salud –para pacientes–, biométricos si aplica, etc.).
+    *   Aunque las finalidades específicas se detallen por plataforma, la política general debería resumir las principales finalidades del tratamiento de datos en el contexto universitario (ej., gestión académica, administrativa, investigación, extensión, servicios de salud, etc.).
+    *   Para cada finalidad principal, indicar la base de legitimidad correspondiente (consentimiento, obligación legal, ejercicio de potestades públicas, interés legítimo si aplica).
+5.  **Especificar Procedimientos para Derechos:**
+    *   Detallar el procedimiento para ejercer los derechos ARSOP (Acceso, Rectificación, Supresión, Oposición, Portabilidad – este último introducido por la Ley 21.719 aunque no en los extractos provistos, es fundamental).
+    *   Incluir la obligación de comunicar las rectificaciones o supresiones a los terceros a quienes se hayan comunicado los datos.
+6.  **Incorporar Obligaciones Específicas:**
+    *   Añadir una cláusula sobre la supresión o anonimización de datos obtenidos para medidas precontractuales, si aplica.
+    *   Reforzar el compromiso de que la información comunicada o cedida será exacta, completa y actual.
+    *   Explicar cómo los titulares pueden acceder a los antecedentes que acreditan la licitud del tratamiento.
+7.  **Revisión Periódica:** Establecer un compromiso de revisión periódica de la política para asegurar su continua adecuación a la normativa y a las prácticas de la Universidad.
+
+**5. Puntuación general de cumplimiento (basado en los extractos legales proporcionados)**
+
+*   **Obligaciones (Ley 19.628, p.10 de los extractos):**
+    *   a) Informar y poner a disposición antecedentes de licitud: ❎
+    *   b) Recoger de fuentes lícitas, fines específicos, explícitos, lícitos, limitación: ✅
+    *   c) Comunicar o ceder información exacta, completa y actual: ❎
+    *   d) Suprimir o anonimizar datos precontractuales: ❎
+    *   e) Cumplir demás deberes, principios y obligaciones: ✅ (Declarativo)
+
+*   **Información a proporcionar por el responsable (Ley 19.628, p.11 de los extractos):**
+    *   a) Referencia a la ley (actualizada y completa): ❎
+    *   b) Individualización del responsable, rep. legal, encargado de prevención: ❎
+    *   c) Domicilio postal, correo electrónico, formulario de contacto para solicitudes: ❎
+    *   d) Categorías de datos, universo de personas, destinatarios, finalidades, base de legitimidad, intereses legítimos: ❎ (Parcialmente cubierto, pero con deficiencias significativas en detalle y estructura)
+
+*   **Consentimiento (Ley 19.628, Art. 12, p.9 de los extractos):**
+    *   Libre, informado y específico: ✅
+
+*   **Tratamiento por órganos públicos (Ley 19.628, Art. 20, p.19 de los extractos):**
+    *   Licitud del tratamiento por órganos públicos: ✅
+
+**6. Puntuación total**
+
+Sumando los ✅ del total de secciones evaluadas según los extractos:
+**Puntuación Total: 4 / 11** ✅

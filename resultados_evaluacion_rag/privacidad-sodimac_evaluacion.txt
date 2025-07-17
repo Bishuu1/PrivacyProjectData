@@ -1,0 +1,72 @@
+**EVALUACIÓN DE POLÍTICA DE PRIVACIDAD CONFORME A LA LEY CHILENA**
+
+**Introducción:**
+Se ha solicitado evaluar la conformidad de una "política de privacidad" proporcionada con la Ley 19.628 sobre Protección de la Vida Privada, considerando las modificaciones introducidas por la Ley 21.719. El documento proporcionado es una certificación notarial de una "PROTOCOLIZACION POLITICA DE PRIVACIDAD".
+
+**1. Resumen de los puntos principales de la política de privacidad** ❎
+
+*   El documento proporcionado, con CVE 002-00229712, emitido por la Segunda Notaría de Santiago (Francisco Leiva Carvajal) con fecha 27 de julio de 2023, **no es una política de privacidad en sí misma**.
+*   Se trata de una **certificación notarial** que acredita que un documento denominado "PROTOCOLIZACION POLITICA DE PRIVACIDAD" es copia fiel de una Escritura Pública otorgada en dicha notaría bajo el Repertorio 55033.
+*   **El contenido sustantivo de la política de privacidad (el texto de la política misma) no ha sido proporcionado.** Por lo tanto, no es posible resumir sus puntos principales referidos a la recolección, uso, almacenamiento, transferencia, derechos de los titulares, etc., de datos personales.
+*   El documento notarial en sí mismo contiene datos personales del Notario y datos de identificación del acto jurídico (fecha, repertorio, CVE), pero no describe las prácticas de tratamiento de datos de una organización hacia sus usuarios o clientes.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley** ❎
+
+Dado que el texto de la política de privacidad no ha sido facilitado, no es posible evaluar el cumplimiento de sus disposiciones con la Ley 19.628 (actualizada por la Ley 21.719).
+
+Si nos referimos estrictamente al acto de "protocolización" y su certificación:
+*   La certificación notarial cumple con los requisitos formales para este tipo de documentos, incluyendo la Firma Electrónica Avanzada conforme a la Ley N°19.799, lo cual otorga validez y seguridad al acto de certificación.
+*   La protocolización de un documento como una política de privacidad puede ser una práctica para darle fecha cierta y publicidad formal, pero no garantiza por sí misma que el *contenido* de dicha política sea conforme a la ley de protección de datos.
+
+No se pueden identificar aspectos de la *política de privacidad* que cumplan con la ley, ya que su contenido es desconocido.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley** ✅
+
+Dado que el contenido de la política de privacidad no se ha proporcionado, la principal "falencia" es la imposibilidad de realizar una evaluación sustantiva. Sin embargo, basándonos en los requisitos generales que una política de privacidad debe cumplir bajo la Ley 19.628 (y sus modificaciones por Ley 21.719), una política *debería* abordar, y la ausencia de información sobre estos puntos impide verificar su cumplimiento:
+
+*   **Identidad y datos de contacto del responsable del tratamiento:** No se puede verificar si la política (no proporcionada) los incluye.
+*   **Finalidades del tratamiento:** No se puede verificar si se especifican las finalidades para las cuales se recogen y tratan los datos personales.
+*   **Base jurídica del tratamiento:** No se puede verificar si se informa la base legal para cada tratamiento (consentimiento, obligación legal, contrato, interés legítimo, etc.).
+*   **Tipos de datos personales tratados:** No se puede verificar si se detallan las categorías de datos que se recolectan.
+*   **Derechos de los titulares (ARCO y portabilidad):** No se puede verificar si la política informa sobre los derechos de acceso, rectificación, cancelación, oposición y portabilidad, y los mecanismos para ejercerlos.
+*   **Transferencias de datos:** Si se realizan transferencias nacionales o internacionales de datos, no se puede verificar si se informa sobre ellas, sus destinatarios y las garantías adoptadas (Art. 29 de la ley menciona la fiscalización de transferencias internacionales).
+*   **Plazos de conservación:** No se puede verificar si se informa sobre el tiempo durante el cual se conservarán los datos.
+*   **Medidas de seguridad:** No se puede verificar si se describen las medidas técnicas y organizativas para proteger los datos.
+*   **Uso de cookies y tecnologías similares (si aplica):** No se puede verificar si se informa sobre su uso.
+*   **Procedimiento para presentar reclamaciones ante la Agencia de Protección de Datos Personales (Art. 30):** No se puede verificar si se informa esta posibilidad.
+*   **Información sobre cesión de datos (si aplica):** Conforme al extracto proporcionado (página 13 de 42), la cesión debe constar por escrito o medio electrónico, individualizar partes, datos, finalidades. No se puede verificar si la política (no proporcionada) aborda adecuadamente la cesión de datos y el consentimiento requerido.
+*   **Fecha de la política y versiones:** El documento notarial es de julio de 2023. La Ley 21.719 introduce modificaciones significativas que, aunque algunas tengan vigencia diferida (como la plena operatividad de la Agencia), establecen un estándar más alto. Una política redactada en 2023 podría no estar actualizada a todos los requerimientos de la Ley 21.719.
+
+En resumen, el incumplimiento fundamental es la **ausencia del documento objeto de análisis (la política de privacidad en sí)**, lo que impide cualquier evaluación de fondo.
+
+**4. Recomendaciones para mejorar el cumplimiento** ✅
+
+1.  **Proporcionar el texto completo de la "POLITICA DE PRIVACIDAD"** que fue objeto de la protocolización para su análisis.
+2.  Una vez disponible el texto, se deberá revisar y actualizar para asegurar que incluya, de manera clara y accesible, al menos los siguientes elementos conforme a la Ley 19.628 y las modificaciones de la Ley 21.719:
+    *   Identificación clara del responsable del tratamiento y, si aplica, del encargado del tratamiento y del Delegado de Protección de Datos.
+    *   Descripción detallada de los datos personales que se recolectan.
+    *   Finalidades explícitas y lícitas para las cuales se tratan los datos.
+    *   Base de legitimación para cada tratamiento (consentimiento, contrato, obligación legal, interés legítimo, etc.).
+    *   Información sobre si los datos serán comunicados o cedidos a terceros, identificando a dichos terceros o categorías de terceros, y la finalidad de la cesión/comunicación, junto con la base legal para ello.
+    *   Información sobre transferencias internacionales de datos, los países de destino y las garantías adecuadas.
+    *   Plazos o criterios de conservación de los datos.
+    *   Descripción de los derechos de los titulares (acceso, rectificación, cancelación/supresión, oposición, portabilidad, limitación del tratamiento) y el procedimiento para ejercerlos de forma gratuita y sencilla.
+    *   Información sobre el derecho a revocar el consentimiento.
+    *   Información sobre el derecho a presentar una reclamación ante la Agencia de Protección de Datos Personales.
+    *   Medidas de seguridad implementadas para proteger los datos.
+    *   Fecha de última actualización de la política.
+    *   Lenguaje claro, sencillo y comprensible para los titulares.
+3.  Asegurar que la política sea fácilmente accesible para los titulares de los datos (e.g., en el sitio web de la organización).
+4.  Implementar procedimientos internos para garantizar el cumplimiento efectivo de lo declarado en la política de privacidad.
+
+**5. Puntuación general de cumplimiento**
+
+*   Resumen de los puntos principales de la política de privacidad: ❎
+*   Evaluación de cumplimiento: aspectos que cumplen con la ley: ❎
+*   Identificación de incumplimientos: aspectos que no cumplen con la ley: ✅
+*   Recomendaciones para mejorar el cumplimiento: ✅
+
+**6. Puntuación total: 2/4 ✅**
+
+**Conclusión Final:**
+El documento proporcionado es una certificación notarial sobre la protocolización de una política de privacidad, pero no incluye el texto de la política en sí. Por lo tanto, no es posible realizar una evaluación sustantiva de su contenido ni determinar su conformidad con la Ley 19.628 y sus modificaciones por la Ley 21.719. Se requiere el texto completo de la política de privacidad para un análisis adecuado. La protocolización es un acto formal que da fecha cierta, pero no valida el contenido legal de la política.

@@ -1,0 +1,104 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE VIÑA CONCHA Y TORO S.A. FRENTE A LA LEY CHILENA DE PROTECCIÓN DE DATOS PERSONALES (BASADA EN EXTRACTOS PROPORCIONADOS)**
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad**
+
+La política de privacidad de Viña Concha y Toro S.A. para sus aplicaciones móviles establece lo siguiente:
+*   **Aplicabilidad y Aceptación:** Se aplica al uso de sus aplicaciones y su utilización implica la aceptación de la política.
+*   **Modificaciones:** Se reservan el derecho a modificar la política, notificando cambios sustanciales por correo electrónico y otorgando al usuario la opción de aceptar o no el nuevo uso de su información. El uso continuado implica aprobación.
+*   **Información Recopilada:**
+    *   **Proporcionada por el Usuario:** Nombre, correo electrónico, contraseña, y otra información de registro, utilizada para el propósito que fue recopilada.
+    *   **Recopilada Automáticamente:** Tipo de dispositivo móvil, ID único del dispositivo, dirección IP, sistema operativo móvil, navegadores de internet móviles, e información sobre el uso de la aplicación.
+*   **Uso y Revelación de Información:**
+    *   No se comparte ni revela información obtenida, excepto con autorización del usuario, requerimiento de autoridad competente, o para hacer cumplir términos de uso o salvaguardar la integridad.
+    *   Se puede usar para comunicar información importante, noticias y promociones de marketing, con consentimiento expreso previo.
+*   **Geolocalización:** Declara no recoger información precisa sobre la ubicación del dispositivo móvil en tiempo real. Sin embargo, más adelante indica que terceros (anunciantes) pueden obtener "información de ubicación no precisa (por ejemplo, el código postal)".
+*   **Acceso de Terceros:** Se comparte información con terceros según lo descrito y autorizado por los usuarios, incluyendo:
+    *   Protección de derechos, seguridad, investigación de fraude, respuesta a solicitudes gubernamentales.
+    *   Proveedores de servicios de confianza (que no tienen uso independiente y se adhieren a la política).
+    *   En caso de fusión, adquisición o venta de activos (con notificación).
+    *   Anunciantes, redes publicitarias y empresas de análisis.
+*   **Recopilación Automática de Datos y Publicidad:** Trabajan con empresas de análisis y redes publicitarias. Se usa ID único del dispositivo y número de teléfono móvil (con encriptación para anonimizar). Terceros pueden obtener información anónima sobre otras apps, sitios web móviles, e información de ubicación no precisa para publicidad dirigida. Se puede detener la recolección desinstalando la app.
+*   **Retención de Datos:** Datos proporcionados por el usuario se conservan mientras se usa la app y por un plazo razonable. Información recopilada automáticamente hasta por 3 años, y "posteriormente, se puede guardar definitivamente". Se puede solicitar eliminación a webmaster@conchaytoro.cl.
+*   **Seguridad:** Se declaran salvaguardas físicas, electrónicas y de procedimiento, con acceso limitado a empleados y contratistas autorizados. Se advierte que ningún sistema es 100% seguro.
+*   **Consentimiento:** El uso de la aplicación implica consentimiento al procesamiento de datos según la política. Si el usuario reside fuera de Chile, su información será transferida, procesada y almacenada en Chile.
+*   **Contacto:** webmaster@conchaytoro.cl para preguntas sobre privacidad.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley (Según Extractos)**
+
+*   **Art. 13 c) (Parcialmente):** Se proporciona una dirección de correo electrónico (webmaster@conchaytoro.cl) como medio de contacto.
+*   **Art. 13 d) (Parcialmente - Categorías de datos):** Se enumeran algunas categorías de datos que se tratan (nombre, correo, contraseña, ID dispositivo, IP, etc.).
+*   **Art. 13 d) (Parcialmente - Finalidades):** Se mencionan algunas finalidades como "el propósito que fueron recopilados", "comunicarle información importante, noticias y promociones de marketing", "entender cómo se está utilizando la aplicación", "ayudar a mantener el costo de la aplicación gratis" (publicidad).
+*   **Art. 13 d) (Parcialmente - Base de legitimidad):** Se menciona el consentimiento del usuario para el registro, para comunicaciones de marketing ("consentimiento expreso"), y para compartir con terceros ("hayan sido autorizadas por los usuarios").
+*   **Art. 13 d) (Parcialmente - Destinatarios):** Se identifican algunas categorías de destinatarios (proveedores de servicios, anunciantes, redes publicitarias, empresas de análisis, autoridades, posibles adquirentes).
+*   **Art. 15 (Parcialmente - Cesión de datos):** Se indica que la información se comparte con terceros con autorización de los usuarios.
+*   **Art. 16 sexies (Parcialmente - Datos de geolocalización):** Se declara no recoger información precisa de ubicación, aunque luego se matiza con "información de ubicación no precisa".
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley (Según Extractos)**
+
+*   **Art. 13 a) Versión actualizada:** No se indica explícitamente la fecha de la última versión de la política.
+*   **Art. 13 b) Individualización del responsable y representante legal, encargado de prevención:** Solo se menciona "Viña Concha y Toro SA". Falta la individualización completa del responsable (RUT, domicilio), su representante legal, y la identificación del encargado de prevención, si existiere.
+*   **Art. 13 c) Domicilio postal, formulario de contacto o medio tecnológico equivalente:** No se proporciona un domicilio postal para notificaciones. El correo electrónico es un medio, pero la ley contempla alternativas o complementos.
+*   **Art. 13 d) Descripción genérica del universo de personas:** No se describe el universo de personas que comprenden sus bases de datos más allá de "usuarios de la aplicación".
+*   **Art. 13 d) Finalidades específicas y explícitas:** La frase "solo serán utilizados para el propósito que fueron recopilados" es demasiado genérica y no cumple con el requisito de especificidad y explicitud.
+*   **Art. 13 d) Base de legitimidad completa:** No se especifican todas las bases de legitimidad para todos los tratamientos. Por ejemplo, para la recopilación automática de datos o para compartir con proveedores de servicios (que podría ser ejecución contractual o interés legítimo).
+*   **Art. 13 d) Intereses legítimos:** Si algún tratamiento se basa en la satisfacción de intereses legítimos, estos no se especifican.
+*   **Art. 13 e) Política y medidas de seguridad adoptadas:** Se menciona que existen "salvaguardas físicas, electrónicas y de procedimiento", pero no se describe la política de seguridad ni se detallan las medidas de manera suficiente.
+*   **Art. 13 f) Derecho del titular (acceso, rectificación, supresión, oposición y portabilidad):** Solo se menciona la posibilidad de solicitar la eliminación de datos. No se informa explícitamente sobre los demás derechos de acceso, rectificación, oposición y portabilidad, ni el procedimiento para ejercerlos.
+*   **Art. 13 g) Derecho a recurrir ante la Agencia:** No se informa al titular sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales.
+*   **Art. 13 h) Transferencia internacional de datos:** Se menciona que si el usuario reside fuera de Chile, su información será transferida a Chile. Sin embargo, no se aborda la transferencia de datos desde Chile a un tercer país u organización internacional, ni si estos ofrecen un nivel adecuado de protección o las garantías existentes en caso contrario.
+*   **Obligaciones del responsable (p.10):**
+    *   **a) Informar y poner a disposición antecedentes de licitud:** No se establece un mecanismo claro para esto.
+    *   **b) Fines específicos, explícitos y lícitos:** Como se mencionó, algunas finalidades son genéricas.
+    *   **c) Comunicar o ceder información exacta, completa y actual:** No hay un compromiso explícito en la política sobre este punto.
+    *   **d) Suprimir o anonimizar datos de medidas precontractuales:** No se aborda este supuesto específico.
+*   **Art. 15 Cesión de datos personales:**
+    *   No se especifica si la cesión constará por escrito o a través de un medio equivalente.
+    *   La distinción entre "cesión" a terceros (que requiere consentimiento u otra base legal del Art. 15) y la comunicación a "encargados de tratamiento" (proveedores de servicios) no está claramente delimitada en la política.
+*   **Política de Retención (Relacionado con principios generales):** La afirmación de que la información recopilada automáticamente "se puede guardar definitivamente" tras 3 años es contraria al principio de limitación del plazo de conservación y finalidad. Los datos solo deben conservarse mientras sean necesarios para los fines para los que fueron recogidos.
+*   **Art. 16 sexies Datos de geolocalización:** Existe una contradicción. Primero se indica que "no recoge información precisa sobre la ubicación", pero luego, en la sección 4, se menciona que terceros (anunciantes y redes publicitarias) pueden obtener "información de ubicación no precisa (por ejemplo, el código postal), y otra información de ubicación no precisa". Si se trata este tipo de datos, se debe informar claramente sobre el tipo de datos de geolocalización, finalidad, duración y si se cederán para servicios con valor añadido, lo cual no se detalla suficientemente.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Actualizar la Política:** Incluir fecha de última actualización y un sistema de versionado.
+2.  **Identificación Completa:** Proveer la razón social completa, RUT, domicilio legal del responsable (Viña Concha y Toro S.A.), y los datos de su representante legal. Si existe un Encargado de Prevención de Datos, identificarlo.
+3.  **Canales de Contacto:** Además del correo electrónico, considerar añadir un domicilio postal para notificaciones y/o un formulario de contacto específico en la web/app para solicitudes de los titulares relativas a sus datos.
+4.  **Detallar Universo de Titulares:** Describir de forma más precisa el universo de personas cuyos datos se tratan (ej. "usuarios registrados en nuestras aplicaciones móviles mayores de edad", etc.).
+5.  **Especificar Finalidades:** Detallar cada finalidad del tratamiento de forma explícita y lícita (ej. "gestionar su cuenta de usuario", "enviarle comunicaciones comerciales sobre nuestros productos X e Y", "analizar el uso de la app para mejorar su funcionalidad", "mostrar publicidad personalizada basada en su actividad en la app"). Evitar términos genéricos.
+6.  **Clarificar Bases de Legitimidad:** Para cada finalidad, indicar la base de legitimidad correspondiente (consentimiento, ejecución de contrato, interés legítimo, obligación legal). Si se invoca el interés legítimo, explicar cuál es.
+7.  **Describir Medidas de Seguridad:** Ofrecer una descripción más detallada de la política y las medidas de seguridad implementadas (ej. tipo de encriptación, controles de acceso, protocolos de respuesta a incidentes), sin comprometer la seguridad misma.
+8.  **Informar Derechos ARSOPP Completos:** Explicar claramente todos los derechos del titular (acceso, rectificación, supresión, oposición, portabilidad) y el procedimiento detallado para ejercerlos.
+9.  **Informar Derecho a Reclamar:** Incluir una cláusula informando al titular de su derecho a recurrir ante la Agencia de Protección de Datos Personales en caso de disconformidad.
+10. **Política de Transferencias Internacionales:** Si se realizan transferencias de datos desde Chile a otros países, detallar los países destinatarios, si cuentan con nivel adecuado de protección y, en caso contrario, las garantías adoptadas.
+11. **Clarificar Cesiones vs. Encargos:** Distinguir claramente cuándo se produce una cesión de datos (transferencia a otro responsable) y cuándo una comunicación a un encargado de tratamiento (proveedor de servicios que actúa por cuenta del responsable), detallando las implicaciones y bases legales de cada una. Asegurar que las cesiones consten por escrito o medio equivalente.
+12. **Revisar Política de Retención:** Eliminar la posibilidad de "guardar definitivamente" datos. Establecer plazos de conservación específicos y justificados para cada categoría de datos y finalidad, o criterios para determinar dichos plazos, y proceder a su supresión o anonimización segura una vez cumplidos.
+13. **Aclarar Geolocalización:** Ser preciso sobre qué tipo de datos de ubicación se recopilan (precisa o no precisa). Si se recopila cualquier dato de geolocalización, cumplir con todos los requisitos del Art. 16 sexies (tipo de datos, finalidad, duración, comunicación a terceros para servicios de valor añadido).
+14. **Consentimiento Granular:** Considerar mecanismos para obtener consentimientos específicos para distintas finalidades, en lugar de una aceptación general de la política, especialmente para tratamientos no esenciales.
+
+**5. Puntuación General de Cumplimiento (Según Extractos de Ley Proporcionados)**
+
+*   **Art. 13 a) Versión actualizada:** ❎
+*   **Art. 13 b) Individualización del responsable, rep. legal, encargado prevención:** ❎
+*   **Art. 13 c) Domicilio postal, correo electrónico, formulario contacto/medio tecnológico:** ❎ (Parcialmente cumple con email, pero falta el resto)
+*   **Art. 13 d) Categorías, clases o tipos de datos:** ✅
+*   **Art. 13 d) Descripción genérica del universo de personas:** ❎
+*   **Art. 13 d) Destinatarios a los que se prevé comunicar o ceder:** ✅ (Aunque requiere mayor claridad cesión vs. encargo)
+*   **Art. 13 d) Finalidades de los tratamientos:** ❎ (Demasiado genéricas algunas)
+*   **Art. 13 d) Base de legitimidad del tratamiento:** ❎ (Incompleta y poco específica)
+*   **Art. 13 d) Intereses legítimos (si aplica):** ❎
+*   **Art. 13 e) Política y medidas de seguridad adoptadas:** ❎ (Mención genérica, sin descripción)
+*   **Art. 13 f) Derecho del titular (acceso, rectificación, supresión, oposición y portabilidad):** ❎ (Solo menciona eliminación parcial)
+*   **Art. 13 g) Derecho del titular de recurrir ante la Agencia:** ❎
+*   **Art. 13 h) Transferencia de datos a tercer país u organización internacional:** ❎ (No aborda transferencias *desde* Chile)
+*   **Obligaciones (p.10) a) Informar y poner a disposición antecedentes de licitud:** ❎
+*   **Obligaciones (p.10) b) Recoger de fuentes lícitas, fines específicos, explícitos, lícitos:** ❎ (Fines no suficientemente específicos/explícitos)
+*   **Obligaciones (p.10) c) Comunicar o ceder información exacta, completa y actual:** ❎ (No se menciona)
+*   **Obligaciones (p.10) d) Suprimir o anonimizar datos precontractuales:** ❎ (No se menciona)
+*   **Art. 15 Cesión de datos personales (consentimiento, fines, constancia escrita/equivalente):** ❎ (Parcialmente cumple con consentimiento, pero falta claridad y constancia)
+*   **Art. 16 sexies Datos de geolocalización (información clara, suficiente, oportuna):** ❎ (Contradictoria e insuficiente)
+
+**6. Puntuación Total**
+
+*   Total de ✅: 2
+*   Total de ❎: 17
+
+La política de privacidad presenta deficiencias significativas en relación con los extractos de la ley proporcionados y requiere una revisión exhaustiva para alinearse con las exigencias de la normativa chilena de protección de datos personales.

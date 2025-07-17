@@ -1,0 +1,119 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD PARA EXTERNOS DE LA UC FRENTE A LA LEY CHILENA DE PROTECCIÓN DE DATOS PERSONALES**
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad**
+
+La "Política de Privacidad para Externos" de la UC se presenta como un documento introductorio que enuncia los tipos de información que contendrá sobre el tratamiento de datos personales de externos. Indica que incluirá:
+*   Identificación de la institución y contacto de la oficina de protección de datos.
+*   Propósito del tratamiento de datos.
+*   Detalles sobre transferencias de datos fuera de la UC.
+*   Período de retención de los datos.
+*   Derechos del usuario.
+*   Información sobre dónde dirigir solicitudes.
+*   Información sobre procesamiento automático y sus consecuencias.
+
+Proporciona datos de contacto para la "Mesa de Tratamiento y Protección de Datos UC" (dirección postal y correo electrónico), así como para otros servicios de la universidad (Mesa Central, Emergencias, Discriminación y Violencia, Mediación Universitaria).
+
+En esencia, el documento actual funciona más como un índice o una declaración de intenciones sobre el contenido futuro de una política de privacidad detallada, que como una política de privacidad operativa y completa en sí misma.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley**
+
+Basado en los artículos proporcionados de la Ley 19.628 (que se asume son los relevantes para esta evaluación, aunque el prompt menciona Ley 21.719):
+
+*   **Artículo (letra c): Domicilio postal, correo electrónico o medio de contacto.**
+    *   Se proporciona el domicilio postal: "Campus San Joaquín, Avda. Vicuña Mackenna 4860, Macul, Santiago - Chile".
+    *   Se proporciona una dirección de correo electrónico: "proteccion.datos@uc.cl".
+    Estos elementos permiten al titular contactar al responsable.
+
+*   **Artículo (letra a): Versión de la misma (política).**
+    *   El documento proporcionado, aunque incompleto en contenido, constituye *una versión* de la política.
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley**
+
+La política actual presenta múltiples omisiones significativas respecto a los requisitos legales citados:
+
+*   **Artículo (letra b): Individualización del responsable de datos y su representante legal y la identificación del encargado de prevención.**
+    *   Si bien se identifica a la "UC" y a la "MESA DE TRATAMIENTO Y PROTECCIÓN DE DATOS UC" (que podría asimilarse al encargado de prevención), no se individualiza formalmente al "responsable de datos" con su razón social completa y RUT (ej. Pontificia Universidad Católica de Chile, RUT XX.XXX.XXX-X).
+    *   No se menciona al representante legal del responsable.
+
+*   **Artículo (letra d): Categorías de datos, universo de personas, destinatarios, finalidades, base de legitimidad, intereses legítimos.**
+    *   No se especifican las categorías, clases o tipos de datos que se tratan.
+    *   La descripción del universo de personas ("Externos") es demasiado genérica.
+    *   No se detallan los destinatarios a los que se prevé comunicar o ceder los datos (solo se menciona que la política *incluirá* esta información).
+    *   No se describen las finalidades específicas de los tratamientos (solo se menciona que la política *incluirá* esta información).
+    *   No se indica la base de legitimidad del tratamiento.
+    *   No se especifican los intereses legítimos, en caso de que esta sea la base de legitimidad para algún tratamiento.
+
+*   **Artículo (letra e): La política y las medidas de seguridad adoptadas.**
+    *   No se describe la política ni las medidas de seguridad implementadas para proteger las bases de datos personales.
+
+*   **Artículo (letra f): Derecho del titular para solicitar acceso, rectificación, supresión, oposición y portabilidad.**
+    *   Si bien se menciona que la política incluirá "Derechos del usuario para cada dato" e "Información donde dirigirse para hacer solicitudes", no se enumeran explícitamente los derechos ARSOP (Acceso, Rectificación, Supresión, Oposición, Portabilidad) ni el procedimiento detallado para ejercerlos.
+
+*   **Artículo (letra g): Derecho del titular de recurrir ante la Agencia.**
+    *   No se informa sobre el derecho del titular a recurrir ante la Agencia de Protección de Datos Personales en caso de que el responsable rechace o no responda oportunamente sus solicitudes.
+
+*   **Artículo (letra h): Transferencia de datos personales a un tercer país u organización internacional.**
+    *   Se menciona que la política detallará transferencias "fuera de la UC (procesadores externos o convenios)", pero no se especifica si esto incluye transferencias internacionales, ni se informa sobre el nivel de protección o las garantías existentes en caso de que no haya un nivel adecuado.
+
+*   **Artículo (letra i): El periodo durante el que se conservarán los datos personales.**
+    *   Se menciona que la política incluirá el "Período de retención de los datos", pero no se especifica dicho período.
+
+*   **Artículo (letra j): La fuente de la cual provienen los datos personales y, en su caso, si proceden de fuentes de acceso público.**
+    *   No se proporciona información sobre la fuente de los datos.
+
+*   **Artículo (letra k): Cuando el tratamiento está basado en el consentimiento del titular, la existencia del derecho a retirarlo.**
+    *   No se menciona este derecho.
+
+*   **Artículo (letra l): La existencia de decisiones automatizadas, incluida la elaboración de perfiles.**
+    *   Se menciona que la política incluirá "Información si hay algún procesamiento automático de toma de decisiones sobre sus datos y las consecuencias posibles de ello", pero no se proporciona la información significativa sobre la lógica aplicada ni las consecuencias previstas.
+
+*   **Artículo 14 quáter: Deber de protección desde el diseño y por defecto.**
+    *   La política no hace mención al cumplimiento de los principios de protección de datos desde el diseño y por defecto.
+
+*   **Obligaciones del responsable (listadas a-e en la página 10 del documento de ley proporcionado):**
+    *   La política actual no permite acreditar el cumplimiento de la mayoría de estas obligaciones, como informar la licitud del tratamiento (a), asegurar la recogida con fines específicos y limitados (b), o comunicar información exacta (c), debido a la falta de detalle. La obligación de suprimir o anonimizar datos precontractuales (d) tampoco se menciona.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+Para alinear la política con los requisitos legales, se recomienda:
+
+1.  **Desarrollar el Contenido:** Transformar el actual esquema en una política de privacidad completa y detallada, incorporando toda la información que actualmente solo se enuncia que "incluirá".
+2.  **Identificación Completa:** Especificar la razón social completa y RUT de la Pontificia Universidad Católica de Chile como responsable del tratamiento, y nombrar a su representante legal.
+3.  **Detallar Tratamientos (Art. d):** Describir exhaustivamente:
+    *   Las categorías específicas de datos personales de "externos" que se tratan (ej., nombre, RUT, correo electrónico, datos de navegación, imágenes, etc.).
+    *   Definir con mayor precisión el "universo de personas" que comprende la categoría "externos" (ej. visitantes del sitio web, postulantes a programas no conducentes a título, asistentes a seminarios, etc.).
+    *   Listar los destinatarios o categorías de destinatarios de los datos, incluyendo si son procesadores externos o si existen convenios de comunicación de datos.
+    *   Enumerar y describir cada una de las finalidades para las cuales se tratan los datos.
+    *   Indicar claramente la base de legitimidad para cada finalidad (consentimiento, obligación legal, interés legítimo, ejecución contractual, etc.).
+    *   Si se invoca el interés legítimo, explicar cuáles son dichos intereses.
+4.  **Medidas de Seguridad (Art. e):** Describir de forma general, pero suficiente, las medidas técnicas y organizativas adoptadas para garantizar la seguridad de los datos personales.
+5.  **Derechos de los Titulares (Art. f y g):**
+    *   Enumerar explícitamente los derechos de acceso, rectificación, supresión, oposición y portabilidad.
+    *   Describir el procedimiento claro y accesible para que los titulares ejerzan estos derechos, incluyendo los plazos de respuesta.
+    *   Informar sobre el derecho a recurrir ante la Agencia de Protección de Datos Personales.
+6.  **Transferencias Internacionales (Art. h):** Si se realizan, detallar los países u organizaciones destinatarias, el nivel de adecuación de protección y las garantías aplicadas si el nivel no es adecuado.
+7.  **Conservación de Datos (Art. i):** Establecer los plazos o criterios utilizados para determinar los períodos de conservación de las distintas categorías de datos.
+8.  **Fuente de los Datos (Art. j):** Indicar cómo se obtienen los datos personales (directamente del titular, fuentes de acceso público, terceros, etc.).
+9.  **Retiro del Consentimiento (Art. k):** Si el tratamiento se basa en el consentimiento, informar explícitamente sobre el derecho a retirarlo en cualquier momento y cómo hacerlo.
+10. **Decisiones Automatizadas (Art. l):** Si se utilizan, explicar su existencia, la lógica implicada y las consecuencias para el titular.
+11. **Principios Fundamentales:** Incluir una declaración sobre el compromiso con los principios de protección de datos, como la licitud, lealtad, transparencia, minimización, exactitud, limitación del plazo de conservación, integridad, confidencialidad, y protección desde el diseño y por defecto.
+12. **Fecha de Actualización:** Incluir una fecha de última actualización o número de versión en la política.
+
+**5. Puntuación General de Cumplimiento (por sección de la ley citada)**
+
+*   a) Versión de la política: ✅
+*   b) Individualización del responsable, representante legal y encargado: ❎
+*   c) Domicilio postal, correo electrónico, etc.: ✅
+*   d) Categorías, universo, destinatarios, finalidades, base de legitimidad, intereses legítimos: ❎
+*   e) Política y medidas de seguridad: ❎
+*   f) Derechos ARSOP: ❎
+*   g) Derecho a recurrir ante la Agencia: ❎
+*   h) Transferencia internacional: ❎
+*   i) Período de conservación: ❎
+*   j) Fuente de los datos: ❎
+*   k) Derecho a retirar consentimiento: ❎
+*   l) Decisiones automatizadas: ❎
+
+**6. Puntuación Total**
+
+Total de ✅: **2 / 12**

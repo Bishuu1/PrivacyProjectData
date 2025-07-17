@@ -1,0 +1,75 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DEL SITIO WEB TRANSBANK.CL FRENTE A LA LEY DE PROTECCIÓN DE DATOS PERSONALES DE CHILE**
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad**
+
+La política de privacidad de Transbank S.A. ("Transbank") para su sitio web www.transbank.cl ("Sitio Web") informa sobre cómo la empresa accede, utiliza, almacena, cuida y procesa los datos personales de los usuarios (clientes o visitantes).
+
+*   **Responsable:** Transbank S.A. se identifica como el único responsable del tratamiento de datos, proporcionando su razón social, RUT, domicilio y representante legal.
+*   **Bases de Licitud:** Principalmente el consentimiento del titular para el uso de herramientas del Sitio Web, y la autorización legal para cumplir obligaciones legales o requerimientos de autoridad.
+*   **Fuentes y Tipos de Datos:** Detalla diversas fuentes (proporcionados por el titular, recopilados por el uso del sitio, cedidos por terceros, fuentes de acceso público, autorizados por ley) y categorías de datos (identificación, contacto, económicos, financieros, perfil, tarjetas de pago, dispositivo, uso del sitio, transacciones). Reconoce la foto de perfil como dato sensible.
+*   **Propósitos del Tratamiento:** Enumera múltiples finalidades, incluyendo la operación del sitio, gestión de cuentas, evaluaciones de solvencia, verificación de identidad, cumplimiento contractual, gestión de solicitudes, encuestas, mejora de servicios, satisfacción de intereses legítimos (M&A, seguridad, protección de derechos), anonimización, prevención de actividades ilegales, cumplimiento normativo, envío de actualizaciones, personalización, análisis, marketing y publicidad (con consentimiento adicional).
+*   **Cesión o Comunicación de Datos:** Indica que los datos pueden ser cedidos a proveedores (mandatarios), terceros con acuerdos comerciales (para descuentos/ofertas), y compradores interesados en el negocio (M&A), tanto en Chile como en el extranjero. Establece que los proveedores tratarán los datos para los fines convenidos y bajo deberes de confidencialidad y seguridad.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley**
+
+Basado en los extractos proporcionados de la Ley 19.628 (que se asume es la base para esta evaluación, aunque el prompt menciona la Ley 21.719, los artículos provistos son de la 19.628):
+
+*   **Individualización del Responsable y Representante Legal (Art. [no especificado] b)):** La política identifica claramente a Transbank S.A. como responsable, su RUT, domicilio y a su representante legal.
+*   **Domicilio Postal (Art. [no especificado] c)):** Se proporciona el domicilio postal de Transbank.
+*   **Categorías de Datos, Universo de Personas, Destinatarios, Finalidades, Base de Legitimidad (Art. [no especificado] d)):**
+    *   La política detalla las categorías de datos que trata (Sección III).
+    *   Describe genéricamente el universo de personas (clientes y visitantes del Sitio Web).
+    *   Identifica los destinatarios a los que se prevé comunicar los datos (proveedores, socios comerciales, compradores potenciales - Sección V).
+    *   Enumera las finalidades de los tratamientos (Sección IV).
+    *   Indica las bases de legitimidad (consentimiento, obligación legal, interés legítimo - Sección II y IV).
+*   **Informar y Acreditar Licitud (Art. [no especificado] a) de "obligaciones"):** La política, en su conjunto, busca informar sobre el tratamiento y sus bases, intentando acreditar su licitud.
+*   **Recolección de Fuentes Lícitas con Fines Específicos, Explícitos y Lícitos (Art. [no especificado] b) de "obligaciones"):** La política declara que los datos se recogen de diversas fuentes (incluyendo consentimiento y autorización legal) y detalla fines específicos.
+*   **Principio de Licitud y Lealtad (Art. 3° a)):** Al declarar las bases de legitimación y los fines, la política intenta adherirse a este principio.
+*   **Principio de Finalidad (Art. 3° b)):** Los datos son recolectados para fines determinados, explícitos y lícitos, los cuales son informados en la política.
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley**
+
+*   **Disponibilidad de la Política en su Versión Actualizada (Art. [no especificado] a)):** Aunque la política existe, no se especifica cómo se notifican las actualizaciones ni cómo se asegura el acceso a la "última versión" de forma explícita (más allá de estar publicada).
+*   **Identificación del Encargado de Prevención (Art. [no especificado] b)):** La política no menciona si existe un Encargado de Prevención (Delegado de Protección de Datos) ni, en caso de existir, su identificación. La ley indica "si existiere", pero es una buena práctica aclararlo.
+*   **Medio Tecnológico Específico para Notificación de Solicitudes de Titulares (Art. [no especificado] c)):** Si bien se menciona un link (`https://ca.deloitte-halo.com/service/website/LineaeticaTransbank`) para correcciones y actualizaciones, este parece ser una línea ética general y no se presenta claramente como el canal principal, de fácil acceso y uso común para *todas* las solicitudes de los titulares relativas a sus derechos de protección de datos (acceso, rectificación, cancelación, oposición, etc.). Falta un correo electrónico o formulario de contacto dedicado explícitamente a estos fines.
+*   **Especificación de Intereses Legítimos (Art. [no especificado] d)):** Aunque se menciona el interés legítimo como base de legitimidad y se dan ejemplos (IV.h), la ley requiere que se especifique "cuáles serían éstos" de forma más concreta para cada tratamiento que se base en ellos, idealmente acompañado de una ponderación de derechos. La descripción es algo genérica.
+*   **Transferencias Internacionales de Datos (Art. [no especificado sobre transferencias internacionales]):** La política indica que se podrán ceder datos a entidades "en Chile o el extranjero" (Sección V). Sin embargo, no especifica bajo cuál de las causales legales permitidas por la ley chilena se realizarían dichas transferencias internacionales (ej. consentimiento expreso del titular para la transferencia específica, países con nivel adecuado de protección, cláusulas contractuales tipo, etc.).
+*   **Supresión o Anonimización de Datos Precontractuales (Art. [no especificado] d) de "obligaciones"):** La política no aborda específicamente la obligación de suprimir o anonimizar datos obtenidos para la ejecución de medidas precontractuales una vez que estas no prosperan.
+*   **Información sobre Derechos de los Titulares:** Si bien no está explícitamente en los fragmentos de ley proporcionados, una política de privacidad completa usualmente detalla los derechos de los titulares (acceso, rectificación, cancelación, oposición, portabilidad, etc.) y el procedimiento para ejercerlos. La política actual es escueta en este aspecto, remitiendo solo a un link para "corrección, actualización o ajuste".
+*   **Plazos de Conservación:** La política no especifica los plazos durante los cuales los datos personales serán conservados o los criterios utilizados para determinar dichos plazos. Esto es fundamental para el principio de finalidad y minimización.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Encargado de Prevención:** Aclarar si Transbank ha designado un Encargado de Prevención y, en caso afirmativo, proporcionar su identificación y datos de contacto.
+2.  **Canal de Contacto para Derechos:** Establecer y comunicar claramente un canal específico (ej. correo electrónico dedicado, formulario web específico) para que los titulares ejerzan todos sus derechos de protección de datos, asegurando que sea de fácil acceso y uso común.
+3.  **Detalle de Intereses Legítimos:** Para los tratamientos basados en interés legítimo, detallar de forma más específica cuál es el interés perseguido en cada caso y, preferiblemente, resumir la ponderación realizada frente a los derechos de los titulares.
+4.  **Transferencias Internacionales:** Especificar las bases legales que amparan las transferencias internacionales de datos personales, de acuerdo con la normativa chilena (ej. consentimiento, adecuación, garantías apropiadas).
+5.  **Actualización de la Política:** Indicar cómo se informará a los usuarios sobre cambios en la política y cómo acceder a versiones anteriores si fuera relevante, o al menos asegurar que la fecha de última actualización sea visible.
+6.  **Derechos de los Titulares:** Incluir una sección detallada que enumere los derechos de los titulares conforme a la ley chilena y describa el procedimiento para ejercerlos a través del canal designado.
+7.  **Plazos de Conservación:** Especificar los períodos de conservación de los datos personales para cada finalidad, o los criterios utilizados para determinar dichos plazos.
+8.  **Datos Precontractuales:** Mencionar el tratamiento de datos en fases precontractuales y la obligación de supresión o anonimización si el contrato no se materializa.
+
+**5. Puntuación General de Cumplimiento**
+
+**Contenido de la Política (según Art. [no especificado] a-d de la ley):**
+*   a) Disponibilidad y actualización de la política: ❎
+*   b) Individualización del responsable, rep. legal, encargado de prevención: ❎ (Falta información sobre encargado de prevención)
+*   c) Domicilio postal, correo electrónico, formulario de contacto para solicitudes de titulares: ❎ (Canal no es claro ni específico para todos los derechos)
+*   d) Categorías, universo, destinatarios, finalidades, base de legitimidad, intereses legítimos: ✅
+
+**Obligaciones del Responsable (según Art. [no especificado] a-e de "obligaciones"):**
+*   a) Informar y acreditar licitud: ✅
+*   b) Fuentes lícitas, fines específicos, explícitos, lícitos, limitación: ✅
+*   c) Comunicar información exacta, completa, actual: ✅ (Con la colaboración del titular)
+*   d) Suprimir o anonimizar datos precontractuales: ❎ (No se menciona explícitamente)
+*   e) Cumplir demás deberes, principios y obligaciones: ❎ (Debido a otras omisiones)
+
+**Transferencias Internacionales (según Art. [no especificado] sobre transferencias internacionales):** ❎ (No se especifican las bases legales para transferencias al extranjero)
+
+**Principios (Art. 3°):**
+*   a) Principio de licitud y lealtad: ✅
+*   b) Principio de finalidad: ✅
+
+**6. Puntuación Total**
+
+Sumando los ✅: **6 / 12**

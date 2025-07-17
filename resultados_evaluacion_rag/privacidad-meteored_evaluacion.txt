@@ -1,0 +1,81 @@
+**EVALUACIÓN DE POLÍTICA DE PRIVACIDAD FRENTE A LA LEY 21.719 DE CHILE**
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad**
+
+La política de privacidad de ALPRED S.L. ("empresa") describe cómo recoge y trata datos de usuarios del sitio web y otros interesados. Indica que el tratamiento se realiza según el RGPD europeo y la ley española.
+
+*   **Fuentes de datos:** Formularios web, correo electrónico, contacto telefónico, formularios en papel, correo postal, fuentes de acceso público y aplicaciones software.
+*   **Responsable:** ALPRED S.L., con NIF y domicilio en España. Proporciona teléfono y email de contacto.
+*   **Finalidades del tratamiento:** Administración interna, gestión económica/contable/RRHH, gestión de servicios, gestión y promoción comercial, atención al cliente, comunicaciones, videovigilancia y otros fines implícitos. Se menciona la elaboración de perfiles comerciales y para RRHH.
+*   **Tipos de datos tratados:**
+    *   **Proporcionados por el usuario:** Al enviar mensajes, comentarios, fotos/vídeos, informar sobre el clima, interactuar con publicidad, personalizar servicios.
+    *   **Recopilados automáticamente:** Información del dispositivo, sistema operativo, navegador, uso de servicios, actividades, dirección IP, identificadores de publicidad, proveedor móvil/internet, URL de referencia, información de ubicación (general y precisa, con opción a desactivar).
+    *   **Alertas y notificaciones:** Requiere email, info del dispositivo/operadora, código postal.
+    *   **Obtenidos de terceros:** Proveedores, socios analíticos, anunciantes, redes sociales (si el usuario autoriza).
+    *   **Categorías generales:** Identificativos, imagen, códigos, direcciones postales/electrónicas, características personales/profesionales, académicos/curriculares, económicos/financieros/seguros, datos de nómina/laboral.
+*   **Conservación de datos:** Mientras se mantenga la relación, no se solicite supresión, o exista previsión legal. Los datos de empleo no interesantes se eliminan inmediatamente. Los datos anonimizados pueden conservarse.
+*   **Legitimación:** Consentimiento, ejecución de contrato/precontractual, cumplimiento de obligaciones legales, interés legítimo del responsable.
+*   **Destinatarios:** La sección "6. ¿A qué destinatarios se comunicarán sus datos?" está vacía en el texto proporcionado, aunque se mencionan "Socios Publicitarios" y "Socios Analíticos" en la sección de tipos de datos.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley 21.719**
+
+*   **Identificación del Responsable y Contacto (Parcialmente):** Se identifica a ALPRED S.L. y se proporcionan datos de contacto como dirección postal (en España), correo electrónico y teléfono (Art. 14.b, 14.c).
+*   **Categorías de Datos Tratados:** La política enumera diversos tipos y categorías de datos que trata (Art. 14.d).
+*   **Finalidades del Tratamiento:** Se describen las finalidades para las cuales se tratan los datos personales (Art. 14.d).
+*   **Base de Legitimidad:** Se mencionan las bases de legitimidad para el tratamiento (consentimiento, contrato, obligación legal, interés legítimo) (Art. 14.d).
+*   **Plazo de Conservación (Parcialmente):** Se indica que los datos se conservarán mientras dure la relación o existan obligaciones legales, y que los datos anonimizados pueden conservarse indefinidamente, lo cual se alinea con la posibilidad de almacenar datos anonimizados por tiempo indeterminado para análisis y publicación (Art. 14.i y primer párrafo del extracto legal).
+*   **Fuente de los Datos:** Se especifican las fuentes de las cuales provienen los datos, incluyendo fuentes de acceso público (Art. 14.j).
+*   **Datos de Geolocalización (Parcialmente):** Se informa sobre el tipo de datos de geolocalización tratados, la finalidad (servicios basados en ubicación, alertas, publicidad relevante, análisis) y se menciona la comunicación a "Socios Publicitarios" para anuncios, lo que podría considerarse un servicio con valor añadido. Se informa sobre la posibilidad de desactivar la recopilación (Art. 16 sexies).
+*   **Responsable Extranjero:** Siendo una empresa española que trata datos de personas en Chile (asumido por el dominio .cl del enlace), proporciona un correo electrónico de contacto (Art. 14, último párrafo).
+*   **Anonymización para Publicación/Retención:** La política menciona la anonimización de datos cuando dejan de ser necesarios y la posibilidad de retener datos anonimizados, lo que es coherente con la disposición sobre publicación de resultados y análisis con datos anonimizados.
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley 21.719**
+
+*   **Mención y Adhesión a Ley Chilena:** La política se rige explícitamente por el RGPD europeo y la ley española, omitiendo cualquier referencia a la Ley 21.719 de Chile, lo cual es fundamental si trata datos de residentes en Chile.
+*   **Individualización Completa del Responsable:** No se individualiza al representante legal en Chile (si aplica) ni se menciona la existencia o no de un encargado de prevención (similar al DPO) (Art. 14.b).
+*   **Medio Específico para Solicitudes de Titulares:** Aunque se da un email, la ley chilena pide "el formulario de contacto o la identificación del medio tecnológico equivalente de uso común y fácil acceso mediante el cual se le notifican las solicitudes que realicen los titulares" (Art. 14.c). Un email general puede no ser suficiente si no está claramente designado para este fin.
+*   **Descripción del Universo de Personas:** Falta una "descripción genérica del universo de personas que comprenden sus bases de datos" (Art. 14.d).
+*   **Destinatarios de los Datos:** La sección "6. ¿A qué destinatarios se comunicarán sus datos?" está vacía. Aunque se mencionan "Socios Publicitarios" y "Socios Analíticos" en otras secciones, no se detallan las categorías de destinatarios a los que se prevé comunicar o ceder los datos de forma sistemática (Art. 14.d).
+*   **Especificación de Intereses Legítimos:** Cuando el tratamiento se basa en intereses legítimos, la ley exige que se especifique "cuáles serían éstos" (Art. 14.d). La política solo lo menciona como base genérica.
+*   **Transferencias Internacionales de Datos:** Siendo una empresa española tratando datos de chilenos, hay una transferencia internacional implícita. La política no informa sobre esto, ni si el país de destino (España, en este caso) cuenta con un nivel adecuado de protección (aunque bajo RGPD se presume), ni sobre las garantías que justifiquen tal transferencia si no hubiera adecuación (Art. 14.h).
+*   **Derecho a Retirar el Consentimiento:** No se informa explícitamente sobre la existencia del derecho del titular a retirar el consentimiento en cualquier momento, ni cómo hacerlo (Art. 14.k).
+*   **Decisiones Automatizadas y Perfilación:** Aunque se menciona la elaboración de perfiles comerciales y para RRHH, no se proporciona "información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular" (Art. 14.l).
+*   **Datos de Geolocalización (Duración):** Si bien se informa sobre el tratamiento de datos de geolocalización, la "duración del tratamiento" no está claramente definida, más allá de la "recopilación continuada" mientras esté habilitada (Art. 16 sexies).
+*   **Deber de Secreto o Confidencialidad (Art. 14 bis):** Aunque implícito, no hay una declaración explícita sobre el deber de secreto o confidencialidad que subsiste aún después de concluida la relación.
+*   **Derechos de los Titulares (General):** La política no detalla los derechos de los titulares según la ley chilena (acceso, rectificación, cancelación, oposición, portabilidad, etc.) ni los mecanismos para ejercerlos. Aunque no estaba explícitamente en los artículos proporcionados para el análisis detallado, es un componente esencial de cualquier política de privacidad bajo la ley chilena.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Adaptación a la Ley Chilena:** Incluir una declaración explícita de que la política cumple con la Ley 21.719 de Chile para el tratamiento de datos de residentes en Chile.
+2.  **Completar Información del Responsable:** Identificar al representante legal (si aplica en Chile) y al encargado de prevención (si existe). Designar claramente el correo electrónico o un formulario específico como el canal para que los titulares ejerzan sus derechos.
+3.  **Detallar Universo y Destinatarios:** Describir genéricamente el universo de personas en sus bases de datos. Completar la sección de destinatarios, especificando las categorías de terceros a los que se comunican o ceden datos (ej. proveedores de servicios de marketing, plataformas de análisis, autoridades competentes si aplica).
+4.  **Especificar Intereses Legítimos:** Si se utiliza el interés legítimo como base, detallar cuáles son esos intereses para cada tratamiento relevante.
+5.  **Informar sobre Transferencias Internacionales:** Explicar que los datos se transfieren a España, indicar que España (bajo RGPD) ofrece un nivel adecuado de protección y/o las garantías adoptadas.
+6.  **Clarificar Plazo de Conservación:** Ser más específico sobre los plazos o los criterios utilizados para determinarlos para diferentes categorías de datos y finalidades.
+7.  **Derechos de los Titulares:** Incluir una sección detallada sobre los derechos de los titulares según la ley chilena (acceso, rectificación, cancelación, oposición, portabilidad, etc.) y el procedimiento para ejercerlos, incluyendo el derecho a retirar el consentimiento.
+8.  **Detallar Decisiones Automatizadas y Perfilación:** Explicar la lógica aplicada en la elaboración de perfiles y las consecuencias previstas para los titulares.
+9.  **Datos de Geolocalización:** Especificar de forma más clara la duración del tratamiento de los datos de geolocalización.
+10. **Deber de Secreto:** Incluir una cláusula sobre el deber de secreto y confidencialidad.
+11. **Revisión Legal Local:** Someter la política revisada a un experto legal en Chile para asegurar su plena conformidad.
+
+**5. Puntuación General de Cumplimiento**
+
+*   Identificación del Responsable y Contacto: ✅ (Parcial)
+*   Información sobre Tratamiento (Categorías, Finalidades, Base Legal): ✅ (Parcial)
+*   Destinatarios de los Datos: ❎
+*   Transferencias Internacionales: ❎
+*   Plazo de Conservación: ✅ (Parcial)
+*   Fuente de los Datos: ✅
+*   Derecho a Retirar el Consentimiento: ❎
+*   Decisiones Automatizadas y Perfilación: ❎
+*   Datos de Geolocalización: ✅ (Parcial)
+*   Responsable Extranjero (Contacto): ✅
+*   Mención y Adhesión a Ley Chilena: ❎
+*   Anonymización para Publicación/Retención: ✅
+
+**6. Puntuación Total**
+
+✅: 7
+❎: 5
+
+**Puntuación Total: 7 / 12**

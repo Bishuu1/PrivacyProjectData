@@ -1,0 +1,83 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE VK.COM FRENTE A LA LEY 21.719 DE CHILE**
+
+**1. Resumen de los puntos principales de la política de privacidad de VK.com**
+
+La política de privacidad de VK.com (LLC "VKontakte", Rusia) establece las reglas para la recopilación, almacenamiento, distribución y protección de la información de los usuarios del sitio web https://vk.com/. Sus principales puntos son:
+
+*   **Propósito:** Proteger la información del usuario contra acceso y divulgación no autorizados, y cumplir con las obligaciones contractuales con el usuario para el uso del sitio y sus servicios.
+*   **Consentimiento:** El registro y uso del sitio implica la aceptación de la política. Se solicitará consentimiento separado si es necesario para procesamientos específicos.
+*   **Información Recopilada:**
+    *   **Datos personales proporcionados por el usuario:** Mínimos para el registro (número de teléfono móvil y/o correo electrónico), datos adicionales en la sección de edición del perfil (estado civil, fecha de nacimiento, ciudad natal, etc.), y datos adicionales a solicitud de la Administración del Sitio para cumplir obligaciones (ej. copia de documento de identidad).
+    *   **Datos de Salud (VK Health):** Para el servicio VK Health, se pueden procesar datos de actividad física (pasos, distancia, calorías) de APIs integradas, sujeto a las Reglas de Protección de Información del Usuario de VK Health.
+    *   **Otra información del usuario:** Datos técnicos de acceso (IP, SO, proveedor), cookies, información creada por el usuario (estados, publicaciones, fotos, audios), información de acciones del usuario (agregar amigos, participar en grupos), información de acciones de otros usuarios (etiquetas), y datos de seguimiento facial en tiempo real para máscaras en la aplicación móvil (sin almacenar ni compartir estos datos faciales).
+*   **Procesamiento de Datos:**
+    *   Se basa en principios de licitud, buena fe, y adecuación a los fines.
+    *   Los datos se almacenan en medios electrónicos y se procesan automáticamente, salvo excepciones.
+*   **Transferencia de Datos:**
+    *   No se transfieren a terceros, excepto con consentimiento del usuario a contrapartes (con obligaciones de confidencialidad), a aplicaciones de terceros (el usuario debe revisar sus políticas), o por requerimiento de autoridades estatales.
+    *   Se instruye a VK LLC para procesar datos con fines de mejora del servicio y personalización.
+    *   VKontakte es parte del Ecosistema VK, implicando aceptación del Acuerdo de Usuario y Política de Privacidad del Ecosistema VK, con transferencias de datos hacia/desde servicios del ecosistema.
+*   **Eliminación de Datos:** Los datos se eliminan si el usuario los borra, elimina su página, o la Administración del Sitio elimina la información por incumplimiento de términos. Tras la eliminación de la página, los datos se conservan por el período establecido por la legislación rusa.
+*   **Derechos del Usuario:** Acceso a su información, establecer niveles de confidencialidad, realizar cambios y correcciones, eliminar información, y solicitar a la Administración actualización, bloqueo o eliminación de datos incorrectos o innecesarios.
+*   **Medidas de Protección:** Técnicas, organizativas y legales, incluyendo autorización por login/contraseña, vinculación a número de teléfono móvil para recuperación y verificación.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley (Ley 21.719)**
+
+Basado en los extractos proporcionados de la Ley 21.719:
+
+*   ✅ **Artículo 5º a) - Datos tratados y su origen:** La política (secciones 4.1 y 4.2) detalla los tipos de datos recopilados y su origen (proporcionados por el usuario, generados por la actividad, técnicos).
+*   ✅ **Artículo 5º b) - Finalidad o finalidades del tratamiento:** La política (sección 3 y 5.1.1) establece que el propósito principal es cumplir las obligaciones con los usuarios respecto al uso del sitio y sus servicios, y la ejecución del acuerdo.
+*   ✅ **Artículo (primer bloque) j) - Fuente de los datos personales:** Similar al Art. 5º a), la política es clara sobre si los datos provienen del usuario o de su interacción con la plataforma. No menciona explícitamente "fuentes de acceso público" como origen externo, pero sí que la información publicada por el usuario puede volverse pública.
+*   ✅ **Artículo 14 quáter - Deber de protección desde el diseño y por defecto:** La política (sección 7) describe medidas técnicas, organizativas y legales para la protección de datos, y la sección 6.3 permite al usuario ajustar niveles de confidencialidad, lo que sugiere una consideración por la privacidad por defecto y desde el diseño.
+*   ✅ **Definiciones v), w), x) - Cesión, Elaboración de perfiles, Tercero mandatario:** Las prácticas descritas en la política (ej. 5.1.4 sobre transferencias y procesamiento por VK LLC, y uso de datos para recomendaciones) se alinean con las definiciones legales de cesión, elaboración de perfiles y encargado del tratamiento.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley (Ley 21.719)**
+
+*   ❎ **Artículo 5º c) - Categorías, clases o tipos de destinatarios, o identidad:** La política (5.1.4) menciona "contrapartes" de forma genérica y "VK LLC" como encargado. Si bien identifica a VK LLC, la categoría "contrapartes" es vaga. No se especifica claramente el derecho del titular a solicitar la identidad de cada destinatario. La transferencia a "servicios del Ecosistema VK" también es una categoría amplia.
+*   ❎ **Artículo 5º d) e i) (primer bloque) - Período de conservación:** La política (5.1.5) indica que tras la eliminación de la página, los datos se conservan "durante el período necesario y establecido por la legislación vigente de la Federación Rusa". Esto no cumple con el requisito de informar el período específico o los criterios para determinarlo bajo la ley chilena. La referencia a la ley rusa no es suficiente para usuarios en Chile.
+*   ❎ **Artículo 5º f) y l) (primer bloque) - Decisiones automatizadas y elaboración de perfiles (lógica y consecuencias):** La política (5.1.4) menciona el procesamiento automatizado para ofrecer recomendaciones y publicidad relevante, pero no proporciona "información significativa sobre la lógica aplicada" ni detalla las "consecuencias previstas de dicho tratamiento para el titular" de forma clara y comprensible.
+*   ❎ **Artículo (primer bloque) h) - Transferencias internacionales:** La empresa es rusa y los datos se almacenan en Rusia. La política no menciona la existencia o ausencia de una decisión de adecuación para Rusia (o cualquier otro país al que se transfieran datos) por parte de la autoridad chilena competente, ni informa sobre garantías específicas que justifiquen tales transferencias si no existe adecuación (ej. Cláusulas Contractuales Tipo adaptadas a Chile).
+*   ❎ **Artículo (primer bloque) k) - Derecho a retirar el consentimiento:** Si bien la política menciona la obtención de consentimiento para ciertos procesamientos (1.8, 5.1.4), no establece explícitamente el derecho del titular a retirar su consentimiento en cualquier momento, ni las implicaciones de dicha retirada (especialmente que no afectará la licitud del tratamiento previo).
+*   ❎ **Artículo (segundo bloque, sobre datos de salud) - Tratamiento de datos de salud y perfil biológico:** La política (4.1.4) menciona el procesamiento de datos de actividad física para "VK Health" para "cumplir el acuerdo". La ley chilena prohíbe el tratamiento de datos de salud salvo excepciones tasadas (art. no numerado, d), e), f)). "Cumplir el acuerdo" no es una de estas excepciones directas. Se requeriría un análisis más profundo para ver si encaja en "medicina preventiva" o "gestión de sistemas y servicios de asistencia sanitaria", lo cual es dudoso para una red social. La política debería basarse en el consentimiento explícito o una excepción legal chilena claramente aplicable. La referencia a "VK Health User Information Protection Rules" separadas no subsana la deficiencia en esta política general si no se integran sus términos o se asegura su cumplimiento con la ley chilena.
+*   ❎ **Artículo 16 sexies - Datos de geolocalización:** La política (4.2.1) menciona la recopilación de "datos de geolocalización" pero no informa de manera "clara, suficiente y oportuna" sobre el tipo específico de datos de geolocalización, la finalidad detallada, la duración específica del tratamiento de estos datos, ni si se comunicarán o cederán a terceros para servicios con valor añadido, como exige la ley chilena.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Destinatarios de Datos (Art. 5º c)):** Especificar las categorías de terceros destinatarios de forma más precisa. Indicar explícitamente el derecho del titular a solicitar la identidad de los destinatarios específicos. Aclarar qué entidades componen el "Ecosistema VK" si hay transferencias.
+2.  **Período de Conservación (Art. 5º d) e i)):** Establecer períodos de conservación específicos para los diferentes tipos de datos o, como mínimo, los criterios claros utilizados para determinar dichos períodos, en conformidad con la legislación chilena, no solo la rusa.
+3.  **Decisiones Automatizadas y Perfiles (Art. 5º f) y l)):** Incluir una explicación más detallada sobre la lógica utilizada en la elaboración de perfiles y decisiones automatizadas (ej. principales factores considerados para las recomendaciones) y las consecuencias significativas que estos tratamientos pueden tener para los usuarios (ej. tipo de contenido o publicidad que verán).
+4.  **Transferencias Internacionales (Art. (primer bloque) h)):**
+    *   Identificar todos los países a los que se transfieren datos personales.
+    *   Para Chile, indicar si existe una declaración de nivel adecuado de protección para dichos países por parte de la autoridad chilena.
+    *   Si no existe, detallar las garantías específicas implementadas para proteger los datos en dichas transferencias (ej. Cláusulas Contractuales Tipo, Normas Corporativas Vinculantes, si fueran aplicables y reconocidas en Chile).
+5.  **Retirada del Consentimiento (Art. (primer bloque) k)):** Incluir una cláusula clara que informe a los usuarios sobre su derecho a retirar el consentimiento en cualquier momento para los tratamientos basados en él, cómo ejercerlo, y que la retirada no afectará la licitud del tratamiento previo.
+6.  **Datos de Salud (VK Health):**
+    *   Para usuarios en Chile, el tratamiento de datos de salud (como los de VK Health) debe basarse en el consentimiento explícito e informado del titular o en una de las excepciones legales chilenas claramente aplicables y justificadas. La base de "cumplir el acuerdo" es insuficiente.
+    *   Asegurar que las "VK Health User Information Protection Rules" cumplan con la ley chilena y sean fácilmente accesibles.
+7.  **Datos de Geolocalización (Art. 16 sexies):**
+    *   Especificar el tipo de datos de geolocalización tratados (ej. GPS preciso, IP, etc.).
+    *   Detallar la finalidad específica para la cual se tratan los datos de geolocalización.
+    *   Indicar la duración del tratamiento de estos datos.
+    *   Informar si los datos de geolocalización se ceden a terceros para servicios con valor añadido y, en tal caso, a quiénes y con qué fines.
+8.  **Adaptación General a Chile:** Considerar la creación de un anexo o una versión de la política de privacidad específica para usuarios en Chile que aborde directamente los requisitos de la Ley 21.719 y utilice la terminología y referencias legales chilenas.
+9.  **Información sobre la Autoridad de Control:** Aunque no está en los extractos proporcionados, es buena práctica informar a los usuarios sobre su derecho a presentar reclamaciones ante la Agencia de Protección de Datos Personales de Chile.
+
+**5. Puntuación general de cumplimiento (por sección evaluada de la ley)**
+
+| Artículo/Aspecto Legal Chileno                                  | Cumplimiento |
+| :--------------------------------------------------------------- | :----------: |
+| Art. 5º a) - Datos tratados y su origen                          |      ✅      |
+| Art. 5º b) - Finalidad del tratamiento                           |      ✅      |
+| Art. 5º c) - Destinatarios de los datos                          |      ❎      |
+| Art. 5º d) / i) - Período de conservación                        |      ❎      |
+| Art. 5º f) / l) - Decisiones automatizadas/perfiles (lógica, consecuencias) |      ❎      |
+| Art. (primer bloque) h) - Transferencias internacionales         |      ❎      |
+| Art. (primer bloque) j) - Fuente de los datos                    |      ✅      |
+| Art. (primer bloque) k) - Derecho a retirar consentimiento       |      ❎      |
+| Art. 14 quáter - Protección desde el diseño y por defecto        |      ✅      |
+| Art. (segundo bloque) - Tratamiento de datos de salud            |      ❎      |
+| Art. 16 sexies - Datos de geolocalización                        |      ❎      |
+
+**6. Puntuación total**
+
+**Puntuación Total: 4 ✅ de 11 secciones evaluadas.**

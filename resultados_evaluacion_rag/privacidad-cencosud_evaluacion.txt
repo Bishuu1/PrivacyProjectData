@@ -1,0 +1,76 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE CENCOSUD FIDELIDAD S.A. FRENTE A LA LEY DE PROTECCIÓN DE DATOS PERSONALES DE CHILE (BASADA EN LOS EXTRACTOS PROPORCIONADOS DE LA LEY 19.628)**
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad**
+
+La política de privacidad de Cencosud Fidelidad S.A. (en adelante, "la Política") establece las condiciones bajo las cuales se recolectan, almacenan, utilizan y tratan los datos personales de los usuarios del programa "Puntos Cencosud".
+
+*   **Responsable y Declaración:** Identifica a Cencosud Fidelidad S.A. como responsable, su domicilio, y el propósito de la política. Informa que las modificaciones se comunicarán en el sitio web y se entenderán aceptadas con el siguiente canje.
+*   **Recolección de Datos:** Para ser usuario registrado, se solicita nombre, apellidos, cédula de identidad, fecha de nacimiento, correo electrónico, número de contacto y, para despachos, la dirección.
+*   **Consentimiento y Finalidades:** El usuario consiente expresamente el almacenamiento, procesamiento, tratamiento y disposición (cesión/transferencia) de su información para:
+    *   Mantener relaciones contractuales y comerciales (validación, información de canjes, reclamos, cambios).
+    *   Confección y mejora de productos/servicios del Programa o Marcas Participantes, y diseño de nuevos.
+    *   Envío de información técnica, publicidad, ofertas y promociones (del Programa, Marcas Participantes, Grupo Cencosud).
+    *   Realización de estudios demográficos, de comportamiento e investigaciones de mercado.
+*   **Cesión de Datos:** Se contempla la comunicación de datos a empresas del Grupo Cencosud, filiales, controladoras, o sociedades con acuerdos comerciales, y Marcas Participantes del Programa. Se indica que se "procurará" que el destinatario garantice la reserva y elimine los datos si el usuario se opone.
+*   **Plazo de Conservación:** Los datos se conservarán mientras se requieran para las finalidades indicadas, sin perjuicio de los derechos del usuario.
+*   **Derechos del Usuario:** Se reconocen los derechos de acceso, rectificación, cancelación, oposición, revocación del consentimiento (con efectos futuros) y solicitud de no envío de publicidad, conforme a la Ley 19.628.
+*   **Ejercicio de Derechos:** Se proporciona el correo electrónico datospersonales@cencosud.cl.
+*   **Representante Legal:** Se identifica a don Ricardo González Novoa.
+*   **Medidas de Seguridad:** Menciona el uso de protocolo HTTPS y TLS.
+*   **Cookies y Google Analytics:** Informa sobre su uso para personalizar la experiencia, navegación, publicidad y análisis estadístico, con opción de deshabilitación por el usuario.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley (Según Extractos Provistos)**
+
+*   ✅ **Identificación del Responsable y Representante Legal (Información al titular - b)):** La política identifica claramente a Cencosud Fidelidad S.A. como responsable (I.1) y a su representante legal (I.7), incluyendo sus domicilios.
+*   ✅ **Medio de Contacto para Solicitudes (Información al titular - c)):** Se proporciona una dirección de correo electrónico (datospersonales@cencosud.cl) para el ejercicio de los derechos de los titulares (I.5).
+*   ✅ **Categorías de Datos Tratados y Universo de Personas (Información al titular - d)):** Se especifican los datos personales recolectados para el registro y despacho (nombre, RUT, fecha de nacimiento, email, teléfono, dirección) (I.2). El universo son los "Usuarios registrados en el Programa" (I.1, I.2).
+*   ✅ **Finalidades del Tratamiento (Información al titular - d); Principio de Finalidad (Art. 3 b)):** Se enumeran las finalidades para las cuales se utilizarán los datos (I.2), como la gestión contractual, mejora de servicios, envío de publicidad y estudios.
+*   ✅ **Base de Legitimidad (Consentimiento) (Información al titular - d); Principio de Licitud (Art. 3 a)):** La política declara que el tratamiento se basa en el consentimiento expreso del usuario al incorporarse al Programa (I.2).
+*   ✅ **Enumeración de Derechos del Usuario (I.4):** La política reconoce los derechos ARCO (acceso, rectificación, cancelación, oposición) y el derecho a revocar el consentimiento, en línea con lo que establece la Ley 19.628.
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley (Según Extractos Provistos)**
+
+*   ❎ **Consentimiento para Modificaciones de la Política (General):** La política indica que "cualquier modificación que se realice a esta política será informada oportunamente en el sitio web... sin perjuicio de la aceptación por parte del 'Usuario' al momento de realizar el siguiente canje" (I.1). Esto no constituye un consentimiento libre, específico, informado e inequívoco para cambios sustanciales, especialmente si son perjudiciales para el titular. El consentimiento no puede ser tácito o inferido de una acción no directamente relacionada con la aceptación de la nueva política.
+*   ❎ **Cesión de Datos Personales (Art. 15):**
+    *   **Consentimiento para la Cesión:** Aunque se menciona que el usuario consiente la "Disposición" que incluye "ceder, transferir", este consentimiento es general y se otorga al momento de la incorporación al programa para un amplio espectro de destinatarios (Grupo Cencosud, Marcas Participantes, etc.) (I.2). El Art. 15 establece que si el consentimiento original no consideró la cesión, debe recabarse antes. La amplitud de la cesión ("todo o parte de la Información") a un conjunto tan vasto y potencialmente variable de entidades podría no cumplir con el requisito de que el consentimiento sea suficientemente informado sobre los destinatarios específicos o categorías específicas de destinatarios y las finalidades de dicha cesión.
+    *   **Garantías de los Cesionarios:** La política establece que "El Programa procurará que el destinatario de la referida información garantice que ésta será tratada bajo adecuados parámetros de reserva..." (I.2). "Procurará" es una declaración de intención débil. El responsable (cedente) tiene la obligación de asegurar que la cesión se realiza cumpliendo la ley y que los cesionarios tratarán los datos conforme a los fines permitidos y con las debidas garantías, lo que usualmente se formaliza mediante contratos de encargo de tratamiento o acuerdos de cesión que impongan obligaciones claras.
+*   ❎ **Especificidad de las Finalidades (Principio de Finalidad - Art. 3 b); Obligaciones - b)):** Algunas finalidades son muy amplias, por ejemplo: "La confección y/o mejora de los productos y/o servicios que el Programa o las Marcas Participantes, le prestan a los “Usuario”(s), así como el diseño de nuevos productos y/o servicios para éstos" (I.2). Si bien la mejora de servicios es una finalidad común, su amplitud podría dificultar que el usuario comprenda cabalmente el alcance del tratamiento.
+*   ❎ **Plazo de Conservación de los Datos (General, Derivado del Principio de Finalidad):** La política indica que los datos se conservarán "mientras se requieran para el cumplimiento de una o más de las finalidades singularizadas..." (I.3). Esto es vago. La ley exige que los datos no se conserven más tiempo del necesario para los fines para los que fueron recogidos. Se deberían establecer criterios más concretos o plazos máximos, vinculados a la vigencia de la relación contractual o plazos legales de prescripción.
+*   ❎ **Información sobre Intereses Legítimos para Cesión (Art. 15; Información al titular - d)):** El Art. 15 permite la cesión basada en un interés legítimo del cedente o cesionario (conforme Art. 13 d)). Si Cencosud pretendiera basar alguna cesión en esta base de legitimación (además del consentimiento), debería especificar cuáles son esos intereses legítimos, lo cual no se hace. La política se basa exclusivamente en el consentimiento para la cesión.
+*   ❎ **Obligación de Suprimir o Anonimizar Datos Precontractuales (Obligaciones - d)):** La política no menciona explícitamente el tratamiento de datos obtenidos para la ejecución de medidas precontractuales ni la obligación de suprimirlos o anonimizarlos si el contrato no se concreta. Si bien el contexto es un programa de fidelidad (post-contractual), si se recolectaran datos en una fase previa a la inscripción formal que no se complete, esta obligación aplicaría.
+*   ❎ **Información sobre Encargado de Prevención (DPO) (Información al titular - b)):** La ley requiere la identificación del encargado de prevención, "si existiere". La política no lo menciona. Dada la envergadura de Cencosud y el volumen de datos que maneja, es altamente probable que cuente con esta figura o una similar, o que deba tenerla. Si existe, debe ser identificado.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Consentimiento para Modificaciones:** Implementar un mecanismo de consentimiento explícito y separado para cualquier modificación sustancial de la política de privacidad, que no esté vinculado a la realización de un canje.
+2.  **Consentimiento para Cesión de Datos:**
+    *   Obtener un consentimiento más granular y específico para la cesión de datos, detallando las categorías de destinatarios (ej. "empresas de retail del Grupo Cencosud", "entidades financieras colaboradoras para promociones X") y las finalidades específicas para cada tipo de cesión.
+    *   Considerar si todas las cesiones previstas pueden ampararse en el consentimiento inicial o si, para ciertas cesiones a nuevas entidades o para nuevas finalidades, se requiere un consentimiento nuevo y específico conforme al Art. 15.
+3.  **Responsabilidad sobre Cesionarios:** Sustituir la expresión "procurará que el destinatario garantice" por un compromiso firme de que se establecerán acuerdos contractuales con los cesionarios que aseguren el cumplimiento de la normativa de protección de datos y el respeto a las finalidades autorizadas.
+4.  **Especificidad de Finalidades:** Detallar con mayor precisión las finalidades, especialmente aquellas más amplias como "mejora de productos/servicios" o "diseño de nuevos productos", para que el usuario comprenda mejor el alcance del tratamiento.
+5.  **Plazo de Conservación:** Establecer criterios más concretos para la conservación de los datos, por ejemplo, "durante la vigencia de su membresía en el Programa y por un período adicional de X años para cumplir con obligaciones legales/defensa en reclamaciones", o hasta que el usuario solicite la supresión y esta proceda legalmente.
+6.  **Intereses Legítimos:** Si se va a utilizar el interés legítimo como base para alguna cesión (conforme Art. 15), identificar y explicar claramente cuáles son dichos intereses legítimos en la política.
+7.  **Datos Precontractuales:** Incluir una sección que aborde el tratamiento de datos en fases precontractuales, si aplica, y la obligación de supresión o anonimización.
+8.  **Encargado de Prevención (DPO):** Si Cencosud Fidelidad S.A. cuenta con un Encargado de Prevención de Delitos o un Delegado de Protección de Datos, identificarlo claramente con sus datos de contacto en la política.
+9.  **Revisión General de Licitud:** Asegurar que todas las operaciones de tratamiento, incluyendo la recolección inicial, se basan en un consentimiento que cumple con todos los requisitos legales (libre, informado, específico, inequívoco) para cada una de las finalidades y cesiones.
+
+**5. Puntuación General de Cumplimiento (Según Extractos Provistos)**
+
+*   **Art. 15 - Cesión de datos personales:** ❎
+*   **Obligaciones - a) Informar y poner a disposición... licitud:** ❎ (La existencia de la política es un paso, pero la licitud general se ve comprometida por otros incumplimientos)
+*   **Obligaciones - b) Asegurar... fines específicos, explícitos y lícitos... tratamiento se limite:** ❎
+*   **Obligaciones - c) Comunicar o ceder... información exacta, completa y actual:** ❎ (La licitud de la cesión en sí está cuestionada)
+*   **Obligaciones - d) Suprimir o anonimizar... precontractuales:** ❎ (No abordado)
+*   **Información al titular - b) Individualización del responsable... representante legal... encargado de prevención:** ✅ (Parcialmente, falta DPO si existe/es requerido)
+*   **Información al titular - c) Domicilio postal, correo electrónico... para solicitudes:** ✅
+*   **Información al titular - d) Categorías... universo... destinatarios... finalidades... base de legitimidad... intereses legítimos:** ❎ (Aunque se listan, la validez de la base de legitimidad para todas las cesiones y la falta de detalle en intereses legítimos si aplicasen, son deficientes)
+*   **Art. 3 - a) Principio de licitud y lealtad:** ❎
+*   **Art. 3 - b) Principio de finalidad:** ❎
+
+**6. Puntuación Total**
+
+*   Total de ✅: 2
+*   Total de ❎: 8
+
+**Conclusión Parcial:**
+La política de privacidad de Cencosud Fidelidad S.A. cumple con algunos requisitos básicos de información, como la identificación del responsable y los canales de contacto. Sin embargo, presenta deficiencias significativas en aspectos cruciales como la obtención de un consentimiento válido y específico para las modificaciones de la política y, fundamentalmente, para la cesión de datos a un amplio espectro de terceros. La vaguedad en ciertas finalidades y en el plazo de conservación, junto con la débil garantía sobre el tratamiento por parte de los cesionarios, son también puntos críticos que requieren atención urgente para alinearse con los principios y obligaciones de la Ley 19.628 (y previsiblemente con la más reciente Ley 21.719, que refuerza estas exigencias).

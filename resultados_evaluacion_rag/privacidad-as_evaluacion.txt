@@ -1,0 +1,86 @@
+## Evaluación de la Política de Privacidad de Diario AS frente a la Ley 21.719 de Chile
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de Diario AS establece los términos bajo los cuales se recopilan, utilizan y protegen los datos personales de los usuarios de sus servicios (Servicios AS). Los puntos clave son:
+
+*   **Aceptación:** El uso de los Servicios AS implica la aceptación de la política.
+*   **Responsable:** Diario AS, S.L., empresa española, es el responsable del tratamiento, con un Delegado de Protección de Datos (DPO) contactable.
+*   **Normativa Aplicable:** Declara sumisión a la normativa española y europea.
+*   **Finalidades:** Personalización de servicios, perfilamiento de usuarios, publicidad segmentada (propia y de terceros, incluyendo geolocalización con autorización previa), diseño de nuevos servicios y gestión de incidencias.
+*   **Tipos de Datos:** Principalmente dirección IP, código de usuario, datos de uso y navegación, intereses inferidos, información del dispositivo, datos de conexión, cookies, tecnologías de seguimiento e información del territorio de conexión.
+*   **Datos Compartidos con Terceros:** Afirma no ceder datos sin base jurídica. Utiliza proveedores externos para medición y análisis mediante cookies.
+*   **Menores de Edad:** Prohíbe el uso a menores de 14 años sin consentimiento parental, reservándose el derecho de solicitar pruebas.
+*   **Derechos de los Usuarios:** Menciona acceso, rectificación, supresión, oposición, portabilidad y limitación, ejercitables por correo postal. Informa sobre el derecho a reclamar ante la AEPD (España) y el DPO de Prisa.
+*   **Plazo de Conservación:** Mientras el usuario mantenga su condición o no ejerza su derecho de supresión. Tras la supresión, los datos se bloquean por 5 años.
+*   **Legitimación:** Basa el tratamiento en el "interés legítimo de Diario AS".
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley (Ley 21.719)**
+
+*   **Identificación del Responsable:** La política identifica claramente al responsable del tratamiento (Diario AS, S.L.) y proporciona datos de contacto, incluyendo un DPO, lo cual es una buena práctica, aunque el DPO se enmarca en la regulación europea.
+*   **Finalidades del Tratamiento (parcialmente):** Se enumeran las finalidades para las cuales se tratan los datos (Art. 5º b).
+*   **Tipos de Datos Recogidos (parcialmente):** Se describen las categorías de datos que se recopilan.
+*   **Derechos de los Titulares (parcialmente):** Se mencionan varios derechos como acceso, rectificación, supresión, oposición y portabilidad (Art. 5º y otros).
+*   **Plazo de Conservación (Art. 5º d):** Se establece un criterio para la conservación de los datos ("mientras ostente la condición de Usuario") y un plazo específico tras la solicitud de supresión (5 años para responsabilidades legales).
+*   **Datos de Menores:** Establece una edad (14 años) y la necesidad de consentimiento parental, lo cual es una medida de protección.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley (Ley 21.719)**
+
+*   **Normativa Aplicable:** La política se somete explícitamente a la normativa española y europea, omitiendo cualquier referencia a la Ley 21.719 de Chile. Si Diario AS trata datos de titulares en Chile, debe cumplir con la ley chilena.
+*   **Información sobre Geocalocalización (Art. 16 sexies):**
+    *   Si bien menciona que se solicitará "autorización previa y específica" para tratar información de geolocalización, no detalla de forma clara, suficiente y oportuna:
+        *   El *tipo* específico de datos de geolocalización.
+        *   La *duración* del tratamiento de estos datos de geolocalización.
+        *   Si los datos de geolocalización se comunicarán o cederán a un tercero para la *prestación de un servicio con valor añadido* y quién sería ese tercero.
+*   **Información sobre Decisiones Automatizadas y Elaboración de Perfiles (Art. 5º l):**
+    *   La política admite la elaboración de perfiles ("Definir tipologías, segmentaciones y perfiles de usuarios", "Mostrar información editorial o comercial específicamente diseñada para el perfil inferido").
+    *   Sin embargo, no proporciona "información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular", como exige la ley.
+*   **Base de Licitud del Tratamiento (Art. 5º e, k y Art. 13):**
+    *   La política invoca el "interés legítimo de Diario AS" como base jurídica general. Si bien el interés legítimo es una base válida (Art. 13 d), su aplicación debe ser específica y justificada para cada finalidad, especialmente para el perfilamiento y la publicidad dirigida.
+    *   La política también menciona que "A través de la aceptación de esta cláusula, usted acepta expresamente la Política de Privacidad", lo que sugiere el consentimiento como base. Si el consentimiento es la base para ciertos tratamientos (ej. perfilamiento para publicidad, cookies no esenciales), debe cumplirse con el Art. 5º k, informando sobre "la existencia del derecho a retirarlo en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo a su retirada". Esto no se menciona explícitamente.
+*   **Comunicación de Datos a Terceros y Transferencias Internacionales (Art. 5º c y sección sobre protección en transferencias):**
+    *   La política indica que "no cederá los datos personales de los Usuarios a ningún tercero sin una base jurídica que legitime este tratamiento" y menciona "proveedores externos" para medición.
+    *   No se especifican las "categorías, clases o tipos de destinatarios, o bien, la identidad de cada destinatario" a los que se hayan comunicado o se prevea comunicar los datos (Art. 5º c), más allá de "proveedores externos" para analítica.
+    *   Dado que Diario AS es una empresa española y los datos podrían ser tratados en España o por proveedores en otros países, se configura una transferencia internacional. La política no informa si los países destinatarios cuentan con un nivel adecuado de protección de datos según los estándares chilenos, ni si existen "garantías que justifiquen tal transferencia" en caso de no contar con dicho nivel.
+*   **Derechos de los Titulares (Art. 5º k y otros):**
+    *   No se menciona explícitamente el derecho a retirar el consentimiento (Art. 5º k), crucial si el consentimiento es una de las bases de legitimación.
+    *   El mecanismo para ejercer derechos es por correo postal, lo cual puede ser poco ágil. Se debería facilitar también por medios electrónicos.
+    *   Se informa del derecho a reclamar ante la AEPD (Agencia Española) pero no ante la Agencia de Protección de Datos Personales de Chile, que sería la autoridad competente para los titulares en Chile.
+*   **Fuente de los Datos (Art. 5º j):** Aunque se infiere que los datos provienen del usuario y su interacción, no se declara explícitamente si alguno procede de fuentes de acceso público.
+*   **Deber de Protección desde el Diseño y por Defecto (Art. 14 quáter):** La falta de adaptación de la política a la ley chilena sugiere que este principio podría no estar siendo aplicado adecuadamente para los titulares en Chile.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Adaptación a la Ley Chilena:** Incluir una declaración explícita de cumplimiento con la Ley 21.719 de Chile si se tratan datos de personas en Chile. Considerar un anexo específico para Chile o una política global que incorpore los requisitos chilenos.
+2.  **Detallar Tratamiento de Geolocalización:** Cumplir con todos los requisitos informativos del Art. 16 sexies: tipo de dato, finalidad específica, duración del tratamiento de geolocalización y si se cederán a terceros para servicios de valor añadido (identificando a dichos terceros).
+3.  **Información sobre Perfilamiento:** Proveer información significativa sobre la lógica aplicada en la elaboración de perfiles y las consecuencias previstas para el titular (Art. 5º l).
+4.  **Clarificar Bases de Licitud:** Especificar la base de licitud para cada finalidad del tratamiento. Si se usa el consentimiento, informar claramente sobre el derecho a retirarlo en cualquier momento y cómo hacerlo (Art. 5º k). Si se usa interés legítimo, asegurar que se cumple el balance y se informa adecuadamente (Art. 5º e).
+5.  **Detallar Comunicación a Terceros y Transferencias Internacionales:**
+    *   Identificar las categorías o la identidad de los terceros a los que se comunican los datos (Art. 5º c).
+    *   Informar sobre las transferencias internacionales de datos, el nivel de protección del país destinatario y las garantías aplicadas si el nivel no es adecuado, conforme a la ley chilena.
+6.  **Completar Información sobre Derechos:**
+    *   Incluir explícitamente el derecho a retirar el consentimiento.
+    *   Informar a los titulares en Chile sobre su derecho a presentar reclamaciones ante la Agencia de Protección de Datos Personales de Chile.
+    *   Facilitar medios electrónicos para el ejercicio de derechos.
+7.  **Fuente de los Datos:** Especificar si alguno de los datos personales procede de fuentes de acceso público (Art. 5º j).
+8.  **Revisar Principios Fundamentales:** Asegurar la aplicación de la protección de datos desde el diseño y por defecto (Art. 14 quáter) en todos los tratamientos que afecten a titulares en Chile.
+
+**5. Puntuación general de cumplimiento**
+
+*   Identificación del Responsable: ✅
+*   Finalidades del Tratamiento: ✅
+*   Tipos de Datos Recogidos: ✅
+*   Información sobre Geocalización (Art. 16 sexies): ❎
+*   Información sobre Decisiones Automatizadas/Perfilamiento (Art. 5º l): ❎
+*   Base de Licitud del Tratamiento (Art. 13, Art. 5º e, k): ❎
+*   Comunicación de Datos a Terceros (Art. 5º c): ❎
+*   Transferencias Internacionales (Información según ley chilena): ❎
+*   Plazo de Conservación (Art. 5º d): ✅
+*   Derechos de los Titulares (Art. 5º y otros, adaptado a Chile): ❎
+*   Mención y Adaptación a Ley Chilena Aplicable (Ley 21.719): ❎
+
+**6. Puntuación total**
+
+✅✅✅✅ (4 de 11 secciones evaluadas como cumplidoras en algún grado, aunque con matices importantes incluso en las marcadas como ✅ por la falta de adaptación general a la ley chilena).
+
+**Conclusión General:** La política de privacidad de Diario AS, en su forma actual, presenta deficiencias significativas para cumplir con los requisitos de la Ley 21.719 de Chile. Su principal carencia es la falta de adaptación a la legislación chilena, basándose exclusivamente en la normativa europea. Se requieren modificaciones sustanciales para garantizar los derechos de los titulares de datos en Chile y cumplir con las obligaciones legales chilenas.

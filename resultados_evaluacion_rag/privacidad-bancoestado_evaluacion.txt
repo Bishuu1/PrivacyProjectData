@@ -1,0 +1,85 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE BANCOESTADO FRENTE A LA LEY DE PROTECCIÓN DE DATOS PERSONALES DE CHILE (BASADA EN EXTRACTOS DE LA LEY 19.628)**
+
+**Introducción:**
+La presente evaluación analiza la política de privacidad y uso de BancoEstado (en adelante, "la Política") en relación con las disposiciones de la Ley sobre Protección de la Vida Privada (Ley N° 19.628), utilizando los extractos proporcionados que detallan ciertas obligaciones e información que debe entregarse a los titulares de datos. Si bien el requerimiento menciona la Ley 21.719, los extractos legales corresponden a la Ley 19.628. Esta evaluación se basará estrictamente en dichos extractos.
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad**
+
+*   **Definiciones:** Establece el significado de términos clave como Banco, Portal, Usuario, Hiperenlaces, Sitios web y Cookies.
+*   **Tratamiento de Datos Personales:**
+    *   Los datos personales proporcionados voluntariamente serán tratados bajo reserva y "sólo para los fines propios del Banco".
+    *   Se menciona la posibilidad de eliminación de datos a requerimiento del usuario.
+*   **Facebook Leads:**
+    *   El ingreso de datos en formularios de Facebook implica el reconocimiento y aceptación del tratamiento e incorporación a bases de datos de BancoEstado.
+    *   Se asegura la confidencialidad y el tratamiento de datos entregados voluntariamente.
+    *   Se autoriza a BancoEstado a contactar al usuario para ofertas de productos y servicios.
+*   **Uso de Cookies:**
+    *   Se utiliza tecnología "cookie" para asociar a un usuario anónimo y su computador, sin deducir nombre u otros datos.
+    *   Los propósitos son administrativos: reconocer usuarios, diagnosticar problemas, identificar operaciones, almacenar preferencias.
+*   **Seguridad:**
+    *   Se mencionan sistemas de seguridad adecuados a estándares de la autoridad (SBIF, actual CMF).
+    *   Uso de protocolos de encriptación (SSL) para operaciones que requieran privacidad.
+*   **Responsabilidad y Legislación:** Se exime de responsabilidad por intervención de terceros y se establece la legislación chilena y tribunales chilenos para la resolución de conflictos.
+*   **Identificación del Responsable:** Se identifica al "Banco del Estado de Chile o BancoEstado" y se proporciona el domicilio de la Casa Matriz al final del documento.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley (Según Extractos Provistos)**
+
+Considerando los extractos de la Ley 19.628 proporcionados:
+
+*   ✅ **Información sobre la identidad y domicilio del responsable (Art. 12 letra a) de la Ley 19.628, análogo al espíritu de la información al titular):** La política identifica a "Banco del Estado de Chile o BancoEstado" y, al final del documento, se indica "Casa Matriz BancoEstado: Avenida Libertador Bernardo O'Higgins N° 1111, Santiago".
+*   ✅ **Recogida de datos con fines específicos y lícitos (Obligaciones, letra b):** En el caso de "Facebook Leads", se especifica que los datos se usarán para "contactarlo en el futuro, para hacer oferta de los productos y servicios comercializados por BancoEstado". El tratamiento se basa en la entrega voluntaria, lo que sugiere licitud.
+*   ✅ **Mención de medidas de seguridad (Art. 12 letra e) de la Ley 19.628, análogo):** La política menciona que "utilizará los sistemas de seguridad adecuados a los estándares exigidos por la autoridad (SBIF)" y el uso de "protocolos estandarizados de encriptación (SSL)".
+*   ✅ **Mención (parcial) del derecho de supresión (Art. 12 letra f) de la Ley 19.628, análogo):** Se indica que "Posteriormente, siempre que el usuario lo desee y a su requerimiento, los datos personales podrán ser eliminados de la base de datos del Banco".
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley (Según Extractos Provistos)**
+
+*   ❎ **Informar y poner a disposición antecedentes que acrediten la licitud del tratamiento (Obligaciones, letra a):** La política no detalla de forma exhaustiva los antecedentes que acreditan la licitud de todos los tratamientos que realiza, más allá de la voluntariedad.
+*   ❎ **Asegurar que los datos se recojan con fines específicos, explícitos y lícitos, y que su tratamiento se limite a estos fines (Obligaciones, letra b):** La frase "sólo para los fines propios del Banco" es genérica y no cumple con el requisito de ser "específicos" y "explícitos". No se detallan cuáles son todos esos "fines propios".
+*   ❎ **Comunicar o ceder información exacta, completa y actual (Obligaciones, letra c):** La política no informa si se comunican o ceden datos a terceros, ni bajo qué condiciones, ni quiénes serían estos terceros (categorías de destinatarios), lo cual es un requisito implícito en la transparencia y un elemento clave de la información al titular (Art. 12 letra c) de la Ley 19.628, análogo).
+*   ❎ **Suprimir o anonimizar datos de medidas precontractuales (Obligaciones, letra d):** No se menciona específicamente el tratamiento de datos obtenidos para medidas precontractuales ni su posterior supresión o anonimización.
+*   ❎ **Información sobre las finalidades del tratamiento y la base jurídica del mismo (Art. 12 letra b) de la Ley 19.628, análogo):** Si bien se menciona la voluntariedad (consentimiento) para algunos datos, no se especifican claramente todas las finalidades para todos los datos recopilados ni se detallan todas las bases legales que podrían aplicar (ej. ejecución de contrato, interés legítimo, obligación legal). La mención a "fines propios del Banco" es insuficiente.
+*   ❎ **Información sobre los destinatarios o categorías de destinatarios de los datos personales (Art. 12 letra c) de la Ley 19.628, análogo):** No se informa a quiénes se podrían comunicar los datos personales.
+*   ❎ **Información sobre si el tratamiento se basa en intereses legítimos y cuáles serían éstos (Art. 12 letra d) de la Ley 19.628, análogo):** No se menciona si se utiliza el interés legítimo como base de tratamiento ni se especifican dichos intereses.
+*   ❎ **Detalle de la política y las medidas de seguridad (Art. 12 letra e) de la Ley 19.628, análogo):** Aunque se mencionan medidas de seguridad, la descripción es general. Una política más robusta detallaría los tipos de medidas (técnicas, organizativas, administrativas).
+*   ❎ **Información completa sobre los derechos del titular (Art. 12 letra f) de la Ley 19.628, análogo):** Solo se menciona el derecho a la eliminación (supresión). Se omiten los derechos de acceso, rectificación, oposición y portabilidad (este último, aunque no explícito en la Ley 19.628, es un estándar moderno que la Ley 21.719 sí contempla y que el espíritu de la norma busca proteger). Tampoco se indica el procedimiento para ejercer estos derechos.
+*   ❎ **Información sobre el derecho del titular a recurrir ante la Agencia (Art. 12 letra g) de la Ley 19.628, análogo, refiriéndose a la autoridad competente):** No se informa al titular sobre su derecho a recurrir ante la autoridad de control en caso de que el responsable rechace o no responda sus solicitudes.
+*   ❎ **Información sobre transferencias internacionales de datos (Art. 12 letra h) de la Ley 19.628, análogo):** No se menciona si se realizan transferencias internacionales de datos personales, a qué países u organizaciones, ni el nivel de protección o garantías existentes.
+*   ❎ **Plazos de conservación de los datos:** La política no especifica por cuánto tiempo se conservarán los datos personales para los distintos fines.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Detallar los "Fines Propios del Banco":** Especificar de manera clara, explícita y lícita cada una de las finalidades para las cuales se tratan los datos personales (ej. gestión de productos contratados, análisis de riesgo crediticio, prevención de fraude, marketing directo, mejora de servicios, etc.).
+2.  **Especificar las Bases Legales:** Para cada finalidad, indicar la base jurídica que legitima el tratamiento (consentimiento del titular, ejecución de un contrato, cumplimiento de una obligación legal, interés legítimo del responsable, etc.).
+3.  **Informar sobre Destinatarios y Cesiones:** Indicar si los datos personales serán comunicados o cedidos a terceros (otras empresas del grupo, proveedores de servicios, autoridades, etc.), identificando a dichos destinatarios o, al menos, las categorías de destinatarios, y la finalidad de dicha comunicación/cesión.
+4.  **Incluir Todos los Derechos ARSOP:** Informar explícitamente sobre todos los derechos que asisten al titular: acceso, rectificación, supresión (cancelación), oposición y portabilidad. Detallar el procedimiento para ejercer estos derechos, incluyendo un punto de contacto claro (correo electrónico, formulario, dirección postal).
+5.  **Informar sobre el Recurso ante la Autoridad:** Incluir una mención al derecho del titular de recurrir ante la Agencia de Protección de Datos Personales (o la autoridad que corresponda según la ley vigente) si sus solicitudes no son atendidas o considera que sus derechos han sido vulnerados.
+6.  **Política de Transferencias Internacionales:** Si se realizan transferencias internacionales de datos, informar el país u organización de destino, si ofrecen un nivel adecuado de protección y, en caso contrario, las garantías adoptadas.
+7.  **Plazos de Conservación:** Establecer y comunicar los plazos durante los cuales los datos personales serán conservados, o los criterios utilizados para determinar ese plazo, para cada finalidad de tratamiento.
+8.  **Detallar Medidas de Seguridad:** Aunque se mencionan, se podría ofrecer un poco más de detalle sobre la naturaleza de las medidas de seguridad implementadas (sin comprometer la seguridad misma).
+9.  **Tratamiento de Datos para Medidas Precontractuales:** Si aplica, especificar cómo se tratan los datos en fases precontractuales y el compromiso de supresión o anonimización si no se concreta el contrato.
+10. **Lenguaje Claro y Accesible:** Asegurar que toda la información sea presentada de forma concisa, transparente, inteligible y de fácil acceso, utilizando un lenguaje claro y sencillo.
+
+**5. Puntuación General de Cumplimiento (Según Extractos Provistos)**
+
+*   **Obligaciones (Ley 19.628, p.10):**
+    *   a) Informar y poner a disposición antecedentes de licitud: ❎
+    *   b) Recoger de fuentes lícitas con fines específicos, explícitos y lícitos, y limitar tratamiento: ❎
+    *   c) Comunicar o ceder información exacta, completa y actual: ❎
+    *   d) Suprimir o anonimizar datos de medidas precontractuales: ❎
+    *   e) Cumplir con los demás deberes, principios y obligaciones: ❎ (Dado los incumplimientos anteriores)
+*   **Información al Titular (Análogo a Art. 12 Ley 19.628, p.11):**
+    *   a) Identidad y domicilio del responsable: ✅
+    *   b) Finalidades del tratamiento y base legal: ❎
+    *   c) Destinatarios o categorías de destinatarios: ❎
+    *   d) Si se basa en intereses legítimos, cuáles serían éstos: ❎
+    *   e) La política y las medidas de seguridad adoptadas: ❎ (Parcial, muy general)
+    *   f) Derechos ARSOP: ❎ (Incompleto)
+    *   g) Derecho a recurrir ante la Agencia: ❎
+    *   h) Transferencia de datos a tercer país u organización internacional: ❎
+
+**6. Puntuación Total**
+
+*   Total de ✅: **1** / 13 secciones evaluadas.
+
+**Conclusión:**
+La política de privacidad de BancoEstado, evaluada estrictamente contra los extractos de la Ley 19.628 proporcionados, presenta deficiencias significativas en cuanto a la información que debe ser proporcionada a los titulares de los datos y al cumplimiento de varias obligaciones clave. Si bien identifica al responsable y menciona algunas medidas de seguridad y el derecho de supresión, omite o trata de forma muy genérica aspectos cruciales como la especificación de todas las finalidades y bases legales, la información sobre destinatarios, la totalidad de los derechos ARSOP y el procedimiento para ejercerlos, y la información sobre transferencias internacionales. Se requieren mejoras sustanciales para alinearla completamente con los estándares de protección de datos exigidos por la legislación chilena.

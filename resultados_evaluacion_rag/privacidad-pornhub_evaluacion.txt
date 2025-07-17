@@ -1,0 +1,110 @@
+**EVALUACIÓN DE POLÍTICA DE PRIVACIDAD BAJO LA LEY 21.719 DE CHILE**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de Aylo Freesites Ltd. para el sitio web Pornhub.com, con última modificación el 23 de mayo de 2024, detalla la información recopilada de usuarios registrados y no registrados.
+
+*   **Responsable:** Aylo Freesites Ltd.
+*   **Datos Recopilados (Usuarios No Registrados):** Dirección de correo electrónico (para concursos/encuestas), datos de formularios online y comunicaciones, datos de actividad del sitio web (IP, cookies, historial de navegación, dispositivo, zona horaria), identificadores (para verificación de edad por terceros).
+*   **Datos Recopilados (Usuarios Registrados):** Adicionalmente a lo anterior, nombres de usuario, direcciones de correo electrónico, información de plataformas de terceros (si se usa para registro), información enviada por el usuario (fecha de nacimiento, edad, género, intereses, preferencias), identificadores e información biométrica (escaneo facial para verificación de identidad/edad por terceros), contribuciones del usuario (fotos, videos, comentarios, que se hacen públicos).
+*   **Fuentes de Datos:** Directamente del usuario, tecnologías automatizadas (cookies), inicio de sesión único de terceros.
+*   **Finalidades del Tratamiento:** Provisión de servicios, gestión de clientes, verificación de edad e identidad, personalización de contenido y marketing, comunicaciones, análisis, funcionalidad y seguridad, seguridad de la plataforma, cumplimiento legal, creación de valores hash para combatir actividades ilegales.
+*   **Bases Legales (según ley Canadiense y UE):** Consentimiento, necesidad contractual, obligación legal, interés legítimo, intereses vitales, interés público.
+*   **Divulgación de Información:** Al público (contribuciones de usuarios), contratistas/empleados, proveedores de servicios (hosting, análisis, pago, verificación de edad), grupo corporativo, en transferencias comerciales, para cumplimiento legal o protección de derechos.
+*   **Transferencias Internacionales:** Se mencionan, indicando que se realizan según una sección específica de la política (no detallada en el extracto).
+*   **Menores de Edad:** Prohibido el uso a menores de 18 años o la edad de mayoría aplicable. Proceso para eliminar datos de menores si se notifica.
+*   **Información Biométrica:** Procesada por un proveedor externo con consentimiento para verificación de identidad/edad.
+*   **Idioma:** Redactada en inglés; las traducciones son informativas y prevalece la versión en inglés.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+Basado en los extractos de la Ley 21.719 proporcionados:
+
+*   **Artículo 14 bis (a):** Se indica la fecha de la última modificación de la política ("Last Modified: May 23rd, 2024"), lo que permite identificar su versión. ✅
+*   **Artículo 14 bis (b) (parcial):** Se individualiza al responsable de datos ("Aylo Freesites Ltd"). ✅
+*   **Artículo 14 bis (d) (parcial):**
+    *   Se describen las categorías, clases o tipos de datos que trata (ej. "Contact Data", "Website activity data", "Identifiers and Biometric Information"). ✅
+    *   Se describe genéricamente el universo de personas ("Unregistered Users", "Registered Users"). ✅
+    *   Se mencionan los destinatarios a los que se prevé comunicar los datos (ej. "the public", "our contractors and/or employees", "our service providers"). ✅
+    *   Se detallan las finalidades de los tratamientos (ej. "Provision of services", "Age and Identity verification"). ✅
+*   **Artículo 14 bis (j) (parcial):** Se indica la fuente de la cual provienen los datos personales ("Directly from you", "Automated technologies or interactions", "Third-Party Single Sign-on"). ✅
+*   **Artículo 14 bis (k):** Se menciona la existencia del derecho a retirar el consentimiento y las implicancias de ello ("You may withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any collection..."). ✅
+*   **Artículo 14 bis (l) (parcial):** Se menciona la existencia de decisiones automatizadas y elaboración de perfiles ("Customization of content and marketing", "Analytics"). ✅
+*   **Artículo 16 bis (Datos biométricos) (parcial):**
+    *   Se indica que el tratamiento de datos biométricos (escaneo facial) se realiza con consentimiento del titular ("Biometric information may also be processed via a third party service provider with your consent"). ✅
+    *   Se indica la finalidad específica ("verifying your identity and the authenticity of the identifiers you provide"). ✅
+*   **Artículo 16 quáter (Datos personales relativos a los niños, niñas y adolescentes):** La política prohíbe el uso a menores y establece un mecanismo para solicitar la eliminación de sus datos, lo que indirectamente busca proteger su interés superior al excluirlos de la plataforma y remediar la recolección accidental. ✅
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+*   **Idioma:** La política está redactada en inglés, con una cláusula de prevalencia de esta versión. Para ser plenamente válida y comprensible para los titulares en Chile, debería estar disponible una versión oficial en español. Si bien no es un incumplimiento directo de los artículos citados, es una barrera fundamental para la transparencia exigida.
+*   **Artículo 14 bis (b):**
+    *   No se individualiza al representante legal en Chile del responsable de datos (Aylo Freesites Ltd., entidad extranjera). ❎
+    *   No se identifica al encargado de prevención, si existiere. ❎
+*   **Artículo 14 bis (c):**
+    *   No se proporciona un domicilio postal en Chile. ❎
+    *   Aunque se menciona "support@pornhub.com" y una sección "Contact Information" (no provista en el extracto), no se especifica claramente si este es el medio para notificar solicitudes de los titulares conforme a la ley chilena, ni se ofrece un formulario de contacto específico para estos fines o un medio tecnológico equivalente de fácil acceso para Chile. ❎
+*   **Artículo 14 bis (d):**
+    *   La base de legitimidad del tratamiento se describe según la ley canadiense y de la UE ("Canadian and European Union (EU) Privacy Law"). No se hace referencia explícita a las bases de legitimidad de la Ley 21.719 de Chile (Art. 12 y 13). ❎
+    *   Si se basa en intereses legítimos, aunque se mencionan ejemplos ("to keep Pornhub safe and secure"), no se especifica cuáles serían estos bajo el marco legal chileno. ❎
+*   **Artículo 14 bis (e):**
+    *   Se mencionan transferencias internacionales, pero no se detalla si los países destinatarios cuentan con un nivel adecuado de protección según los estándares chilenos. ❎
+    *   No se informa si existen garantías específicas que justifiquen tales transferencias en ausencia de un nivel adecuado de protección, conforme a la ley chilena. ❎ (Depende del contenido de la sección "Transfers of Your Personal Information to Other Countries", no provista).
+*   **Artículo 14 bis (i):** No se especifica el período durante el cual se conservarán los datos personales o los criterios utilizados para determinar ese plazo. ❎
+*   **Artículo 14 bis (j):** No se especifica si alguno de los datos personales procede de fuentes de acceso público, según la definición chilena. ❎
+*   **Artículo 14 bis (l):**
+    *   Aunque se menciona la existencia de decisiones automatizadas y perfiles, no se proporciona información significativa sobre la lógica aplicada. ❎
+    *   No se detallan las consecuencias previstas de dicho tratamiento para el titular. ❎
+*   **Artículo 14 quáter (Deber de protección desde el diseño y por defecto):** La política no declara explícitamente la adopción de medidas técnicas y organizativas para aplicar de forma efectiva los principios de protección de datos desde el diseño y por defecto, como lo exige la ley chilena. ❎
+*   **Artículo 16 (Derecho a la portabilidad de los datos):** No se menciona la existencia del derecho a la portabilidad de los datos, ni cómo ejercerlo. ❎
+*   **Artículo 16 bis (Datos biométricos):**
+    *   No se especifica el período durante el cual los datos biométricos serán utilizados. ❎
+    *   No se detalla la forma en que el titular puede ejercer sus derechos específicos respecto a sus datos biométricos. ❎
+    *   La derivación de responsabilidad a las políticas de privacidad de los proveedores de servicios de verificación de edad/identidad para el tratamiento biométrico es problemática, ya que el responsable principal sigue siendo Aylo Freesites Ltd. ante el titular.
+*   **Artículo 16 sexies (Datos de geolocalización):** La política menciona la recolección de dirección IP y zona horaria, lo que puede inferir geolocalización. Sin embargo, si se tratan datos de geolocalización más precisos, no se informa de manera clara, suficiente y oportuna sobre el tipo de datos de geolocalización, la finalidad y duración del tratamiento, ni si se comunicarán a terceros para servicios con valor añadido, como exige este artículo. ❎ (Si aplica tratamiento de geolocalización precisa).
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Traducción Oficial y Adaptación Cultural:** Proveer una versión oficial y completa de la política de privacidad en español, adaptada a la terminología y los requisitos específicos de la legislación chilena.
+2.  **Identificación Completa (Art. 14 bis b):**
+    *   Designar e identificar un representante legal en Chile.
+    *   Identificar al encargado de prevención, si existe, o aclarar su inexistencia.
+3.  **Canales de Contacto en Chile (Art. 14 bis c):**
+    *   Establecer y comunicar un domicilio postal en Chile.
+    *   Designar un correo electrónico y/o formulario de contacto específico y de fácil acceso para que los titulares en Chile ejerzan sus derechos y realicen consultas sobre privacidad.
+4.  **Bases de Legitimidad Chilenas (Art. 14 bis d):** Especificar claramente las bases de legitimidad para cada finalidad de tratamiento conforme a los artículos 12 y 13 de la Ley 21.719. Si se invocan intereses legítimos, detallarlos bajo el marco chileno.
+5.  **Transferencias Internacionales (Art. 14 bis e):** Detallar los países a los que se transfieren datos y si cuentan con un nivel adecuado de protección según la Agencia de Protección de Datos Personales de Chile. En caso contrario, especificar las garantías adoptadas (ej. cláusulas contractuales tipo, normas corporativas vinculantes aprobadas por la Agencia).
+6.  **Período de Conservación (Art. 14 bis i):** Establecer y comunicar los plazos específicos de conservación para las distintas categorías de datos personales, o los criterios utilizados para determinar dichos plazos.
+7.  **Fuentes de Acceso Público (Art. 14 bis j):** Clarificar si se obtienen datos de fuentes de acceso público según la definición chilena.
+8.  **Decisiones Automatizadas y Perfilamiento (Art. 14 bis l):** Proporcionar información significativa sobre la lógica aplicada en las decisiones automatizadas y la elaboración de perfiles, así como las consecuencias previstas para los titulares.
+9.  **Privacidad desde el Diseño y por Defecto (Art. 14 quáter):** Incluir una declaración sobre el compromiso y las medidas adoptadas para integrar la protección de datos desde el diseño y por defecto en sus sistemas y procesos.
+10. **Derecho a la Portabilidad (Art. 16):** Informar explícitamente sobre el derecho a la portabilidad de los datos y el procedimiento para ejercerlo.
+11. **Datos Biométricos (Art. 16 bis):**
+    *   Especificar el período de utilización de los datos biométricos.
+    *   Detallar cómo los titulares pueden ejercer sus derechos respecto a sus datos biométricos.
+    *   Asumir la responsabilidad directa por el tratamiento de datos biométricos, incluso si es realizado por un tercero encargado, y reflejarlo en la política.
+12. **Datos de Geolocalización (Art. 16 sexies):** Si se tratan datos de geolocalización precisos, informar detalladamente sobre el tipo, finalidad, duración y posibles comunicaciones a terceros para servicios de valor añadido, solicitando el consentimiento cuando corresponda o basándose en otra fuente de licitud aplicable.
+13. **Revisión Legal Local:** Someter la política de privacidad a una revisión por parte de un experto legal chileno especializado en protección de datos para asegurar su plena conformidad con la Ley 21.719 y otras normativas aplicables.
+
+**5. Puntuación general de cumplimiento (basado en los artículos citados)**
+
+*   **Art. 14 bis (a) Versión de la política:** ✅
+*   **Art. 14 bis (b) Individualización del responsable, rep. legal, encargado prevención:** ❎ (Cumple parcialmente con responsable, falta representante y encargado)
+*   **Art. 14 bis (c) Domicilio postal, correo electrónico, medio de contacto:** ❎ (Falta domicilio postal y claridad en medio de contacto para Chile)
+*   **Art. 14 bis (d) Categorías, universo, destinatarios, finalidades, base legitimidad, intereses legítimos:** ❎ (Cumple con categorías, universo, destinatarios, finalidades; falla en base de legitimidad chilena e intereses legítimos bajo ley chilena)
+*   **Art. 14 bis (e) Transferencias internacionales y nivel de protección/garantías:** ❎
+*   **Art. 14 bis (i) Período de conservación:** ❎
+*   **Art. 14 bis (j) Fuente de los datos (y si son de acceso público):** ❎ (Cumple con fuente, falta claridad sobre acceso público)
+*   **Art. 14 bis (k) Derecho a retirar el consentimiento:** ✅
+*   **Art. 14 bis (l) Decisiones automatizadas, lógica aplicada, consecuencias:** ❎ (Cumple con existencia, falla en lógica y consecuencias)
+*   **Art. 14 quáter Deber de protección desde el diseño y por defecto:** ❎
+*   **Art. 16 Derecho a la portabilidad de los datos:** ❎
+*   **Art. 16 bis Datos biométricos (consentimiento, finalidad, período, ejercicio derechos):** ❎ (Cumple con consentimiento y finalidad; falla en período y ejercicio de derechos)
+*   **Art. 16 quáter Datos personales relativos a los NNA:** ✅
+*   **Art. 16 sexies Datos de geolocalización:** ❎ (Si aplica tratamiento de geolocalización precisa)
+
+**6. Puntuación total**
+
+Sumando los ✅ del total de secciones evaluadas (14 secciones):
+
+**Puntuación Total: 3 / 14** ✅

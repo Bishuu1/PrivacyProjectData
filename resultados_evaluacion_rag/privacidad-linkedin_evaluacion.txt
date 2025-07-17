@@ -1,0 +1,112 @@
+## Evaluación de la Política de Privacidad de LinkedIn con respecto a la Ley 21.719 de Chile
+
+**Fecha de Evaluación:** 28 de mayo de 2024
+
+**Experto:** Especialista en Privacidad y Protección de Datos Personales en Chile.
+
+**Documento Evaluado:** Política de Privacidad de LinkedIn (Fecha de entrada en vigor: 18 de septiembre de 2024).
+
+**Legislación Aplicable:** Ley 21.719 sobre protección de datos personales de Chile (en adelante, "la Ley").
+
+---
+
+### 1. Resumen de los Puntos Principales de la Política de Privacidad de LinkedIn
+
+La política de privacidad de LinkedIn establece cómo la plataforma recopila, utiliza, comparte y protege los datos personales de sus Miembros (usuarios registrados) y Visitantes. Los puntos clave incluyen:
+
+*   **Responsables del Tratamiento:** LinkedIn Ireland Unlimited Company para usuarios en "Países designados" (UE, EEE, Suiza) y LinkedIn Corporation para usuarios fuera de estas áreas (incluyendo Chile).
+*   **Datos Recopilados:**
+    *   **Proporcionados por el usuario:** Al registrarse (nombre, email, contraseña, ubicación general, información de pago para servicios premium), al crear un perfil (formación, experiencia, aptitudes, foto, etc.), al publicar contenido, y al sincronizar agendas o calendarios.
+    *   **De terceros:** Contenido publicado por otros sobre el usuario, información de contacto y calendario sincronizada por otros, datos de socios (empleadores, sistemas de seguimiento de solicitantes), y datos de empresas relacionadas (ej. Microsoft).
+    *   **Uso de los Servicios:** Registros de actividad, clics, búsquedas, instalaciones de apps, uso de IP, información de dispositivos.
+    *   **Cookies y Tecnologías Similares:** Para reconocimiento, seguimiento y publicidad.
+    *   **Dispositivo y Ubicación:** URL de origen y destino, IP, proxy, sistema operativo, navegador, identificadores de dispositivo, datos de ubicación (con consentimiento para GPS).
+    *   **Comunicaciones:** Información de mensajes, eventos, solicitudes de conexión, incluyendo el uso de sistemas automatizados para análisis y moderación.
+    *   **Datos proporcionados por empresas/instituciones:** Cuando una organización adquiere servicios premium para sus miembros.
+    *   **Sitios y servicios de terceros:** Información de visitas a sitios con complementos o anuncios de LinkedIn.
+*   **Uso de los Datos:** Para proveer y personalizar los servicios, conectar profesionales, ofrecer oportunidades laborales, publicidad, desarrollo de servicios, investigación y seguridad.
+*   **Cómo se Comparte la Información:** Con el perfil del usuario (según configuración), entre servicios de LinkedIn, con proveedores de servicios, para fines legales, en caso de cambio de control o venta.
+*   **Opciones y Obligaciones del Usuario:** Control sobre la información del perfil, visibilidad, sincronización de datos, cierre de cuenta.
+*   **Cambios en la Política:** Notificación de cambios importantes y oportunidad de revisión.
+
+---
+
+### 2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley 21.719
+
+Basado en los extractos proporcionados de la Ley 21.719:
+
+*   ✅ **Identidad y datos de contacto del responsable (Art. 14 a)):** La política identifica claramente a LinkedIn Corporation como el responsable del tratamiento para usuarios en Chile.
+*   ✅ **Fuente de la cual provienen los datos personales y, en su caso, si proceden de fuentes de acceso público (Art. 14 j)):** La sección "1. Los datos que recopilamos" detalla diversas fuentes, incluyendo datos proporcionados por el usuario (1.1), datos de terceros (1.2) que pueden incluir información pública ("Es posible que recopilemos información pública sobre ti, como noticias y logros profesionales"), y datos del uso de los servicios (1.3).
+*   ✅ **Cuando el tratamiento está basado en el consentimiento del titular, la existencia del derecho a retirarlo (Art. 14 k)):** Aunque no se usa explícitamente la frase "derecho a retirar el consentimiento", la política ofrece "opciones acerca de los datos que recopilamos, utilizamos y compartimos" y la posibilidad de "cerrar tu cuenta". La solicitud de "autoinclusión" para el uso de GPS (1.5) implica un consentimiento específico que puede ser gestionado a través de la configuración del teléfono.
+*   ✅ **Datos de geolocalización (Art. 16 sexies):**
+    *   **Información clara, suficiente y oportuna del tipo de datos:** La sección 1.5 indica que el dispositivo móvil "enviará los datos de tu ubicación en función de la configuración de tu teléfono" y que se pedirá "autoinclusión para que podamos utilizar el GPS u otras herramientas para identificar tu ubicación exacta". Esto informa sobre el tipo de dato.
+    *   **Finalidad:** Implícita en la mejora y personalización de los servicios, aunque podría ser más explícita para la geolocalización.
+    *   **Duración del tratamiento:** No se especifica una duración fija para los datos de geolocalización, pero se vincula al uso de los servicios y la configuración del teléfono.
+    *   **Comunicación o cesión a terceros para servicio con valor añadido:** La política general de compartición de información (Sección 3) podría cubrir esto, pero no se detalla específicamente para datos de geolocalización y servicios de valor añadido.
+*   ✅ **Definiciones (Art. 2°):** La política utiliza términos que se alinean conceptualmente con las definiciones de la ley, como "Almacenamiento de datos" (implícito en la recopilación y mantenimiento de perfiles), "Comunicación de datos personales" (Sección 3 "Cómo compartimos la información"), y "Elaboración de perfiles" (mencionado en el contexto de personalización y publicidad).
+*   ✅ **Ámbito de aplicación territorial (Art. 1° bis a)):** Aunque LinkedIn Corporation no está establecida en Chile, sus operaciones de tratamiento de datos personales están claramente dirigidas a titulares en Chile que utilizan sus servicios, lo que haría aplicable la ley bajo el supuesto de que sus operaciones "estén relacionadas con la oferta de bienes o servicios a dichos titulares en el territorio nacional" o "el seguimiento de su comportamiento, en la medida en que este tenga lugar dentro del territorio nacional" (aunque estos literales no fueron proporcionados en el extracto, son parte del Art. 1° bis completo y relevantes). El extracto provisto se enfoca en el establecimiento, pero la ley chilena, al igual que el GDPR, tiene criterios de aplicación extraterritorial. Dado que LinkedIn ofrece sus servicios a chilenos, se considera que la ley es aplicable.
+
+---
+
+### 3. Identificación de Incumplimientos: Aspectos que No Cumplen o Cumplen Parcialmente con la Ley 21.719
+
+*   ❎ **Datos de contacto del delegado de protección de datos, en su caso (Art. 14 b)):** La política no menciona explícitamente la figura del Delegado de Protección de Datos (DPO) ni proporciona sus datos de contacto específicos para Chile o la región. Se remite al "Centro de Ayuda" de forma genérica.
+*   ⚠️ **Fines del tratamiento a que se destinarán los datos personales y la base jurídica del tratamiento (Art. 14 c)):**
+    *   **Fines:** La sección "2. Cómo utilizamos tus datos" describe los fines de manera general (Servicios, Conexiones, Oportunidades, Publicidad, Desarrollo de Servicios, Investigación, Seguridad). Si bien son informativos, la ley chilena (siguiendo el estándar internacional) esperaría una granularidad mayor y una vinculación más clara de cada tipo de dato con su finalidad específica.
+    *   **Base Jurídica:** La política no especifica claramente la base jurídica (consentimiento, interés legítimo, ejecución de contrato, obligación legal, etc.) para *cada una* de las finalidades del tratamiento. Se basa mucho en la aceptación de la política como un todo y en las "opciones" del usuario, lo que se asemeja al consentimiento, pero no se articula formalmente según las bases de licitud del Art. 12 y 13 de la Ley (no provistos en el extracto, pero fundamentales).
+*   ⚠️ **Cuando el tratamiento se base en el interés legítimo del responsable, los intereses legítimos en que se fundamenta (Art. 14 d)):** Si LinkedIn se basa en el interés legítimo para algún tratamiento (por ejemplo, seguridad, desarrollo de servicios), estos no están claramente identificados y explicados como tales.
+*   ⚠️ **Los destinatarios o las categorías de destinatarios de los datos personales, si los hubiere (Art. 14 e)):** La sección "3. Cómo compartimos la información" menciona categorías generales (proveedores de servicios, empresas afiliadas, con fines legales). Si bien cumple en un nivel básico, podría ser más específico sobre las categorías de terceros y la naturaleza de los servicios que prestan, especialmente para aquellos fuera del grupo LinkedIn.
+*   ⚠️ **En su caso, la intención del responsable de transferir datos personales a un tercer país u organización internacional y la existencia o ausencia de una decisión de adecuación de la Comisión Europea o referencia a las garantías adecuadas o apropiadas y los medios para obtener una copia de ellas o al hecho de que se hayan prestado (Art. 14 h)):**
+    *   La política indica que los datos se procesan tanto dentro como fuera de los "Países designados". Para Chile, esto implica transferencias internacionales (principalmente a EE.UU. donde opera LinkedIn Corporation).
+    *   La ley chilena requiere informar si el país receptor cuenta con un nivel adecuado de protección o, en su defecto, si existen "garantías que justifiquen tal transferencia". La política de LinkedIn no detalla específicamente las garantías aplicadas para las transferencias desde Chile (por ejemplo, Cláusulas Contractuales Tipo adaptadas o si se considera que EE.UU. ofrece un nivel adecuado bajo algún marco reconocido por Chile). Se mencionan "salvaguardas" de forma genérica en el contexto de los "Países designados", pero no específicamente para Chile.
+*   ❎ **El periodo durante el que se conservarán los datos personales o, de no ser posible, los criterios utilizados para determinar este plazo (Art. 14 i)):** La política es vaga: "mientras tu cuenta esté abierta o durante el tiempo necesario para proporcionarte los Servicios". Esto no constituye un período específico ni criterios claros para determinarlo más allá de la existencia de la cuenta. La ley exige mayor precisión. Por ejemplo, para datos de candidatos no seleccionados, o datos de actividad después de cerrar la cuenta.
+*   ⚠️ **La existencia de decisiones automatizadas, incluida la elaboración de perfiles. En tales casos, información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular (Art. 14 l)):**
+    *   La política menciona "sistemas automatizados" para sugerir respuestas, gestionar o bloquear contenido (1.6) y para la personalización de servicios y publicidad (Sección 2).
+    *   Se reconoce la "elaboración de perfiles" implícitamente.
+    *   Sin embargo, no se proporciona "información significativa sobre la lógica aplicada" (por ejemplo, los principales factores considerados en la personalización o en la sugerencia de contenido/contactos) ni se detallan las "consecuencias previstas" de forma clara para el titular (más allá de recibir contenido o publicidad relevante).
+*   ⚠️ **Deber de protección desde el diseño y por defecto (Art. 14 quáter):** Si bien la política ofrece "opciones" y "configuración", no es posible evaluar completamente el cumplimiento de este principio solo con la política. Se requeriría un análisis de la plataforma. Sin embargo, la tendencia de las redes sociales a tener configuraciones por defecto que favorecen una mayor visibilidad o recopilación de datos podría ser un punto de atención. La política no describe explícitamente cómo se implementa este principio.
+*   ⚠️ **Datos de geolocalización - Comunicación o cesión a un tercero para la prestación de un servicio con valor añadido (Art. 16 sexies):** La política no especifica si los datos de geolocalización se comunican o ceden a terceros *específicamente* para la prestación de un servicio con valor añadido, ni detalla cuáles serían esos servicios o terceros. La información es genérica sobre el intercambio de datos.
+
+---
+
+### 4. Recomendaciones para Mejorar el Cumplimiento
+
+1.  **DPO:** Designar formalmente un Delegado de Protección de Datos accesible para los usuarios en Chile e incluir sus datos de contacto en la política.
+2.  **Bases Jurídicas y Finalidades:** Especificar claramente la base jurídica (consentimiento, interés legítimo, contrato, etc.) para cada finalidad de tratamiento de datos. Detallar con mayor granularidad las finalidades.
+3.  **Intereses Legítimos:** Si se utiliza el interés legítimo como base, identificar explícitamente cuáles son esos intereses legítimos para cada tratamiento correspondiente.
+4.  **Transferencias Internacionales:** Para las transferencias de datos de usuarios chilenos fuera de Chile (ej. a EE.UU.), detallar las garantías específicas que se aplican para asegurar un nivel adecuado de protección, conforme a la ley chilena (ej. Cláusulas Contractuales Tipo, Normas Corporativas Vinculantes si aplicasen, u otros mecanismos reconocidos).
+5.  **Periodo de Conservación:** Establecer periodos de conservación más específicos para diferentes categorías de datos o, como mínimo, criterios mucho más claros y detallados para determinar dichos plazos, más allá de la simple vigencia de la cuenta. Considerar políticas de retención para datos después del cierre de la cuenta o para datos de interacciones específicas.
+6.  **Decisiones Automatizadas y Perfilamiento:** Proporcionar información más transparente y significativa sobre la lógica utilizada en los algoritmos de perfilamiento y toma de decisiones automatizadas (ej. para recomendaciones, publicidad, moderación de contenido), y explicar de forma más concreta las consecuencias que estos tratamientos tienen para los titulares.
+7.  **Geolocalización:** Ser más explícito sobre la finalidad específica del tratamiento de datos de geolocalización y, si se comparten con terceros para servicios de valor añadido, identificar dichos servicios y las categorías de terceros.
+8.  **Privacidad por Diseño y por Defecto:** Incluir una declaración sobre cómo LinkedIn implementa los principios de privacidad por diseño y por defecto en el desarrollo y operación de sus servicios, asegurando que las configuraciones iniciales sean las más protectoras de la privacidad.
+9.  **Lenguaje y Accesibilidad:** Aunque la política es extensa, asegurar que los puntos clave relacionados con los derechos y la información obligatoria sean fácilmente accesibles y comprensibles para el usuario medio chileno. Considerar un resumen específico para Chile o una sección que aborde los requisitos de la Ley 21.719.
+
+---
+
+### 5. Puntuación General de Cumplimiento (respecto a los artículos de la Ley 21.719 citados)
+
+*   **Art. 14 a) Identidad del responsable:** ✅
+*   **Art. 14 b) Contacto del DPO:** ❎
+*   **Art. 14 c) Fines y base jurídica:** ⚠️ (Parcialmente cumple en fines, deficiente en base jurídica explícita por cada tratamiento)
+*   **Art. 14 d) Intereses legítimos (si aplica):** ⚠️ (No se detallan explícitamente)
+*   **Art. 14 e) Destinatarios o categorías de destinatarios:** ✅ (Cumple a nivel general)
+*   **Art. 14 h) Transferencias internacionales (información sobre adecuación/garantías):** ⚠️ (Información genérica, falta detalle específico para Chile y las garantías aplicadas)
+*   **Art. 14 i) Periodo de conservación:** ❎ (Vago e insuficiente)
+*   **Art. 14 j) Fuente de los datos:** ✅
+*   **Art. 14 k) Derecho a retirar el consentimiento:** ✅ (Implícito y funcionalmente cubierto)
+*   **Art. 14 l) Decisiones automatizadas y perfilamiento (lógica y consecuencias):** ⚠️ (Menciona la existencia, pero falta detalle en lógica y consecuencias)
+*   **Art. 14 quáter Protección desde el diseño y por defecto:** ⚠️ (No se puede evaluar completamente desde la política, pero no se describe su implementación)
+*   **Art. 16 sexies Datos de geolocalización (información completa):** ⚠️ (Cumple parcialmente, falta detalle en duración específica y comunicación a terceros para servicios de valor añadido)
+*   **Art. 1° bis Ámbito de aplicación territorial:** ✅ (La ley es aplicable)
+*   **Art. 2° Definiciones:** ✅ (Uso conceptualmente alineado)
+
+---
+
+### 6. Puntuación Total
+
+Sumando los ✅ del total de secciones evaluadas (14 secciones):
+
+**Puntuación Total: 6 ✅ / 14**
+
+**Conclusión General:**
+La política de privacidad de LinkedIn es exhaustiva en cuanto a los tipos de datos que recopila y los usos generales que les da. Cumple con varios requisitos informativos básicos de la Ley 21.719. Sin embargo, presenta deficiencias significativas en aspectos cruciales como la especificación de las bases jurídicas para cada tratamiento, la concreción de los periodos de conservación, la información detallada sobre transferencias internacionales bajo el estándar chileno, y la transparencia sobre la lógica y consecuencias de las decisiones automatizadas y el perfilamiento. Se requieren mejoras sustanciales para alcanzar un pleno cumplimiento con la legislación chilena de protección de datos.

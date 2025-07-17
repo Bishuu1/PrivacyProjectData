@@ -1,0 +1,88 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE KICK.COM FRENTE A LA LEY 21.719 DE CHILE**
+
+**1. Resumen de los puntos principales de la política de privacidad de Kick.com**
+
+La política de privacidad de Kick.com, con fecha de modificación 27 de marzo de 2024, describe cómo Kick Streaming Pty Ltd ("Kick", "Compañía") recopila, usa, divulga y procesa información personal en relación con sus servicios de plataforma de livestreaming de videojuegos.
+
+*   **Responsable del Tratamiento:** Kick Streaming Pty Ltd.
+*   **Definición de Información Personal:** Cualquier dato o información que identifique, se relacione con, describa, pueda asociarse o vincularse razonablemente, directa o indirectamente, con un individuo particular.
+*   **Recopilación de Información:**
+    *   **Directamente del usuario:** Al registrarse, publicar reseñas, enviar mensajes, etc. (información de contacto, de cuenta, de pago, de identificación, de consultas, para newsletters, concursos, eventos, contenido de usuario, feedback).
+    *   **Automáticamente:** Datos de registro (IP, SO, navegador), datos analíticos (ruta de navegación, uso), datos de ubicación (derivados de IP), datos de cookies y tecnologías similares.
+    *   **De terceros:** Otras entidades Kick, otros usuarios, redes sociales (según configuración de privacidad del usuario), proveedores de servicios (verificación de identidad, pagos como Stripe), socios comerciales, servicios de autenticación (Facebook, Apple, Google), fuentes públicas.
+*   **Uso de la Información Personal y Finalidades:**
+    *   Administrar cuentas, proveer servicios, comunicación con usuarios (incluyendo marketing según preferencias).
+    *   Procesar pagos (a través de terceros como Stripe, que tiene su propia política).
+    *   Verificación de identidad para creadores (a través de terceros).
+    *   Investigar y responder consultas, mejorar servicios.
+    *   Enviar newsletters y mensajes promocionales (con opción de baja para marketing, no para comunicaciones de servicio).
+    *   Administrar concursos, encuestas, eventos.
+    *   Publicar contenido de usuario (que es público).
+    *   Personalizar la experiencia, realizar análisis, prevenir fraudes.
+*   **Cookies y Tecnologías de Rastreo:** Se utilizan para recopilar información automáticamente, distinguir usuarios, monitorear y analizar el uso, y para publicidad. Se remite a la sección "Control over your information" para más detalles sobre cookies.
+*   **Información Pública:** El contenido del usuario, incluida la información del perfil, se publica públicamente.
+*   **Control sobre la Información:** Se menciona una sección "Control over your personal information (including accessing and correcting it)", pero el detalle no está en el extracto proporcionado.
+*   **Terceros Procesadores:** Se nombra a Stripe para pagos y se indica que su uso de información personal se rige por su propia política. Se mencionan proveedores de verificación de identidad.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley (Ley 21.719 y principios de la Ley 19.628 citada)**
+
+*   ✅ **Identificación del Responsable (parcial):** Se identifica a "Kick Streaming Pty Ltd" como el responsable del tratamiento (similar al Art. 5º b) de la Ley 19.628, que se espera sea mantenido o reforzado en la Ley 21.719).
+*   ✅ **Categorías de Datos Tratados:** La política detalla diversas categorías de datos personales que recolecta (contacto, cuenta, pago, etc.) (similar al Art. 5º d)).
+*   ✅ **Finalidades del Tratamiento:** Se describen las finalidades para las cuales se utiliza la información personal recopilada (proveer servicios, marketing, soporte, etc.) (similar al Art. 5º d)).
+*   ✅ **Fuente de los Datos Personales:** Se indica que los datos provienen directamente del titular, de forma automática y de terceros, incluyendo fuentes de acceso público (similar al Art. 5º j)).
+*   ✅ **Información sobre Cookies:** Se informa sobre el uso de cookies y tecnologías similares, aunque se remite a otra sección para detalles sobre su gestión.
+*   ✅ **Transparencia sobre Contenido Público:** Se advierte claramente que el contenido generado por el usuario y la información de perfil son públicos.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley (Ley 21.719 y principios de la Ley 19.628 citada)**
+
+*   ❎ **Representante Legal y Encargado de Prevención (DPO):** No se individualiza al representante legal en Chile ni se identifica a un Encargado de Prevención de Datos Personales (o DPO), figura clave en la nueva ley (Art. 5º b) de la Ley 19.628 y reforzado en la Ley 21.719).
+*   ❎ **Domicilio Postal y Medio de Contacto Específico para Solicitudes de Derechos:** No se proporciona un domicilio postal en Chile ni un medio de contacto específico, de fácil acceso y común, para que los titulares chilenos ejerzan sus derechos conforme a la ley chilena (Art. 5º c)).
+*   ❎ **Base de Legitimidad del Tratamiento:** Si bien se listan finalidades, no se especifica de forma clara y para cada tratamiento cuál es la base de legitimidad (consentimiento, contrato, interés legítimo, obligación legal, etc.) conforme al Art. 12 y 13 de la Ley 21.719 (o Art. 5º d) de la Ley 19.628 para interés legítimo).
+*   ❎ **Período de Conservación de los Datos:** No se especifica el período durante el cual se conservarán los datos personales para las distintas finalidades, o los criterios utilizados para determinar ese plazo (Art. 5º i)). La ley chilena es restrictiva con el almacenamiento por "período indeterminado", salvo excepciones muy acotadas y con anonimización para publicación.
+*   ❎ **Transferencias Internacionales de Datos:** Siendo Kick Streaming Pty Ltd una empresa australiana, es altamente probable que existan transferencias internacionales de datos de usuarios chilenos. La política no informa si Australia (o los países donde se alojen/procesen los datos) cuenta con un nivel adecuado de protección, ni las garantías que justificarían tal transferencia en caso de no existir dicho nivel (Art. 5º h)).
+*   ❎ **Derecho a Retirar el Consentimiento:** Aunque se menciona la opción de "unsubscribe" para marketing, no se establece de forma general y clara la existencia del derecho a retirar el consentimiento en cualquier momento para otros tratamientos basados en él, ni cómo ejercerlo, sin que afecte la licitud del tratamiento previo (Art. 5º k)).
+*   ❎ **Decisiones Automatizadas y Elaboración de Perfiles:** La política menciona la personalización de la experiencia y el análisis de interacciones, lo que sugiere elaboración de perfiles y posibles decisiones automatizadas. Sin embargo, no proporciona "información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular" (Art. 5º l)).
+*   ❎ **Datos de Geolocalización (Art. 16 sexies):** Se menciona la recolección de "location data... derived from your IP address". No se informa de manera clara, suficiente y oportuna sobre el tipo específico de datos de geolocalización, la finalidad detallada, la *duración* del tratamiento de estos datos de geolocalización, ni si se comunicarán o cederán a terceros para servicios con valor añadido, como exige el Art. 16 sexies.
+*   ❎ **Privacidad desde el Diseño y por Defecto (Art. 14 quáter):** La política no menciona explícitamente la adopción de medidas para cumplir con los principios de protección de datos desde el diseño y por defecto.
+*   ❎ **Cesión de Datos Personales (Art. 15):** La política indica que comparte información con "Kick entities", "service providers", "business partners". No queda claro si todas estas comunicaciones son encargo de tratamiento o cesiones. Para las cesiones, no se especifica la base legal (consentimiento específico, ejecución de contrato, interés legítimo detallado, disposición legal). Si el consentimiento inicial no cubrió la cesión, se requiere uno nuevo.
+*   ❎ **Información sobre el Derecho de Acceso (Art. 5º Ley 19.628):** Aunque se menciona el control sobre la información, no se detallan los elementos específicos que se proporcionarán al ejercer el derecho de acceso, como la identidad de cada destinatario si el titular lo solicita, o la información significativa sobre la lógica aplicada en decisiones automatizadas.
+*   ❎ **Datos relativos a obligaciones de carácter económico, financiero, bancario o comercial (Título III):** La política menciona la recolección de "payment information" y "tax ID numbers". Aunque se usan procesadores de pago y verificación de identidad externos, se debe asegurar que cualquier tratamiento directo o indirecto por parte de Kick cumpla con las disposiciones específicas del Título III de la ley, lo cual no se detalla.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Designar y Publicar Representante Legal en Chile y Encargado de Prevención (DPO):** Identificar claramente y proporcionar los datos de contacto del representante legal en Chile y del Encargado de Prevención de Datos Personales.
+2.  **Establecer un Canal de Contacto Chileno:** Proveer un domicilio postal en Chile y un correo electrónico o formulario específico y de fácil acceso para que los titulares chilenos ejerzan sus derechos.
+3.  **Especificar Bases de Licitud:** Para cada finalidad de tratamiento, indicar explícitamente la base legal que lo justifica (consentimiento, contrato, interés legítimo –detallando cuál–, obligación legal, etc.).
+4.  **Definir Períodos de Conservación:** Establecer y comunicar los plazos concretos de conservación para cada categoría de datos y finalidad, o los criterios para su determinación. Evitar declaraciones de conservación indefinida sin justificación legal estricta.
+5.  **Abordar Transferencias Internacionales:** Detallar los países a los que se transfieren datos, si cuentan con niveles adecuados de protección según la autoridad chilena, y en caso contrario, las garantías adoptadas (ej. cláusulas contractuales tipo).
+6.  **Clarificar el Derecho a Retirar el Consentimiento:** Incluir una sección clara sobre el derecho general a retirar el consentimiento para cualquier tratamiento basado en él, el procedimiento para hacerlo y sus efectos.
+7.  **Informar sobre Decisiones Automatizadas y Perfiles:** Si se realizan, explicar la lógica aplicada, la importancia y las consecuencias previstas para el titular.
+8.  **Cumplir con Requisitos de Geolocalización:** Para datos de geolocalización, informar detalladamente sobre: tipo de dato, finalidad específica, duración del tratamiento y si se ceden a terceros para servicios de valor añadido.
+9.  **Incorporar Privacidad desde el Diseño y por Defecto:** Declarar el compromiso con estos principios y describir brevemente cómo se implementan.
+10. **Detallar Política de Cesión de Datos:** Distinguir claramente entre encargados de tratamiento y cesionarios. Para las cesiones, especificar la base legal y, si es consentimiento, asegurar que sea específico o recabarlo nuevamente.
+11. **Ampliar Información sobre Derechos ARSOP:** Detallar el procedimiento y la información que se entregará al ejercer los derechos de acceso, rectificación, supresión, oposición y portabilidad.
+12. **Revisar Cumplimiento del Título III:** Asegurar que el tratamiento de datos económicos, financieros, bancarios o comerciales se ajuste a las normativas específicas de dicho título.
+13. **Adaptación Lingüística y Legal:** Considerar una versión de la política de privacidad específicamente adaptada al contexto legal chileno y en idioma español claro para los usuarios en Chile.
+
+**5. Puntuación general de cumplimiento**
+
+*   Identificación del Responsable, Rep. Legal, Encargado Prevención (Art. 5º b)): ❎
+*   Domicilio Postal, Contacto para Solicitudes (Art. 5º c)): ❎
+*   Categorías, Finalidades, Base Licitud, Destinatarios (Art. 5º d)): ❎
+*   Transferencias Internacionales (Art. 5º h)): ❎
+*   Periodo de Conservación (Art. 5º i)): ❎
+*   Fuente de los Datos (Art. 5º j)): ✅
+*   Derecho a Retirar Consentimiento (Art. 5º k)): ❎
+*   Decisiones Automatizadas, Perfiles (Art. 5º l)): ❎
+*   Privacidad desde el Diseño y por Defecto (Art. 14 quáter): ❎
+*   Cesión de Datos Personales (Art. 15): ❎
+*   Datos de Geolocalización (Art. 16 sexies): ❎
+*   Derecho de Acceso (detallado según Art. 5º Ley 19.628): ❎
+*   Transparencia General (principios): ✅
+*   Información sobre Cookies (básica): ✅
+
+**6. Puntuación total**
+
+✅✅✅ (3 de 14 secciones evaluadas como cumpliendo parcialmente o en aspectos básicos)
+
+**Conclusión:** La política de privacidad de Kick.com, en su forma actual, presenta deficiencias significativas para cumplir con los estándares de la Ley 21.719 de Chile (y los principios de la Ley 19.628 que se mantienen o refuerzan). Requiere una revisión y adaptación exhaustiva para asegurar la protección de los datos personales de los usuarios chilenos conforme a la legislación vigente.

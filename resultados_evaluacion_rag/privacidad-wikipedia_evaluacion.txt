@@ -1,0 +1,95 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE LA FUNDACIÓN WIKIMEDIA FRENTE A LA LEY CHILENA DE PROTECCIÓN DE DATOS PERSONALES (BASADA EN LOS ARTÍCULOS PROPORCIONADOS)**
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad de la Fundación Wikimedia**
+
+La política de privacidad de la Fundación Wikimedia (FW) se centra en la transparencia y la minimización de la recopilación de datos personales. Sus puntos clave son:
+
+*   **Participación anónima:** Se puede leer, editar o usar los Sitios de Wikimedia sin registrar una cuenta. El registro no exige correo electrónico ni nombre real.
+*   **Recopilación limitada:** Se recopila información cuando se hacen contribuciones públicas, se registra una cuenta, se actualiza la página de usuario, se usan los Sitios o se contacta a la FW.
+*   **Compromisos:**
+    *   Describir el uso y compartición de información.
+    *   Usar medidas razonables de seguridad.
+    *   No vender información ni compartirla con terceros para marketing.
+    *   Compartir información solo en circunstancias limitadas (mejorar los sitios, cumplir la ley, proteger a usuarios).
+    *   Conservar datos el menor tiempo posible.
+*   **Información pública:** Las contribuciones son públicas y permanentes (atribuidas a IP si no se inicia sesión, o a nombre de usuario).
+*   **Autocontrol comunitario:** Administradores elegidos por la comunidad tienen acceso limitado a información no pública para proteger los sitios y aplicar políticas.
+*   **Exclusiones:** La política no aplica a todos los sitios (ej. Tienda Wikimedia) o servicios de terceros.
+*   **Consentimiento por uso:** El uso de los Sitios de Wikimedia implica la aceptación de esta política.
+*   **Definiciones:** Proporciona un glosario de términos para facilitar la comprensión.
+*   **Transferencia internacional:** Al usar los sitios, se acepta la recopilación, transferencia, procesamiento, almacenamiento, divulgación y uso de la información como se describe.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley (según artículos proporcionados)**
+
+Basándose en los extractos de la ley chilena proporcionados:
+
+*   ✅ **j) Fuente de los datos personales:** La política es clara sobre las fuentes de las que provienen los datos:
+    *   Directamente del usuario: contribuciones, registro, actualizaciones de perfil, correos electrónicos, encuestas.
+    *   Automáticamente: uso de los sitios (ej. dirección IP si no se inicia sesión).
+    *   Indica que las contribuciones (y la IP asociada si no hay login) son de acceso público.
+*   ✅ **Principio de Transparencia (Art. 14 quáter, segundo párrafo):** La política se esfuerza por ser accesible y comprensible, utilizando lenguaje común y proporcionando un glosario. Declara que la información sobre políticas y prácticas debe ser "permanentemente accesibles y a disposición de cualquier interesado de manera precisa, clara, inequívoca y gratuita". El resumen y la política detallada buscan cumplir con esto.
+*   ✅ **Principio de Confidencialidad (h):** La política establece claramente: "Nunca vender su información ni compartirla con terceros con fines de comercialización". También indica que el acceso a datos no públicos es limitado (ej. administradores).
+*   ✅ **Deber de protección desde el diseño y por defecto (Art. 14 quáter):** La política refleja este principio al permitir el uso y contribución anónima (sin cuenta o sin datos reales en la cuenta), minimizando la recopilación de datos personales por defecto.
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley (según artículos proporcionados)**
+
+*   ❎ **a) Identidad y datos de contacto del responsable y, en su caso, del delegado de protección de datos:** Si bien se identifica a "La Fundación Wikimedia, Inc." como la organización, no se proporcionan datos de contacto específicos para consultas de privacidad o para el responsable del tratamiento dentro de la propia política, ni se menciona la figura de un Delegado de Protección de Datos (DPO) y sus datos de contacto, si existiera.
+*   ❎ **b) Las finalidades del tratamiento y la base jurídica del mismo:**
+    *   **Finalidades:** Se mencionan finalidades generales como "hacer que los Sitios de Wikimedia sean más atractivos y accesibles, para ver qué ideas funcionan y para hacer que el aprendizaje y la contribución sean más divertidos", "mejorar los Sitios de Wikimedia", "cumplir con la ley", "protegerlo a usted y a los demás". Estas podrían necesitar mayor especificidad.
+    *   **Base jurídica:** La política se basa principalmente en el consentimiento implícito ("Al utilizar los Sitios de Wikimedia, usted acepta esta Política"). La ley chilena exige que la base jurídica sea clara. Si se basa en el consentimiento, debe cumplir con los requisitos de un consentimiento informado y específico. Si se basa en interés legítimo, debe especificarse.
+*   ❎ **c) Cuando el tratamiento se base en la satisfacción de intereses legítimos, cuáles serían éstos:** Aunque se infiere que el "interés legítimo" podría ser mejorar los servicios, la política no lo articula explícitamente como una base jurídica ni detalla cuáles son esos intereses legítimos de forma específica como lo requeriría la ley.
+*   ❎ **d) Los destinatarios o las categorías de destinatarios de los datos personales:** Se menciona que se comparte información "en circunstancias limitadas, como para mejorar los Sitios de Wikimedia, para cumplir con la ley, o para protegerlo a usted y a los demás" y con "administradores de los Sitios de Wikimedia". Esto es general. La ley requiere identificar a los destinatarios o, al menos, las *categorías* de destinatarios de forma más precisa.
+*   ❎ **e) La política y las medidas de seguridad adoptadas para proteger las bases de datos personales:** La política solo menciona "Usar medidas razonables para mantener su información en forma segura". Esto es insuficiente. La ley exige informar sobre "la política y las medidas de seguridad adoptadas", lo que implica un mayor nivel de detalle sobre las salvaguardas técnicas y organizativas.
+*   ❎ **f) El derecho que le asiste al titular para solicitar ante el responsable, acceso, rectificación, supresión, oposición y portabilidad de sus datos personales:** La política no enumera explícitamente estos derechos (conocidos como ARSOP en Chile) ni describe el procedimiento para ejercerlos ante la Fundación Wikimedia. Si bien se puede editar o eliminar contenido, esto no cubre todos los aspectos de los derechos ARSOP sobre los datos personales que la Fundación pueda tener.
+*   ❎ **g) El derecho que le asiste al titular de recurrir ante la Agencia (Agencia de Protección de Datos Personales de Chile), en caso de que el responsable rechace o no responda oportunamente las solicitudes:** No se menciona este derecho ni la existencia de la Agencia chilena.
+*   ❎ **h) En su caso, la transferencia de datos personales a un tercer país u organización internacional y si éstos ofrecen o no un nivel adecuado de protección. En caso de que no cuenten con un nivel adecuado de protección, se deberá informar si existen garantías que justifiquen tal transferencia:** La política indica que al usar los sitios se acepta la "transferencia... de su información". Dado que Wikimedia es una organización basada en EE.UU., la transferencia internacional es un hecho. Sin embargo, no se analiza si EE.UU. ofrece un nivel adecuado de protección según los estándares chilenos, ni se detallan las garantías específicas que justificarían tal transferencia en ausencia de una decisión de adecuación (ej. Cláusulas Contractuales Tipo, Normas Corporativas Vinculantes, consentimiento explícito para la transferencia específica tras ser informado de los riesgos).
+*   ❎ **i) El periodo durante el cual se conservarán los datos personales:** La política dice "Conservar sus datos durante el menor tiempo posible que sea coherente con el mantenimiento, la comprensión y la mejora de los Sitios de Wikimedia y nuestras obligaciones en virtud de la legislación aplicable". Esto es un principio, pero no un "periodo" específico o criterios claros y definidos para determinar dicho periodo para diferentes categorías de datos, como exige la ley. La frase "contribuciones públicas... disponibles pública y permanentemente" podría entrar en conflicto con el principio de limitación del plazo de conservación para ciertos datos personales si no se gestiona adecuadamente.
+*   ❎ **k) Cuando el tratamiento está basado en el consentimiento del titular, la existencia del derecho a retirarlo en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo a su retirada:** La política establece que "si no está de acuerdo con esta Política de privacidad, usted puede no utilizar los Sitios de Wikimedia". Esto no equivale al derecho a retirar el consentimiento de forma granular para tratamientos específicos (si aplicara) y continuar usando otros aspectos del servicio, ni explica cómo retirarlo y las consecuencias.
+*   ❎ **l) La existencia de decisiones automatizadas, incluida la elaboración de perfiles. En tales casos, información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular:** La política menciona que usan la información para "averiguar cómo hacer que los Sitios de Wikimedia sean más atractivos y accesibles, para ver qué ideas funcionan". Esto podría implicar elaboración de perfiles. Si existen decisiones automatizadas con efectos significativos para el titular (aunque no parece ser el foco principal de Wikimedia), la política no proporciona la información requerida sobre la lógica aplicada o las consecuencias.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Identificación del Responsable y DPO:** Incluir el nombre legal completo de la Fundación Wikimedia como responsable del tratamiento y una dirección de correo electrónico o formulario de contacto específico para asuntos de privacidad. Si existe un Delegado de Protección de Datos, indicar sus datos de contacto.
+2.  **Finalidades y Bases Jurídicas:** Detallar de forma más específica cada finalidad del tratamiento y la base jurídica correspondiente según la ley chilena (consentimiento, interés legítimo, obligación legal, etc.). Para el interés legítimo, explicarlo claramente.
+3.  **Destinatarios:** Especificar las categorías de terceros con los que se comparten datos (ej. proveedores de servicios de alojamiento, herramientas de análisis, autoridades legales bajo requerimiento).
+4.  **Medidas de Seguridad:** Describir de manera más detallada las medidas técnicas y organizativas implementadas para proteger los datos personales (ej. cifrado, controles de acceso, políticas de seguridad interna).
+5.  **Derechos de los Titulares:** Incluir una sección específica que detalle los derechos de acceso, rectificación, supresión, oposición y portabilidad (ARSOP), y el procedimiento claro para ejercerlos.
+6.  **Autoridad de Control:** Informar a los titulares en Chile sobre su derecho a presentar una reclamación ante la Agencia de Protección de Datos Personales de Chile.
+7.  **Transferencias Internacionales:**
+    *   Identificar explícitamente que los datos se transfieren a EE.UU. u otros países.
+    *   Evaluar y declarar si dichos países ofrecen un nivel adecuado de protección según la normativa chilena.
+    *   En caso negativo, especificar las garantías adoptadas para la transferencia (ej. Cláusulas Contractuales Tipo adaptadas o reconocidas por Chile, consentimiento explícito informado sobre los riesgos de la transferencia).
+8.  **Periodo de Conservación:** Establecer criterios más específicos para la retención de diferentes tipos de datos personales o los plazos concretos. Aclarar cómo se concilia la "permanencia" de las contribuciones públicas con el derecho a la supresión de datos personales.
+9.  **Retirada del Consentimiento:** Explicar claramente el derecho a retirar el consentimiento en cualquier momento para los tratamientos basados en él, el procedimiento para hacerlo y las consecuencias de dicha retirada, sin que afecte la licitud del tratamiento previo.
+10. **Decisiones Automatizadas y Perfiles:** Si se realizan decisiones automatizadas significativas o elaboración de perfiles con impacto en los titulares, informar sobre la lógica aplicada y las consecuencias previstas, así como el derecho a oponerse u obtener intervención humana.
+11. **Adaptación Local:** Considerar la creación de un anexo o sección específica para usuarios en Chile que aborde los requisitos particulares de la Ley 21.719.
+
+**5. Puntuación General de Cumplimiento (respecto a los artículos proporcionados)**
+
+| Requisito Legal (basado en la lista a-l y otros principios) | Cumplimiento |
+| :----------------------------------------------------------- | :----------: |
+| a) Identidad y contacto del responsable (y DPO)              |      ❎       |
+| b) Finalidades y base jurídica del tratamiento               |      ❎       |
+| c) Intereses legítimos (si aplica)                           |      ❎       |
+| d) Destinatarios o categorías de destinatarios               |      ❎       |
+| e) Política y medidas de seguridad                           |      ❎       |
+| f) Derechos ARSOP del titular                                |      ❎       |
+| g) Derecho a recurrir ante la Agencia                        |      ❎       |
+| h) Transferencia internacional y garantías                   |      ❎       |
+| i) Periodo de conservación                                   |      ❎       |
+| j) Fuente de los datos personales                            |      ✅       |
+| k) Derecho a retirar el consentimiento                       |      ❎       |
+| l) Decisiones automatizadas / perfiles                       |      ❎       |
+| Art. 14 quáter - Protección desde el diseño y por defecto    |      ✅       |
+| Art. 14 quáter - Transparencia (información accesible)       |      ✅       |
+| Principio de Confidencialidad                                |      ✅       |
+
+**6. Puntuación Total**
+
+✅: 4
+❎: 11
+
+**Puntuación Total: 4 / 15**
+
+**Conclusión:**
+La política de privacidad de la Fundación Wikimedia demuestra un compromiso con la transparencia y la minimización de datos, alineándose con algunos principios generales de protección de datos como la privacidad por diseño y la confidencialidad. Sin embargo, al ser una política global, carece de la especificidad y detalle requeridos por varios artículos de la legislación chilena sobre protección de datos personales (basado en los extractos proporcionados). Se identifican brechas significativas en cuanto a la información sobre derechos de los titulares, bases jurídicas, transferencias internacionales, periodos de conservación específicos y medidas de seguridad detalladas, entre otros. Se requieren adaptaciones importantes para alcanzar un cumplimiento adecuado con la normativa chilena.

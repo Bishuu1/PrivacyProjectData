@@ -1,0 +1,86 @@
+**EVALUACIÓN DE LA POLÍTICA CORPORATIVA DE PROTECCIÓN DE DATOS PERSONALES DE SMU S.A. Y SUS FILIALES FRENTE A LA LEY CHILENA DE PROTECCIÓN DE DATOS PERSONALES (BASADA EN EXTRACTOS PROPORCIONADOS)**
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad**
+
+La "Política Corporativa de Protección de Datos Personales" de SMU S.A. y sus filiales (en adelante, "la Política") establece las directrices generales para el tratamiento de datos personales de trabajadores, clientes, proveedores y cualquier individuo relacionado con las Compañías.
+
+*   **Objetivo:** Definir directrices, establecer normas de conducta, contribuir a una cultura de protección de datos y asignar roles y responsabilidades.
+*   **Alcance:** Aplicable a SMU S.A. y sus filiales listadas, así como a sus trabajadores, directores, socios comerciales, proveedores y mandatarios. Cubre todo tratamiento de datos, independientemente de su forma de recolección o medio de almacenamiento.
+*   **Marco Normativo:** Se basa en la Constitución, Ley Nº 19.628, Ley Nº 20.575, Ley N° 19.496, y normativa interna.
+*   **Definiciones Clave:** Incluye términos como Anonimización, Base de datos, Cesión de datos, Datos Personales, Datos Sensibles, Responsable, Titular y Tratamiento.
+*   **Principios del Tratamiento:** Adopta los principios de licitud, finalidad, calidad, transparencia e información, seguridad, confidencialidad, minimización y proporcionalidad.
+*   **Contenido de Políticas de Privacidad:** Detalla la información mínima que deben contener las políticas o avisos de privacidad (fecha/versión, identificación del responsable/representante legal/Encargado de Protección de Datos, punto de contacto, detalles del tratamiento, medidas de seguridad, derechos de los titulares).
+*   **Bases de Licitud:** Reconoce el tratamiento autorizado por ley y el tratamiento autorizado por el titular (consentimiento expreso, por escrito e informado).
+*   **Derechos de los Titulares:** Informa sobre los derechos de acceso, rectificación, cancelación y bloqueo, y la obligación de la Compañía de facilitar su ejercicio.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley (Según Extractos Provistos)**
+
+*   ✅ **Principios Fundamentales (Art. 3°):**
+    *   **Licitud y Lealtad (Art. 3° a):** La Política establece en V.1.i el "Principio de licitud", indicando que el tratamiento se hará en cumplimiento de la regulación aplicable y amparado en una base de licitud (autorización legal o del titular). Esto se alinea con la exigencia legal.
+    *   **Finalidad (Art. 3° b):** La Política en V.1.ii define el "Principio de finalidad", estipulando que los datos deben ser recolectados con fines específicos, explícitos y lícitos, y su tratamiento limitado a estos fines, que deben ser comunicados al titular. Esto cumple con el requisito legal.
+
+*   ✅ **Obligaciones del Responsable (Extracto pág. 10):**
+    *   **Informar licitud y recoger datos lícitamente (Art. [p10] a, b):** La Política, a través de sus principios de licitud (V.1.i) y finalidad (V.1.ii), y la sección sobre bases de licitud (V.2), aborda la necesidad de un tratamiento lícito y con fines definidos. El principio de transparencia (V.1.iv) también contribuye a informar al titular.
+    *   **Comunicar información exacta, completa y actual (Art. [p10] c):** El "Principio de calidad" (V.1.iii) establece que los datos deben ser exactos, completos y actuales, y que se adoptarán medidas para suprimir o rectificar datos incorrectos.
+    *   **Suprimir o anonimizar datos (Art. [p10] d):** El "Principio de proporcionalidad" (V.1.viii) indica que la Compañía no deberá conservar datos por más tiempo del necesario y que, transcurrido este, deberá eliminar o anonimizar los datos. La definición de "Anonimización" (IV) es consistente con la definición legal (k).
+    *   **Cumplir demás deberes y principios (Art. [p10] e):** La Política en su conjunto busca establecer un marco para el cumplimiento general de las obligaciones de protección de datos.
+
+*   ✅ **Concepto de Anonimización (Definición k):**
+    *   La definición de "Anonimización" en la sección IV de la Política es sustancialmente similar a la proporcionada en el extracto legal, enfatizando la irreversibilidad y la imposibilidad de re-identificación.
+
+*   ✅ **Reconocimiento del Encargado/Delegado (Art. [p11] b y Art. 50):**
+    *   La Política menciona en V.1.iv.b la necesidad de identificar al "Encargado de Protección de Datos; una vez que sea nombrado", lo cual se alinea con la figura del "encargado de prevención" (Art. [p11] b) o "delegado" (Art. 50) que la ley contempla.
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley (Según Extractos Provistos)**
+
+*   ❎ **Contenido Mínimo de la Política de Privacidad (Art. [p11]):**
+    Si bien la sección V.1.iv de la Política ("Principio de transparencia e información") describe correctamente qué información *deberían contener* las "políticas que regulen el tratamiento de Datos Personales (denominadas comúnmente como políticas o avisos de privacidad)", *este documento en sí mismo* (la "Política Corporativa de Protección de Datos Personales") no incluye toda la información específica que la ley exige para "la política de privacidad o una versión de la misma":
+    *   **Art. [p11] a) Versión de la misma:** Aunque el documento tiene un "1" en la esquina superior, no presenta una fecha explícita de esta versión. La Política (V.1.iv.a) sí exige "Fecha y versión" para otras políticas.
+    *   **Art. [p11] b) Individualización del responsable de datos y su representante legal:**
+        *   La Política identifica genéricamente a "SMU S.A. y sus filiales" como "Compañías" y "Responsable". Sin embargo, no individualiza a SMU S.A. ni a cada una de las filiales mencionadas (Rendic Hermanos S.A., Súper 10 S.A., etc.) con su RUT, ni nombra a sus respectivos representantes legales en *este documento*.
+        *   No se identifica un "encargado de prevención" actual, aunque se menciona la figura del "Encargado de Protección de Datos; una vez que sea nombrado". Si ya existiera un encargado de prevención, debería estar identificado.
+    *   **Art. [p11] c) Domicilio postal, dirección de correo electrónico, formulario de contacto o medio tecnológico equivalente:**
+        *   *Este documento* no proporciona un domicilio postal específico, una dirección de correo electrónico de contacto para temas de privacidad, ni un formulario o medio tecnológico directo para que los titulares realicen solicitudes a SMU S.A. o sus filiales. La Política (V.1.iv.c) sí exige "Identificación de punto de contacto" para otras políticas.
+    *   **Art. [p11] d) Categorías de datos, universo de personas, destinatarios, finalidades, base de legitimidad e intereses legítimos:**
+        *   *Este documento* no detalla:
+            *   Las categorías, clases o tipos de datos específicos que trata cada Compañía (e.g., datos de clientes para programas de lealtad, datos de empleados para RRHH, etc.).
+            *   La descripción genérica del universo de personas que comprenden sus bases de datos (e.g., "clientes de supermercados Unimarc", "trabajadores de SMU S.A.").
+            *   Los destinatarios específicos o categorías de destinatarios a los que se prevé comunicar o ceder los datos.
+            *   Las finalidades específicas de los tratamientos que realiza cada Compañía (más allá de los principios generales).
+            *   La base de legitimidad específica para cada uno de dichos tratamientos.
+            *   En caso de tratamientos basados en intereses legítimos, cuáles serían estos.
+        *   La Política (V.1.iv.d) exige esta información para otras políticas, pero la ley requiere que "la política de privacidad" contenga esta información. Si este documento es la política principal, carece de estos detalles.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Actualizar la Política Corporativa para Incluir Información Específica:**
+    *   Incorporar directamente en *esta* "Política Corporativa de Protección de Datos Personales" la información faltante según el Art. [p11] de la ley, o bien,
+    *   Si esta Política es un documento marco, debe referenciar de manera clara y fácilmente accesible a los documentos complementarios (ej. "Aviso de Privacidad para Clientes", "Aviso de Privacidad para Trabajadores") que contengan la información detallada del Art. [p11], y asegurar que estos avisos estén disponibles.
+2.  **Detallar la Identificación del Responsable (Art. [p11] b):**
+    *   Listar SMU S.A. y cada una de las filiales mencionadas (Rendic Hermanos S.A., Súper 10 S.A., Alvi Supermercados Mayoristas S.A., Red Apoyo S.A., Unidata S.A., Servicios Logísticos Santiago S.A. y Servicios Logísticos La Serena S.A.) con su respectivo Rol Único Tributario (RUT).
+    *   Identificar al representante legal de SMU S.A. y de cada filial, o al menos del grupo consolidado si aplica.
+    *   Si existe un "encargado de prevención" o "Encargado de Protección de Datos" ya designado, identificarlo con su nombre y forma de contacto.
+3.  **Proporcionar Información de Contacto Clara (Art. [p11] c):**
+    *   Incluir en *este documento* un domicilio postal y una dirección de correo electrónico específica (ej. privacidad@smu.cl) o un enlace a un formulario de contacto centralizado para que los titulares puedan ejercer sus derechos y realizar consultas sobre protección de datos.
+4.  **Especificar los Tratamientos de Datos (Art. [p11] d):**
+    *   En *este documento* o en anexos/políticas específicas referenciadas:
+        *   Describir las principales categorías de datos personales que se tratan (ej. identificativos, de contacto, transaccionales, laborales, de salud si aplica).
+        *   Describir los principales universos de titulares (ej. clientes, trabajadores, proveedores).
+        *   Identificar las principales categorías de destinatarios de los datos (ej. procesadores de pago, empresas de logística, autoridades regulatorias).
+        *   Detallar las finalidades concretas para los principales tratamientos de datos.
+        *   Indicar la base de legitimidad para cada finalidad (consentimiento, obligación legal, ejecución de contrato, interés legítimo).
+        *   Si se invoca el interés legítimo, explicar en qué consiste dicho interés.
+5.  **Incluir Fecha de Versión (Art. [p11] a):**
+    *   Asegurar que la fecha de la versión actual de la Política esté claramente visible en el documento.
+6.  **Revisión Continua:** Mantener la política actualizada conforme a los cambios legislativos, incluyendo la plena entrada en vigor y eventuales modificaciones de la Ley 21.719.
+
+**5. Puntuación General de Cumplimiento (Basada en Extractos Provistos)**
+
+*   Principios Fundamentales (Art. 3°): ✅
+*   Obligaciones del Responsable (Extracto pág. 10): ✅
+*   Contenido Mínimo de la Política de Privacidad (Art. [p11]): ❎
+*   Definiciones y Otros Aspectos Relevantes (Anonimización, concepto de Encargado): ✅
+
+**6. Puntuación Total**
+
+Total de ✅: **3 / 4**

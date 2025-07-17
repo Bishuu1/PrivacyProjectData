@@ -1,0 +1,89 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE CANVA FRENTE A LA LEY 21.719 DE CHILE**
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad de Canva**
+
+La política de privacidad de Canva, actualizada por última vez el 14 de noviembre de 2023, describe cómo Canva Pty Ltd y sus empresas vinculadas recogen, utilizan, difunden y protegen la información de los usuarios de su plataforma de comunicación visual ("Servicio").
+
+*   **Información Recopilada:**
+    *   **Directamente proporcionada por el usuario:** Nombre, fecha de nacimiento, teléfono, profesión, dirección postal, correo electrónico, mensajes, contenido generado (textos, imágenes).
+    *   **De aplicaciones externas:** Información de inicio de sesión de terceros (ej. Facebook Connect), datos de identificación de usuario, tokens de acceso, información permitida por el usuario en esas plataformas, datos de apps integradas.
+    *   **De terceros:** Fuentes públicas, plataformas de redes sociales, proveedores de datos para entender perfiles e intereses, personalizar ofertas y anuncios. Incluye datos de contacto para promoción si no se es suscriptor. Información sobre interacciones con anuncios.
+    *   **Recopilada automáticamente:** Datos de actividad, análisis de eventos, clics, uso de herramientas de análisis de terceros.
+    *   **Cookies y tecnologías similares:** Para inicio de sesión, navegación, preferencias, seguimiento del uso, medición de tráfico, anuncios personalizados. Se enlaza a una Política de Cookies.
+    *   **Archivos de registro:** Solicitud web, tipo de navegador, URLs, clics, interacción con enlaces, nombres de dominio, páginas vistas.
+    *   **Balizas web:** Para rastrear patrones de uso anónimos y apertura de correos HTML.
+    *   **Identificadores de dispositivos:** UUID, ID de publicidad de Android/iOS.
+    *   **Datos de ubicación:** Precisa o aproximada, para localizar y personalizar contenido, cumplir legislación, análisis, mejorar anuncios, estimar obligaciones fiscales.
+*   **Uso de la Información:** Para operar y mantener el Servicio, comunicarse con usuarios, solucionar problemas, personalizar ofertas, análisis de datos, aprendizaje automático, medir tráfico y tendencias, publicidad.
+*   **Opciones del Usuario:** Se menciona la posibilidad de no facilitar información (con posibles limitaciones en el servicio), ajustar configuraciones de privacidad en servicios de terceros, desvincular cuentas de terceros, deshabilitar la recogida de datos de proveedores externos para personalización, controlar cookies a través del navegador.
+*   **Excepciones para Canva para Educación:** Se indica que ciertas prácticas de publicidad y uso de cookies para anuncios no aplican a estudiantes de Canva para Educación.
+*   **Contacto:** Se proporciona un correo electrónico (privacy@canva.com) para consultas sobre privacidad y para ejercer opciones de rechazo.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley 21.719**
+
+*   **Identidad del responsable (Art. 5 a) implícito, información general):** Se identifica a "Canva Pty Ltd" como el responsable. ✅
+*   **Finalidades del tratamiento (Art. 5 b)):** La política detalla las diversas finalidades para las cuales se recopila y utiliza la información (operar el servicio, comunicación, personalización, análisis, publicidad, etc.). ✅
+*   **Tipos de datos tratados (Art. 5 a)):** Se describen con bastante detalle las categorías de datos personales que se recopilan (información proporcionada directamente, de apps externas, de terceros, automática, cookies, geolocalización, etc.). ✅
+*   **Fuente de los datos personales (Art. 5 a) y primer bloque de la ley, letra j)):** Se especifica si los datos provienen directamente del titular, de terceros (incluyendo fuentes públicas y proveedores de datos), o se generan automáticamente. ✅
+*   **Información sobre cookies y tecnologías similares (implícito en la transparencia):** Se informa sobre el uso de cookies y se remite a una política específica, mencionando la posibilidad de controlarlas. ✅
+*   **Datos de geolocalización (Art. 16 sexies - parcial):**
+    *   Se informa sobre el tipo de datos de geolocalización tratados ("precisa o aproximada"). ✅
+    *   Se informan las finalidades del tratamiento de datos de geolocalización (localizar y personalizar contenido, cumplir legislación, análisis, etc.). ✅
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen o Cumplen Parcialmente con la Ley 21.719**
+
+*   **Base legal del tratamiento (Primer bloque de la ley, letra d)):** Aunque se infiere el consentimiento para datos proporcionados directamente, la política no articula claramente la base de licitud para cada tipo de tratamiento conforme al Art. 12 o 13 de la ley (consentimiento, ejecución contractual, interés legítimo, obligación legal, etc.). Por ejemplo, para la información obtenida de terceros o la recogida automática, no se especifica si se basa en consentimiento explícito o en un interés legítimo detallado. ❎
+*   **Identificación de los intereses legítimos (Art. 5 e) y primer bloque de la ley, letra d)):** Cuando se menciona el tratamiento basado en intereses legítimos (ej. "entender mejor tu perfil y tus intereses y así poder personalizar nuestras ofertas"), no se detallan suficientemente cuáles son esos intereses legítimos de forma clara y específica como lo exige la ley. ❎
+*   **Período de conservación de los datos (Art. 5 d) y primer bloque de la ley, letra i)):** La política no especifica el período durante el cual se conservarán los datos personales o, en su defecto, los criterios utilizados para determinar ese plazo. Frases como "el tiempo que sea necesario para los fines para los que se recogió" son insuficientes. ❎
+*   **Derecho a retirar el consentimiento (Primer bloque de la ley, letra k)):** Si bien se mencionan opciones de "opt-out" para ciertos usos (ej. personalización por datos de terceros), no se establece de forma clara y general el derecho del titular a retirar su consentimiento en cualquier momento para los tratamientos basados en él, ni las implicaciones de dicha retirada. ❎
+*   **Decisiones automatizadas y elaboración de perfiles (Art. 5 f) y primer bloque de la ley, letra l)):**
+    *   Se menciona la elaboración de perfiles para personalizar ofertas y anuncios. Sin embargo, no se proporciona "información significativa sobre la lógica aplicada" ni se detallan las "consecuencias previstas de dicho tratamiento para el titular" de forma exhaustiva. ❎
+*   **Derechos de los titulares (Acceso, Rectificación, Supresión, Oposición, Portabilidad) (Primer bloque de la ley, letra f)):** La política menciona "las opciones que tienes sobre la recogida y el uso de tu información" y un correo de contacto, pero no enumera ni explica de forma clara y sistemática el derecho del titular a solicitar acceso, rectificación, supresión, oposición y portabilidad de sus datos, ni el procedimiento para ejercerlos. ❎
+*   **Derecho a recurrir ante la Agencia (Primer bloque de la ley, letra g)):** No se informa al titular sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales en caso de que el responsable rechace o no responda oportunamente sus solicitudes. ❎
+*   **Transferencias internacionales de datos (Primer bloque de la ley, letra h)):** La política indica que la información puede ser transferida y procesada en países distintos al de residencia del usuario y que se utilizan "mecanismos legales" como Cláusulas Contractuales Tipo. Sin embargo, no especifica si los países destinatarios ofrecen un nivel adecuado de protección según los estándares chilenos, y si no lo ofrecen, no detalla suficientemente las "garantías que justifiquen tal transferencia" más allá de la mención genérica de los mecanismos. ❎
+*   **Datos de contacto del Delegado de Protección de Datos (DPO) (Primer bloque de la ley, letra b)):** No se mencionan los datos de contacto de un Delegado de Protección de Datos, si es que Canva ha designado uno (lo cual sería esperable para una empresa de su envergadura y tipo de tratamiento). ❎
+*   **Política y medidas de seguridad (Primer bloque de la ley, letra e)):** Si bien se menciona que se "protegen la información", no se describe la política ni las medidas de seguridad específicas adoptadas para proteger las bases de datos personales. ❎
+*   **Datos de geolocalización (Art. 16 sexies - parcial):**
+    *   No se especifica la "duración del tratamiento" de los datos de geolocalización de forma particular. ❎
+    *   No se informa claramente si los datos de geolocalización "se comunicarán o cederán a un tercero para la prestación de un servicio con valor añadido". ❎
+*   **Deber de protección desde el diseño y por defecto (Art. 14 quáter):** La política no menciona explícitamente el compromiso de aplicar los principios de protección de datos desde el diseño y por defecto en sus sistemas y procesos. Si bien algunas prácticas podrían inferirlo, una declaración explícita es recomendable. ❎
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Base Legal:** Especificar claramente la base legal (consentimiento, contrato, interés legítimo, etc.) para cada finalidad de tratamiento de datos. Si se invoca el interés legítimo, detallarlo adecuadamente.
+2.  **Período de Conservación:** Definir plazos de conservación específicos para las distintas categorías de datos o, al menos, los criterios claros y objetivos utilizados para determinar dichos plazos.
+3.  **Derecho a Retirar Consentimiento:** Incluir una cláusula explícita que informe sobre el derecho del titular a retirar el consentimiento en cualquier momento para los tratamientos basados en él, y cómo hacerlo, sin que afecte la licitud del tratamiento previo.
+4.  **Decisiones Automatizadas y Perfilado:** Proveer información más detallada sobre la lógica aplicada en la elaboración de perfiles y otras decisiones automatizadas, así como las consecuencias significativas que estas pueden tener para los titulares.
+5.  **Derechos ARSOP:** Dedicar una sección específica a los derechos de los titulares (Acceso, Rectificación, Supresión, Oposición, Portabilidad), explicando cada uno y el procedimiento detallado para ejercerlos ante Canva.
+6.  **Derecho a Reclamar ante la Agencia:** Informar a los titulares sobre su derecho a presentar reclamaciones ante la Agencia de Protección de Datos Personales de Chile.
+7.  **Transferencias Internacionales:** Detallar los países a los que se transfieren datos. Si no cuentan con un nivel adecuado de protección reconocido por Chile, especificar las garantías concretas adoptadas para cada tipo de transferencia (ej. Cláusulas Contractuales Tipo específicas, Normas Corporativas Vinculantes, si aplican).
+8.  **Delegado de Protección de Datos (DPO):** Si Canva cuenta con un DPO, incluir sus datos de contacto. Si no, considerar su designación dada la escala del tratamiento.
+9.  **Medidas de Seguridad:** Describir de forma general pero suficiente las medidas técnicas y organizativas implementadas para garantizar la seguridad de los datos personales.
+10. **Datos de Geolocalización:** Especificar la duración del tratamiento de los datos de geolocalización y si se ceden a terceros para servicios de valor añadido, identificando a dichos terceros o sus categorías.
+11. **Privacidad desde el Diseño y por Defecto:** Incluir una declaración sobre el compromiso de la empresa con los principios de privacidad desde el diseño y por defecto.
+12. **Lenguaje Claro y Accesible:** Asegurar que toda la política esté redactada en un lenguaje claro, sencillo y fácilmente comprensible para el usuario medio, evitando la jerga excesivamente técnica o legal sin explicación.
+
+**5. Puntuación General de Cumplimiento (por sección relevante de la ley)**
+
+*   Identidad y datos de contacto del responsable: ✅
+*   Datos de contacto del DPO (si aplica): ❎
+*   Finalidades del tratamiento: ✅
+*   Base jurídica del tratamiento (incluyendo intereses legítimos si aplica): ❎
+*   Categorías de datos personales tratados: ✅
+*   Categorías de destinatarios o identidad de los mismos (cesión): ❎ (Parcial, podría ser más específico)
+*   Transferencias internacionales (adecuación y garantías): ❎
+*   Período de conservación: ❎
+*   Fuente de los datos: ✅
+*   Derecho a retirar el consentimiento: ❎
+*   Existencia de decisiones automatizadas (lógica y consecuencias): ❎
+*   Derechos de los titulares (ARSOP) y cómo ejercerlos: ❎
+*   Derecho a recurrir ante la Agencia: ❎
+*   Información específica sobre geolocalización (duración, cesión para valor añadido): ❎
+*   Política y medidas de seguridad: ❎
+*   Deber de protección desde el diseño y por defecto (mención explícita): ❎
+
+**6. Puntuación Total**
+
+Sumando los ✅ del total de secciones evaluadas (16 secciones clave identificadas):
+
+**Puntuación Total: 4 / 16**

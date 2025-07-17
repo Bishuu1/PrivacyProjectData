@@ -1,0 +1,125 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE ROBLOX FRENTE A LA LEY 21.719 DE CHILE**
+
+**1. Resumen de los puntos principales de la política de privacidad de Roblox**
+
+La política de privacidad de Roblox, con fecha de vigencia 22 de enero de 2025, se dirige a todos los usuarios de sus servicios (sitios web roblox.com, aplicaciones móviles, VR y consola, Roblox Player y Studio), independientemente de su edad o ubicación, incluyendo a padres o tutores de menores de 13 años.
+
+Principales puntos:
+*   **Información Recopilada:**
+    *   **Para todos los usuarios (al crear cuenta):** Nombre de usuario, contraseña, fecha de nacimiento. Género (opcional). Dirección de correo electrónico (para seguridad, verificación, recuperación de contraseña). Número de teléfono (opcional, para seguridad, recuperación, encontrar amigos con consentimiento).
+    *   **Para menores de 13 años:** Se recopila nombre de usuario, contraseña, fecha de nacimiento (obligatorios); género (opcional). Se puede proporcionar correo electrónico de los padres (opcional, para seguridad y comunicación). Se establecen configuraciones de privacidad más fuertes por defecto, desactivando plugins de redes sociales, ciertas alertas y publicidad.
+    *   **Para compras:** Información de facturación (nombre, dirección, contacto, datos de tarjeta/pago), gestionada por procesadores de pago externos. Roblox recibe información de la transacción.
+*   **Uso de la Información:**
+    *   Creación y gestión de cuentas.
+    *   Personalización de la experiencia.
+    *   Seguridad de la cuenta y plataforma.
+    *   Procesamiento de pagos.
+    *   Cumplimiento de obligaciones legales.
+    *   Comunicación con usuarios y padres.
+    *   Filtrado de contenido (información personal, phishing, contenido ofensivo).
+*   **Derechos del Usuario:**
+    *   Control sobre la configuración de comunicación.
+    *   Padres de menores de 13 años pueden solicitar revisar, eliminar o impedir la recopilación de datos de sus hijos.
+    *   Se menciona el cumplimiento de COPPA en EE. UU.
+*   **Contacto:** Se proporcionan múltiples formas de contacto, incluyendo formularios, direcciones postales y correos electrónicos específicos para diferentes regiones (EE. UU., EEE/Reino Unido/Suiza, Brasil, Corea).
+*   **Definiciones:** Se definen términos clave como "Menores", "Información personal", "Procesamiento", "Servicio".
+*   **Transferencias:** Implícitamente, al ser una empresa de EE. UU. con usuarios globales y representantes en otras jurisdicciones, los datos se transfieren internacionalmente.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+Basado en los extractos de la Ley 21.719 proporcionados:
+
+*   ✅ **b) La individualización del responsable de datos y su representante legal y la identificación del encargado de prevención, si existiere:**
+    *   Se individualiza al responsable: Roblox Corporation.
+    *   Se proporcionan datos de contacto para el "Roblox Privacy Manager" y representantes para el EEE, Reino Unido y Suiza, y un Director de Protección de Datos para Brasil. Si bien no se nombra un "encargado de prevención" específico para Chile, la estructura de responsables de privacidad es un paso en la dirección correcta.
+
+*   ✅ **c) El domicilio postal, la dirección de correo electrónico, el formulario de contacto o la identificación del medio tecnológico equivalente de uso común y fácil acceso mediante el cual se le notifican las solicitudes que realicen los titulares:**
+    *   Se proporciona dirección postal en EE. UU. (3150 S. Delaware St., San Mateo, California, 94403).
+    *   Se proporciona correo electrónico general (privacy@roblox.com) y específicos para ciertas regiones.
+    *   Se menciona un "Formulario de atención al cliente".
+
+*   ✅ **j) La fuente de la cual provienen los datos personales y, en su caso, si proceden de fuentes de acceso público:**
+    *   La política es clara en que los datos provienen principalmente del usuario al crear la cuenta, al realizar compras, o de los padres (en el caso del correo electrónico parental). También se menciona la posibilidad de acceder a la lista de contactos del usuario con su consentimiento para buscar amigos. No se indica que se recopilen datos de fuentes de acceso público para la creación de perfiles o identificación inicial.
+
+*   ✅ **Artículo 14 quáter.- Deber de protección desde el diseño y por defecto:**
+    *   La política describe medidas como: "Si eres menor de 13 años, estableceremos automáticamente tu cuenta para que tenga configuraciones de privacidad más fuertes." Esto demuestra una aplicación del principio de privacidad por defecto para usuarios vulnerables.
+    *   El filtrado de información personal en áreas públicas también es una medida de protección desde el diseño.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+*   ❎ **b) La individualización del responsable de datos y su representante legal y la identificación del encargado de prevención, si existiere (específico para Chile):**
+    *   Aunque se identifica al responsable global y representantes en otras jurisdicciones, no se menciona un representante legal en Chile ni un "encargado de prevención" con designación específica o datos de contacto para Chile, lo cual podría ser requerido dependiendo de la interpretación y alcance de la ley para entidades extranjeras que tratan datos de chilenos de forma sistemática.
+
+*   ❎ **d) Las categorías, clases o tipos de datos que trata; la descripción genérica del universo de personas que comprenden sus bases de datos; los destinatarios a los que se prevé comunicar o ceder los datos; las finalidades de los tratamientos que realiza; la base de legitimidad del tratamiento; y en caso de tratamientos que se basan en la satisfacción de intereses legítimos, cuáles serían éstos:**
+    *   **Categorías de datos:** Si bien se mencionan varios (nombre de usuario, contraseña, DOB, género, email, teléfono, información de facturación), podría ser más exhaustivo (e.g., datos de uso, IP, identificadores de dispositivo).
+    *   **Universo de personas:** Se describe (jugadores, creadores, padres).
+    *   **Destinatarios:** Se mencionan procesadores de pago y "proveedor de servicios de dispositivos inalámbricos" para la verificación del teléfono. Sin embargo, la ley exige una descripción más general de los *tipos* de destinatarios a los que se prevé comunicar o ceder los datos (e.g., proveedores de servicios de analítica, moderación, infraestructura en la nube, etc.). La política es vaga al respecto.
+    *   **Finalidades:** Están relativamente bien descritas.
+    *   **Base de legitimidad:** La política menciona el consentimiento para algunas actividades (ej. uso del número de teléfono para encontrar amigos) y la necesidad para la ejecución del servicio (ej. crear cuenta). Sin embargo, no se articula sistemáticamente la base de legitimidad para *cada* tratamiento. Por ejemplo, la personalización de la experiencia o la seguridad podrían basarse en el interés legítimo, pero esto no se declara explícitamente ni se explican cuáles serían esos intereses legítimos.
+    *   **Intereses legítimos:** No se detallan explícitamente los intereses legítimos que se persiguen cuando esta es la base del tratamiento.
+
+*   ❎ **Transferencias internacionales (sección no numerada, pero relevante del primer extracto): "En caso de que no cuenten con un nivel adecuado de protección, se deberá informar si existen garantías que justifiquen tal transferencia."**
+    *   Siendo Roblox una empresa de EE. UU., los datos de usuarios chilenos son transferidos internacionalmente. La política no informa si EE. UU. cuenta con un nivel adecuado de protección de datos reconocido por Chile (lo cual es improbable bajo la nueva ley sin un acuerdo específico).
+    *   Crucialmente, no se informa sobre las garantías que justificarían tal transferencia (e.g., Cláusulas Contractuales Tipo adaptadas o aprobadas por la Agencia chilena, Normas Corporativas Vinculantes, etc.).
+
+*   ❎ **i) El periodo durante el que se conservarán los datos personales:**
+    *   La política indica que se eliminará información personal adicional "a menos que la ley nos exija que la conservemos" y que el hash del correo electrónico se guarda para autenticación futura. Para la información del teléfono con proveedores inalámbricos, se menciona "por la duración de tu relación comercial". Sin embargo, no se establecen periodos de conservación específicos o criterios claros para determinar la duración de la conservación para las diferentes categorías de datos personales (e.g., datos de cuenta tras la inactividad o cierre, datos de transacciones).
+
+*   ❎ **k) Cuando el tratamiento está basado en el consentimiento del titular, la existencia del derecho a retirarlo en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo a su retirada:**
+    *   Si bien se menciona que "Si no desea que usemos su número de teléfono para encontrar a sus amigos en Roblox, no active esta función", lo que implica la posibilidad de no consentir, no se establece de forma clara y general el derecho a *retirar* el consentimiento en cualquier momento para todos los tratamientos basados en él, ni las consecuencias o el procedimiento para hacerlo de manera sencilla.
+
+*   ❎ **l) La existencia de decisiones automatizadas, incluida la elaboración de perfiles. En tales casos, información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular:**
+    *   La política menciona la personalización de la experiencia basada en el género y la configuración de la cuenta basada en la edad, lo cual implica elaboración de perfiles y decisiones automatizadas. También el filtrado de contenido es parcialmente automatizado.
+    *   Sin embargo, no se proporciona "información significativa sobre la lógica aplicada" más allá de lo básico (e.g., "si edad < 13, entonces configuraciones restringidas"). Tampoco se detallan suficientemente las "consecuencias previstas" de forma comprensible para el titular, especialmente para la personalización.
+
+*   ❎ **Derechos de los titulares (q, r, s, t, u):**
+    *   **Derecho de acceso (q), rectificación (r), supresión (s), oposición (t):** Si bien se indica que los padres pueden solicitar cambios para las cuentas de menores de 13 años y que se puede contactar a Roblox para "solicitudes con respecto a tu información personal", no se enumeran ni explican explícitamente estos derechos ARSO para todos los usuarios de forma clara, ni se detalla un procedimiento específico y sencillo para ejercerlos conforme a la ley chilena.
+    *   **Derecho a la portabilidad de los datos personales (u):** Este derecho no se menciona en absoluto en la política. La ley chilena lo establece claramente, incluyendo el derecho a que los datos se transmitan directamente de responsable a responsable cuando sea técnicamente posible.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Representante en Chile:** Considerar la designación de un representante legal o un encargado de prevención en Chile, o al menos clarificar cómo se atenderán los requerimientos de la autoridad chilena y los titulares chilenos de manera efectiva.
+2.  **Detallar Tratamientos (Art. d):**
+    *   Ser más específico sobre todas las categorías de datos personales tratados (incluyendo datos técnicos o inferidos).
+    *   Listar de forma más exhaustiva los tipos de destinatarios de los datos (terceros proveedores de servicios, etc.).
+    *   Para cada finalidad de tratamiento, indicar explícitamente la base de legitimidad (consentimiento, contrato, obligación legal, interés legítimo, etc.).
+    *   Si se invoca el interés legítimo, describirlo claramente y, preferiblemente, indicar que se ha realizado una ponderación de intereses.
+3.  **Transferencias Internacionales:**
+    *   Reconocer que los datos de usuarios chilenos se transfieren a EE. UU. u otras jurisdicciones.
+    *   Indicar que estas jurisdicciones podrían no tener un nivel de protección de datos equivalente al chileno.
+    *   Especificar las garantías adoptadas para dichas transferencias para proteger los datos de los titulares chilenos (e.g., Cláusulas Contractuales Tipo, si son aplicables o adaptadas al contexto chileno).
+4.  **Periodos de Conservación:** Establecer periodos de conservación específicos para las distintas categorías de datos o, en su defecto, los criterios utilizados para determinar dichos periodos (e.g., "los datos de la cuenta se conservarán mientras la cuenta esté activa y por un periodo de X años tras su cierre para cumplir con obligaciones legales o atender posibles reclamaciones").
+5.  **Derecho a Retirar el Consentimiento:** Incluir una sección clara que establezca el derecho de los titulares a retirar su consentimiento en cualquier momento para los tratamientos basados en él, explicando cómo hacerlo y que la retirada no afectará la licitud del tratamiento previo.
+6.  **Decisiones Automatizadas y Perfiles:**
+    *   Ser más transparente sobre la lógica aplicada en la elaboración de perfiles y decisiones automatizadas (sin revelar secretos comerciales, pero dando una comprensión general).
+    *   Explicar de forma más clara las consecuencias que estos tratamientos tienen para el titular (e.g., qué tipo de contenido se le mostrará o se le restringirá).
+7.  **Derechos de los Titulares (ARSOP):**
+    *   Dedicar una sección específica a los derechos de los titulares conforme a la ley chilena: acceso, rectificación, supresión, oposición y **portabilidad**.
+    *   Explicar cada derecho de forma clara y sencilla.
+    *   Establecer un procedimiento claro y accesible para que los titulares puedan ejercer estos derechos (más allá del formulario de contacto general).
+8.  **Revisión Lingüística y Adaptación Cultural:** Asegurar que la política sea fácilmente comprensible para los usuarios chilenos, utilizando un lenguaje claro y evitando una excesiva jerga legal. Considerar una sección específica o anexo para Chile que aborde los requisitos particulares de la Ley 21.719.
+9.  **Fecha de Vigencia:** La fecha de vigencia "22 de enero de 2025" es inusual para una política que se evalúa en el presente. Asegurarse de que la política aplicable y vigente sea la que se pone a disposición del público.
+
+**5. Puntuación general de cumplimiento (respecto a los artículos citados de la Ley 21.719)**
+
+*   b) Individualización del responsable y representante: ❎ (Parcialmente cumplido, falta especificidad para Chile)
+*   c) Domicilio y contacto para solicitudes: ✅
+*   d) Categorías, finalidades, base legal, destinatarios, intereses legítimos: ❎
+*   Transferencias internacionales (información sobre adecuación y garantías): ❎
+*   i) Período de conservación: ❎
+*   j) Fuente de los datos: ✅
+*   k) Derecho a retirar consentimiento: ❎
+*   l) Decisiones automatizadas / perfiles (información sobre lógica y consecuencias): ❎
+*   q) Derecho de acceso: ❎ (No explícitamente detallado para todos)
+*   r) Derecho de rectificación: ❎ (No explícitamente detallado para todos)
+*   s) Derecho de supresión: ❎ (No explícitamente detallado para todos)
+*   t) Derecho de oposición: ❎ (No explícitamente detallado para todos)
+*   u) Derecho a la portabilidad: ❎
+*   Artículo 14 quáter (Protección desde el diseño y por defecto): ✅
+
+**6. Puntuación total**
+
+Sumando los ✅ del total de secciones evaluadas: **3 / 14**
+
+**Conclusión General:**
+La política de privacidad de Roblox contiene varios elementos informativos importantes y demuestra una conciencia sobre la privacidad, especialmente en lo referente a menores de edad (influenciada por COPPA). Sin embargo, al ser evaluada estrictamente contra los requisitos específicos de la Ley 21.719 de Chile (basado en los extractos proporcionados), presenta carencias significativas, particularmente en cuanto a la articulación de bases legales, información sobre transferencias internacionales, periodos de conservación, el derecho a retirar el consentimiento de forma general, detalles sobre decisiones automatizadas y, de manera crucial, la enumeración y facilitación de todos los derechos de los titulares, incluyendo el de portabilidad. Se requieren mejoras sustanciales para alinearla plenamente con la legislación chilena.

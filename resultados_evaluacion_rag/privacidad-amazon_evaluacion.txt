@@ -1,0 +1,95 @@
+## Evaluación de Política de Privacidad de Amazon.com frente a la Ley Chilena de Protección de Datos Personales
+
+**Fecha de Evaluación:** 22 de mayo de 2024
+**Política Evaluada:** Amazon.com Privacy Notice (Última actualización: 14 de febrero de 2025)
+**Legislación de Referencia:** Ley 19.628 sobre Protección de la Vida Privada (con las modificaciones pertinentes, asumiendo que los extractos provistos reflejan el estado actual de la ley, referida como Ley 21.719 en la solicitud).
+
+---
+
+### 1. Resumen de los Puntos Principales de la Política de Privacidad
+
+La política de privacidad de Amazon.com describe:
+*   **Información Recopilada:** Detalla los tipos de información personal que Amazon recopila, incluyendo la proporcionada por el usuario, la recopilada automáticamente (cookies, identificadores, datos de interacción, información de tiendas físicas) y la obtenida de otras fuentes (transportistas).
+*   **Fines del Uso de Información:** Explica que la información se utiliza para operar, proporcionar, desarrollar y mejorar productos/servicios. Los fines específicos incluyen: compra y entrega, provisión y mejora de servicios, recomendaciones y personalización, servicios de voz/imagen/cámara, cumplimiento de obligaciones legales, comunicación con clientes, publicidad basada en intereses y prevención de fraude/riesgos crediticios.
+*   **Cookies y Otros Identificadores:** Menciona el uso de cookies para reconocer navegadores/dispositivos y mejorar servicios, remitiendo a un Aviso de Cookies específico.
+*   **Compartición de Información Personal:** Afirma no vender información personal. Detalla que comparte información con filiales sujetas a la misma política, con terceros para operaciones conjuntas o servicios (con conocimiento del usuario), con proveedores de servicios externos (limitado a sus funciones), en caso de transferencias de negocios, y para protección de Amazon y otros (cumplimiento legal, protección de derechos). Informa que se notificará al usuario si su información se comparte con terceros no previstos, para que pueda oponerse.
+*   **Seguridad de la Información:** Describe medidas de seguridad como protocolos de cifrado, cumplimiento de PCI DSS, salvaguardas físicas/electrónicas/procedimentales, y verificación de identidad. Destaca la importancia de la protección de contraseñas por parte del usuario.
+*   **Publicidad:** Explica la inclusión de publicidad de terceros y el uso de servicios de publicidad de terceros, compartiendo identificadores publicitarios (no PII directa) para ofrecer anuncios relevantes. Ofrece opciones para ajustar preferencias.
+*   **Acceso a la Información:** Indica que los usuarios pueden acceder a su información (nombre, dirección, pagos, perfil, historial) a través de la sección "Mi cuenta".
+*   **Opciones del Usuario:** Menciona que los usuarios pueden contactar a Servicio al Cliente para preguntas sobre recopilación y uso de datos, y que muchos servicios incluyen opciones de configuración.
+*   **Transferencias Internacionales:** Hace referencia al Marco de Privacidad de Datos entre la UE-EE.UU., Extensión del Reino Unido, y Suiza-EE.UU.
+
+---
+
+### 2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley
+
+Basado en los extractos de la Ley 19.628 proporcionados:
+
+*   **Información sobre la política y medidas de seguridad (Art. X.e):** La política describe las medidas de seguridad adoptadas ("¿Qué tan segura es la información sobre mí?").
+*   **Derecho de acceso (parcialmente) (Art. X.f):** La política informa sobre el derecho de acceso a cierta información a través de la sección "Mi cuenta" ("¿A qué información puedo acceder?").
+*   **Informar y poner a disposición antecedentes de licitud del tratamiento (Art. Y.a):** La política, en sí misma, es un esfuerzo por informar sobre el tratamiento de datos. La sección "¿Con qué fines utiliza Amazon su información personal?" detalla las finalidades.
+*   **Asegurar que los datos se recojan de fuentes lícitas con fines específicos, explícitos y lícitos, y que su tratamiento se limite al cumplimiento de estos fines (Art. Y.b):** La política detalla las fuentes ("¿Qué información personal acerca de los clientes recopila Amazon?") y los fines ("¿Con qué fines utiliza Amazon su información personal?").
+*   **Información sobre cesión de datos (parcialmente) (Art. 15):** La política indica que "Aparte de lo establecido anteriormente, se le informará en el caso de que cualquier información sobre usted sea compartida con terceros, con el objeto de que tenga la oportunidad de decidir si no desea compartir dicha información", lo que sugiere un mecanismo de consentimiento o al menos información previa a ciertas cesiones no cubiertas inicialmente.
+
+---
+
+### 3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley
+
+*   **Identificación de intereses legítimos (Art. X.d, si aplica):** Si bien la ley menciona la posibilidad de basar el tratamiento en intereses legítimos, la política de Amazon no los detalla explícitamente como una base de licitud para el tratamiento o cesión de datos, aunque algunas de sus prácticas podrían encuadrarse aquí (ej. prevención de fraude). La ley chilena es más restrictiva con el interés legítimo que el GDPR, por lo que se requiere mayor claridad.
+*   **Derechos ARSOP completos (Art. X.f):** La política menciona el acceso, pero no informa de manera explícita y clara sobre el derecho del titular a solicitar la **rectificación, supresión (cancelación), oposición y portabilidad** de sus datos personales, ni el procedimiento para ejercerlos de forma completa. La sección "¿Qué opciones tengo?" es genérica y remite a Servicio al Cliente sin detallar estos derechos específicos.
+*   **Derecho a recurrir ante la Agencia (Art. X.g):** La política no informa al titular sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales de Chile en caso de que el responsable rechace o no responda oportunamente sus solicitudes.
+*   **Transferencia de datos a terceros países (Art. X.h):**
+    *   Si bien menciona marcos de privacidad con EE.UU., UE, Reino Unido y Suiza, no especifica si estos países ofrecen un "nivel adecuado de protección" desde la perspectiva de la ley chilena para los datos de residentes en Chile.
+    *   En caso de no contar con nivel adecuado, no se informa explícitamente sobre las "garantías que justifiquen tal transferencia" aplicables a los datos de chilenos (ej. Cláusulas Contractuales Tipo adaptadas o aprobadas por la autoridad chilena, si existieran, o consentimiento específico e informado para la transferencia bajo esas condiciones).
+*   **Contacto para titulares en Chile y la Agencia (Art. Z, si el responsable no tiene domicilio en Chile):** Amazon.com, Inc. es una entidad extranjera. La política no designa un correo electrónico u otro medio de contacto *específico y operativo en Chile* para recibir comunicaciones de los titulares de datos chilenos y de la Agencia chilena, como lo requeriría la ley si trata datos de personas que residan en Chile. El "Servicio al Cliente" general puede no ser suficiente para cumplir este requisito específico.
+*   **Deber de secreto o confidencialidad (Art. 14 bis):** Aunque se infiere de las medidas de seguridad, la política no declara explícitamente la obligación de mantener secreto o confidencialidad sobre los datos personales y que este deber subsiste aún después de concluida la relación con el titular.
+*   **Comunicar o ceder información exacta, completa y actual (Art. Y.c):** La política no incluye un compromiso explícito de asegurar que la información comunicada o cedida a terceros sea exacta, completa y actual, aunque menciona que usa información de transportistas para "corregir nuestros registros".
+*   **Consentimiento para la cesión de datos (Art. 15):**
+    *   La política establece que "Al utilizar Amazon Services, consiente las prácticas descritas en este Aviso de Privacidad". Este consentimiento general al inicio podría no ser suficiente para todas las cesiones posteriores a terceros que no sean estrictamente necesarias para la ejecución del contrato o no estén amparadas por otra base legal explícita.
+    *   El Art. 15 indica que si el consentimiento inicial no consideró la cesión, éste debe recabarse antes. La política menciona que "se le informará... con el objeto de que tenga la oportunidad de decidir si no desea compartir dicha información", lo cual es positivo, pero debe asegurar que esto constituya un consentimiento previo, libre, informado y específico para la nueva cesión, y no un mero opt-out.
+    *   No distingue claramente entre encargados de tratamiento (proveedores de servicios externos que actúan por cuenta de Amazon) y cesionarios (terceros que reciben los datos para sus propios fines), lo cual es crucial para determinar los requisitos de consentimiento.
+
+---
+
+### 4. Recomendaciones para Mejorar el Cumplimiento
+
+1.  **Especificar Bases de Licitud:** Si se basa en "intereses legítimos" para algún tratamiento o cesión, detallarlos claramente y justificar su preponderancia sobre los derechos del titular, conforme a la ley chilena.
+2.  **Derechos ARSOP:** Incluir una sección clara y detallada que informe a los titulares sobre todos sus derechos: acceso, rectificación, supresión (cancelación), oposición y portabilidad. Especificar el procedimiento exacto para ejercer cada uno de estos derechos.
+3.  **Recurso ante la Agencia:** Añadir una cláusula informando a los titulares de su derecho a recurrir ante la Agencia de Protección de Datos Personales de Chile si sus solicitudes no son atendidas satisfactoriamente.
+4.  **Transferencias Internacionales:**
+    *   Evaluar y declarar si los países a los que se transfieren datos de chilenos (ej. EE.UU.) cumplen con los estándares de "nivel adecuado de protección" según la normativa chilena.
+    *   Si no hay adecuación, detallar las garantías específicas implementadas para proteger los datos de los chilenos en dichas transferencias (ej. consentimiento informado específico para la transferencia sin garantías de adecuación, o si se utilizan otros instrumentos como Cláusulas Contractuales Tipo reconocidas por Chile).
+5.  **Contacto en Chile:** Designar y publicar un correo electrónico u otro medio de contacto específico y fácilmente accesible para que los titulares de datos en Chile y la Agencia de Protección de Datos chilena puedan dirigir sus comunicaciones relativas a la protección de datos.
+6.  **Deber de Secreto:** Incluir una declaración explícita sobre el deber de secreto y confidencialidad de los datos personales, y su subsistencia tras la finalización de la relación con el titular.
+7.  **Calidad de Datos Cedidos:** Incorporar un compromiso de que, al comunicar o ceder datos personales, se tomarán medidas razonables para asegurar que estos sean exactos, completos y actuales.
+8.  **Consentimiento para Cesión:**
+    *   Revisar el mecanismo de consentimiento para la cesión de datos a terceros (que no actúen como meros encargados de tratamiento). Asegurar que el consentimiento sea específico para las finalidades de la cesión y, si no se obtuvo al inicio, se recabe de forma previa e informada.
+    *   Distinguir claramente en la política entre la compartición de datos con proveedores de servicios (encargados) y la cesión a terceros (otros responsables).
+
+---
+
+### 5. Puntuación General de Cumplimiento
+
+| Sección Legal Relevante (según extractos)                                                                                                | Cumplimiento |
+| :--------------------------------------------------------------------------------------------------------------------------------------- | :----------: |
+| e) La política y las medidas de seguridad adoptadas para proteger las bases de datos personales que administra.                          |      ✅      |
+| f) El derecho que le asiste al titular para solicitar acceso, rectificación, supresión, oposición y portabilidad.                         |      ❎      |
+| g) El derecho que le asiste al titular de recurrir ante la Agencia.                                                                      |      ❎      |
+| h) En su caso, la transferencia de datos personales a un tercer país y si ofrecen nivel adecuado o garantías.                             |      ❎      |
+| Responsable sin domicilio en Chile: señalar correo electrónico u otro medio de contacto idóneo para titulares y la Agencia.              |      ❎      |
+| Artículo 14 bis.- Deber de secreto o confidencialidad.                                                                                   |      ❎      |
+| a) Informar y poner a disposición del titular los antecedentes que acrediten la licitud del tratamiento.                                 |      ✅      |
+| b) Asegurar que los datos personales se recojan de fuentes lícitas con fines específicos, explícitos y lícitos, y limitación a estos.    |      ✅      |
+| c) Comunicar o ceder, en conformidad a la ley, información exacta, completa y actual.                                                    |      ❎      |
+| Artículo 15.- Cesión de datos personales (consentimiento, fines, etc.).                                                                  |      ❎      |
+
+---
+
+### 6. Puntuación Total
+
+**Puntuación Total: 3 ✅ de 10 secciones evaluadas.**
+
+---
+
+**Conclusión General:**
+La política de privacidad de Amazon.com es extensa y cubre muchos aspectos del tratamiento de datos. Sin embargo, desde la perspectiva de los extractos de la Ley 19.628 de Chile proporcionados, presenta deficiencias significativas, especialmente en cuanto a la información completa sobre los derechos de los titulares (particularmente rectificación, supresión, oposición, portabilidad y recurso ante la Agencia), la claridad en las transferencias internacionales de datos de chilenos, la designación de un contacto específico para Chile siendo un responsable extranjero, y la precisión en el cumplimiento de los requisitos para la cesión de datos bajo la ley chilena. Se requieren adaptaciones para asegurar un cumplimiento más robusto con la legislación chilena.

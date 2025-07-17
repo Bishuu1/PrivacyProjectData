@@ -1,0 +1,77 @@
+**EVALUACIÓN DE POLÍTICA DE PRIVACIDAD DE SOLOTODO.COM FRENTE A LA LEY CHILENA DE PROTECCIÓN DE DATOS PERSONALES (BASADA EN TEXTO PROPORCIONADO DE LEY 19.628)**
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad de SoloTodo.com**
+
+La política de privacidad de SoloTodo.com establece la información que el sitio almacena sobre sus visitantes y usuarios, tanto directamente (preferencias regionales, correo electrónico para diversas funciones, nombre e ID de Facebook para inicio de sesión social, cotizaciones de PCs) como a través de servicios de terceros (Facebook, Google AdSense/Analytics, Disqus), cuyas políticas propias también aplican.
+
+SoloTodo.com se compromete a no compartir información identificable con socios comerciales y a enviar correos promocionales solo con consentimiento y opción de desuscripción. Afirma extraer información estadística no identificable. Ofrece un mecanismo para solicitar la eliminación de datos y cuenta a través de un formulario de contacto, con un plazo de respuesta de dos días hábiles. Finalmente, se deslinda de responsabilidad sobre la privacidad de datos una vez que el usuario abandona su sitio hacia sitios de terceros.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley (Según Texto Provisto)**
+
+*   **Información sobre datos recolectados y finalidad general (Parcialmente cumple con Obligaciones b) y Contenido Mínimo d))**: La política enumera los tipos de datos personales que recolecta (ej. correo electrónico, nombre, ID de Facebook, preferencias) y las finalidades generales asociadas a dicha recolección (ej. suscripción a cambios de precios, registro de usuario, inicio de sesión social, métricas, publicidad, comentarios).
+*   **Mecanismo de contacto para solicitudes (Parcialmente cumple con Contenido Mínimo c) y f))**: Proporciona un "formulario de contacto" como medio para que los titulares realicen solicitudes, específicamente mencionando la "eliminación de datos y cuenta".
+*   **Mención de servicios de terceros (Parcialmente cumple con Contenido Mínimo d))**: Identifica a terceros que pueden almacenar información (Facebook, Google, Disqus), aunque la gestión de esta información se delega a las políticas de dichos terceros.
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley (Según Texto Provisto)**
+
+La política de SoloTodo.com presenta varias omisiones e imprecisiones significativas respecto a las exigencias detalladas en los extractos de la Ley 19.628 proporcionados:
+
+*   **Respecto a las "Obligaciones" (p.10):**
+    *   **a) Informar y poner a disposición antecedentes de licitud del tratamiento**: No se detallan las bases de licitud específicas para cada tratamiento (ej. consentimiento explícito para ciertos usos, interés legítimo detallado).
+    *   **c) Comunicar o ceder información exacta, completa y actual**: No se describe cómo se asegura la calidad de los datos.
+    *   **d) Suprimir o anonimizar datos de medidas precontractuales**: No se menciona esta obligación específica.
+
+*   **Respecto al "Contenido Mínimo de la Política de Privacidad" (p.10-11):**
+    *   **a) Identificación completa del responsable y versión de la política**:
+        *   No se indica la razón social completa, RUT, ni domicilio postal específico del responsable ("Santiago de Chile" es insuficiente).
+        *   No se indica la fecha de entrada en vigor o número de versión de la política de privacidad.
+    *   **b) Individualización del representante legal y encargado de prevención**: No se proporciona esta información.
+    *   **c) Medios de notificación específicos**: Aunque se menciona un formulario de contacto, no se especifica un domicilio postal o dirección de correo electrónico dedicada y de fácil acceso para notificaciones de solicitudes de los titulares.
+    *   **d) Detalles del tratamiento**:
+        *   **Destinatarios a los que se prevé comunicar o ceder los datos**: Hay una contradicción. Se afirma que "SoloTodo no compartirá ningún tipo de información identificable... con ninguno de nuestros socios comerciales", pero luego se indica que servicios de terceros (Facebook, Google, Disqus) "también pueden almacenar información". No se clarifica si esto constituye una cesión de datos, quiénes son exactamente estos destinatarios para cada tipo de dato, ni la base legal para dicha comunicación/cesión.
+        *   **Base de legitimidad del tratamiento**: No se especifica claramente la base legal para cada tratamiento (ej. consentimiento explícito para cookies de publicidad o análisis, ejecución de contrato para registro, interés legítimo detallado).
+        *   **Intereses legítimos**: Si se basa en interés legítimo para algún tratamiento, no se especifican cuáles serían éstos.
+    *   **e) Política y medidas de seguridad**: No se describen las medidas de seguridad técnicas y organizativas adoptadas para proteger las bases de datos personales. Afirmaciones genéricas como "respeta la privacidad y confidencialidad" son insuficientes.
+    *   **f) Derechos del titular**: Solo se menciona el derecho a la "eliminación de datos y cuenta". No se informa explícitamente sobre los derechos de acceso, rectificación, oposición y portabilidad, ni el procedimiento detallado para ejercerlos todos.
+    *   **g) Derecho a recurrir ante la Agencia**: No se informa al titular sobre su derecho a recurrir ante la autoridad de control (Agencia de Protección de Datos Personales) si su solicitud no es atendida o es rechazada.
+    *   **h) Transferencia internacional de datos**: Se mencionan servicios de terceros (Facebook, Google, Disqus) que probablemente implican transferencias internacionales. No se informa si estos terceros países u organizaciones ofrecen un nivel adecuado de protección, ni las garantías que justificarían tal transferencia en caso de no existir dicho nivel.
+
+*   **Respecto a la "Comunicación de rectificación, supresión u oposición a terceros" (p.9, "solicitud. Con todo...")**: La política no indica si, en caso de rectificación, supresión u oposición, SoloTodo comunicará estos cambios a los terceros a quienes haya podido comunicar previamente los datos (ej. Facebook, Google, Disqus).
+
+*   **Respecto al "Consentimiento del titular" (Art. 12, p.9)**:
+    *   No se detalla cómo se obtiene el consentimiento "libre, informado y específico" para todos los tratamientos, especialmente para el uso de cookies de terceros (AdSense, Analytics) y la recolección de datos a través del inicio de sesión con redes sociales más allá de la autenticación básica. La referencia a "sus propias políticas de privacidad" para terceros no exime a SoloTodo de obtener el consentimiento adecuado para la recolección y eventual cesión que realiza desde su propia plataforma.
+
+*   **Respecto a la "Cesión de datos personales" (Art. 15, p.9)**:
+    *   La política es ambigua. Si el uso de servicios de Facebook, Google y Disqus implica una cesión de datos personales, no se indica si se recaba el consentimiento específico para dicha cesión antes de que se produzca, ni se detalla si la cesión se ampara en otra base legal permitida (ej. interés legítimo del cedente o cesionario, debidamente justificado). No se menciona que la cesión deba constar por escrito o medio equivalente.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Identificación Completa del Responsable**: Incluir razón social completa, RUT, domicilio postal específico en Santiago de Chile, y una dirección de correo electrónico dedicada para asuntos de privacidad.
+2.  **Versionamiento**: Implementar un sistema de versionamiento para la política (fecha de última actualización y/o número de versión).
+3.  **Representante Legal y Encargado de Prevención**: Identificar al representante legal y, si existe, al encargado de prevención de delitos o delegado de protección de datos.
+4.  **Bases de Licitud**: Para cada tipo de dato y finalidad de tratamiento, especificar claramente la base de licitud (consentimiento, ejecución de contrato, interés legítimo, obligación legal). Si se invoca el interés legítimo, detallarlo.
+5.  **Consentimiento Explícito**: Implementar mecanismos claros para obtener el consentimiento libre, informado y específico, especialmente para:
+    *   Cookies no esenciales (publicidad, análisis).
+    *   Envío de comunicaciones comerciales (aunque se menciona aceptación, reforzar la claridad del consentimiento).
+    *   Recolección y uso de datos de redes sociales más allá de la autenticación.
+6.  **Cesión de Datos y Terceros**:
+    *   Aclarar la naturaleza de la relación con Facebook, Google y Disqus. Si son "encargados del tratamiento", se requieren contratos que cumplan con la ley. Si son "cesionarios", se requiere consentimiento específico del titular para cada cesión o una base legal alternativa válida y explícita.
+    *   Detallar qué datos se comunican a estos terceros y con qué fines específicos.
+7.  **Transferencias Internacionales**: Si se realizan transferencias internacionales (muy probable con Google, Facebook, Disqus), indicar el país de destino y si cuenta con un nivel adecuado de protección. En caso contrario, especificar las garantías adoptadas (ej. cláusulas contractuales tipo).
+8.  **Medidas de Seguridad**: Describir de forma general pero suficiente las medidas técnicas y organizativas implementadas para proteger los datos personales (ej. cifrado, controles de acceso, políticas internas).
+9.  **Derechos de los Titulares**: Enumerar todos los derechos ARSOP (Acceso, Rectificación, Supresión, Oposición, Portabilidad) y describir el procedimiento para ejercer cada uno, incluyendo los plazos de respuesta más allá de la eliminación.
+10. **Comunicación a Terceros**: Indicar que, en caso de rectificación, supresión u oposición, se comunicarán dichos cambios a los terceros a los que se hayan cedido los datos, si aplica.
+11. **Autoridad de Control**: Informar al titular de su derecho a presentar una reclamación ante la Agencia de Protección de Datos Personales.
+12. **Lenguaje Claro y Accesible**: Asegurar que la política esté redactada en un lenguaje claro, sencillo y fácilmente comprensible para el usuario medio.
+
+**5. Puntuación General de Cumplimiento (Según Secciones Legales Proporcionadas)**
+
+*   **Obligaciones (Ley 19.628, p.10, a-e)**: ❎
+*   **Contenido Mínimo de la Política de Privacidad (Ley 19.628, p.10-11, a-h)**: ❎
+*   **Comunicación de rectificación/supresión a terceros (Ley 19.628, p.9, "solicitud. Con todo...")**: ❎
+*   **Consentimiento del titular (Art. 12, Ley 19.628, p.9)**: ❎
+*   **Cesión de datos personales (Art. 15, Ley 19.628, p.9)**: ❎
+
+**6. Puntuación Total**
+
+*   Total de ✅: 0/5 secciones principales evaluadas.

@@ -1,0 +1,111 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE TIKTOK FRENTE A LA LEY 21.719 DE CHILE**
+
+**1. Resumen de los puntos principales de la política de privacidad de TikTok**
+
+La política de privacidad de TikTok, actualizada el 2 de enero de 2024, detalla cómo TikTok Pte. Ltd. (Singapur) recopila, usa, comparte y trata la información personal de los usuarios de su Plataforma (aplicaciones, sitios web, software y servicios relacionados).
+
+*   **Información Recopilada:**
+    *   **Proporcionada por el usuario:** Información de perfil (nombre de usuario, contraseña, fecha de nacimiento, email/teléfono, foto/video de perfil), contenido del usuario (fotos, audios, videos, comentarios, hashtags, metadatos), mensajes (contenido, metadatos, comunicaciones con comerciantes), información del portapapeles (con permiso), información de compra (datos de tarjeta, facturación, contacto), contactos telefónicos y de redes sociales (con permiso), comprobantes de identidad o edad, comunicaciones con TikTok, e información de participación en encuestas o eventos.
+    *   **Recopilada automáticamente:** Información de uso (interacciones, anuncios vistos, historial, contenido favorito, seguidores), información inferida (intereses, género, rango de edad), información técnica (IP, proxy, operador, zona horaria, identificadores publicitarios, modelo de dispositivo, sistema operativo, patrones de pulsación, estado de batería, etc.), información de ubicación (aproximada por SIM/IP, precisa por GPS con permiso, ubicaciones en contenido del usuario), información de imagen y audio (identificación de objetos, paisajes, características faciales/corporales, naturaleza del audio, texto hablado en contenido), y cookies y tecnologías similares (para análisis, mejora de experiencia, publicidad).
+    *   **De otras fuentes:** Cuentas de redes sociales de terceros (si se usa para registro/vinculación), anunciantes y socios (actividades fuera de TikTok, identificadores), entidades afiliadas, otras personas (si el usuario es mencionado o reportado), fuentes públicas, comerciantes y procesadores de pagos.
+
+*   **Cómo se usa la información:**
+    *   Para cumplir solicitudes, operar la plataforma, análisis, investigación.
+    *   Para funcionalidades de compra y facilitar transacciones.
+    *   Para personalizar contenido y publicidad.
+    *   Para enviar materiales promocionales.
+    *   Para mejorar y desarrollar la plataforma.
+    *   Para medir efectividad de anuncios y entregar publicidad dirigida.
+    *   Para apoyar funciones sociales (conectar usuarios, sugerir cuentas, compartir contenido).
+    *   Para permitir participación en programas de artículos virtuales y funciones interactivas.
+    *   Para usar contenido del usuario en campañas de marketing.
+
+*   **Cómo se comparte la información:**
+    *   Con proveedores de servicios, socios comerciales, otras empresas del grupo TikTok.
+    *   Con otros usuarios (según la interacción y configuración).
+    *   Con anunciantes y socios de medición.
+    *   Por razones legales o para proteger derechos.
+    *   En caso de transacciones corporativas.
+
+*   **Dónde se almacena la información:**
+    *   Servidores en Singapur, Malasia, Irlanda y Estados Unidos. Se indica que la información puede ser procesada fuera del país del usuario, asegurando cumplimiento legal y medidas de seguridad.
+
+*   **Derechos y opciones del usuario:**
+    *   Se mencionan derechos como acceso, rectificación, eliminación, portabilidad, objeción al tratamiento. Se indica cómo ejercerlos.
+
+*   **Seguridad de la información:**
+    *   Se declaran medidas técnicas y organizativas para proteger los datos.
+
+*   **Tiempo de conservación:**
+    *   Durante el tiempo necesario para proporcionar la Plataforma, cumplir fines de la política, obligaciones contractuales/legales, intereses comerciales legítimos y defensa de reclamaciones.
+
+*   **Información relacionada con niños y adolescentes:**
+    *   La plataforma no está dirigida a menores de 13 años. Se eliminan datos si se detecta recolección de menores de esa edad. Se pide prueba de edad para ciertas funciones.
+
+*   **Contacto:**
+    *   Se proporcionan formas de contacto.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley (basado en los extractos proporcionados)**
+
+*   ✅ **Identidad y datos de contacto del responsable (Art. 14 a))**: La política identifica claramente a TikTok Pte. Ltd. y su domicilio social en Singapur como el responsable del tratamiento.
+*   ✅ **Fines del tratamiento (Art. 14 c))**: La sección "Cómo usamos su información" detalla múltiples finalidades para las cuales se tratan los datos personales.
+*   ✅ **Destinatarios o categorías de destinatarios (Art. 14 e))**: La sección "Cómo compartimos su información" describe las categorías de terceros con quienes se pueden compartir los datos (proveedores de servicios, socios comerciales, grupo corporativo, etc.).
+*   ✅ **Fuente de los datos personales (Art. 14 j))**: La política especifica cuándo los datos provienen directamente del titular ("Información que Usted proporciona"), cuándo se recopilan automáticamente ("Información recopilada automáticamente") y cuándo provienen de terceros ("Información de otras fuentes", incluyendo fuentes públicas).
+*   ✅ **Mención general de derechos del titular**: La sección "Sus derechos y opciones" menciona derechos como acceso, rectificación, supresión, lo cual es un punto de partida, aunque la especificidad requerida por la ley chilena podría ser mayor.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley (basado en los extractos proporcionados)**
+
+*   ❎ **Datos de contacto del Delegado de Protección de Datos (DPO) (Art. 14 b))**: No se menciona explícitamente la figura del Delegado de Protección de Datos ni sus datos de contacto específicos, lo cual es un requisito si la entidad está obligada a designarlo bajo la ley chilena (criterios que dependerían del volumen y tipo de datos tratados en Chile).
+*   ❎ **Base jurídica del tratamiento (Art. 14 c))**: La política describe los fines pero no especifica claramente la base de licitud (consentimiento, contrato, interés legítimo, obligación legal, etc. según la ley chilena) para cada una de las actividades de tratamiento. Menciona "con su permiso" o "si Usted nos autoriza" para casos puntuales (portapapeles, GPS preciso), pero no de forma sistemática para todos los tratamientos.
+*   ❎ **Intereses legítimos (Art. 14 d))**: Si la base de licitud para algún tratamiento fuera el interés legítimo, este debería ser especificado, lo cual no se observa.
+*   ❎ **Transferencias internacionales: Nivel adecuado de protección y garantías (Art. 14 f))**: Si bien se menciona que los datos pueden ser transferidos internacionalmente y que se asegurará el cumplimiento legal y medidas de seguridad, no se informa explícitamente si los países de destino cuentan con un nivel adecuado de protección según los estándares chilenos, ni se detallan las "garantías que justifiquen tal transferencia" (ej. cláusulas contractuales tipo, normas corporativas vinculantes) en caso de no existir dicho nivel adecuado. La mención es genérica.
+*   ❎ **Período de conservación de los datos (Art. 14 i))**: La política indica que los datos se conservan "durante el tiempo que sea necesario" para diversos fines. Esto es vago y no cumple con el requisito de especificar el período o, al menos, los criterios utilizados para determinarlo de forma más concreta para las distintas categorías de datos.
+*   ❎ **Derecho a retirar el consentimiento (Art. 14 k))**: Aunque se mencionan derechos, no se destaca explícitamente el derecho a retirar el consentimiento en cualquier momento (para los tratamientos basados en él), ni se aclara que esto no afectará la licitud del tratamiento previo a su retirada. Esto es crucial dado que algunas recopilaciones se basan en "permiso".
+*   ❎ **Decisiones automatizadas y elaboración de perfiles (Art. 14 l))**: La política admite la "elaboración de perfiles" (ej. "Información inferida", "personalizar el contenido", "publicidad dirigida"). Sin embargo, no proporciona "información significativa sobre la lógica aplicada" ni detalla las "consecuencias previstas de dicho tratamiento para el titular" de forma suficientemente clara y específica como lo exige la ley.
+*   ❎ **Datos de geolocalización (Art. 16 sexies)**: Se informa sobre la recolección de datos de geolocalización aproximada y precisa (con autorización). Sin embargo, no se detalla suficientemente la "duración del tratamiento" específica para estos datos, ni se informa de manera explícita si los datos de geolocalización se comunicarán o cederán a un tercero "para la prestación de un servicio con valor añadido" y bajo qué condiciones.
+*   ❎ **Datos biométricos (Art. 16 ter y artículo sobre tratamiento de datos biométricos)**: La política menciona la recopilación de "información de imagen y audio" que incluye "la existencia y la ubicación dentro de una imagen de las características y atributos de la cara y el cuerpo". Esto constituye tratamiento de datos biométricos. La ley exige informar la "finalidad específica", el "período durante el cual los datos biométricos serán utilizados" y la "forma en que el titular puede ejercer sus derechos" de forma particular para estos datos. Más importante aún, el tratamiento de datos biométricos generalmente requiere consentimiento explícito, salvo excepciones legales. La política no parece obtener un consentimiento específico y diferenciado para el tratamiento de datos biométricos, ni detalla estos aspectos con la especificidad requerida.
+*   ❎ **Datos personales relativos a niños, niñas y adolescentes (NNA) (Art. 16 quáter sobre NNA)**: La política establece una edad mínima de 13 años y la eliminación de datos si se detecta información de menores. Sin embargo, la ley chilena exige que el tratamiento de datos de NNA se realice atendiendo a su "interés superior" y "autonomía progresiva". Para los "niños y niñas" (generalmente menores de 14 años en Chile), se requiere el consentimiento del padre, madre o tutor, previa información clara sobre el tratamiento. La política no detalla cómo se gestiona este consentimiento parental ni cómo se considera la autonomía progresiva de los adolescentes (mayores de 14 pero menores de 18). La simple prohibición para menores de 13 puede no ser suficiente para cumplir con el enfoque protector de la ley chilena.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Designar un DPO y Publicar sus Datos:** Si aplica según la ley chilena, designar un Delegado de Protección de Datos (DPO) y hacer públicos sus datos de contacto en la política.
+2.  **Especificar Bases Jurídicas:** Para cada finalidad de tratamiento, indicar explícitamente la base jurídica que lo legitima según la Ley 21.719 (consentimiento, ejecución de contrato, interés legítimo, obligación legal, etc.).
+3.  **Detallar Intereses Legítimos:** Si se utiliza el interés legítimo como base, especificar cuáles son esos intereses.
+4.  **Clarificar Transferencias Internacionales:** Detallar los países a los que se transfieren datos y, para cada uno, indicar si cuentan con un nivel de protección adecuado. Si no, especificar las garantías adoptadas (ej. Cláusulas Contractuales Tipo adaptadas a Chile, si procede).
+5.  **Definir Plazos de Conservación Específicos:** Establecer plazos de conservación más concretos para las diferentes categorías de datos o, en su defecto, criterios claros y objetivos para determinar dichos plazos, en lugar de la fórmula genérica actual.
+6.  **Resaltar el Derecho a Retirar el Consentimiento:** Incluir una sección clara sobre el derecho a retirar el consentimiento en cualquier momento para los tratamientos basados en él, explicando que no afectará la licitud del tratamiento previo.
+7.  **Profundizar en Decisiones Automatizadas/Perfiles:** Explicar con mayor detalle la lógica aplicada en la elaboración de perfiles y las decisiones automatizadas, así como las consecuencias significativas que estas pueden tener para los titulares.
+8.  **Información Específica sobre Geolocalización:** Detallar la duración específica del tratamiento de datos de geolocalización y si se ceden a terceros para servicios de valor añadido, informando claramente al titular.
+9.  **Tratamiento Específico de Datos Biométricos:**
+    *   Implementar un mecanismo para obtener el consentimiento explícito y específico para el tratamiento de datos biométricos (como los rasgos faciales).
+    *   Informar claramente sobre la finalidad específica, el período de uso y cómo ejercer los derechos respecto a estos datos biométricos.
+10. **Adaptar la Política para NNA según Ley Chilena:**
+    *   Revisar la edad de corte para el consentimiento (en Chile, generalmente 14 años para consentir por sí mismos en ciertos contextos, y consentimiento parental para menores de esa edad).
+    *   Describir el proceso para obtener el consentimiento de padres o tutores para el tratamiento de datos de niños y niñas.
+    *   Explicar cómo se considera el interés superior del NNA y su autonomía progresiva en el tratamiento de sus datos.
+11. **Revisión General de Lenguaje:** Asegurar que el lenguaje sea claro, sencillo y fácilmente comprensible para el usuario medio en Chile.
+12. **Mecanismos de Ejercicio de Derechos Accesibles:** Asegurar que los mecanismos para ejercer los derechos ARSOP (Acceso, Rectificación, Supresión, Oposición y Portabilidad) sean fácilmente accesibles y efectivos para los usuarios en Chile.
+
+**5. Puntuación general de cumplimiento (basado en los extractos y requisitos analizados)**
+
+*   Identidad del responsable (Art. 14 a)): ✅
+*   Datos de contacto del DPO (Art. 14 b)): ❎
+*   Fines del tratamiento (Art. 14 c)): ✅
+*   Base jurídica del tratamiento (Art. 14 c)): ❎
+*   Intereses legítimos (Art. 14 d)): ❎
+*   Destinatarios o categorías de destinatarios (Art. 14 e)): ✅
+*   Transferencias internacionales y garantías (Art. 14 f)): ❎
+*   Plazo de conservación (Art. 14 i)): ❎
+*   Fuente de los datos (Art. 14 j)): ✅
+*   Derecho a retirar el consentimiento (Art. 14 k)): ❎
+*   Decisiones automatizadas y elaboración de perfiles (lógica y consecuencias) (Art. 14 l)): ❎
+*   Datos de geolocalización (información específica) (Art. 16 sexies): ❎
+*   Datos biométricos (consentimiento específico, fines, plazo, derechos) (Art. 16 ter y otros): ❎
+*   Datos de NNA (interés superior, consentimiento específico) (Art. 16 quáter NNA): ❎
+
+**6. Puntuación total**
+
+Total de ✅: 4 / 14 secciones evaluadas.
+
+**Conclusión:**
+La política de privacidad de TikTok cumple con algunos requisitos básicos de información, como la identificación del responsable y la descripción general de los fines y destinatarios. Sin embargo, presenta deficiencias significativas en relación con varios aspectos cruciales de la Ley 21.719 de Chile, especialmente en cuanto a la especificación de las bases jurídicas, la información detallada sobre transferencias internacionales, plazos de conservación, el tratamiento de categorías especiales de datos (biométricos, geolocalización, NNA) y la transparencia en decisiones automatizadas. Se requieren mejoras sustanciales para alcanzar un cumplimiento adecuado con la legislación chilena.

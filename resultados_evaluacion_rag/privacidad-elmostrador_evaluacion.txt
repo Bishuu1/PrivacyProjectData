@@ -1,0 +1,93 @@
+## Evaluación de Política de Privacidad de "El Mostrador" conforme a la Ley Chilena de Protección de Datos Personales
+
+**Fecha de Evaluación:** 22 de mayo de 2025
+
+A continuación, se presenta una evaluación de la política de privacidad proporcionada por "El Mostrador" (en adelante, "la Política") en relación con las disposiciones pertinentes de la Ley N° 19.628 sobre Protección de la Vida Privada, con las modificaciones introducidas por la Ley N° 21.719.
+
+### 1. Resumen de los Puntos Principales de la Política de Privacidad
+
+La Política de "El Mostrador" establece los siguientes puntos clave:
+*   Declara el cumplimiento con la ley chilena y la normativa europea de tratamiento de datos personales.
+*   Informa sobre la recolección de datos de uso y navegación con el objetivo de "entregarle un mejor servicio".
+*   Especifica que los intereses y perfil de usuario inferidos, información del dispositivo, tipo de explorador, URL de referencia, cookies y otros almacenamientos podrán ser tratados para ofrecer contenidos, productos o servicios adecuados a las preferencias del usuario.
+*   Menciona que los datos podrán ser tratados de manera agregada para fines estadísticos, anonimizando los datos de identificación.
+*   Asegura que no cederá datos personales a terceros sin una base jurídica que lo legitime.
+*   Proporciona información de contacto (dirección física, teléfono, correo electrónico).
+
+### 2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley
+
+Basado en los extractos legales proporcionados:
+
+*   ✅ **Identificación parcial del responsable y medios de contacto (Art. (p.11) b) y c)):**
+    *   La política identifica a "El Mostrador" como la entidad.
+    *   Proporciona un domicilio postal ("Santa Lucía 280, Of. 12, Santiago, Santiago") y una dirección de correo electrónico ("info@elmostrador.cl"), lo cual cumple parcialmente con el requisito de identificar medios para notificar solicitudes de los titulares.
+
+*   ✅ **Declaración de finalidades generales (Art. (p.11) d) y Obligaciones (p.10) b)):**
+    *   La política menciona finalidades como "entregarle un mejor servicio", "ofrecerle a usted contenidos, productos o servicios adecuados a sus preferencias" y "fines estadísticos". Esto cumple de forma general con la obligación de tener fines específicos y lícitos.
+
+*   ✅ **Mención de categorías de datos tratados (Art. (p.11) d)):**
+    *   Se describen las categorías de datos: "datos de uso y navegación", "intereses y perﬁl de usuario que pueden ser inferidos", "información sobre el dispositivo, tipo de explorador, url de referencia, cookies y otros almacenamientos".
+
+*   ✅ **Compromiso de no ceder datos sin base legal (Obligaciones (p.10) c)):**
+    *   La declaración "El Mostrador no cederá sus datos personales a ningún tercero sin una base jurídica que lo legitime" se alinea con el deber de comunicar o ceder información conforme a la ley.
+
+*   ✅ **Mención de anonimización para fines estadísticos (Obligaciones (p.10) b) y d)):**
+    *   La indicación de que los datos para fines estadísticos serán "debidamente anonimizados" es una práctica adecuada y se alinea con los principios de la ley.
+
+### 3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley
+
+Basado en los extractos legales proporcionados:
+
+*   ❎ **Consentimiento del titular (Art. 12):**
+    *   La política no describe cómo se obtiene el consentimiento "libre, informado y específico" del titular para el tratamiento de sus datos personales. Simplemente informa que se recogen, pero no el mecanismo de obtención de dicho consentimiento.
+
+*   ❎ **Individualización completa del responsable (Art. (p.11) b)):**
+    *   No se individualiza al "representante legal" del responsable de datos.
+    *   No se identifica al "encargado de prevención", si existiere.
+
+*   ❎ **Base de legitimidad del tratamiento (Art. (p.11) d)):**
+    *   Si bien se mencionan finalidades, no se especifica claramente la "base de legitimidad" para cada uno de los tratamientos descritos (ej. consentimiento explícito para perfilamiento, interés legítimo para mejora del servicio). La ley exige que esta base sea informada.
+    *   En caso de basarse en "intereses legítimos", no se especifica cuáles serían éstos de forma clara.
+
+*   ❎ **Información sobre destinatarios (Art. (p.11) d)):**
+    *   Aunque se indica que no se cederán datos sin base jurídica, no se informa sobre "los destinatarios a los que se prevé comunicar o ceder los datos" (ej. proveedores de servicios de analítica, plataformas publicitarias, etc.), ni siquiera por categorías.
+
+*   ❎ **Descripción del universo de personas (Art. (p.11) d)):**
+    *   No se incluye una "descripción genérica del universo de personas que comprenden sus bases de datos" (ej. "usuarios registrados del sitio web", "suscriptores del newsletter", "visitantes del sitio").
+
+*   ❎ **Información sobre el ejercicio de derechos (Título II, Párrafo Primero y p.9 sobre rectificación, supresión u oposición):**
+    *   La política no informa a los titulares sobre sus derechos (acceso, rectificación, supresión, oposición, portabilidad – ARSOP) ni sobre los procedimientos para ejercerlos. La ley establece la obligación de comunicar cambios realizados en virtud de estos derechos.
+
+*   ❎ **Acreditación de la licitud del tratamiento (Obligaciones (p.10) a)):**
+    *   La política no detalla cómo se ponen a disposición del titular los antecedentes que acrediten la licitud del tratamiento, más allá de la propia política.
+
+*   ❎ **Limitación del tratamiento a los fines (Obligaciones (p.10) b)):**
+    *   Si bien se mencionan fines, la finalidad "entregarle un mejor servicio" es bastante amplia y podría no ser suficientemente "específica y explícita" sin mayor detalle.
+
+### 4. Recomendaciones para Mejorar el Cumplimiento
+
+Para alinear la Política de Privacidad con la Ley 21.719, se recomienda:
+
+1.  **Consentimiento:** Detallar claramente cómo se obtiene el consentimiento de los usuarios (ej. mediante un banner de cookies con opciones claras, casillas de verificación no premarcadas para fines específicos, etc.), asegurando que sea libre, informado y específico.
+2.  **Identificación Completa:** Incluir el nombre completo o razón social del responsable de datos, su RUT, el nombre de su representante legal y, si existe, la identificación y datos de contacto del Encargado de Prevención (Delegado de Protección de Datos).
+3.  **Base de Legitimidad:** Para cada finalidad de tratamiento de datos, especificar claramente la base legal que lo justifica (ej. consentimiento del titular, cumplimiento de una obligación legal, interés legítimo del responsable). Si se invoca el interés legítimo, describirlo.
+4.  **Destinatarios de Datos:** Informar sobre las categorías de terceros a los que se podrían comunicar o ceder los datos personales (ej. proveedores de servicios de marketing, plataformas de análisis web, autoridades públicas si aplica), incluso si la cesión se basa en una obligación legal o consentimiento.
+5.  **Universo de Titulares:** Describir de forma genérica el universo de personas cuyos datos se tratan (ej. "visitantes del sitio web", "usuarios registrados", "suscriptores").
+6.  **Derechos de los Titulares:** Incorporar una sección detallada que informe a los titulares sobre sus derechos de acceso, rectificación, supresión, oposición y portabilidad (ARSOP), y explicar el procedimiento específico para ejercerlos, incluyendo los canales de contacto para dichas solicitudes.
+7.  **Plazos de Conservación:** Aunque no está explícitamente en los extractos proporcionados, es una buena práctica y un requisito general de la protección de datos informar sobre los plazos durante los cuales se conservarán los datos personales, o los criterios utilizados para determinar ese plazo.
+8.  **Lenguaje Claro y Accesible:** Asegurar que toda la política esté redactada en un lenguaje claro, sencillo y fácilmente comprensible para el titular promedio.
+9.  **Actualización y Versión:** Indicar la fecha de la última actualización de la política de privacidad.
+
+### 5. Puntuación General de Cumplimiento (por sección legal relevante)
+
+*   **Consentimiento del titular (Art. 12):** ❎
+*   **Individualización del responsable y DPO (Art. (p.11) b)):** ❎
+*   **Medios de contacto para solicitudes (Art. (p.11) c)):** ✅
+*   **Información detallada del tratamiento (categorías de datos, universo, destinatarios, finalidades, base de legitimidad, intereses legítimos) (Art. (p.11) d)):** ❎
+*   **Deber de informar y licitud del tratamiento (Obligaciones p.10 a), b)):** ❎
+*   **Comunicación de cambios y derechos del titular (p.9):** ❎
+
+### 6. Puntuación Total
+
+Sumando los ✅ del total de secciones evaluadas:
+**Puntuación Total: 1 / 6**

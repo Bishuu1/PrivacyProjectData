@@ -1,0 +1,92 @@
+**Evaluación de la Política de Privacidad de "La Empresa" (Emol.com) Conforme a la Ley de Protección de Datos Personales de Chile**
+
+**Nota Preliminar:** La presente evaluación se realiza con base en los extractos de la Ley N° 19.628 proporcionados, aunque se menciona la Ley N° 21.719 como marco general. La Ley N° 21.719, que crea la Agencia Nacional de Protección de Datos y moderniza la Ley N° 19.628, establece un estándar más elevado y detallado. Esta evaluación se centrará en el cumplimiento de los artículos específicos provistos.
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad**
+
+La política de privacidad de "La Empresa" (en adelante, la Política) establece lo siguiente:
+*   **Reconocimiento de la Ley:** Declara el respeto por la Ley N° 19.628.
+*   **Definición de Datos Personales:** Define los datos personales como información concerniente a personas naturales, identificadas o identificables, proporcionada por el Usuario.
+*   **Recolección y Almacenamiento:** Los datos son recogidos, pueden ser objeto de tratamiento automatizado o no, y se almacenan en bancos de datos propiedad de la Empresa, no accesibles al público. Se contempla la contratación de terceros proveedores para tratamiento y/o análisis de datos.
+*   **Finalidades del Tratamiento:** Gestión de sitios web, prestación y mejora de servicios, adecuación de servicios a preferencias, determinación de gustos, actualización de información, envío de encuestas y comunicaciones comerciales o publicitarias. Admite el "hallazgo" de nuevos datos personales derivados del tratamiento.
+*   **Seguridad:** Se declara el resguardo de la seguridad de los datos y la adopción de medidas para evitar pérdida, mal uso, etc.
+*   **Menores de Edad:** Se establece la responsabilidad de padres o representantes legales para el consentimiento del tratamiento de datos de menores.
+*   **Revelación de Datos:** Se pueden revelar datos por mandato legal, orden judicial o para defender intereses legítimos.
+*   **Comunicación/Cesión a Terceros:** Se pueden comunicar datos a terceros bajo ciertas condiciones: a) consentimiento del usuario, b) imprescindibilidad para recibir un servicio solicitado, c) si terceros ofrecen servicios complementarios y se considera de interés para el usuario.
+*   **Derechos del Usuario:**
+    *   Modificación de datos erróneos, inexactos, equívocos o incompletos.
+    *   Posibilidad de no autorizar ciertos tratamientos o cesiones al momento de la inscripción, con la consecuencia de posible cancelación del servicio si el tratamiento es imprescindible.
+    *   Revocación de la autorización y oposición al tratamiento, con posible cancelación del servicio.
+    *   Al final, se indica cómo ejercer derechos de acceso, oposición, eliminación, modificación, cancelación y/o bloqueo, proporcionando un correo de contacto (privacidad@mercurio.cl).
+*   **Uso de Información Agregada y Cookies:** Se registra el uso de sitios web para fines estadísticos. Se pueden reunir datos anónimos. Se informa sobre el uso de cookies y la posibilidad de que el usuario las gestione.
+*   **Limitaciones de Responsabilidad:** Se exime de responsabilidad por datos proporcionados a sitios de terceros, información voluntaria en comunicaciones públicas, e información no identificatoria obtenida por cookies.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley (Según Extractos de Ley 19.628 Proporcionados)**
+
+*   **Referencia a la Normativa (General):** La política menciona explícitamente la Ley N° 19.628, demostrando conocimiento de la legislación base.
+*   **Deber de Secreto o Confidencialidad (Art. 14 bis):** La política indica que los bancos de datos "no son accesibles al público" y que la comunicación a terceros se realiza "bajo obligación de confidencialidad", lo cual se alinea parcialmente con el deber de secreto.
+*   **Ejercicio de Algunos Derechos (Art. 4º):**
+    *   Se menciona el derecho a "modificar sus Datos Personales erróneos, inexactos, equívocos o incompletos" (rectificación).
+    *   Se menciona el derecho a "revocar en cualquier tiempo la autorización" y "oponerse en cualquier momento al tratamiento" (oposición y revocación del consentimiento).
+    *   Al final, se listan los derechos de "acceso, oposición, eliminación, modificación, cancelación y/o bloqueo" y se proporciona un medio de contacto para ejercerlos.
+*   **Cesión de Datos con Consentimiento o Necesidad Contractual (Art. 15):**
+    *   La política contempla la cesión si "el Usuario consiente" (Art. 15, primer supuesto).
+    *   Contempla la cesión si "es imprescindible para que el Usuario reciba el servicio o producto que haya solicitado" (Art. 15, segundo supuesto: "necesaria para el cumplimiento y la ejecución de un contrato").
+*   **Medidas de Seguridad (Implícito en Obligaciones Generales):** La política declara que "resguarda la seguridad de los Datos Personales y adopta los medios y técnicas que están a su alcance para evitar la pérdida, mal uso, alteración, acceso no autorizado o apropiación".
+*   **Tratamiento de Datos de Menores:** Se aborda la necesidad de consentimiento de padres o representantes legales, lo cual es una práctica estándar y necesaria.
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen o Cumplen Parcialmente con la Ley (Según Extractos de Ley 19.628 Proporcionados)**
+
+*   **Consentimiento del Titular (Art. 12):**
+    *   El Art. 12 exige que el consentimiento sea "libre, informado y específico". La política, en algunas instancias, parece basarse en un consentimiento tácito o por omisión ("El Usuario puede no autorizar... debiendo comunicar su decisión al momento de inscribirse"). Esto podría no cumplir con el estándar de consentimiento "específico" y "libre", especialmente para finalidades secundarias como comunicaciones comerciales o ciertas cesiones.
+    *   La cláusula "El tratamiento de Datos Personales efectuado por la Empresa o por terceros proveedores podría dar lugar al hallazgo de nuevos Datos Personales, no proporcionados originalmente por los Usuarios" es problemática. El tratamiento de estos "nuevos datos" requeriría un consentimiento informado y específico previo, o una base de licitud muy clara que no se detalla.
+*   **Fines Específicos, Explícitos y Lícitos (Obligaciones b)):**
+    *   Si bien se listan finalidades, algunas como "para poder determinar o anticipar tales preferencias y gustos" pueden ser consideradas amplias y no suficientemente "explícitas".
+    *   El "hallazgo de nuevos Datos Personales" no se alinea con la recolección para fines "específicos y explícitos" al momento de la obtención original.
+*   **Derechos del Titular (Art. 4º):**
+    *   El derecho de **portabilidad** no se menciona en la política, siendo un derecho reconocido en el Art. 4º.
+    *   Aunque el derecho de **acceso** se menciona al final, no está integrado de forma prominente en el cuerpo principal donde se describen las opciones del usuario.
+*   **Cesión de Datos Personales (Art. 15):**
+    *   La cesión basada en que "las personas a las que se comunican los Datos Personales ofrecen servicios complementarios o relacionados... y se considera que el Usuario puede tener interés en recibir información" es una base legal débil. El Art. 15 permite la cesión por interés legítimo del cedente o cesionario "en los términos previstos en la letra d) del artículo 13" (no provisto en los extractos, pero usualmente requiere una ponderación y no solo una "consideración de interés"). Sin un consentimiento explícito para esta finalidad, esta cesión es cuestionable.
+    *   No se aclara si el consentimiento inicial para la recolección ya considera todas las posibles cesiones o si se recabará un nuevo consentimiento específico antes de una cesión no prevista inicialmente, como exige el Art. 15.
+*   **Información sobre Licitud del Tratamiento (Obligaciones a)):** La política no detalla explícitamente cómo "informa y pone a disposición del titular los antecedentes que acrediten la licitud del tratamiento" ni cómo se entregará "de manera expedita dicha información cuando le sea requerida", más allá del contacto general.
+*   **Supresión o Anonimización de Datos Precontractuales (Obligaciones d)):** La política no menciona específicamente el tratamiento (supresión o anonimización) de datos personales obtenidos para la ejecución de medidas precontractuales una vez que estas no prosperan.
+*   **Actualización a Ley 21.719:** La política se refiere a la Ley 19.628 "y sus modificaciones". La Ley 21.719 es una modificación sustancial que introduce un nuevo estándar. La política debería ser revisada íntegramente para asegurar su alineación con el marco vigente y más exigente de la Ley 21.719, incluyendo principios como la minimización de datos, responsabilidad proactiva (accountability), y los requisitos para la evaluación de impacto, entre otros.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Revisión Integral bajo Ley 21.719:** Actualizar la política para reflejar plenamente los principios, derechos y obligaciones de la Ley 21.719, que es el marco legal vigente y más estricto.
+2.  **Consentimiento Explícito y Granular:**
+    *   Implementar mecanismos de consentimiento activo (opt-in) para el tratamiento de datos, especialmente para finalidades no esenciales como marketing, perfilamiento detallado, y cesión a terceros para "servicios complementarios".
+    *   Eliminar o reformular la cláusula sobre "hallazgo de nuevos Datos Personales", asegurando que cualquier nuevo tratamiento o dato inferido cuente con una base de licitud clara y, si es necesario, consentimiento específico.
+3.  **Claridad en las Finalidades:** Detallar las finalidades del tratamiento de forma más específica y explícita, evitando términos ambiguos como "anticipar preferencias" sin mayor explicación del alcance.
+4.  **Derechos del Titular:**
+    *   Incluir explícitamente el derecho a la **portabilidad** de los datos.
+    *   Describir de manera clara y accesible el procedimiento para ejercer todos los derechos ARSOPB (Acceso, Rectificación, Supresión/Cancelación, Oposición, Portabilidad, Bloqueo).
+5.  **Cesión de Datos:**
+    *   Especificar las categorías de terceros a quienes se ceden los datos y las finalidades exactas de dicha cesión.
+    *   Para cesiones no cubiertas por la necesidad contractual o una obligación legal, obtener consentimiento explícito y específico. Si se invoca el interés legítimo, este debe ser debidamente justificado y documentado, y comunicado al titular.
+    *   Aclarar que si el consentimiento original no cubría una cesión específica, se solicitará un nuevo consentimiento previo a la misma.
+6.  **Transparencia sobre Licitud:** Establecer un procedimiento claro para que los titulares puedan solicitar y obtener información sobre la licitud del tratamiento de sus datos.
+7.  **Datos Precontractuales:** Incluir una sección sobre el manejo de datos recopilados durante fases precontractuales, especificando su supresión o anonimización si no se concreta el contrato.
+8.  **Terceros Proveedores (Mandatarios):** Aunque se les denomine "mandatarios", asegurar que los contratos con estos proveedores (encargados del tratamiento) cumplan con los requisitos legales, incluyendo instrucciones claras, deberes de confidencialidad y seguridad, y delimitación de responsabilidades.
+
+**5. Puntuación General de Cumplimiento (Basado en los extractos de Ley 19.628 proporcionados)**
+
+A continuación, se evalúa el cumplimiento de la política en áreas clave:
+
+*   **Información y Licitud del Tratamiento (Oblig. a, b de la Ley 19.628):** ❎ (Parcialmente cumplido, falta especificidad y claridad en la licitud del "hallazgo" de datos).
+*   **Finalidades Específicas, Explícitas y Lícitas (Oblig. b de la Ley 19.628):** ❎ (Algunas finalidades son amplias; el "hallazgo" de datos es problemático).
+*   **Consentimiento del Titular (Art. 12 de la Ley 19.628):** ❎ (Predominio de mecanismos opt-out; consentimiento para "hallazgo" de datos y ciertas cesiones es deficiente).
+*   **Derechos del Titular (Art. 4º de la Ley 19.628):** ❎ (Falta el derecho de portabilidad; el acceso podría ser más prominente).
+*   **Cesión de Datos Personales (Art. 15 de la Ley 19.628):** ❎ (La base de "interés del usuario" para cesión a terceros es débil sin consentimiento explícito o un análisis de interés legítimo robusto).
+*   **Deber de Secreto o Confidencialidad (Art. 14 bis de la Ley 19.628):** ✅ (Se menciona la no accesibilidad pública y la obligación de confidencialidad en cesiones).
+*   **Medidas de Seguridad (Obligación general):** ✅ (Se declara la adopción de medidas, aunque su efectividad no puede evaluarse solo con la política).
+*   **Supresión/Anonimización de Datos Precontractuales (Oblig. d de la Ley 19.628):** ❎ (No se menciona).
+
+**6. Puntuación Total**
+
+Sumando los ✅ del listado anterior:
+**Puntuación Total: 2 / 8**
+
+Esta puntuación refleja que, si bien la política aborda algunos aspectos de la Ley 19.628, presenta deficiencias significativas en áreas cruciales como el consentimiento, la especificidad de las finalidades, el ejercicio completo de los derechos del titular y las bases para la cesión de datos. Es imperativo una revisión profunda para alinearla con los estándares actuales, especialmente los de la Ley 21.719.

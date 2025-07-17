@@ -1,0 +1,72 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE PLAZA S.A. FRENTE A LA LEY 19.628 (ACTUALIZADA POR LEY 21.719)**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de Plaza S.A. (en adelante "la Compañía") y sus filiales, en conjunto con "Empresas Falabella", establece su compromiso con la protección de datos personales. Detalla:
+*   **Responsable del tratamiento:** Plaza S.A., con su RUT y domicilio.
+*   **Finalidades del tratamiento:**
+    *   **Principal:** Mejorar la experiencia del cliente, gestionar y ejecutar contratos con la Compañía y ciertas Empresas Falabella, incluyendo servicios diversos (retiro, estacionamiento, Wifi), envío de información comercial/legal, ofertas, encuestas, marketing, cumplimiento normativo e invitaciones. Se especifica que el consentimiento para fines determinados (ej. newsletter) limita el uso a esos fines y no se comparte con otras Empresas Falabella.
+    *   **Otras finalidades (con consentimiento):** Compartir datos con Empresas Falabella no incluidas en la finalidad principal para comunicaciones publicitarias, perfilamiento comercial, uso de ubicación, estudios de mercado, crediticios y prospección.
+*   **Legitimación del tratamiento:** Se basa en el cumplimiento de obligaciones normativas, la necesidad para asistir consultas y trámites precontractuales, la ejecución de contratos, el cumplimiento de obligaciones legales y la autorización del titular para comunicaciones promocionales.
+*   **Transferencia de datos:**
+    *   A "Proveedores" (encargados de tratamiento) para servicios asociados.
+    *   Posibilidad de transmitir, procesar y mantener datos fuera de Chile.
+    *   Con consentimiento, a todas las Empresas Falabella (como responsables).
+    *   Con consentimiento, a "Plataformas" (redes sociales, gestión de datos) para marketing y publicidad (como responsables).
+    *   A entidades públicas cuando sea necesario.
+*   **Tiempo de almacenamiento:** El necesario para cumplir finalidades y mientras exista base de legalidad. Si es por consentimiento, hasta su revocación, manteniendo luego los datos bloqueados para cumplimiento de obligaciones legales o defensa de reclamaciones.
+*   **Forma de recolección:** A través de información facilitada por el usuario y "otros medios" (no especificados en el extracto).
+*   **Contacto:** Se proporciona un correo electrónico (datos.personales@mallplaza.com).
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+*   ✅ **Identificación del responsable (parcial):** Se individualiza a Plaza S.A. como responsable, su RUT y domicilio postal (Cumple parcialmente Art. 12 b) y c) de la Ley 19.628).
+*   ✅ **Información de contacto:** Se proporciona una dirección de correo electrónico para contacto (Cumple parcialmente Art. 12 c)).
+*   ✅ **Finalidades del tratamiento:** Se describen las finalidades principales y secundarias del tratamiento de datos (Cumple Art. 12 a) y d); Principio de Finalidad Art. 3 b)).
+*   ✅ **Bases de legitimidad:** Se mencionan varias bases de legitimidad como el consentimiento, la ejecución de un contrato y el cumplimiento de obligaciones legales (Cumple Art. 12 a) y d); Art. 13).
+*   ✅ **Destinatarios de los datos:** Se informa sobre las categorías de destinatarios a los que se podrían comunicar los datos (Proveedores, Empresas Falabella, Plataformas, entidades públicas) (Cumple Art. 12 d); Art. 15).
+*   ✅ **Plazo de conservación (general):** Se indica que los datos se conservarán el tiempo necesario para las finalidades y mientras exista base legal, o hasta la revocación del consentimiento, con posterior bloqueo para obligaciones legales (Cumple Art. 12 a)).
+*   ✅ **Mención de decisiones automatizadas:** Se informa sobre la elaboración de perfiles comerciales mediante procesos automatizados (Cumple Art. 12 a)).
+*   ✅ **Mención de transferencias internacionales:** Se indica la posibilidad de transmitir datos fuera del territorio nacional (Cumple parcialmente Art. 12 a)).
+*   ✅ **Cesión de datos basada en consentimiento:** Se establece que para ciertas cesiones (ej. "Otras finalidades") se requiere el consentimiento del titular (Cumple Art. 15).
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+*   ❎ **Identificación completa del responsable:**
+    *   No se individualiza al representante legal de Plaza S.A. (Incumple Art. 12 b)).
+    *   No se indica si existe un encargado de prevención y, de ser así, su identificación (Incumple Art. 12 b)).
+*   ❎ **Información sobre derechos de los titulares y cómo ejercerlos:** El extracto proporcionado no detalla los derechos de los titulares (acceso, rectificación, cancelación, oposición, portabilidad, etc.) ni el procedimiento específico para ejercerlos ante Plaza S.A., más allá del correo de contacto general (Incumple Art. 12 a)).
+*   ❎ **Consecuencias de no proporcionar los datos:** No se informa sobre las consecuencias de que el titular no facilite sus datos personales o los facilite de forma inexacta o incompleta (Incumple Art. 12 a)).
+*   ❎ **Garantías para transferencias internacionales:** Aunque se menciona la posibilidad de transferencias internacionales, no se especifican las garantías adecuadas que se adoptarán para proteger los datos en dichas transferencias (Incumple Art. 12 a)).
+*   ❎ **Categorías, clases o tipos de datos tratados:** No se detallan explícitamente las categorías específicas de datos personales que se tratan (ej. datos identificativos, de contacto, de transacciones, de navegación, de geolocalización, etc.). Solo se infieren de las finalidades (Incumple Art. 12 d)).
+*   ❎ **Descripción genérica del universo de personas:** Si bien se dirige a "clientes" y usuarios, podría ser más específico sobre el universo de personas que comprenden sus bases de datos (Incumple Art. 12 d)).
+*   ❎ **Detalle de intereses legítimos:** Cuando se invoca el interés legítimo como base para la cesión (Art. 15, refiriéndose al Art. 13 d)), la política no especifica cuáles serían esos intereses legítimos del cedente o cesionario de manera clara para cada tratamiento que se base en ello (Incumple Art. 12 d) y Art. 13 d)). La sección "¿Estamos legitimados...?" no invoca explícitamente el interés legítimo como base propia, aunque algunas finalidades podrían ampararse en él.
+*   ❎ **Fuentes de acceso a los datos:** Se menciona que se recaban datos por "otros medios" además de los facilitados por el usuario, pero no se especifica cuáles son estas fuentes para asegurar que sean lícitas (Incumple Art. 14 b)).
+*   ❎ **Supresión o anonimización de datos precontractuales:** No se menciona explícitamente la obligación de suprimir o anonimizar los datos personales del titular cuando fueron obtenidos para la ejecución de medidas precontractuales y el contrato finalmente no se celebra (Incumple Art. 14 d)).
+*   ❎ **Acreditación de licitud del tratamiento:** Si bien la política informa, la ley exige que el responsable *acredite* la licitud. La política no detalla cómo se realiza esta acreditación continua (Obligación general Art. 14 a) y Principio de Licitud Art. 3 a)).
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Completar identificación del responsable:** Incluir el nombre y datos de contacto del representante legal de Plaza S.A. y, si existe, del encargado de prevención de delitos o delegado de protección de datos.
+2.  **Detallar derechos de los titulares:** Incorporar una sección específica que enumere todos los derechos de los titulares conforme a la ley (acceso, rectificación, supresión/cancelación, oposición, limitación, portabilidad) y el procedimiento detallado y accesible para ejercerlos, incluyendo plazos de respuesta.
+3.  **Informar consecuencias de no proporcionar datos:** Explicar qué sucede si el titular se niega a proporcionar ciertos datos o los entrega de forma incorrecta.
+4.  **Especificar garantías en transferencias internacionales:** Si se realizan transferencias internacionales de datos, detallar las garantías adecuadas implementadas (ej. cláusulas contractuales tipo, decisiones de adecuación si las hubiere, etc.).
+5.  **Listar categorías de datos:** Enumerar de forma clara y precisa las categorías de datos personales que se recolectan y tratan (ej. nombre, RUT, correo electrónico, historial de compras, datos de geolocalización, etc.).
+6.  **Definir mejor el universo de personas:** Ser más específico en la descripción del universo de personas cuyas bases de datos se manejan (ej. "clientes de tiendas físicas", "usuarios registrados en la web/app", "participantes en concursos", etc.).
+7.  **Clarificar y detallar intereses legítimos:** Si se utiliza el interés legítimo como base de legitimación para algún tratamiento o cesión, identificar de forma explícita y detallada cuál es dicho interés legítimo y realizar la ponderación correspondiente para asegurar que no prevalecen los derechos y libertades del titular. Informar al titular sobre este interés.
+8.  **Especificar fuentes de recolección de datos:** Si se obtienen datos de fuentes distintas al propio titular, especificar cuáles son esas fuentes y cómo se asegura su licitud.
+9.  **Mencionar supresión de datos precontractuales:** Incluir una referencia a la obligación de suprimir o anonimizar datos obtenidos en fase precontractual si el contrato no llega a formalizarse.
+10. **Procedimientos de acreditación de licitud:** Aunque no es parte de la política en sí, la empresa debe tener mecanismos internos para poder acreditar la licitud de sus tratamientos y, si es pertinente, referenciar cómo se asegura este principio.
+11. **Revisar redacción sobre "Empresas Falabella":** Asegurar que la distinción entre las Empresas Falabella con las que se comparten datos para la "finalidad principal" (aparentemente como parte de la ejecución contractual o interés legítimo del grupo) y aquellas con las que se comparten para "otras finalidades" (con consentimiento explícito) sea meridianamente clara y cumpla con los requisitos de información para la cesión de datos del Art. 15.
+
+**5. Puntuación general de cumplimiento**
+
+*   Obligaciones generales del responsable (Art. 14): ❎ (Parcialmente cubierto, faltan elementos clave como supresión precontractual y claridad en fuentes lícitas).
+*   Información al titular (Art. 12): ❎ (Faltan elementos cruciales como identificación completa del responsable, derechos y cómo ejercerlos, consecuencias de no entregar datos, garantías en transferencias internacionales, detalle de categorías de datos e intereses legítimos).
+*   Bases de licitud del tratamiento (Art. 13): ✅ (Se mencionan las principales, aunque la aplicación del interés legítimo requiere mayor detalle).
+*   Principios (Art. 3): ✅ (La política intenta alinearse con los principios de licitud y finalidad, pero la acreditación de licitud y la especificidad de fuentes son mejorables).
+*   Cesión de datos personales (Art. 15): ✅ (Se aborda la necesidad de consentimiento para ciertas cesiones y se contemplan otras bases, aunque la información sobre el interés legítimo en cesiones debe ser más específica).
+
+**6. Puntuación total**
+
+✅✅✅ (3 de 5 secciones principales evaluadas como mayoritariamente cumplidas en sus aspectos centrales, aunque con importantes áreas de mejora en todas ellas, especialmente en Art. 12 y Art. 14).

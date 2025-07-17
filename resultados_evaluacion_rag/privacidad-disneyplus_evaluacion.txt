@@ -1,0 +1,107 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE DISNEY+ FRENTE A LA LEY CHILENA DE PROTECCIÓN DE DATOS PERSONALES (BASADA EN LOS ARTÍCULOS PROPORCIONADOS DE LA LEY 19.628 Y PRINCIPIOS GENERALES DE LA FUTURA LEY 21.719)**
+
+**1. Resumen de los puntos principales de la política de privacidad de Disney+**
+
+La política de privacidad de Disney+, con última modificación el 28/02/2025, describe cómo The Walt Disney Company y su familia de empresas ("nosotros") recopilan, usan y comparten información.
+
+*   **Alcance:** Aplica a la información recogida en sitios, aplicaciones, propiedades físicas (tiendas, parques, etc.) y call centers. Distingue entre la información que recolectan directamente y la recolectada por plataformas de terceros.
+*   **Responsable del Tratamiento:** La "Familia de empresas de Walt Disney", con un enlace para consultar la lista de responsables específicos.
+*   **Tipos de Información Recopilada:**
+    *   Información personal (de registro, de transacción, de foros públicos, enviada en mensajes/chats, obtenida de terceros, de uso/visualización/dispositivo, imágenes/videos en propiedades físicas, registros de llamadas).
+    *   Información anónima.
+    *   Información agregada.
+*   **Cómo se Obtiene la Información:**
+    *   Proporcionada directamente por el usuario (al registrarse, comprar, participar en foros, etc.).
+    *   A través de tecnologías (cookies, píxeles, etc.).
+    *   Mediante herramientas analíticas.
+    *   De otras fuentes confiables (para actualizar o suplementar).
+*   **Uso de la Información:**
+    *   Proveer experiencias, productos y servicios.
+    *   Comunicarse sobre cuentas o transacciones.
+    *   Enviar ofertas y promociones (propias o de terceros).
+    *   Personalizar contenidos y experiencias.
+    *   Publicidad dirigida.
+    *   Operar, optimizar y mejorar servicios.
+    *   Detectar, investigar y prevenir actividades ilícitas o violaciones de políticas.
+    *   Informar sobre retiradas de productos o problemas de seguridad.
+*   **Intercambio de Información con Otras Entidades:**
+    *   Con permiso del usuario para que otras compañías envíen ofertas.
+    *   Para cumplir solicitudes del usuario (ej. paquetes de viaje, reservas en restaurantes de terceros).
+    *   Con sitios o plataformas de terceros (ej. redes sociales) a petición del usuario.
+    *   Con proveedores de servicios que actúan en su nombre (con restricciones de uso).
+    *   Para publicidad relevante en sitios de terceros (identificadores limitados).
+    *   Con instituciones financieras para productos de marca conjunta.
+    *   Con National Geographic Partners y National Geographic Society.
+    *   Con socios comerciales de Hulu.
+    *   En relación con la venta de un negocio, para hacer cumplir términos, garantizar seguridad, proteger derechos, cumplir procesos legales.
+*   **Controles y Opciones del Usuario:**
+    *   Corregir, actualizar y eliminar la cuenta de registro.
+    *   Elegir opciones de suscripciones, boletines y alertas.
+    *   Decidir sobre el envío de ofertas y promociones.
+    *   Decidir si se comparte información personal con otras compañías para fines promocionales.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley (basado en los artículos proporcionados)**
+
+Considerando los extractos de la Ley 19.628 proporcionados:
+
+*   **Artículo 5º, letra a) (Datos tratados y su origen):** La política detalla los "TIPOS DE INFORMACIÓN QUE OBTENEMOS" y "CÓMO OBTENEMOS SU INFORMACIÓN", cumpliendo parcialmente con la necesidad de informar sobre los datos tratados y su origen.
+*   **Artículo 5º, letra b) (Finalidad o finalidades del tratamiento):** La sección "USO DE SU INFORMACIÓN POR PARTE DE LA FAMILIA DE COMPAÑÍAS DE WALT DISNEY" describe las finalidades del tratamiento.
+*   **Artículo 5º, letra c) (Categorías, clases o tipos de destinatarios):** La sección "INTERCAMBIO DE SU INFORMACIÓN CON OTRAS ENTIDADES" enumera las circunstancias y tipos de entidades con las que se comparte información.
+*   **Artículo (no numerado, pero similar a Art. 5º letra j de la futura ley) (Fuente de los datos):** La sección "CÓMO OBTENEMOS SU INFORMACIÓN" indica si los datos son proporcionados por el titular, recopilados automáticamente o adquiridos de terceros.
+*   **Artículo (no numerado, pero similar a Art. 5º letra k de la futura ley) (Derecho a retirar el consentimiento):** La sección "SUS CONTROLES Y OPCIONES" menciona la capacidad de "Elegir o cambiar sus opciones respecto a suscripciones, boletines y alertas" y "Decidir si desea que le enviemos ofertas y promociones", lo que implica un derecho a retirar el consentimiento para ciertos tratamientos, aunque no se formula explícitamente como un derecho general a retirar el consentimiento para cualquier tratamiento basado en él.
+*   **Artículo (no numerado, pero similar a Art. 5º letra f de la futura ley) (Derechos del titular):** La sección "SUS CONTROLES Y OPCIONES" menciona el derecho a "Corregir, actualizar y eliminar su cuenta de registro", lo que cubre parcialmente los derechos de rectificación y supresión.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley (basado en los artículos proporcionados)**
+
+*   **Artículo (no numerado, pero similar a Art. 5º letra b de la futura ley) (Individualización del responsable y su representante legal, y DPO):** Si bien se menciona "La Familia de empresas de Walt Disney" y un enlace a "responsables del tratamiento", no se individualiza claramente un representante legal en Chile ni se identifica un "encargado de prevención" (Delegado de Protección de Datos - DPO) específico para Chile, si existiere.
+*   **Artículo (no numerado, pero similar a Art. 5º letra c de la futura ley) (Domicilio postal, correo electrónico, contacto para notificaciones):** La política no proporciona un domicilio postal específico en Chile ni una dirección de correo electrónico o medio de contacto claramente designado para que los titulares chilenos realicen solicitudes relativas a sus datos personales.
+*   **Artículo (no numerado, pero similar a Art. 5º letra d de la futura ley) (Base de legitimidad del tratamiento):** La política describe los usos, pero no establece de forma explícita y clara la base de legitimidad (consentimiento, contrato, interés legítimo, obligación legal) para cada una de las finalidades del tratamiento. Si se basa en intereses legítimos, no se especifican cuáles serían estos de forma detallada.
+*   **Artículo 5º, letra d) y Artículo (no numerado, pero similar a Art. 5º letra i de la futura ley) (Período de conservación):** La política no especifica el período durante el cual se conservarán los datos personales para las distintas finalidades. La ley chilena es clara en que este es un deber de información. La mención a "período indeterminado de tiempo" en la ley se refiere a fines históricos, estadísticos o científicos y previa anonimización, lo cual no se refleja en la política para el tratamiento general de datos.
+*   **Artículo 5º, letra e) (Intereses legítimos del responsable):** Si el tratamiento se basa en intereses legítimos (Art. 13 letra d de la ley, no provisto en su totalidad, pero referenciado), estos deben ser informados. La política no lo hace de manera explícita.
+*   **Artículo 5º, letra f) y Artículo (no numerado, pero similar a Art. 5º letra l de la futura ley) (Decisiones automatizadas y elaboración de perfiles):** La política menciona "Personalizar contenidos y experiencias" y "Brindarle publicidad dirigida", lo que implica decisiones automatizadas y perfilamiento. Sin embargo, no proporciona "información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular".
+*   **Artículo (no numerado, pero similar a Art. 5º letra f de la futura ley) (Derechos del titular - Acceso, Oposición, Portabilidad):** Si bien se mencionan corrección, actualización y eliminación, no se menciona explícitamente el derecho de acceso (confirmación de tratamiento y acceso a los datos e información asociada), el derecho de oposición en los términos que establece la ley, ni el derecho a la portabilidad de los datos.
+*   **Artículo (no numerado, pero similar a Art. 5º letra g de la futura ley) (Derecho a recurrir ante la Agencia):** No se informa al titular sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales (o la autoridad que corresponda en Chile) en caso de que el responsable rechace o no responda oportunamente sus solicitudes.
+*   **Artículo (no numerado, pero similar a Art. 5º letra h de la futura ley) (Transferencia internacional de datos):** La política es de una empresa global, por lo que es evidente que existen transferencias internacionales. Sin embargo, no se informa si los países u organizaciones internacionales destinatarias ofrecen un nivel adecuado de protección, y en caso de que no, no se informa si existen garantías que justifiquen tal transferencia.
+*   **Artículo (no numerado, pero similar a Art. 5º letra e de la futura ley) (Política y medidas de seguridad):** La política no describe las medidas de seguridad adoptadas para proteger las bases de datos personales, lo cual es un requisito.
+*   **Artículo 16 sexies (Datos de geolocalización):** Aunque se menciona la recopilación de "dirección IP" e "información acerca del uso, visualización, y del dispositivo", no se informa de manera clara, suficiente y oportuna específicamente sobre el tratamiento de datos de geolocalización, su finalidad, duración y si se comunicarán a terceros para servicios con valor añadido, como lo exige este artículo.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Identificación del Responsable y Contacto en Chile:** Designar e identificar claramente un representante legal en Chile para efectos de la ley de protección de datos. Proveer un domicilio postal en Chile y una dirección de correo electrónico o canal de contacto específico para consultas y solicitudes de titulares de datos chilenos relativas a la privacidad. Considerar la designación de un Encargado de Prevención o DPO accesible desde Chile.
+2.  **Base de Legitimidad:** Para cada finalidad de tratamiento descrita, especificar claramente la base legal que lo legitima (consentimiento, ejecución de contrato, interés legítimo, cumplimiento de obligación legal). Si se invoca el interés legítimo, detallar en qué consiste.
+3.  **Períodos de Conservación:** Establecer y comunicar los períodos específicos durante los cuales se conservarán los diferentes tipos de datos personales, o los criterios utilizados para determinar dichos plazos.
+4.  **Decisiones Automatizadas y Perfilamiento:** Explicar de forma más detallada la lógica aplicada en las decisiones automatizadas (incluido el perfilamiento para publicidad dirigida y personalización de contenidos) y las consecuencias significativas que estas decisiones pueden tener para los titulares.
+5.  **Derechos de los Titulares:** Enumerar explícitamente todos los derechos de los titulares conforme a la ley chilena: acceso, rectificación, supresión (cancelación), oposición y portabilidad. Detallar el procedimiento para ejercerlos.
+6.  **Derecho a Retirar el Consentimiento:** Establecer de forma clara y explícita el derecho del titular a retirar su consentimiento en cualquier momento para los tratamientos basados en él, y cómo hacerlo, sin que ello afecte la licitud del tratamiento previo.
+7.  **Transferencias Internacionales:** Informar sobre las transferencias internacionales de datos, los países destinatarios, y si estos cuentan con un nivel adecuado de protección. En caso contrario, detallar las garantías adoptadas para dichas transferencias (ej. cláusulas contractuales tipo, normas corporativas vinculantes si aplican).
+8.  **Derecho a Reclamar:** Informar a los titulares de su derecho a presentar reclamaciones ante la autoridad de control chilena (Agencia de Protección de Datos Personales, una vez operativa, o el Consejo para la Transparencia mientras tanto para el sector público, o los tribunales).
+9.  **Medidas de Seguridad:** Incluir una sección que describa, al menos de forma general, las medidas técnicas y organizativas implementadas para garantizar la seguridad de los datos personales.
+10. **Datos de Geolocalización:** Si se tratan datos de geolocalización más allá de la IP para inferir una región general, se debe informar de manera específica conforme al Artículo 16 sexies: tipo de datos de geolocalización, finalidad, duración del tratamiento y si se cederán para servicios de valor añadido.
+11. **Adaptación Regional:** Considerar la creación de un anexo o sección específica para Chile que aborde los requisitos particulares de la legislación chilena, facilitando la comprensión y el ejercicio de derechos para los usuarios en el país.
+
+**5. Puntuación general de cumplimiento (basado en los artículos proporcionados)**
+
+*   Identificación del responsable y representante legal / DPO en Chile: ❎
+*   Información de contacto para protección de datos en Chile: ❎
+*   Categorías de datos tratados: ✅
+*   Finalidades del tratamiento: ✅
+*   Base de legitimidad (clara y por finalidad): ❎
+*   Destinatarios de los datos: ✅
+*   Período de conservación: ❎
+*   Fuente de los datos: ✅
+*   Derecho a retirar el consentimiento (explícito y general): ❎ (Parcialmente cubierto, pero no explícito como derecho general)
+*   Decisiones automatizadas (lógica y consecuencias): ❎
+*   Derechos de los titulares (ARSOP completo, incl. portabilidad): ❎ (Parcialmente cubierto, faltan menciones explícitas y completas)
+*   Transferencias internacionales (nivel de protección/garantías): ❎
+*   Derecho a reclamar ante la Agencia: ❎
+*   Información sobre geolocalización (Art. 16 sexies): ❎
+*   Medidas de seguridad (descripción): ❎ (No se detalla en el extracto)
+
+**6. Puntuación total**
+
+✅: 4
+❎: 11
+
+**Puntuación Total: 4 / 15**
+
+**Conclusión:** La política de privacidad de Disney+ aborda varios aspectos informativos importantes, pero presenta carencias significativas en relación con los requisitos específicos detallados en los artículos proporcionados de la legislación chilena sobre protección de datos personales. Se requieren mejoras sustanciales para alcanzar un cumplimiento adecuado, especialmente en lo referente a la base de legitimidad, periodos de conservación, derechos de los titulares, información sobre decisiones automatizadas y transferencias internacionales, así como la designación de puntos de contacto y responsables claros para los usuarios en Chile.

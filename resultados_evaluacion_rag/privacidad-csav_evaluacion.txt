@@ -1,0 +1,62 @@
+**EVALUACIÓN DE POLÍTICA DE PRIVACIDAD BAJO LEY 19.628**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de Compañía Sud Americana de Vapores S.A. (CSAV) solicita autorización expresa del titular para:
+*   Almacenar, usar, actualizar, tratar o comunicar a terceros los datos personales suministrados.
+*   La recolección de datos puede ocurrir en el marco de relaciones comerciales, a través del sitio web de la Compañía u otros medios.
+*   Los fines del tratamiento incluyen:
+    *   Comunicaciones directas o a través de terceros para marketing y publicidad de servicios actuales y futuros.
+    *   Mejora de servicios y atención al cliente.
+    *   Comunicación de ofertas y promociones de la Compañía o empresas relacionadas.
+    *   Realización de análisis o estudios por la Compañía o terceros.
+    *   Cualquier otra comunicación para el cumplimiento del objeto social de la Compañía.
+    *   Posible comunicación a empresas relacionadas o terceros, nacionales o extranjeros.
+*   Informa que el ejercicio de derechos (modificar/retirar autorización, solicitud de información, supresión parcial o definitiva) debe realizarse por escrito al correo electrónico info@csav.com.
+*   Declara que la autorización se otorga de conformidad con la Ley N° 19.628 de 1999.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+*   ✅ **Intento de Obtener Consentimiento (Art. 12):** La política busca obtener una "autorización expresa" del titular para el tratamiento de sus datos, lo cual se alinea con la regla general del consentimiento.
+*   ✅ **Identificación del Responsable (Art. 12):** Se identifica claramente al responsable del tratamiento como "Compañía Sud Americana de Vapores S.A.".
+*   ✅ **Información sobre Algunos Fines Específicos (Art. 12):** Se enumeran varios fines del tratamiento, como marketing, mejora de servicios y comunicación de ofertas.
+*   ✅ **Mecanismo para el Ejercicio de Derechos (Párrafo sobre ejercicio de derechos, pág. 8):** Se establece un canal (correo electrónico info@csav.com) para que los titulares ejerzan sus derechos, cumpliendo con la exigencia de un medio electrónico.
+*   ✅ **Mención de Derechos del Titular (Párrafo sobre ejercicio de derechos, pág. 8):** Se informa al titular sobre su derecho a modificar y/o retirar la autorización, solicitar información o la supresión de los datos.
+*   ✅ **Intento de Consentimiento para Cesión (Art. 15):** La política solicita autorización para "comunicar a terceros" y su "posible comunicación a empresas relacionadas o terceros, nacionales o extranjeros", lo que intenta cubrir la cesión de datos.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+*   ❎ **Consentimiento Informado y Específico - Amplitud de Fines (Art. 12):**
+    *   La finalidad "Cualquier otra comunicación que se genere para el cumplimiento del objeto social de la Compañía" es excesivamente amplia y vaga. El Art. 12 exige que el consentimiento sea "específico en cuanto a los fines del tratamiento". El titular no puede comprender adecuadamente para qué se usarán sus datos bajo esta cláusula genérica, impidiendo un consentimiento verdaderamente informado y específico. El "objeto social" no se define en la política, lo que agrava la falta de especificidad.
+*   ❎ **Consentimiento Informado - Identificación de Cesionarios (Art. 12 y Art. 15):**
+    *   El Art. 12 requiere que el consentimiento sea informado respecto a los "posibles destinatarios de los datos". La mención a "terceros", "empresas relacionadas" y "terceros, nacionales o extranjeros" es genérica. Si bien el Art. 15 detalla que la cesión debe constar por escrito individualizando a las partes, el consentimiento previo debe ser informado. Sería preferible que la política especificara, al menos, las categorías de terceros a quienes se cederán los datos (ej. agencias de marketing, proveedores de análisis de datos, etc.) para que el consentimiento sea más informado.
+    *   La cesión para "el cumplimiento del objeto social de la Compañía" adolece de la misma falta de especificidad mencionada para los fines del tratamiento.
+*   ❎ **Detalle del Procedimiento para Ejercicio de Derechos (Párrafo sobre ejercicio de derechos, pág. 8):**
+    *   La ley establece que la solicitud de ejercicio de derechos debe contener, a lo menos: a) Individualización del titular y autenticación, b) Domicilio o correo para respuesta, c) Identificación de los datos o tratamiento. La política solo indica el canal (correo electrónico) pero no informa al titular sobre los requisitos mínimos que debe contener su solicitud para ser válida y procesada eficientemente.
+*   ❎ **Información sobre Fuentes Lícitas y Limitación del Tratamiento (Obligaciones del responsable, Art. b, pág. 10):**
+    *   Si bien se infiere que los datos son "suministrados a la Compañía", la política no explicita el compromiso de que los datos se recojan de fuentes de acceso lícitas y que su tratamiento se limite estrictamente al cumplimiento de los fines informados (especialmente problemático con la cláusula del "objeto social").
+*   ❎ **Ausencia de Información sobre Plazos de Conservación:**
+    *   La ley y los principios de protección de datos implican que los datos no deben conservarse indefinidamente. La política no menciona por cuánto tiempo se conservarán los datos personales o los criterios utilizados para determinar dicho período.
+*   ❎ **Transferencias Internacionales de Datos:**
+    *   La política menciona la "posible comunicación a ... terceros, ... extranjeros". La Ley 19.628 (y la futura Ley 21.719 con mayor detalle) establece condiciones para las transferencias internacionales de datos (ej. consentimiento específico, nivel adecuado de protección en el país de destino). La política no proporciona información sobre las salvaguardas o el fundamento legal específico para estas transferencias más allá del consentimiento general, lo cual podría no ser suficiente dependiendo del contexto y la nueva ley.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Especificar Fines del Tratamiento:** Eliminar o detallar exhaustivamente la cláusula "Cualquier otra comunicación que se genere para el cumplimiento del objeto social de la Compañía". Todos los fines deben ser explícitos, lícitos y específicos. Si se hace referencia al objeto social, se debe explicar qué actividades de tratamiento de datos implica dicho objeto.
+2.  **Detallar Categorías de Cesionarios:** En lugar de "terceros" de forma genérica, especificar las categorías de destinatarios de los datos (ej. "proveedores de servicios de marketing", "empresas de análisis de datos", "socios logísticos", "empresas del grupo CSAV dedicadas a X actividad").
+3.  **Informar sobre Requisitos para Ejercicio de Derechos:** Incluir en la política una sección que detalle la información mínima que el titular debe proporcionar al ejercer sus derechos, conforme a lo establecido en la ley (identificación, medio de contacto para respuesta, datos específicos sobre los que ejerce el derecho).
+4.  **Clarificar Transferencias Internacionales:** Si se realizan transferencias internacionales, indicar los países o tipos de países a los que se podrían transferir los datos y el marco legal que ampara dichas transferencias (ej. consentimiento específico e informado sobre los riesgos, o si se cuenta con garantías de un nivel adecuado de protección).
+5.  **Establecer Plazos de Conservación:** Indicar los períodos durante los cuales se conservarán los datos personales para cada finalidad, o los criterios utilizados para determinar dichos períodos.
+6.  **Revisar y Actualizar conforme a la Ley 21.719:** Aunque la evaluación se basa en los artículos proporcionados de la Ley 19.628, es crucial que la Compañía revise y actualice su política para cumplir plenamente con la Ley 21.719, que introduce un marco más robusto y detallado, incluyendo nuevos principios, derechos y obligaciones.
+7.  **Lenguaje Claro y Accesible:** Asegurar que la política esté redactada en un lenguaje claro, sencillo y fácilmente comprensible para el titular promedio.
+
+**5. Puntuación general de cumplimiento**
+
+*   Consentimiento (Art. 12): ❎
+*   Obligaciones del Responsable (Art. b, pág. 10): ❎
+*   Ejercicio de Derechos (Párrafo sobre ejercicio de derechos, pág. 8): ❎
+*   Cesión de Datos (Art. 15): ❎
+
+**6. Puntuación total**
+
+*   Total de ✅: 0/4 secciones principales evaluadas con incumplimientos significativos.

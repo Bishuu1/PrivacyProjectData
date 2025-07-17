@@ -1,0 +1,92 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE AGUAS ANDINAS S.A. FRENTE A LA LEY 19.628**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de Aguas Andinas S.A. (en adelante, "la Política") establece los términos y condiciones para el uso de su sitio web y aplicación móvil, incluyendo la forma en que se recopila, usa, almacena y protege la información personal de los usuarios (clientes, proveedores, inversionistas o visitantes).
+
+Principales puntos:
+*   **Aceptación:** El acceso y uso del sitio/app implica la aceptación de la Política.
+*   **Modificaciones:** La empresa se reserva el derecho de modificar la Política, con efecto inmediato tras su publicación.
+*   **Recopilación de datos:** Se podrán solicitar datos personales como nombre, RUT (implícito en Chile para ciertos servicios), fecha de nacimiento, domicilio, teléfono, correo electrónico, datos de tarjeta de crédito, información comercial o bancaria. La entrega es voluntaria, pero su negativa puede impedir la prestación de servicios.
+*   **Finalidad de la recopilación:** Personalizar la atención, asistencia al cliente, mantener comunicación bidireccional, informar alertas comerciales u operacionales. También para generar estadísticas de uso del sitio/app.
+*   **Derechos de los usuarios:** Se reconocen los derechos de acceso, rectificación, cancelación y oposición. Se indica un mecanismo para la eliminación/modificación de datos a través de la oficina virtual.
+*   **Protección y seguridad:** Se declara la preocupación por la protección de datos, la adopción de medidas de seguridad "razonables y adecuadas" y la no transferencia a terceros no relacionados, salvo permisión legal.
+*   **Cookies:** Se reserva el derecho a usar cookies, indicando que no contienen información personal y que su no autorización puede afectar el funcionamiento del sitio.
+*   **Contacto:** Se proporciona un correo electrónico (`protecciondedatos@aguasandinas.cl`) para consultas.
+*   **Aplicabilidad:** La política aplica a todas las sociedades del Grupo Andinas.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+Basado en los extractos proporcionados de la Ley 19.628:
+
+*   **Información sobre derechos (parcialmente):** La Política informa sobre los derechos de acceso, rectificación, cancelación (supresión) y oposición, lo cual se alinea con el espíritu del artículo (p.11 f), aunque omite la portabilidad.
+*   **Mecanismos para el ejercicio de derechos:** La Política menciona la posibilidad de eliminar y/o modificar datos a través de la "oficina virtual", lo que podría considerarse un mecanismo para ejercer derechos de forma "ágil y eficaz" como lo sugiere la ley (página sin número, sección "ejercer sus derechos").
+*   **Identificación del responsable (parcialmente):** Se identifica a Aguas Andinas S.A. y al Grupo Andinas como responsables del tratamiento. Se proporciona un correo de contacto para temas de protección de datos.
+*   **Finalidad (parcialmente):** Se declaran finalidades como "personalizar la atención", "asistencia al cliente", "comunicación bidireccional" y "alertas comerciales u operacionales". Esto cumple parcialmente con el principio de finalidad (Art. 3° b) y la obligación b) de recoger datos con fines específicos.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+Basado en los extractos proporcionados de la Ley 19.628:
+
+*   **Informar y poner a disposición antecedentes de licitud (Obligaciones a) y Principio de licitud y lealtad Art. 3° a)):**
+    *   La Política no detalla explícitamente la base de licitud para cada tratamiento de datos (consentimiento, ejecución de contrato, obligación legal, interés legítimo). Simplemente menciona que la entrega es "voluntaria", lo cual es insuficiente para acreditar la licitud de todos los tratamientos, especialmente para fines secundarios como "alertas comerciales" o "generar información estadística".
+    *   No se indica cómo el titular puede acceder a los antecedentes que acrediten la licitud del tratamiento.
+*   **Fines específicos, explícitos y lícitos (Obligaciones b) y Principio de finalidad Art. 3° b)):**
+    *   Si bien se mencionan finalidades, algunas son genéricas ("conocer las necesidades e intereses de los Usuarios y otorgar un mejor servicio"). No se especifica cómo se obtiene el consentimiento para fines que exceden la prestación del servicio principal, como las "alertas comerciales".
+    *   No se detalla si los datos recogidos para "generar información estadística" son anonimizados o pseudoanonimizados.
+*   **Comunicar o ceder información (Obligaciones c)):**
+    *   La política indica que no se transferirá a "terceros no relacionados a Aguas Andinas S.A., salvo en aquellos casos en que la legislación vigente así lo indique o lo permita". Esto es vago. No se especifica quiénes son los "terceros relacionados" ni las sociedades del "Grupo Andinas" a las que se podrían ceder datos y bajo qué condiciones o finalidades específicas, ni cómo se asegura la exactitud, completitud y actualidad en dichas cesiones.
+*   **Suprimir o anonimizar datos precontractuales (Obligaciones d)):**
+    *   No hay mención específica a esta obligación.
+*   **Información al Titular (página 11 de 42):**
+    *   `e) La política y las medidas de seguridad adoptadas`: La Política menciona "medidas de seguridad razonables y adecuadas" pero no describe la política de seguridad ni las medidas concretas adoptadas. Esto es insuficiente.
+    *   `f) El derecho que le asiste al titular para solicitar... portabilidad`: El derecho a la portabilidad no se menciona explícitamente en la sección de "Derechos de los usuarios".
+    *   `g) El derecho que le asiste al titular de recurrir ante la Agencia`: No se informa al titular sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales.
+    *   `h) Transferencia de datos personales a un tercer país`: No se proporciona información sobre si se realizan transferencias internacionales de datos, y si así fuera, si los países de destino ofrecen un nivel adecuado de protección o las garantías existentes.
+*   **Gratuidad de los derechos:**
+    *   La Política no menciona explícitamente que el ejercicio de los derechos de rectificación, supresión y oposición es gratuito, ni que el acceso es gratuito al menos trimestralmente, como lo exige la ley.
+*   **Cookies:**
+    *   La afirmación de que "Las cookies utilizadas por Aguas Andinas S.A. no contienen información personal sobre el Usuario" es genérica y potencialmente inexacta, ya que muchas cookies, incluso las de sesión o analíticas, pueden identificar directa o indirectamente a un usuario o su dispositivo.
+    *   No se detalla qué tipos de cookies se utilizan, su finalidad específica, su duración, si son propias o de terceros, ni se ofrece un mecanismo de consentimiento granular para cookies no esenciales.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Bases de Licitud:** Especificar claramente la base legal para cada tipo de tratamiento de datos (ej. consentimiento explícito para fines comerciales, necesidad contractual para la prestación del servicio, etc.). Detallar cómo se obtiene y registra el consentimiento cuando esta sea la base.
+2.  **Finalidades Detalladas:** Describir con mayor precisión y granularidad las finalidades del tratamiento, especialmente para usos secundarios (marketing, estadísticas). Si se usan datos para estadísticas, indicar si son anonimizados.
+3.  **Cesión y Comunicación de Datos:** Identificar explícitamente a los "terceros relacionados" y las empresas del "Grupo Andinas" con quienes se comparten datos, la finalidad de dicha compartición y la base legal que lo justifica.
+4.  **Información Completa al Titular:**
+    *   Describir de forma más detallada las medidas de seguridad técnicas y organizativas implementadas.
+    *   Incluir explícitamente el derecho a la portabilidad de los datos.
+    *   Informar sobre el derecho del titular a recurrir ante la Agencia de Protección de Datos Personales.
+    *   Aclarar si se realizan transferencias internacionales de datos y, en caso afirmativo, cumplir con los requisitos de información al respecto.
+5.  **Gratuidad de Derechos:** Indicar expresamente la gratuidad del ejercicio de los derechos ARSOP y las condiciones para el derecho de acceso.
+6.  **Política de Cookies Detallada:** Implementar un banner de cookies y una política de cookies separada o una sección detallada que informe sobre:
+    *   Tipos de cookies utilizadas (técnicas, analíticas, de publicidad, etc.).
+    *   Finalidad de cada cookie.
+    *   Duración.
+    *   Si son propias o de terceros (identificando a los terceros).
+    *   Un mecanismo claro para que el usuario otorgue o revoque su consentimiento de forma granular para las cookies no esenciales.
+7.  **Supresión de Datos Precontractuales:** Incluir una mención a la obligación de suprimir o anonimizar datos obtenidos para medidas precontractuales si el contrato no se concreta.
+8.  **Lenguaje Claro y Sencillo:** Revisar la redacción para asegurar que sea fácilmente comprensible para el usuario medio.
+9.  **Actualización a Ley 21.719:** Aunque el análisis se basa en los extractos de la Ley 19.628, es crucial que la política se revise íntegramente a la luz de todas las disposiciones de la nueva Ley 21.719, que introduce cambios significativos y un nuevo marco institucional.
+
+**5. Puntuación general de cumplimiento**
+
+*   Informar y poner a disposición antecedentes de licitud (Obligaciones a)): ❎
+*   Recoger datos con fines específicos, explícitos, lícitos y limitados (Obligaciones b), Principio de finalidad): ❎
+*   Comunicar o ceder información exacta, completa y actual (Obligaciones c)): ❎
+*   Suprimir o anonimizar datos precontractuales (Obligaciones d)): ❎
+*   Acreditar licitud del tratamiento (Principio de licitud y lealtad Art. 3° a)): ❎
+*   Mecanismos para ejercer derechos (expeditos, ágiles, eficaces, sencillos): ✅
+*   Gratuidad de derechos: ❎
+*   Informar sobre política y medidas de seguridad (p.11 e)): ❎
+*   Informar sobre derechos ARSOP y Portabilidad (p.11 f)): ❎ (Portabilidad ausente)
+*   Informar sobre derecho a recurrir a la Agencia (p.11 g)): ❎
+*   Informar sobre transferencias internacionales (p.11 h)): ❎
+
+**6. Puntuación total**
+
+✅: 1
+❎: 10
+
+**Puntuación Total: 1/11**

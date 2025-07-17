@@ -1,0 +1,96 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DEL PORTAL SANTANDER FRENTE A LA LEY CHILENA DE PROTECCIÓN DE DATOS PERSONALES**
+
+**Nota Preliminar Importante:** La presente evaluación se realiza contrastando la política de privacidad proporcionada con los extractos de la Ley 19.628 que se han facilitado, asumiendo que estos son los relevantes para el análisis solicitado bajo el marco de la "Ley 21.719". Es fundamental destacar que la Ley 21.719, que moderniza la legislación de protección de datos en Chile, establece un marco regulatorio significativamente más detallado y exigente que la Ley 19.628. La política analizada declara explícitamente su conformidad con la Ley N°19.628. Una evaluación completa bajo la nueva Ley 21.719 (aún en proceso de plena implementación y entrada en vigor de todas sus disposiciones) requeriría considerar la totalidad de dicho cuerpo legal, que es más extenso y específico que los extractos proporcionados.
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad del Portal Santander establece el compromiso del Banco Santander Chile con la protección de datos personales de sus usuarios y clientes. Sus puntos clave son:
+*   **Alcance:** Aplica a la recolección, tratamiento y protección de datos personales a través del Portal y otros canales del Banco, en el contexto de la contratación o interés en productos y servicios.
+*   **Referencia Legal:** Se enmarca en la Ley N°19.628 Sobre Protección de la Vida Privada.
+*   **Definiciones:** Incluye definiciones de términos clave como "Datos personales", "Autorización", "Datos personales sensibles", "Tratamiento de datos", "Responsable del tratamiento", "Mandatario o Encargado", "Titular de datos", "Transmisión de datos" y "Derechos ARCO".
+*   **Identificación del Responsable:** Banco Santander Chile, con RUT y domicilio social.
+*   **Contacto para Derechos:** Proporciona una dirección de correo electrónico (derechosarco@santander.cl) para el ejercicio de derechos.
+*   **Base de Licitud Principal:** La autorización (consentimiento) del titular, obtenida por diversos medios. También menciona la obligación legal como base.
+*   **Datos Tratados:** Detalla diversas categorías de datos, incluyendo de registro, económicos, financieros, transaccionales, de cookies, biométricos (para enrolamiento en apps) y de geolocalización.
+*   **Finalidades del Tratamiento:** Gestión contractual, oferta de productos y servicios, acciones comerciales, publicidad y marketing (incluyendo perfilamiento), estudios estadísticos, contacto con el cliente y cumplimiento normativo (prevención de lavado de activos, etc.).
+*   **Geolocalización:** Explica la captura y uso de datos de geolocalización para perfilamiento, ofertas comerciales, buscador de oficinas y prevención de fraude, siempre con activación por parte del usuario.
+*   **Transmisión de Datos:** Indica que puede compartir datos con empresas del grupo Santander (nacionales o extranjeras) y con terceros proveedores (mandatarios o encargados), bajo relación contractual.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley (basado en los extractos proporcionados)**
+
+Considerando los extractos de la Ley 19.628 facilitados:
+
+*   **Obligación a) Informar licitud:** La política informa que el tratamiento se basa en la autorización del titular y en la Ley 19.628, lo que constituye una forma de acreditar la licitud. ✅
+*   **Obligación b) Fines específicos, explícitos y lícitos:** Las secciones 6 y 7 de la política detallan múltiples finalidades para el tratamiento de datos. ✅
+*   **Artículo 15 - Cesión con consentimiento:** La política establece que se requiere autorización para tratar los datos y para compartirlos con empresas del grupo (Sección 3). La transmisión a terceros proveedores se realiza en calidad de "mandatarios o encargados", lo que implica que actúan por cuenta del responsable. ✅ (Parcialmente, pues la cesión a empresas del grupo como responsables distintos requeriría un consentimiento muy específico).
+*   **Contenido de la Política - b) Individualización del responsable:** La política identifica claramente a Banco Santander Chile como responsable, incluyendo su RUT y domicilio (Secciones 2a y 4). ✅
+*   **Contenido de la Política - c) Domicilio postal, correo electrónico para solicitudes:** Se proporciona el domicilio social y una dirección de correo electrónico para el ejercicio de derechos (Secciones 2a y 2b). ✅
+*   **Contenido de la Política - d) Categorías de datos, destinatarios, finalidades, base de legitimidad:**
+    *   **Categorías de datos:** Detalladas en las Secciones 5 y 7. ✅
+    *   **Destinatarios:** Mencionados en la Sección 9 (empresas del grupo, partners, aliados, proveedores). ✅
+    *   **Finalidades:** Detalladas en las Secciones 6 y 7. ✅
+    *   **Base de legitimidad:** Principalmente la "Autorización" (consentimiento) y "obligación legal" (Sección 3). ✅
+*   **Artículo 3° - Principio de licitud y lealtad:** La política se basa en la autorización del titular y la ley vigente. ✅
+*   **Artículo 3° - Principio de finalidad:** Los datos se recolectan para finalidades explícitas. ✅
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley (basado en los extractos proporcionados)**
+
+*   **Obligación c) Comunicar o ceder información exacta, completa y actual:** La política no menciona explícitamente el compromiso de que la información cedida a terceros cumpla con estos atributos, aunque se infiere una obligación general de veracidad. ❎
+*   **Obligación d) Suprimir o anonimizar datos precontractuales:** No se menciona explícitamente esta obligación en la política. ❎
+*   **Artículo 15 - Cesión de datos constar por escrito o medio equivalente:** La política no especifica que la cesión (especialmente a otras empresas del grupo que no actúen como encargados) deba constar por escrito o medio que permita acreditarla, más allá de la aceptación general de la política. ❎
+*   **Contenido de la Política - e) Política y medidas de seguridad adoptadas:** Si bien la política menciona que se almacenará y manejará información "de forma segura y confidencial" y que se realizan "controles", no detalla las medidas de seguridad específicas adoptadas para proteger las bases de datos. La mención es genérica. ❎
+*   **Contenido de la Política - f) Derecho a la portabilidad:** La política menciona los "Derechos ARCO" (Acceso, Rectificación, Cancelación, Oposición) en su definición (Sección 1.i) y el contacto para ejercerlos (Sección 2.b). Sin embargo, el extracto legal (página 11 de 42, f) exige informar sobre el derecho de "portabilidad", el cual no está explícitamente listado ni definido en la política. ❎
+*   **Contenido de la Política - g) Derecho a recurrir ante la Agencia:** La política no informa al titular sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales en caso de que el responsable rechace o no responda oportunamente sus solicitudes. ❎
+*   **Contenido de la Política - h) Transferencia de datos a tercer país u organización internacional:** La Sección 9 indica que se podrán compartir datos con empresas del grupo "localizadas o no en Chile". Sin embargo, no se informa si estos países ofrecen o no un nivel adecuado de protección, ni si existen garantías que justifiquen tal transferencia en caso de no contar con dicho nivel. ❎
+*   **Contenido de la Política - b) Individualización del representante legal y encargado de prevención:** La política identifica al responsable, pero no a su representante legal ni al "encargado de prevención, si existiere". ❎
+*   **Contenido de la Política - d) Descripción genérica del universo de personas / Interés legítimo:**
+    *   **Universo de personas:** Si bien se infiere que son clientes y usuarios del portal, no hay una "descripción genérica del universo de personas que comprenden sus bases de datos" de forma explícita. ❎
+    *   **Interés legítimo:** La política no indica si algún tratamiento se basa en la satisfacción de intereses legítimos del responsable o de un tercero, ni cuáles serían estos, como lo requiere la ley si se utilizara esta base de legitimación para la cesión (Art. 15 y Art. 11 d). ❎
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Actualización a Ley 21.719:** Revisar y actualizar integralmente la política para alinearla con todas las disposiciones de la nueva Ley 21.719, que es el marco legal vigente y más exigente.
+2.  **Detallar Medidas de Seguridad:** Especificar las medidas técnicas y organizativas implementadas para proteger los datos personales (cumpliendo Art. 11 e).
+3.  **Incluir Derecho de Portabilidad:** Añadir explícitamente el derecho a la portabilidad de los datos personales junto con los derechos ARCO, explicando su alcance (cumpliendo Art. 11 f).
+4.  **Informar sobre Recurso ante la Agencia:** Incluir una cláusula que informe a los titulares sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales (cumpliendo Art. 11 g).
+5.  **Detallar Transferencias Internacionales:** Para las transferencias de datos a países fuera de Chile, especificar si dichos países cuentan con un nivel adecuado de protección. En caso negativo, informar sobre las garantías adoptadas para justificar la transferencia (cumpliendo Art. 11 h).
+6.  **Completar Identificación:** Incluir la individualización del representante legal del Banco y, si existe, del encargado de prevención (cumpliendo Art. 11 b).
+7.  **Describir Universo de Titulares:** Añadir una descripción más clara del universo de personas cuyos datos se tratan (e.g., "clientes activos e inactivos", "usuarios registrados en el portal", "potenciales clientes que solicitan información", etc.) (cumpliendo Art. 11 d).
+8.  **Clarificar Base de Interés Legítimo:** Si se utiliza el interés legítimo como base para algún tratamiento o cesión, describirlo explícitamente y justificarlo (cumpliendo Art. 11 d y Art. 15).
+9.  **Obligaciones Específicas:**
+    *   Incluir un compromiso explícito de que la información comunicada o cedida será exacta, completa y actual (cumpliendo Obligación c).
+    *   Mencionar la obligación de suprimir o anonimizar datos obtenidos para medidas precontractuales cuando estas no prosperen (cumpliendo Obligación d).
+    *   Especificar que la cesión de datos (cuando no sea a encargados) constará por escrito o medio equivalente que permita acreditarla (cumpliendo Art. 15).
+10. **Consentimiento para Cesión a Empresas del Grupo:** Asegurar que el consentimiento obtenido para ceder datos a otras empresas del Grupo Santander (que actuarían como nuevos responsables y no meros encargados) sea específico para dicha finalidad y para cada tipo de empresa o finalidad ulterior, o bien, que se base en otra causal legal debidamente informada (ej. interés legítimo detallado).
+11. **Periodos de Conservación:** Aunque no está en los extractos proporcionados, la nueva ley exige informar sobre los plazos de conservación de los datos. Sería una buena práctica incluirlo.
+
+**5. Puntuación general de cumplimiento (basado en los extractos proporcionados)**
+
+*   **Obligaciones Generales (Ley 19.628, p.10):**
+    *   a) Informar licitud: ✅
+    *   b) Fines específicos, lícitos, limitados: ✅
+    *   c) Comunicar/ceder info exacta, completa, actual: ❎
+    *   d) Suprimir/anonimizar datos precontractuales: ❎
+    *   e) Cumplir demás deberes (evaluado según los otros puntos): ❎ (implícitamente por las falencias)
+*   **Artículo 15 – Cesión de datos personales:**
+    *   Consentimiento/otras bases para cesión: ✅
+    *   Consentimiento específico si no se consideró inicialmente: ✅ (asumiendo que la aceptación de la política cubre esto para las cesiones informadas)
+    *   Cesión por escrito/medio equivalente: ❎
+*   **Contenido Mínimo de la Política de Privacidad (Ley 19.628, p.11):**
+    *   e) Política y medidas de seguridad: ❎
+    *   f) Derechos del titular (acceso, rectificación, supresión, oposición, portabilidad): ❎
+    *   g) Derecho a recurrir ante la Agencia: ❎
+    *   h) Transferencia internacional (nivel de protección, garantías): ❎
+    *   b) Individualización del responsable y representante legal, encargado de prevención: ❎
+    *   c) Domicilio postal, correo electrónico, etc.: ✅
+    *   d) Categorías, universo, destinatarios, finalidades, base de legitimidad, interés legítimo: ❎ (por universo e interés legítimo)
+*   **Artículo 3° - Principios:**
+    *   a) Licitud y lealtad: ✅
+    *   b) Finalidad: ✅
+
+**6. Puntuación total**
+
+Sumando los ✅ del total de secciones evaluadas: **8 / 17**
+
+**Conclusión Final:**
+La política de privacidad de Banco Santander Chile muestra un esfuerzo por cumplir con la Ley 19.628 en varios aspectos fundamentales, como la identificación del responsable, la declaración de finalidades y la obtención de autorización. Sin embargo, al contrastarla con los requisitos específicos detallados en los extractos legales proporcionados (que reflejan parte de las exigencias de información y derechos de la nueva Ley 21.719), se identifican carencias significativas. Es crucial que la política sea revisada y actualizada para reflejar plenamente los estándares de la Ley 21.719, que introduce un nivel de protección de datos más robusto y detallado, incluyendo aspectos como la información sobre transferencias internacionales, el derecho a la portabilidad, el derecho a recurrir a la Agencia, y una mayor especificidad en las medidas de seguridad y las bases de legitimación.

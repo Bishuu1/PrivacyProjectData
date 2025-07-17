@@ -1,0 +1,152 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE TWITCH FRENTE A LA LEY 21.719 DE CHILE**
+
+**Fecha de Evaluación:** 22 de mayo de 2024
+**Política Evaluada:** Aviso de Privacidad de Twitch, última actualización: 30/06/2023
+**Legislación de Referencia:** Ley 21.719 sobre protección de datos personales de Chile (extractos proporcionados).
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad de Twitch**
+
+La política de privacidad de Twitch (subsidiaria de Amazon.com, Inc.) detalla cómo la empresa recaba, utiliza y divulga datos personales de los usuarios de sus servicios (sitios web, aplicaciones, eventos).
+
+*   **Responsable del Tratamiento:** Twitch Interactive, Inc., con domicilio en San Francisco, CA, EE. UU.
+*   **Datos Recopilados:**
+    *   **Proporcionados por el usuario:** Nombre, voz, imagen, nombre de usuario, correo electrónico, dirección postal, teléfono, información de tarjeta de crédito y facturación al registrarse, subir contenido, participar en eventos, etc.
+    *   **Recogidos automáticamente:** Dirección IP, identificador de usuario, tipo de dispositivo/navegador, páginas de procedencia/salida, uso de servicios (mediante cookies y otras tecnologías).
+    *   **Eventos en directo:** Fotografías, grabaciones, escaneo de emblemas (con permiso) para análisis y fines promocionales.
+    *   **De otras fuentes:** Información de terceros como anunciantes, juegos, redes sociales (Discord, Steam, YouTube) con autorización del usuario, y servicios externos (Riot, Steam) sobre el uso de dichos servicios.
+*   **Uso de Datos Personales:**
+    *   Operar, mantener, mejorar y desarrollar servicios.
+    *   Ofrecer seguridad.
+    *   Gestionar relaciones con titulares de cuentas (pagos).
+    *   Mejorar la experiencia del usuario (recomendaciones, publicidad personalizada).
+    *   Permitir comentarios, participación en juegos, concursos.
+    *   Prevenir fraudes y abusos.
+    *   Análisis de tendencias de uso.
+    *   Comunicaciones (actualizaciones, servicio al cliente, sobre contenido publicado).
+    *   Envío de material promocional (con opción de exclusión).
+    *   Cumplimiento de obligaciones legales.
+    *   Procesamiento basado en consentimiento para fines específicos (con derecho a retiro).
+    *   Fundamentación en motivos legales: cumplimiento contractual, obligaciones legales, consentimiento, intereses legítimos (ej. supervisión, comunicación, publicidad, defensa legal).
+*   **Divulgación de Datos Personales:**
+    *   No vende información personal a terceros.
+    *   Comparte con su empresa matriz (Amazon.com, Inc.) y filiales sujetas a prácticas de protección equivalentes.
+    *   Con proveedores de servicios (alojamiento, mantenimiento, seguridad, tramitación de pedidos, análisis de datos).
+*   **Otros Aspectos Mencionados:**
+    *   Derechos del interesado y opciones (sección referenciada, no detallada en el extracto).
+    *   Cierre y eliminación de cuenta (sección referenciada).
+    *   Servicios y sitios web de terceros.
+    *   Extensiones y aplicaciones.
+    *   Anunciantes y proveedores de análisis.
+    *   No seguimiento.
+    *   Seguridad de los datos.
+    *   Conservación de datos (sección referenciada).
+    *   Privacidad de menores.
+    *   Fusión o venta.
+    *   Transferencias internacionales de datos.
+    *   Cambios y actualizaciones de la política.
+    *   Información de contacto.
+    *   Aviso sobre Cookies (documento separado).
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley 21.719 (según extractos)**
+
+Basado en los artículos proporcionados de la Ley 21.719:
+
+*   **Artículo 14 ter (Deber de información y transparencia):**
+    *   **a) La política de tratamiento de datos personales que haya adoptado, la fecha y versión de la misma:** ✅
+        *   La política existe, se identifica como "Aviso de Privacidad de Twitch", tiene fecha de "Última actualización: 30/06/2023" y menciona la posibilidad de ver versiones anteriores.
+    *   **b) La individualización del responsable de datos y su representante legal y la identificación del encargado de prevención, si existiere:** ✅ (Parcialmente)
+        *   Se individualiza al responsable: "Twitch Interactive, Inc., con domicilio social en 350 Bush Street, 2nd Floor, San Francisco, CA 94104 (EE. UU.)".
+        *   No se menciona explícitamente un representante legal en Chile ni un encargado de prevención (Delegado de Protección de Datos) específico para Chile, lo cual podría ser requerido dependiendo de la interpretación y alcance de la ley para entidades extranjeras que tratan datos de chilenos.
+    *   **c) El domicilio postal, la dirección de correo electrónico, el formulario de contacto o la identificación del medio tecnológico equivalente de uso común y fácil acceso mediante el cual se le notifican las solicitudes que realicen los titulares:** ✅
+        *   Se proporciona el domicilio postal del responsable. La sección "16. Información de contacto de Twitch" (mencionada en el índice, aunque no detallada en el extracto) presumiblemente contiene el correo electrónico o formulario de contacto.
+    *   **d) Las categorías, clases o tipos de datos que trata; la descripción genérica del universo de personas que comprenden sus bases de datos; los destinatarios a los que se prevé comunicar o ceder los datos; las finalidades de los tratamientos que realiza; la base de legitimidad del tratamiento; y en caso de tratamientos que se basan en la satisfacción de intereses legítimos, cuáles serían éstos:** ✅
+        *   **Categorías de datos:** Detalladas en "Datos personales que recoge Twitch sobre ti" (proporcionados por el usuario, recogidos automáticamente, de otras fuentes, eventos en directo).
+        *   **Universo de personas:** "usuarios, suscriptores, editores, miembros y otras personas que visitan y utilizan los Servicios de Twitch".
+        *   **Destinatarios:** Amazon.com, Inc. y filiales, proveedores de servicios.
+        *   **Finalidades:** Detalladas en "Modo en que Twitch utiliza los datos personales".
+        *   **Base de legitimidad:** Se mencionan el cumplimiento contractual, obligaciones legales, consentimiento e intereses legítimos.
+        *   **Intereses legítimos:** Se ejemplifican ("supervisión y análisis del uso de los servicios de Twitch, comunicación con usuarios registrados... publicidad, respuesta a consultas... protección ante responsabilidad... investigación y defensa... protección de la seguridad...").
+    *   **j) La fuente de la cual provienen los datos personales y, en su caso, si proceden de fuentes de acceso público:** ✅
+        *   Se detallan las fuentes: "Información proporcionada por el usuario", "Datos recogidos de forma automática", "Eventos de Twitch en Directo", "Información de Otras Fuentes" (que pueden incluir fuentes de acceso público como perfiles en redes sociales).
+    *   **k) Cuando el tratamiento está basado en el consentimiento del titular, la existencia del derecho a retirarlo en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo a su retirada:** ✅
+        *   "Si nos das tu consentimiento para tratar tus datos personales con un fin específico, podrás retirarlo en cualquier momento y dejaremos de tratar esos datos para los fines indicados."
+    *   **l) La existencia de decisiones automatizadas, incluida la elaboración de perfiles. En tales casos, información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular:** ✅ (Parcialmente)
+        *   Se menciona el uso de datos para "proporcionar anuncios, contenidos e información personalizados" y "recomendaciones de contenido", lo que implica decisiones automatizadas y perfiles.
+        *   La "información significativa sobre la lógica aplicada" y las "consecuencias previstas" podrían ser más explícitas, aunque se infieren de la personalización de la experiencia y la publicidad.
+
+*   **Artículo 5º (Derecho de acceso - la política debe contener la información que se proporcionaría):**
+    *   **a) Los datos tratados y su origen:** ✅ (Cubierto por "Datos personales que recoge Twitch sobre ti").
+    *   **b) La finalidad o finalidades del tratamiento:** ✅ (Cubierto por "Modo en que Twitch utiliza los datos personales").
+    *   **c) Las categorías, clases o tipos de destinatarios, o bien, la identidad de cada destinatario, en caso de solicitarlo así el titular, a los que se les hayan comunicado o cedido los datos o se prevea hacerlo:** ✅ (Cubierto por "Cuándo Twitch divulga datos personales", menciona categorías de destinatarios).
+    *   **e) Los intereses legítimos del responsable, cuando el tratamiento se base en lo dispuesto en el artículo 13, letra d):** ✅ (Se detallan ejemplos de intereses legítimos).
+
+*   **Título III (De la utilización de datos personales relativos a obligaciones de carácter económico, financiero, bancario o comercial):** ✅ (En cuanto a la mención)
+    *   La política indica que se recoge "número de la tarjeta de crédito e información de facturación", lo que cae bajo este título. Si bien el extracto de la ley no detalla los requisitos específicos del Título III, la política reconoce el tratamiento de este tipo de datos.
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen o Cumplen Parcialmente con la Ley 21.719 (según extractos)**
+
+*   **Artículo 14 ter (Deber de información y transparencia):**
+    *   **b) La individualización del responsable de datos y su representante legal y la identificación del encargado de prevención, si existiere:** ❎ (Incumplimiento Parcial)
+        *   No se identifica un representante legal de Twitch Interactive, Inc. en Chile. Para entidades extranjeras que tratan datos de residentes en Chile de forma habitual, la ley podría requerir la designación de un representante local.
+        *   No se menciona un Encargado de Prevención o Delegado de Protección de Datos (DPO) específico para Chile o accesible directamente para los usuarios chilenos, aunque la empresa matriz Amazon podría tener uno a nivel global.
+    *   **i) El periodo durante el que se conservarán los datos personales:** ❎
+        *   La política menciona una sección "11. Conservación de tus datos", pero el extracto proporcionado no detalla los plazos específicos de conservación o los criterios utilizados para determinarlos. La ley exige informar "el periodo". Una referencia genérica a una sección no es suficiente sin el contenido de dicha sección.
+    *   **l) La existencia de decisiones automatizadas, incluida la elaboración de perfiles. En tales casos, información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular:** ❎ (Incumplimiento Parcial)
+        *   Si bien se menciona la personalización y recomendaciones, la "información significativa sobre la lógica aplicada" es general. No se explica con claridad cómo se toman estas decisiones automatizadas (ej. principales factores considerados) ni se detallan suficientemente las "consecuencias previstas" más allá de la personalización.
+
+*   **Artículo 5º (Derecho de acceso):**
+    *   **d) El período de tiempo durante el cual los datos serán tratados:** ❎
+        *   Misma observación que para el Art. 14 ter (i). La política no especifica este periodo en el texto proporcionado.
+    *   **f) La información significativa sobre la lógica aplicada en el caso de que el tratamiento incluya decisiones automatizadas:** ❎ (Incumplimiento Parcial)
+        *   Misma observación que para el Art. 14 ter (l).
+
+*   **Artículo 14 quáter (Deber de protección desde el diseño y por defecto):** ⚠️ (Difícil de evaluar solo con la política)
+    *   Este es un principio que debe implementarse en la práctica. Si bien la política menciona la seguridad y la minimización implícita al solicitar solo los datos necesarios para los servicios, el cumplimiento efectivo de la privacidad desde el diseño y por defecto requiere una auditoría más profunda de los sistemas y procesos de Twitch, no solo de su declaración de intenciones. La política no ofrece detalles concretos sobre cómo se implementa este principio.
+
+*   **Artículo 16 sexies (Datos de geolocalización):** ❎
+    *   La política menciona la recopilación de la "Dirección IP", que puede usarse para inferir la geolocalización. Sin embargo, no informa de manera "clara, suficiente y oportuna" específicamente sobre el tratamiento de datos de geolocalización (ya sea derivados de IP u otros como GPS si se usaran en alguna app móvil no descrita aquí).
+    *   No se detalla el tipo específico de datos de geolocalización tratados (más allá de la IP), la finalidad específica para la geolocalización, la duración específica de este tratamiento, ni si los datos de geolocalización se comunican o ceden a terceros para servicios con valor añadido de forma particular. Si se recopilan datos de geolocalización más precisos que la inferencia por IP, el incumplimiento es más severo.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Representante Legal y DPO en Chile (Art. 14 ter.b):** Considerar la designación de un representante legal en Chile si el volumen y naturaleza del tratamiento de datos de ciudadanos chilenos lo justifica. Designar o identificar claramente un Encargado de Prevención (DPO) accesible para los usuarios en Chile, indicando sus datos de contacto.
+2.  **Periodo de Conservación (Art. 14 ter.i / Art. 5.d):** Incluir en la política de privacidad los plazos específicos durante los cuales se conservarán las diferentes categorías de datos personales, o, si no es posible, los criterios claros y específicos utilizados para determinar dichos plazos (ej. "mientras la cuenta esté activa y por X años adicionales para cumplir obligaciones legales").
+3.  **Decisiones Automatizadas y Perfilamiento (Art. 14 ter.l / Art. 5.f):** Proporcionar información más detallada y significativa sobre la lógica utilizada en las decisiones automatizadas (ej. principales factores que influyen en las recomendaciones o la publicidad personalizada) y las consecuencias concretas que estos tratamientos tienen para el titular (ej. exposición a ciertos tipos de contenido, ofertas, etc.).
+4.  **Datos de Geolocalización (Art. 16 sexies):**
+    *   Si se tratan datos de geolocalización (incluyendo la inferida por IP o datos más precisos de GPS si aplica), crear una sección específica o detallar claramente:
+        *   El tipo exacto de datos de geolocalización que se tratan.
+        *   La finalidad específica para la cual se tratan estos datos de geolocalización.
+        *   La duración del tratamiento de estos datos.
+        *   Si estos datos se comunican o ceden a terceros para la prestación de un servicio con valor añadido, identificando a dichos terceros y el propósito.
+5.  **Protección desde el Diseño y por Defecto (Art. 14 quáter):** Aunque es un principio de implementación, la política podría mencionar brevemente las medidas generales adoptadas para asegurar la privacidad desde el diseño (ej. minimización de datos en nuevos desarrollos, evaluaciones de impacto) y por defecto (ej. configuraciones de privacidad predeterminadas más protectoras).
+6.  **Transferencias Internacionales (No detallado en los extractos de ley proporcionados, pero relevante):** Aunque la política menciona "Transferencias internacionales de datos", la Ley 21.719 establece requisitos para estas, como asegurar un nivel adecuado de protección en el país de destino o contar con garantías. La política debería detallar estas garantías si los datos se transfieren a países sin un nivel adecuado de protección reconocido por Chile.
+
+**5. Puntuación General de Cumplimiento (respecto a los artículos proporcionados)**
+
+*   **Art. 14 ter.a (Política, fecha, versión):** ✅
+*   **Art. 14 ter.b (Identificación responsable, rep. legal, DPO):** ❎ (Parcial, falta rep. legal Chile / DPO claro para Chile)
+*   **Art. 14 ter.c (Contacto para solicitudes):** ✅
+*   **Art. 14 ter.d (Categorías, universo, destinatarios, finalidades, base legal, intereses legítimos):** ✅
+*   **Art. 14 ter.i (Periodo de conservación):** ❎
+*   **Art. 14 ter.j (Fuente de los datos):** ✅
+*   **Art. 14 ter.k (Derecho a retirar consentimiento):** ✅
+*   **Art. 14 ter.l (Decisiones automatizadas, lógica, consecuencias):** ❎ (Parcial, falta detalle en lógica y consecuencias)
+*   **Art. 5.a (Datos tratados y origen):** ✅
+*   **Art. 5.b (Finalidad del tratamiento):** ✅
+*   **Art. 5.c (Categorías/identidad de destinatarios):** ✅
+*   **Art. 5.d (Periodo de tratamiento):** ❎
+*   **Art. 5.e (Intereses legítimos):** ✅
+*   **Art. 5.f (Lógica de decisiones automatizadas):** ❎ (Parcial, falta detalle)
+*   **Art. 14 quáter (Protección desde el diseño y por defecto):** ❎ (Insuficientemente demostrado en la política)
+*   **Art. 16 sexies (Datos de geolocalización):** ❎
+*   **Título III (Datos económicos, financieros, etc.):** ✅ (Menciona la recolección, asumiendo cumplimiento con detalles no provistos del Título III)
+
+**6. Puntuación Total**
+
+*   Total de ✅: 9
+*   Total de ❎: 8
+
+**Puntuación Total: 9 / 17**
+
+**Conclusión:**
+La política de privacidad de Twitch cubre varios de los requisitos informativos básicos exigidos por los extractos de la Ley 21.719. Sin embargo, presenta deficiencias significativas en cuanto a la especificación del periodo de conservación de los datos, la información detallada sobre la lógica y consecuencias de las decisiones automatizadas, la identificación de un representante legal o DPO en Chile, y el tratamiento específico de los datos de geolocalización. Se requieren mejoras para alcanzar un cumplimiento más robusto con la legislación chilena.

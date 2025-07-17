@@ -1,0 +1,87 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE MOVISTAR CHILE FRENTE A LA LEY DE PROTECCIÓN DE DATOS PERSONALES (BASADA EN EXTRACTOS DE LEY 19.628)**
+
+**Nota Preliminar:** La presente evaluación se realiza con base en los extractos de la Ley 19.628 proporcionados. Es importante señalar que la Ley 21.719, mencionada en la solicitud, es una ley que modifica la Ley 19.628 y establece la Agencia Nacional de Protección de Datos, introduciendo cambios significativos. Sin embargo, dado que los textos legales proporcionados corresponden a la Ley 19.628, el análisis se centrará en el cumplimiento de estos preceptos. La política de Movistar Chile también hace referencia explícita a la Ley 19.628.
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad de Movistar Chile**
+
+*   **Compromiso General:** Movistar Chile declara su respeto por el derecho a la protección de datos personales y se compromete a tratar los datos lícitamente, con consentimiento o habilitación legal, proteger su confidencialidad, informar sobre su uso y acceso, y mantener medidas de seguridad.
+*   **Uso de Datos Anonimizados:** La compañía utiliza datos anonimizados para fines estadísticos, desarrollo de proyectos y mejora de servicios. También ha aportado datos agregados y anonimizados a autoridades para políticas públicas y emergencias.
+*   **Procedencia de los Datos:**
+    *   Directamente del titular al contratar servicios (identificación, contacto).
+    *   Datos comerciales por comportamiento contractual (equipos, planes, facturación, reclamos).
+    *   Datos originados por la prestación de servicios de telecomunicaciones.
+    *   Fuentes accesibles al público (conforme a normativa).
+*   **Propósito del Almacenamiento:**
+    *   Base normativa: Contrato de suministro de telecomunicaciones.
+    *   Finalidades: Prestación de servicios contratados y adecuada atención comercial.
+    *   Autorización para comunicaciones promocionales/publicitarias (con derecho de exclusión).
+    *   Uso de datos de fuentes públicas para marketing directo (conforme Ley 19.628 y opción de exclusión).
+    *   Se solicitará consentimiento para fines distintos a los señalados.
+*   **Transmisión y Cesión de Datos:**
+    *   Los datos se registran en bases de propiedad exclusiva de Movistar Chile.
+    *   No se comparten con ajenos a la compañía, salvo: autorización expresa del titular, orden judicial, requerimiento por normativa de telecomunicaciones o SUBTEL.
+    *   Pueden encomendar el tratamiento a proveedores de confianza bajo contrato, garantizando estándares de seguridad y cumplimiento normativo (encargados de tratamiento).
+*   **Modificaciones de la Política:** Cambios sustanciales serán comunicados vía web.
+*   **Vigencia:** Desde agosto de 2022.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley (Extractos Ley 19.628)**
+
+*   **Principio de Licitud y Lealtad (Art. 3° a):**
+    *   La política declara que tratará los datos "sólo en aquellos casos en que estemos habilitados por ley o contemos con el consentimiento previo del titular". Esto se alinea con el principio de licitud. ✅
+*   **Principio de Finalidad (Art. 3° b) y Obligaciones (b):**
+    *   La política especifica las finalidades de la recolección: prestación de servicios, atención comercial, y marketing (con matices). Declara que "los datos personales deben ser recolectados con fines específicos, explícitos y lícitos". ✅
+    *   Se compromete a solicitar consentimiento para fines distintos a los inicialmente informados. ✅
+    *   Indica que los datos se recogen de fuentes lícitas (directamente del titular, fuentes públicas según ley). ✅
+*   **Regla General del Tratamiento y Consentimiento (Art. 12):**
+    *   La política reconoce la necesidad de consentimiento o habilitación legal para el tratamiento. ✅
+    *   La política, al ser un documento público, busca informar al titular, contribuyendo al "consentimiento informado". ✅
+*   **Cesión de Datos Personales (Art. 15):**
+    *   La política establece que los datos no son compartidos "salvo que contemos con autorización expresa del titular del dato; o bien, que ello se ordene por resolución judicial... o se nos requiera por la normativa...". Esto cubre el consentimiento y la disposición legal como bases para la cesión. ✅
+    *   Distingue correctamente la cesión de la encomienda de tratamiento a proveedores, señalando que estos últimos actúan por cuenta del responsable y bajo contrato. ✅
+*   **Obligación de Informar (Obligaciones a):**
+    *   La política en sí misma es un esfuerzo por informar al titular sobre el tratamiento de sus datos. ✅
+    *   Menciona la facilitación de información sobre cómo se usan y almacenan los datos, y cómo acceder y corregirlos (vinculado a derechos ARCO). ✅
+*   **Seguridad de los Datos:**
+    *   La política menciona el compromiso de "Mantener todos los datos personales con las medidas de protección adecuadas, adoptando medidas organizativas, técnicas y de seguridad razonables". ✅
+
+**3. Identificación de Incumplimientos o Aspectos Débiles: Aspectos que No Cumplen o Podrían Mejorar Respecto a la Ley (Extractos Ley 19.628)**
+
+*   **Consentimiento Específico para Fines de Marketing (Art. 12):**
+    *   La política indica que "la Compañía se encuentra autorizada para utilizar los datos de contacto de los clientes para remitirles comunicaciones promocionales o publicitarias" basándose en "los contratos celebrados" y "condiciones contractuales". Si bien ofrece un mecanismo de exclusión (opt-out), el Art. 12 exige que el consentimiento sea "específico". Dependerá de si el contrato original detalla de forma clara y separada este fin y si el consentimiento fue otorgado específicamente para ello, y no como una condición general de adhesión. El uso de datos de fuentes públicas para marketing directo, aunque amparado en la Ley 19.628 (Art. 4 y 20), también podría requerir una mayor granularidad en el consentimiento bajo interpretaciones más recientes o la Ley 21.719. ❎
+*   **Información Expedita sobre Licitud del Tratamiento (Obligaciones a):**
+    *   La política informa de manera general, pero no detalla el procedimiento para que el titular solicite y obtenga de manera "expedita" los "antecedentes que acrediten la licitud del tratamiento". Si bien se mencionan los derechos ARCO, esta obligación específica podría requerir mayor claridad. ❎
+*   **Supresión o Anonimización de Datos Precontractuales (Obligaciones d):**
+    *   La política se centra en datos de clientes con contrato. No aborda explícitamente qué sucede con los datos personales obtenidos "para la ejecución de medidas precontractuales" (ej. cotizaciones, solicitudes no concretadas) y la obligación de suprimirlos o anonimizarlos si no se llega a un contrato. ❎
+*   **Comunicación de Cambios a Terceros Cesionarios (Referencia a "rectificación, supresión u oposición"):**
+    *   La ley indica que "cuando el responsable haya comunicado dichos datos a otras personas, deberá comunicar a éstas los cambios realizados en virtud de la rectificación, supresión u oposición". La política informa sobre el modo de acceder y corregir datos, pero no explicita este deber de comunicación de los cambios a los terceros a quienes se hayan cedido previamente los datos. ❎
+*   **Documentación de la Cesión (Art. 15):**
+    *   El Art. 15 establece que "La cesión de datos deberá constar por escrito o a través de cualquier medio" que permita acreditarla. La política no menciona cómo se documentan estas cesiones, aunque esto es más una obligación interna de procedimiento. No es un incumplimiento de la política en sí, pero es un requisito legal para el responsable. (Considerado neutral para la política, pero importante para la práctica).
+*   **Exactitud, Completitud y Actualidad en Cesiones (Obligaciones c):**
+    *   La política no menciona explícitamente el compromiso de que, al comunicar o ceder datos, estos serán exactos, completos y actuales, aunque se infiere de las buenas prácticas. ❎
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Consentimiento para Marketing:** Implementar mecanismos de consentimiento explícito (opt-in) para fines de marketing y publicidad, separados de la aceptación general del contrato de servicios. Esto es especialmente relevante si se considera el espíritu de normativas más recientes como la Ley 21.719.
+2.  **Clarificar Procedimiento de Información Expedita:** Detallar en la política o en una sección de derechos del titular cómo se puede solicitar y obtener de manera expedita la información que acredite la licitud del tratamiento.
+3.  **Gestión de Datos Precontractuales:** Incluir una sección que explique el tratamiento (y eventual supresión o anonimización) de los datos recolectados en fases precontractuales cuando no se formaliza el servicio.
+4.  **Comunicación de Modificaciones a Terceros:** Añadir una cláusula que indique que, en caso de rectificación, supresión u oposición de datos que hayan sido previamente cedidos, se comunicarán dichos cambios a los cesionarios correspondientes.
+5.  **Reforzar Compromiso con Calidad de Datos en Cesiones:** Mencionar explícitamente el compromiso de asegurar que los datos cedidos sean exactos, completos y actuales.
+6.  **Revisión Integral bajo Ley 21.719:** Aunque la evaluación se basa en la Ley 19.628, es crucial que Movistar Chile revise y actualice su política y prácticas para asegurar el pleno cumplimiento con todas las disposiciones de la Ley 21.719, que introduce mayores exigencias (ej. bases de licitud, evaluación de impacto, rol del Delegado de Protección de Datos, notificación de brechas, etc.).
+
+**5. Puntuación General de Cumplimiento (respecto a los extractos de Ley 19.628 proporcionados)**
+
+*   **Principios (Licitud, Lealtad, Finalidad):** ✅
+*   **Consentimiento del Titular (General y para fines específicos):** ❎ (Debilidad en la especificidad del consentimiento para marketing).
+*   **Obligaciones de Información al Titular:** ❎ (Falta claridad en información expedita sobre licitud y gestión de datos precontractuales).
+*   **Cesión de Datos Personales:** ✅ (Cubre las bases legales principales y distingue encargados).
+*   **Derechos de los Titulares (implícito en acceso, corrección, y comunicación de cambios):** ❎ (Falta la comunicación de cambios a terceros cesionarios).
+*   **Calidad de Datos en Cesión (Exactitud, etc.):** ❎ (No se menciona explícitamente).
+
+**6. Puntuación Total**
+
+Sumando los ✅ del total de secciones evaluadas: **2 / 6**
+
+**Conclusión General:**
+La política de privacidad de Movistar Chile demuestra un entendimiento de los principios básicos de la protección de datos según la Ley 19.628 y establece varios compromisos importantes. Cumple adecuadamente con la definición de finalidades generales, la licitud basada en contrato o consentimiento, y los requisitos para la cesión de datos.
+Sin embargo, presenta debilidades significativas en cuanto a la especificidad del consentimiento para fines de marketing, la información sobre la gestión de datos precontractuales, la comunicación expedita de la licitud del tratamiento, la comunicación de modificaciones de datos a terceros cesionarios y la mención explícita de la calidad de los datos en las cesiones.
+Es fundamental una revisión y actualización para abordar estos puntos y, de manera prioritaria, para alinearla completamente con las exigencias de la Ley 21.719, que representa el marco normativo vigente y más exigente en Chile.

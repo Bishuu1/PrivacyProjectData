@@ -1,0 +1,108 @@
+## Evaluación de la Política de Privacidad de AliExpress.com frente a la Ley 21.719 de Chile
+
+**Fecha de Evaluación:** 23 de mayo de 2024
+**Política Evaluada:** Política de Privacidad de AliExpress.com (Vigente a partir del 13 de agosto de 2024)
+**Legislación de Referencia:** Ley 21.719 sobre protección de datos personales de Chile (extractos proporcionados).
+
+### 1. Resumen de los Puntos Principales de la Política de Privacidad
+
+La política de privacidad de AliExpress.com detalla:
+*   **Entidad Responsable:** Identifica diferentes entidades responsables del tratamiento de datos según la ubicación del usuario. Para Chile (incluido en "otras ubicaciones"), la entidad responsable es Alibaba.com Singapore E-Commerce Private Limited.
+*   **Recopilación de Información (Sección A):** Describe las categorías de datos personales recopilados, distinguiendo entre:
+    *   Información facilitada directamente por el usuario (Comprador o Vendedor): datos de contacto, pago, compras, reclamaciones, identidad, comunicaciones, información comercial (vendedores), información de redes sociales (influencers), respuestas a cuestionarios.
+    *   Información recopilada indirectamente: actividad en la plataforma, uso de la plataforma (IP, dispositivo, navegador, ubicación geográfica general), información derivada, contenido de redes sociales, contactos de la plataforma.
+    *   Información recibida de terceros: perfiles de redes sociales, información sobre cumplimiento normativo.
+*   **Uso de Datos Personales (Sección B):** Enumera diversas finalidades, como verificación de cuentas, gestión de cuentas, atención al cliente, prestación de servicios de la plataforma (comunicación, transacciones, pagos, logística), asistencia aduanera, beneficios para miembros, verificación de identidad para postventa, seguridad de cuentas y operaciones, marketing personalizado, investigación y análisis.
+*   **Divulgación o Intercambio (Sección C):** Menciona la existencia de esta sección, pero no se proporciona su contenido.
+*   **Conservación (Sección D):** Menciona la existencia de esta sección, pero no se proporciona su contenido.
+*   **Derechos Relativos a los Datos Personales (Sección E):** Menciona la existencia de esta sección, pero no se proporciona su contenido.
+*   **Cookies (Sección F):** Menciona la existencia de esta sección.
+*   **Menores (Sección G):** Menciona la existencia de esta sección.
+*   **Medidas de Seguridad (Sección H):** Menciona la existencia de esta sección.
+*   **Transferencias Internacionales (Sección N):** Menciona la existencia de esta sección, pero no se proporciona su contenido.
+*   **Contacto (Sección P):** Indica que se proporcionan datos de contacto.
+*   **Secciones Específicas por Región:** Incluye apartados para el EEE, Reino Unido, EE. UU., Brasil y México, detallando fundamentos jurídicos y derechos específicos para algunas de estas jurisdicciones. Notablemente, no existe una sección específica para Chile.
+
+### 2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley
+
+Basado en los extractos de la Ley 21.719 proporcionados y la política de AliExpress:
+
+*   **Identificación del responsable de datos (Art. "Transparencia Duty" b)):** ✅
+    *   La política identifica a Alibaba.com Singapore E-Commerce Private Limited (con domicilio y número de registro) como la entidad responsable para usuarios en Chile ("otras ubicaciones").
+*   **Información de contacto para solicitudes de titulares (Art. "Transparencia Duty" c)):** ✅
+    *   La Sección P "CÓMO CONTACTAR CON NOSOTROS" indica que se proporcionan medios de contacto, lo cual se presume cumple con este requisito.
+*   **Categorías, clases o tipos de datos que trata (Art. "Transparencia Duty" d)):** ✅
+    *   La Sección A "RECOPILACIÓN DE INFORMACIÓN" detalla exhaustivamente las categorías de datos personales recopilados de Compradores y Vendedores.
+*   **Descripción genérica del universo de personas (Art. "Transparencia Duty" d)):** ✅
+    *   La política se dirige a "Compradores" y "Vendedores" de la plataforma AliExpress.com, lo que constituye una descripción del universo de personas.
+*   **Finalidades de los tratamientos (Art. "Transparencia Duty" d)):** ✅
+    *   La Sección B "USO DE DATOS PERSONALES" enumera detalladamente las finalidades para las cuales se utilizan los datos personales.
+*   **Fuente de la cual provienen los datos personales y si proceden de fuentes de acceso público (Art. "Information Duty" j)):** ✅
+    *   La Sección A distingue claramente entre información facilitada por el usuario, información recopilada indirectamente e "Información que recibimos de terceros", incluyendo "Datos de perfiles de redes sociales" que pueden incluir información de perfil público.
+
+### 3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley
+
+*   **Base de legitimidad del tratamiento para Chile (Art. "Transparencia Duty" d)):** ❎
+    *   La política especifica "Fundamentos jurídicos del tratamiento de datos" para el EEE, Reino Unido y Brasil, pero no lo hace para Chile (ni para "otras ubicaciones" de forma general). La Ley 21.719 exige que se informe la base de legitimidad.
+*   **Información sobre intereses legítimos (Art. "Transparencia Duty" d)):** ❎
+    *   Consecuencia de lo anterior, si no se especifica la base de legitimidad, tampoco se detallan cuáles serían los intereses legítimos en caso de que esta fuera la base invocada.
+*   **Información sobre transferencias internacionales y garantías (Art. "Information Duty" - primer bloque):** ❎
+    *   Aunque existe una Sección N "TRANSFERENCIAS INTERNACIONALES DE DATOS PERSONALES", su contenido no fue proporcionado. La ley chilena exige informar si los países destinatarios cuentan con un nivel adecuado de protección y, en caso contrario, si existen garantías que justifiquen la transferencia. Sin el contenido de la Sección N, no se puede verificar este cumplimiento. Dada la falta de especificidad para Chile en otros puntos cruciales, es probable que esta información también sea genérica o insuficiente.
+*   **Período durante el que se conservarán los datos personales (Art. "Information Duty" i)):** ❎
+    *   Existe una Sección D "CONSERVACIÓN", pero su contenido no fue proporcionado. La ley exige informar el período de conservación. Sin el contenido específico, no se puede verificar si se cumple con la obligación de informar un período determinado o los criterios para determinarlo.
+*   **Derecho a retirar el consentimiento (Art. "Information Duty" k)):** ❎
+    *   Si bien existe una Sección E "DERECHOS RELATIVOS A LOS DATOS PERSONALES", su contenido no fue proporcionado. Más importante aún, como no se especifica el consentimiento como base de legitimidad para Chile, la información sobre el derecho a retirarlo (y sus consecuencias) queda en el aire. La ley exige informar sobre este derecho cuando el tratamiento se basa en el consentimiento.
+*   **Existencia de decisiones automatizadas, incluida la elaboración de perfiles, lógica aplicada y consecuencias (Art. "Information Duty" l)):** ❎
+    *   La Sección B menciona "enviar y proporcionar material publicitario y de marketing personalizado... a partir del uso que hace de la Plataforma, de sus registros de navegación y de su historial de pedidos", lo cual constituye elaboración de perfiles. Sin embargo, la política no proporciona "información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular", como exige la ley.
+*   **Información específica sobre datos de geolocalización (Art. 16 sexies):** ❎
+    *   La Sección A menciona la recopilación de "ubicación geográfica general (por ejemplo, país o ciudad)". Sin embargo, el Art. 16 sexies exige informar de manera "clara, suficiente y oportuna, del tipo de datos de geolocalización que serán tratados, de la finalidad y duración del tratamiento y si los datos se comunicarán o cederán a un tercero para la prestación de un servicio con valor añadido". La información proporcionada es demasiado genérica y no cumple con estos requisitos específicos.
+*   **Identificación del representante legal y encargado de prevención (si existiere) para Chile (Art. "Transparencia Duty" b)):** ❎
+    *   Si bien se identifica al responsable (Alibaba.com Singapore E-Commerce Private Limited), no se menciona a su representante legal en Chile (si aplica según el ámbito territorial de la ley) ni a un "encargado de prevención" (equivalente a un Delegado de Protección de Datos) específico o contactable para usuarios chilenos.
+*   **Derecho de portabilidad (Art. "Data Portability"):** ❎
+    *   La existencia de una Sección E "DERECHOS RELATIVOS A LOS DATOS PERSONALES" sugiere que podría mencionarse, pero su contenido no fue proporcionado. La ley chilena establece este derecho y la política debería informarlo claramente.
+*   **Privacidad desde el diseño y por defecto (Art. 14 quáter):** ❎
+    *   La política no hace mención explícita a la adopción de medidas para cumplir con los principios de protección de datos desde el diseño y por defecto, aunque la Sección H "MEDIDAS DE SEGURIDAD" (contenido no provisto) podría tangencialmente relacionarse. Este es un principio fundamental de la nueva ley.
+*   **Destinatarios a los que se prevé comunicar o ceder los datos (Art. "Transparencia Duty" d)):** ❎
+    *   Existe una Sección C "DIVULGACIÓN O INTERCAMBIO DE DATOS PERSONALES", pero su contenido no fue proporcionado. Sin este, no se puede verificar si se informa adecuadamente sobre los destinatarios o categorías de destinatarios.
+
+### 4. Recomendaciones para Mejorar el Cumplimiento
+
+1.  **Sección Específica para Chile:** Crear una sección o anexo específico para usuarios en Chile que aborde los requisitos de la Ley 21.719 de manera explícita.
+2.  **Base de Legitimidad:** Identificar y declarar claramente la(s) base(s) de legitimidad para cada finalidad del tratamiento de datos de usuarios chilenos, conforme al Art. 12 o 13 de la Ley 21.719 (no provistos en el extracto, pero fundamentales). Si se invoca el interés legítimo, detallarlo.
+3.  **Transferencias Internacionales:** En la Sección N, o en la sección para Chile, detallar los países a los que se transfieren datos, si cuentan con niveles adecuados de protección según la autoridad chilena, y las garantías específicas aplicadas (ej. cláusulas contractuales tipo, normas corporativas vinculantes) si no existe adecuación.
+4.  **Período de Conservación:** En la Sección D, o en la sección para Chile, especificar los períodos de conservación de los datos personales o los criterios utilizados para determinar dichos períodos para cada categoría de datos y finalidad.
+5.  **Derechos de los Titulares:** En la Sección E, o en la sección para Chile:
+    *   Detallar explícitamente todos los derechos de los titulares según la ley chilena, incluyendo acceso, rectificación, cancelación (supresión), oposición, limitación y portabilidad.
+    *   Si el consentimiento es una base de legitimidad utilizada, informar claramente el derecho a retirarlo en cualquier momento, sin que ello afecte la licitud del tratamiento previo, y el procedimiento para hacerlo.
+6.  **Decisiones Automatizadas y Perfiles:** Ampliar la información sobre la elaboración de perfiles para marketing personalizado, explicando la lógica fundamental aplicada (sin revelar secretos comerciales) y las consecuencias significativas que dicho perfilamiento puede tener para el titular.
+7.  **Datos de Geolocalización:** Si se tratan datos de geolocalización más allá de "país o ciudad" (ej. datos precisos para servicios de entrega), proporcionar la información detallada que exige el Art. 16 sexies (tipo exacto, finalidad específica, duración y si se ceden a terceros para servicios de valor añadido).
+8.  **Representante y Encargado de Prevención:** Designar y comunicar la identidad y datos de contacto de un representante legal en Chile si la empresa cae bajo el ámbito de aplicación extraterritorial que lo requiera, y de un Encargado de Prevención (DPO) o un punto de contacto específico para asuntos de privacidad para los usuarios chilenos.
+9.  **Privacidad desde el Diseño y por Defecto:** Incluir una declaración sobre el compromiso de la empresa con los principios de privacidad desde el diseño y por defecto, y cómo se implementan.
+10. **Destinatarios de Datos:** En la Sección C, detallar las categorías de terceros a los que se comunican o ceden los datos personales (ej. proveedores de pago, empresas de logística, socios de marketing, autoridades).
+
+### 5. Puntuación General de Cumplimiento
+
+*   Identificación del responsable (Art. "Transparencia Duty" b)): ✅
+*   Información de contacto (Art. "Transparencia Duty" c)): ✅
+*   Categorías de datos tratados (Art. "Transparencia Duty" d)): ✅
+*   Finalidades del tratamiento (Art. "Transparencia Duty" d)): ✅
+*   Base de legitimidad del tratamiento (Art. "Transparencia Duty" d)): ❎
+*   Destinatarios o categorías de destinatarios (Art. "Transparencia Duty" d)): ❎ (Contenido de Sección C no provisto)
+*   Transferencias internacionales e información sobre garantías (Art. "Information Duty" - primer bloque): ❎ (Contenido de Sección N no provisto y falta de especificidad para Chile)
+*   Plazo de conservación (Art. "Information Duty" i)): ❎ (Contenido de Sección D no provisto)
+*   Fuente de los datos (Art. "Information Duty" j)): ✅
+*   Derecho a retirar el consentimiento (Art. "Information Duty" k)): ❎ (Contenido de Sección E no provisto y falta de base de consentimiento clara para Chile)
+*   Decisiones automatizadas y perfiles (lógica y consecuencias) (Art. "Information Duty" l)): ❎
+*   Datos de geolocalización (información específica Art. 16 sexies): ❎
+*   Derecho de portabilidad (Art. "Data Portability"): ❎ (Contenido de Sección E no provisto)
+*   Privacidad desde el diseño y por defecto (Art. 14 quáter): ❎
+*   Identificación del representante legal / encargado de prevención para Chile (Art. "Transparencia Duty" b)): ❎
+
+### 6. Puntuación Total
+
+✅: 5
+❎: 10
+
+**Puntuación Total: 5 / 15**
+
+**Conclusión:** La política de privacidad de AliExpress.com, en su forma actual y con la información proporcionada, presenta deficiencias significativas para cumplir con los requisitos específicos de la Ley 21.719 de Chile. Aunque cumple con aspectos básicos de transparencia como la identificación del responsable y las finalidades generales, carece de elementos cruciales como la especificación de la base legal para el tratamiento de datos de usuarios chilenos, información detallada sobre conservación, transferencias internacionales con garantías, y detalles sobre decisiones automatizadas y derechos específicos conforme a la nueva ley chilena. Se requieren adaptaciones sustanciales para asegurar el cumplimiento.

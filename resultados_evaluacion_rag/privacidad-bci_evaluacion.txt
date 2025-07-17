@@ -1,0 +1,92 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE BANCO DE CRÉDITO E INVERSIONES (Bci) FRENTE A LA LEY DE PROTECCIÓN DE DATOS PERSONALES DE CHILE**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La Política de Privacidad de Bci establece cómo la entidad trata y protege los datos personales de sus clientes, interesados en productos/servicios y usuarios. Sus puntos clave son:
+
+*   **Alcance:** Aplica al tratamiento de datos realizado por Bci, excluyendo sitios de terceros.
+*   **Marco Legal:** Declara conformidad con la Ley 19.628 y normativas relacionadas.
+*   **Definiciones:** Proporciona definiciones para términos clave como datos personales, datos sensibles, consentimiento, empresa relacionada, encargado del tratamiento, filiales, responsable del tratamiento, titular de datos, transferencia y transmisión de datos, y tratamiento de datos.
+*   **Responsable del Tratamiento:** Identifica a Banco de Crédito e Inversiones S.A. (RUT, representante legal, domicilio y correo electrónico de contacto).
+*   **Principios del Tratamiento:** Adhiere a principios de proporcionalidad, legitimidad, seguridad (con referencia a una política de seguridad externa) y calidad.
+*   **Licitud del Tratamiento:** Fundamenta el tratamiento en el consentimiento expreso del titular y/o en la ley.
+*   **Obtención de Datos:** Detalla canales de obtención (contacto directo, transacciones, bases de acceso público, bases con autorización previa para compartir). Menciona tipos de datos (identificación, contactabilidad, comerciales, económicos, financieros, transaccionales, biométricos, geolocalización, hábitos personales, salud para pólizas).
+*   **Finalidades del Tratamiento:** Especifica finalidades agrupadas en:
+    *   **Ámbito Comercial:** Prestación de servicios, confirmación/actualización de información, oferta de productos/servicios propios y de filiales/relacionadas, perfilamiento comercial, mejora de calidad, validación de identidad, análisis e investigaciones.
+    *   **Cobranza:** Gestión de cobranza (directa o por terceros), comunicación de deudas a registros.
+    *   **Ámbito Informativo:** Envío de información comercial, legal, de seguridad, ofertas, encuestas.
+    *   **Gestión del Riesgo:** Análisis de comportamiento financiero, gestión de riesgo crediticio/operacional, prevención de lavado de activos y fraudes, consulta en bases de libre acceso.
+*   **Vigencia del Tratamiento:** Por el tiempo que establece la normativa y/o sea necesario para las finalidades, incluso post-contractual para fines comerciales (salvo manifestación en contrario).
+*   **Filiales:** Lista filiales en Chile y en el extranjero (City National Bank of Florida, Bci Securities, Inc., Banco Bci Perú S.A.).
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+Basado en los extractos de la Ley 19.628 proporcionados (que son la base para esta evaluación, aunque se menciona la Ley 21.719, la cual es más reciente y derogará/modificará la 19.628):
+
+*   **Artículo 13.b) (parcialmente):**
+    *   ✅ Se individualiza al responsable de datos (Banco de Crédito e Inversiones S.A., con RUT).
+    *   ✅ Se individualiza al representante legal (Eugenio Von Chrismar Carvajal).
+*   **Artículo 13.c):**
+    *   ✅ Se indica el domicilio postal (Avda. El Golf N° 125, Las Condes).
+    *   ✅ Se indica la dirección de correo electrónico de contacto (privacidad@bci.cl).
+*   **Artículo 13.d) (parcialmente):**
+    *   ✅ Se describen las categorías, clases o tipos de datos que trata (identificación, contactabilidad, comerciales, económicos, financieros, transaccionales, biométricos, geolocalización, hábitos personales, datos de salud).
+    *   ✅ Se realiza una descripción genérica del universo de personas ("clientes, interesados en productos o servicios que ofrezca Bci y/o usuarios").
+    *   ✅ Se mencionan los destinatarios a los que se prevé comunicar o ceder los datos (filiales, empresas relacionadas, terceros para cobranza, autoridades, reguladores, empresas de análisis de riesgo, registros de deudas).
+    *   ✅ Se detallan las finalidades de los tratamientos que realiza (secciones Ámbito Comercial, Cobranza, Ámbito Informativo, Gestión del Riesgo).
+    *   ✅ Se indica la base de legitimidad del tratamiento de forma general ("consentimiento expreso... y/o en la ley").
+*   **Artículo 13.e):**
+    *   ✅ Se menciona la política y las medidas de seguridad adoptadas, refiriendo a una "Política de Seguridad" publicada en un enlace web específico.
+*   **Principios (Artículo 3°):**
+    *   ✅ La política declara adhesión a principios de licitud/legitimidad y finalidad, y describe cómo Bci busca cumplirlos.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+*   **Artículo 13.a):**
+    *   ❎ No se indica explícitamente la "versión" de la política de privacidad ni una fecha de última actualización visible en el texto proporcionado, lo cual es fundamental para la trazabilidad.
+*   **Artículo 13.b):**
+    *   ❎ No se menciona la identificación del "encargado de prevención, si existiere" (figura análoga al Delegado de Protección de Datos).
+*   **Artículo 13.d):**
+    *   ❎ Aunque se menciona la base de legitimidad de forma general ("consentimiento y/o ley"), no se especifica para cada finalidad concreta cuál es la base de legitimidad aplicable.
+    *   ❎ En caso de tratamientos que se basan en la satisfacción de intereses legítimos, no se especifica "cuáles serían éstos" de forma clara y diferenciada para cada tratamiento que use esta base.
+*   **Artículo 13.f):**
+    *   ❎ No se informa explícitamente sobre el derecho que le asiste al titular para solicitar ante el responsable, acceso, rectificación, supresión, oposición y portabilidad de sus datos personales, de conformidad a la ley. Esta es una omisión crítica.
+*   **Artículo 13.g):**
+    *   ❎ No se informa sobre el derecho que le asiste al titular de recurrir ante la Agencia (Agencia de Protección de Datos Personales), en caso de que el responsable rechace o no responda oportunamente las solicitudes.
+*   **Artículo 13.h):**
+    *   ❎ Si bien se mencionan filiales en el extranjero (EE.UU. y Perú), lo que implica transferencia internacional de datos, no se informa si estos terceros países u organizaciones internacionales "ofrecen o no un nivel adecuado de protección". Tampoco se informa si "existen garantías que justifiquen tal transferencia" en caso de no contar con nivel adecuado.
+*   **Obligaciones del Responsable (Artículo 12):**
+    *   ❎ **Artículo 12.d):** No se menciona explícitamente la obligación de "suprimir o anonimizar los datos personales del titular cuando fueron obtenidos para la ejecución de medidas precontractuales" si el contrato no se perfecciona.
+*   **Cesión de Datos (Artículo 15):**
+    *   ❎ Aunque se mencionan cesiones, la política no detalla explícitamente que "En caso de que el consentimiento otorgado por el titular al momento de realizarse la recolección de los datos personales no haya considerado la cesión de los mismos, éste debe recabarse antes que se produzca".
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Versión y Actualización:** Incluir un número de versión y la fecha de última actualización de la política de manera visible.
+2.  **Encargado de Prevención:** Si existe un Encargado de Prevención (o Delegado de Protección de Datos), identificarlo claramente con sus datos de contacto.
+3.  **Base de Legitimidad Específica:** Para cada finalidad de tratamiento, especificar claramente la base de legitimidad que la sustenta (consentimiento, ejecución de contrato, obligación legal, interés vital, interés público o interés legítimo).
+4.  **Detalle de Intereses Legítimos:** Si se invoca el interés legítimo como base para algún tratamiento, detallar explícitamente cuáles son esos intereses legítimos perseguidos por Bci o un tercero.
+5.  **Derechos de los Titulares (ARCO-P):** Incorporar una sección detallada que informe a los titulares sobre sus derechos de Acceso, Rectificación, Cancelación (Supresión), Oposición y Portabilidad, y el procedimiento para ejercerlos ante Bci.
+6.  **Derecho a Reclamar ante la Agencia:** Informar explícitamente a los titulares sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales si sus solicitudes no son atendidas o son rechazadas.
+7.  **Transferencias Internacionales:**
+    *   Identificar los países a los que se transfieren datos.
+    *   Declarar si dichos países cuentan con un nivel adecuado de protección de datos según la normativa chilena o las directrices de la Agencia.
+    *   En caso de no contar con nivel adecuado, especificar las garantías adoptadas para justificar la transferencia (ej. cláusulas contractuales tipo, normas corporativas vinculantes, consentimiento explícito para la transferencia específica tras ser informado de los riesgos, etc.).
+8.  **Datos Precontractuales:** Incluir una mención a la supresión o anonimización de datos obtenidos en fases precontractuales si el contrato no llega a celebrarse, conforme al Artículo 12.d).
+9.  **Consentimiento para Cesión:** Aclarar el procedimiento para obtener consentimiento para cesiones no previstas inicialmente, conforme al Artículo 15.
+10. **Actualización a Ley 21.719:** Aunque la evaluación se basa en los artículos provistos de la Ley 19.628, es crucial que Bci revise y actualice integralmente su política para alinearse con todos los requisitos de la Ley 21.719, que moderniza y eleva los estándares de protección de datos en Chile.
+
+**5. Puntuación general de cumplimiento (basado en los artículos de la Ley 19.628 proporcionados)**
+
+*   **a) Versión de la misma:** ❎
+*   **b) Individualización del responsable, representante legal y encargado de prevención:** ❎ (Falta encargado de prevención)
+*   **c) Domicilio postal y contacto electrónico:** ✅
+*   **d) Categorías, universo, destinatarios, finalidades, base de legitimidad, intereses legítimos:** ❎ (Deficiente en especificidad de base de legitimidad e intereses legítimos)
+*   **e) Política y medidas de seguridad:** ✅ (Por referencia)
+*   **f) Derecho ARCO-P:** ❎
+*   **g) Derecho a recurrir ante la Agencia:** ❎
+*   **h) Transferencia internacional y nivel de protección/garantías:** ❎
+
+**6. Puntuación total:**
+
+✅✅ (2 de 8 secciones principales evaluadas cumplen satisfactoriamente)

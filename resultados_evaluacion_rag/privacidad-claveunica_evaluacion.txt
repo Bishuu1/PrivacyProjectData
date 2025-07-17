@@ -1,0 +1,75 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE LA SECRETARÍA DE GOBIERNO DIGITAL (SGD) FRENTE A LA LEY DE PROTECCIÓN DE DATOS PERSONALES DE CHILE**
+
+**Introducción:**
+La presente evaluación analiza la "Política de privacidad de servicios compartidos y sitios WEB" de la Secretaría de Gobierno Digital (SGD), con fecha de consulta 2 de marzo de 2025 (según pie de página del documento), en relación con las disposiciones de la Ley sobre Protección de Datos Personales en Chile. Si bien el prompt menciona la Ley 21.719, los extractos legales proporcionados y la propia política de privacidad hacen referencia a la Ley 19.628. La Ley 21.719, que moderniza la legislación de protección de datos y crea la Agencia Nacional de Protección de Datos, establece un marco más robusto. Esta evaluación se realizará considerando los extractos de la Ley 19.628 proporcionados, pero señalando las brechas respecto a los estándares modernos que la Ley 21.719 busca implementar.
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+*   **Objetivos:** Garantizar el derecho constitucional a la protección de la vida privada y datos personales (Art. 19 N°4 Constitución), cumplir con el deber de declarar una política de privacidad, informar sobre la recolección y tratamiento de datos, informar sobre derechos de los titulares y fomentar la cultura de datos.
+*   **Alcance:** General para todas las páginas web de la SGD, salvo indicación expresa.
+*   **Fines del tratamiento:** Medición y análisis de uso de plataformas, mejora de calidad y usabilidad, prestación de servicios públicos digitales, intercambio de datos con otros órganos del Estado, análisis de seguridad y monitoreo de usos indebidos.
+*   **Base legal del tratamiento:** Principalmente el Artículo 20 de la Ley N° 19.628 (tratamiento por órganos públicos en el ámbito de sus competencias sin requerir consentimiento) y las competencias de la SGD según la Ley N° 21.658. Se menciona la interoperabilidad como un deber y derecho, con base en diversas normativas (Ley 19.880, Ley 18.575, Ley 19.628).
+*   **Mecanismos de captura de datos:**
+    *   **Automáticos:** Para patrones de actividad, tráfico, geolocalización (país y ciudad), usabilidad. Se indica que los datos se recopilan de manera disociada y se anonimizan IPs.
+    *   **Manuales:** Mediante solicitud expresa al titular (ClaveÚnica, formularios de trámites, Mesa de Ayuda, etc.).
+*   **Acceso y almacenamiento:** Acceso limitado internamente. No transmisión a terceros salvo excepciones legales, orden judicial o lo establecido en la política. Uso de bases de datos propias, dispositivos físicos y servicios en la nube (información de proveedores en Mercado Público).
+*   **Colaboración con otros organismos:** Comunicación de información estadística elaborada, comunicación de datos personales a otros órganos del Estado si es estrictamente necesario para sus competencias (Art. 20 Ley 19.628), y comunicación de información estadística disociada a terceros.
+*   **Derechos del titular:** Solicitar información sobre sus datos, su procedencia, destinatario, propósito del almacenamiento e individualización de receptores; solicitar rectificación o modificación; solicitar eliminación o cancelación (si procede); solicitar información sobre los bancos de datos. Se requiere acreditación de identidad.
+*   **Mecanismos de contacto:** Mesa de Ayuda o Solicitud de Transparencia.
+*   **Cambios a la política:** Se actualizará cuando sea necesario, comunicando cambios significativos.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley (considerando los extractos de la Ley 19.628 y principios generales)**
+
+*   ✅ **Declaración de finalidad y base legal para órganos públicos:** La política establece claramente los fines para los cuales la SGD trata datos personales (Sección 2.1) y fundamenta su actuar en el Artículo 20 de la Ley 19.628, que permite a los órganos públicos tratar datos sin consentimiento para el cumplimiento de sus funciones legales (Sección 2.2).
+*   ✅ **Tratamiento para funciones legales:** Los fines declarados (ej. prestar servicios públicos, interoperabilidad, mejorar la gestión) se enmarcan dentro de las competencias legales de un organismo como la SGD.
+*   ✅ **Interoperabilidad y cesión entre órganos públicos:** La política aborda la interoperabilidad (Sección 2.2.1) y la comunicación de datos a otros órganos del Estado (Sección 3.1), indicando que se realiza para el ejercicio de competencias y citando el Art. 20 de la Ley 19.628, lo cual es coherente con los extractos legales que permiten la cesión entre órganos públicos para el cumplimiento de funciones legales.
+*   ✅ **Reconocimiento de derechos del titular (parcial):** La política reconoce varios derechos de los titulares (Sección 4), como el acceso a la información sobre sus datos, la rectificación y la supresión (cancelación), lo cual está alineado con los derechos básicos de protección de datos.
+*   ✅ **Mecanismos de ejercicio de derechos:** Se indican canales para que los titulares ejerzan sus derechos (Sección 4 y 5), como formularios o la Mesa de Ayuda.
+*   ✅ **Información sobre mecanismos de recolección:** Se distinguen mecanismos automáticos y manuales, y se describe el tipo de datos recolectados y su propósito general (Sección 2.3).
+*   ✅ **Medidas de disociación en recolección automática:** Se declara que en la recolección automática de datos de navegación, estos se registran de manera disociada y se anonimizan las direcciones IP (Sección 2.3.1), lo cual es una buena práctica.
+
+**3. Identificación de incumplimientos o áreas de mejora (considerando los extractos de la Ley 19.628 y los estándares de la Ley 21.719)**
+
+*   ❎ **Referencia a la Ley 21.719:** La política se basa fundamentalmente en la Ley 19.628. Si bien la Ley 21.719 aún tiene aspectos pendientes de implementación total, es el marco legal vigente y modernizado. La política debería actualizarse para reflejar íntegramente los principios, derechos y obligaciones de la Ley 21.719.
+*   ❎ **Derechos del titular incompletos:**
+    *   No se menciona explícitamente el **derecho de oposición** al tratamiento de los datos personales, un derecho fundamental reconocido.
+    *   No se menciona el **derecho a la portabilidad** de los datos personales, introducido por normativas modernas como la Ley 21.719.
+*   ❎ **Información sobre la Agencia de Protección de Datos:** La política no informa al titular sobre su derecho a recurrir ante la Agencia Nacional de Protección de Datos en caso de que el responsable rechace o no responda oportunamente sus solicitudes (como lo requeriría el espíritu del Art. 13 letra g) de la Ley 21.719, reflejado en los extractos).
+*   ❎ **Detalle sobre políticas y medidas de seguridad:** Aunque se menciona la seguridad de forma general ("acceso limitado", "respetando la seguridad y privacidad"), no se describe con suficiente detalle "la política y las medidas de seguridad adoptadas para proteger las bases de datos personales que administra" (como lo requeriría el espíritu del Art. 13 letra e) de la Ley 21.719, reflejado en los extractos). Se limita a decir que la información sobre proveedores de nube está en Mercado Público.
+*   ❎ **Información sobre transferencias internacionales de datos:** La política menciona el uso de servicios de almacenamiento en la Nube (Sección 3) y que se publicará enlace a políticas de proveedores. Sin embargo, no especifica si esto implica transferencias a terceros países, si estos ofrecen un nivel adecuado de protección, o, en caso contrario, las garantías que justifican tal transferencia (como lo requeriría el espíritu del Art. 13 letra h) de la Ley 21.719, reflejado en los extractos).
+*   ❎ **Plazos de conservación de los datos:** La política no especifica los plazos durante los cuales los datos personales serán conservados para las distintas finalidades, un elemento clave del principio de limitación del plazo de conservación.
+*   ❎ **Explicitación de todos los principios rectores:** Si bien se actúa conforme a algunos principios, la política no enuncia ni detalla la adhesión a todos los principios rectores de la protección de datos establecidos en la Ley (ej. licitud, lealtad, transparencia, minimización de datos, exactitud, integridad, responsabilidad proactiva), más allá de la finalidad y la base legal.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Actualizar la base legal:** Revisar y actualizar toda la política para alinearla explícitamente con la Ley 21.719, sus principios, derechos y obligaciones.
+2.  **Completar los derechos del titular:** Incluir de forma expresa el derecho de oposición y el derecho a la portabilidad de los datos personales.
+3.  **Informar sobre la Agencia:** Añadir información sobre el derecho de los titulares a recurrir ante la Agencia Nacional de Protección de Datos.
+4.  **Detallar las medidas de seguridad:** Describir de manera más específica las medidas técnicas y organizativas implementadas para garantizar la seguridad de los datos personales que administra la SGD, más allá de la referencia a Mercado Público.
+5.  **Clarificar las transferencias internacionales:** Especificar si se realizan transferencias internacionales de datos. En caso afirmativo, indicar los países de destino, si cuentan con un nivel adecuado de protección y, de no ser así, las garantías adoptadas (ej. cláusulas contractuales tipo, normas corporativas vinculantes si aplicase).
+6.  **Establecer plazos de conservación:** Definir y comunicar los criterios utilizados para determinar los plazos de conservación de los datos personales para cada una de las finalidades del tratamiento, o los plazos exactos si es posible.
+7.  **Incorporar explícitamente los principios:** Mencionar y explicar brevemente cómo la SGD adhiere a todos los principios de protección de datos establecidos en la Ley 21.719 (licitud, lealtad, transparencia, finalidad específica, minimización, exactitud, limitación del plazo de conservación, integridad y confidencialidad, y responsabilidad proactiva).
+8.  **Delegado de Protección de Datos (DPO):** Evaluar la necesidad de designar un DPO conforme a la Ley 21.719 y, en caso afirmativo, informar sus datos de contacto en la política.
+
+**5. Puntuación general de cumplimiento (evaluando aspectos clave frente a los extractos legales y principios modernos)**
+
+*   **A. Información al Titular y Derechos (Art. 13 Ley 21.719 / p.11 extracto Ley 19.628):**
+    *   Identificación del responsable y fines: ✅
+    *   Base jurídica del tratamiento (para órgano público): ✅
+    *   Derechos del titular (Acceso, Rectificación, Supresión): ✅
+    *   Derecho de Oposición: ❎
+    *   Derecho de Portabilidad: ❎
+    *   Derecho a recurrir ante la Agencia: ❎
+    *   Política y medidas de seguridad (detalle suficiente): ❎
+    *   Transferencias internacionales (información adecuada y garantías): ❎
+*   **B. Tratamiento por Órganos Públicos (Art. 20 Ley 19.628):** ✅
+*   **C. Cesión de Datos Personales (Art. 15 y p.21 extracto Ley 19.628):** ✅ (Para los supuestos cubiertos por la política)
+*   **D. Adhesión a Principios Generales de Protección de Datos (Art. 3 Ley 19.628 / Art. relevantes Ley 21.719):** ❎ (Falta explicitación y detalle en varios, como limitación de plazo, minimización).
+*   **E. Actualización y Concordancia con Ley 21.719 (Marco general):** ❎
+
+**6. Puntuación total**
+
+Sumando los ✅ del desglose anterior (Sección 5): **5 / 10**
+
+**Conclusión:**
+La política de privacidad de la SGD establece una base adecuada en cuanto al tratamiento de datos por un órgano público bajo la Ley 19.628, especialmente en lo referente a la legitimidad del tratamiento para el cumplimiento de sus funciones. Sin embargo, presenta carencias significativas al ser contrastada con los estándares más exigentes de la Ley 21.719 y los propios extractos proporcionados que apuntan a una mayor transparencia e información al titular (como el detalle de medidas de seguridad o información sobre transferencias internacionales). La ausencia de mención a derechos como la oposición y portabilidad, la falta de información sobre la Agencia de Protección de Datos y la necesidad de mayor detalle en aspectos cruciales como la seguridad y las transferencias internacionales, son puntos críticos a mejorar para alcanzar un pleno cumplimiento con el marco normativo actual y las mejores prácticas en protección de datos.

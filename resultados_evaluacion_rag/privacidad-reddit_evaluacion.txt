@@ -1,0 +1,88 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE REDDIT FRENTE A LA LEY 21.719 DE CHILE**
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad de Reddit (según el texto proporcionado)**
+
+La política de privacidad de Reddit, con fecha de entrada en vigor el 16 de agosto de 2024, destaca los siguientes aspectos:
+
+*   **Plataforma Pública:** Enfatiza que Reddit es una plataforma pública donde perfiles, publicaciones y comentarios son visibles para cualquier persona.
+*   **Recopilación Mínima de Datos:** Afirma recopilar un mínimo de información identificable por defecto, permitiendo la navegación sin cuenta y la creación de cuentas sin nombre real o ubicación exacta.
+*   **Uso de Datos para Mejorar el Servicio:** Declara que los datos se usan principalmente para proporcionar y mejorar los servicios de Reddit, centrados en la formación de comunidades.
+*   **No Venta de Datos Personales:** Asegura no vender datos personales a terceros ni trabajar con intermediarios de datos.
+*   **Derechos de Privacidad Globales:** Sostiene que todos los usuarios tienen derechos de privacidad, como solicitar copia de datos, eliminación de cuenta o información sobre políticas.
+*   **Tipos de Información Recopilada:**
+    *   **Proporcionada por el usuario:** Información de cuenta (nombre de usuario, contraseña opcional, intereses opcionales, biografía, género, edad, ubicación, foto), contenido no público (borradores, mensajes privados, reportes), acciones (votos, guardados, interacciones con usuarios/comunidades), información de transacciones (gestionada por procesadores externos como Stripe, datos de blockchain para avatares coleccionables).
+    *   **Recopilada automáticamente:** Datos de registro y uso (IP – borrada tras 100 días excepto la de creación de cuenta, agente de usuario, navegador, SO, URLs, ID de dispositivo), cookies y tecnologías similares (para funcionamiento, mejora, personalización, publicidad), información de ubicación (compartida por el usuario o inferida por IP).
+    *   **Recopilada de otras fuentes:** De otros usuarios, terceros (anunciantes), servicios vinculados (SSO, apps de terceros), integraciones (embeds, tecnología publicitaria en sitios de terceros).
+*   **Contenido Incrustado:** Menciona que contenido de terceros (ej. YouTube, X) puede cargarse dentro de Reddit.
+
+**Limitación Importante:** La evaluación se basa únicamente en las secciones de la política de privacidad de Reddit proporcionadas. Secciones cruciales como "Cómo utilizamos la información" (detallando finalidades y bases legales), "Cómo compartimos tu información" (detallando destinatarios), "Cómo protegemos tu información" (medidas de seguridad), "Sus derechos y opciones" (ejercicio de derechos ARSOP), y "Transferencias internacionales de datos" (detalles sobre adecuación y garantías) están listadas en el índice pero su contenido no fue facilitado. Esta ausencia impacta significativamente la evaluación de cumplimiento.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley (basado en el texto proporcionado)**
+
+*   **Identificación del Responsable:** Se identifica como "Reddit ('Reddit', 'nosotros' o 'nuestro')". Se menciona "Contáctanos", lo que sugiere que los datos de contacto están disponibles, aunque no detallados en el extracto. (Cumple parcialmente con el espíritu del Art. 14 letra a) de la Ley 19.628, que se espera sea similar en la Ley 21.719).
+*   **Fuente de los Datos Personales:** Se detalla la fuente de los datos: proporcionados por el usuario, recopilados automáticamente y de otras fuentes. Se menciona la naturaleza pública de gran parte de la información generada en la plataforma. (Cumple con Art. [equivalente a 19.628 Art. 14 letra j]).
+*   **Principio de Minimización (implícito en Protección desde el Diseño):** La política declara "Recopilamos un mínimo de información que puede utilizarse para identificarle por defecto". (Se alinea con el espíritu del Art. 14 quáter).
+*   **Información sobre Geolocalización:** Se informa que se puede recibir y procesar información de ubicación, ya sea compartida por el usuario o inferida por IP. (Cumple parcialmente con Art. 16 sexies, al informar el tipo de dato).
+*   **Periodo de Conservación (parcial):** Se especifica que "Reddit borrará cualquier dirección IP recopilada después de 100 días", a excepción de la IP usada para crear la cuenta. (Cumple parcialmente con Art. [equivalente a 19.628 Art. 14 letra i] para un tipo de dato específico).
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley (basado en el texto proporcionado y las omisiones)**
+
+Dada la ausencia de secciones clave de la política, muchos requisitos de la Ley 21.719 no pueden verificarse como cumplidos y, por tanto, se consideran incumplimientos potenciales o confirmados:
+
+*   **Finalidades Específicas y Base Jurídica del Tratamiento:** Aunque se mencionan finalidades generales ("proporcionar nuestros servicios", "mejorar tu experiencia"), no se detallan las finalidades específicas para cada tipo de dato recopilado ni se establece explícitamente la base jurídica para cada tratamiento (consentimiento, interés legítimo, etc.). Si se basa en interés legítimo, no se especifican cuáles son. (Incumple Art. [equivalente a 19.628 Art. 14 letras b y d]).
+*   **Política y Medidas de Seguridad:** La sección "Cómo protegemos tu información" no fue proporcionada. Por lo tanto, no se puede evaluar el cumplimiento con la obligación de informar sobre las medidas de seguridad adoptadas. (Incumple Art. [equivalente a 19.628 Art. 14 letra e]).
+*   **Derechos de los Titulares (Acceso, Rectificación, Supresión, Oposición, Portabilidad):** La sección "Sus derechos y opciones" no fue proporcionada. El resumen (TL;DR) menciona que "cualquier persona puede solicitar una copia de sus datos, eliminación de cuenta o información sobre nuestras políticas", pero esto es informal y no detalla el procedimiento ni todos los derechos. (Incumple Art. [equivalente a 19.628 Art. 14 letra f]).
+*   **Derecho a Recurrir ante la Agencia:** No se menciona el derecho del titular a recurrir ante la Agencia de Protección de Datos Personales. (Incumple Art. [equivalente a 19.628 Art. 14 letra g]).
+*   **Transferencias Internacionales de Datos:** La sección "Transferencias internacionales de datos" no fue proporcionada. No se informa si los países u organizaciones receptoras ofrecen un nivel adecuado de protección ni las garantías que justificarían tal transferencia en caso contrario. (Incumple Art. [equivalente a 19.628 Art. 14 letra h]).
+*   **Periodo de Conservación General:** Solo se especifica para direcciones IP (excepto la de creación de cuenta). Para el resto de los datos personales, no se indica el periodo de conservación o los criterios para determinarlo. (Incumple Art. [equivalente a 19.628 Art. 14 letra i]).
+*   **Derecho a Retirar el Consentimiento:** Si el tratamiento se basa en el consentimiento, no se informa explícitamente sobre la existencia del derecho a retirarlo en cualquier momento y cómo hacerlo. (Incumple Art. [equivalente a 19.628 Art. 14 letra k]).
+*   **Decisiones Automatizadas y Elaboración de Perfiles:** Se infiere la existencia de decisiones automatizadas para personalizar contenido y anuncios. Sin embargo, no se proporciona "información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular". (Incumple Art. [equivalente a 19.628 Art. 14 letra l]).
+*   **Deber de Protección desde el Diseño y por Defecto (Art. 14 quáter):** Aunque se menciona la minimización de datos, no se detalla cómo se implementan medidas técnicas y organizativas desde el diseño y por defecto para cumplir los principios y derechos, ni cómo se asegura que los datos solo se usen para fines específicos y no otros.
+*   **Datos de Geolocalización (Art. 16 sexies):**
+    *   No se informa de manera "clara, suficiente y oportuna" sobre la finalidad específica y la duración del tratamiento de los datos de geolocalización.
+    *   No se informa si los datos de geolocalización se comunicarán o cederán a un tercero para la prestación de un servicio con valor añadido.
+*   **Destinatarios o Categorías de Destinatarios de los Datos:** La sección "Cómo compartimos tu información" no fue proporcionada, impidiendo evaluar si se informa adecuadamente sobre los terceros a quienes se comunican los datos. (Incumple Art. [equivalente a 19.628 Art. 14 letra c]).
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+Para alinear la política de privacidad de Reddit con la Ley 21.719 de Chile, se recomienda:
+
+1.  **Proporcionar la Política Completa:** Es fundamental tener acceso a todas las secciones de la política para una evaluación exhaustiva.
+2.  **Especificar Bases Jurídicas:** Para cada finalidad de tratamiento, indicar claramente la base jurídica (consentimiento, interés legítimo, cumplimiento contractual, obligación legal). Si es interés legítimo, detallarlo.
+3.  **Detallar Medidas de Seguridad:** Incluir una descripción de las medidas técnicas y organizativas implementadas para proteger los datos personales.
+4.  **Describir Derechos de los Titulares y su Ejercicio:** Detallar todos los derechos (acceso, rectificación, supresión, oposición, portabilidad) y el procedimiento para que los titulares los ejerzan.
+5.  **Informar sobre el Derecho a Reclamar:** Incluir información sobre el derecho de los titulares a recurrir ante la Agencia de Protección de Datos Personales de Chile.
+6.  **Clarificar Transferencias Internacionales:** Especificar los países u organizaciones a los que se transfieren datos, si cuentan con nivel adecuado de protección y, en caso contrario, las garantías adoptadas.
+7.  **Establecer Periodos de Conservación:** Definir periodos de conservación específicos para todas las categorías de datos personales o los criterios utilizados para determinarlos.
+8.  **Explicitar el Derecho a Retirar el Consentimiento:** Si se utiliza el consentimiento como base jurídica, informar claramente sobre el derecho a retirarlo y el mecanismo para hacerlo.
+9.  **Detallar Decisiones Automatizadas:** Si se realizan decisiones automatizadas, incluida la elaboración de perfiles, explicar la lógica aplicada y las consecuencias previstas para el titular.
+10. **Desarrollar la Protección desde el Diseño y por Defecto:** Explicar cómo se integran los principios de protección de datos desde el diseño de los servicios y cómo se aplican configuraciones de privacidad por defecto.
+11. **Completar Información sobre Geolocalización:** Especificar la finalidad y duración del tratamiento de datos de geolocalización, y si se ceden a terceros para servicios de valor añadido.
+12. **Identificar Destinatarios:** Detallar las categorías de destinatarios a los que se comunican los datos personales.
+13. **Adaptación Lingüística y Jurisdiccional:** Asegurar que la política sea fácilmente comprensible para los usuarios en Chile y haga referencia explícita a la legislación chilena cuando sea pertinente.
+
+**5. Puntuación General de Cumplimiento (basada en el texto proporcionado y los artículos relevantes de la Ley 19.628, asumiendo similitud con la Ley 21.719)**
+
+*   **Información al Titular (Art. [equivalente a 19.628 Art. 14]):**
+    *   a) Identidad y datos de contacto del responsable: ✅ (Parcial, asumiendo que "Contáctanos" lleva a información completa)
+    *   b) Finalidades del tratamiento y base jurídica: ❎
+    *   c) Destinatarios o categorías de destinatarios: ❎ (Sección ausente)
+    *   d) Intereses legítimos (si aplica): ❎
+    *   e) Política y medidas de seguridad: ❎ (Sección ausente)
+    *   f) Derechos ARSOP y su ejercicio: ❎ (Sección ausente, TL;DR insuficiente)
+    *   g) Derecho a recurrir ante la Agencia: ❎
+    *   h) Transferencia internacional de datos (adecuación, garantías): ❎ (Sección ausente)
+    *   i) Periodo de conservación: ❎ (Solo para IP, incompleto para el resto)
+    *   j) Fuente de los datos: ✅
+    *   k) Derecho a retirar consentimiento: ❎
+    *   l) Existencia de decisiones automatizadas (lógica, consecuencias): ❎ (Información insuficiente)
+*   **Deber de Protección desde el Diseño y por Defecto (Art. 14 quáter):** ❎ (Mencionado en espíritu, pero sin detalles de implementación)
+*   **Datos de Geolocalización (Art. 16 sexies):** ❎ (Información incompleta sobre finalidad, duración y cesión a terceros para valor añadido)
+
+**6. Puntuación Total**
+
+Sumando los ✅ del total de secciones evaluadas explícitamente:
+**Puntuación Total: 2 / 14** ✅
+
+**Conclusión:**
+Basado en el texto proporcionado, la política de privacidad de Reddit presenta importantes deficiencias para cumplir con los requisitos de la Ley 21.719 de Chile. La ausencia de secciones críticas impide una evaluación completa, pero los elementos analizados y las omisiones evidentes sugieren un bajo nivel de cumplimiento. Se requieren mejoras sustanciales y la provisión de la política completa para una adecuación a la normativa chilena.

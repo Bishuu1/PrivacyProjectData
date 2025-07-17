@@ -1,0 +1,99 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE DISCORD FRENTE A LA LEY 21.719 DE CHILE**
+
+**Fecha de Evaluación:** 23 de mayo de 2024
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad de Discord**
+
+La política de privacidad de Discord, con vigencia desde el 15 de abril de 2024, detalla cómo la empresa recopila, usa, almacena, protege y comparte la información personal de sus usuarios. Los puntos clave incluyen:
+
+*   **Identificación del Controlador:** Discord Netherlands BV para usuarios en el EEE o Reino Unido, y Discord Inc. para el resto de los usuarios.
+*   **Compromiso con la Privacidad:** Afirman no vender información personal y basar su negocio en suscripciones y productos de pago. Limitan la información obligatoria y priorizan la seguridad.
+*   **Información Recopilada:**
+    *   **Aportada por el usuario:** Información de cuenta (nombre de usuario, contraseña, contacto, fecha de nacimiento), contenido creado (mensajes, archivos), información de pago, información de acciones (amigos, servidores, compras), información de funciones opcionales.
+    *   **Recopilada automáticamente:** Información del dispositivo (IP, SO, navegador), uso de la aplicación (logs, eventos, interacciones), información de cookies y tecnologías similares.
+    *   **Recibida de otros medios:** Información de otros usuarios o terceros (ej. redes sociales).
+*   **Uso de la Información:** Para ofrecer servicios, cumplir compromisos con la comunidad (seguridad, moderación), fines comerciales legítimos (mejorar servicios, publicidad), cumplir obligaciones legales y con el consentimiento del usuario. Se mencionan "bases legales" para el procesamiento.
+*   **Revelación de la Información:** A otros usuarios (según configuración), a proveedores de servicios, para proteger derechos, en transacciones corporativas, con consentimiento, o por requerimientos legales.
+*   **Retención de Datos:** Se indica que la información se retiene por el tiempo necesario para los fines descritos.
+*   **Protección de la Información:** Mencionan un equipo de "Trust and Safety" y medidas para la seguridad.
+*   **Control de la Privacidad:** Ofrecen opciones para que los usuarios controlen su privacidad.
+*   **Transferencias Internacionales:** Se menciona la posibilidad de transferir datos internacionalmente.
+*   **Oficial de Protección de Datos (DPO):** Se indica la existencia de un DPO.
+*   **Información sobre Leyes Locales:** Sección genérica que podría abordar especificidades regionales.
+*   **Contacto:** Se proporciona un medio para contactar a Discord.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley 21.719**
+
+Basado en los extractos de la Ley 21.719 proporcionados:
+
+*   ✅ **Art. 14 b) Individualización del responsable de datos:** La política identifica a Discord Inc. como el controlador para usuarios en Chile.
+*   ✅ **Art. 14 b) Identificación del encargado de prevención (Oficial de Protección de Datos):** La política menciona la existencia de un "Oficial de protección de datos" (Sección 11).
+*   ✅ **Art. 14 c) Domicilio postal, dirección de correo electrónico o medio de contacto:** La sección "Contáctanos" (Sección 14) y la política en general implican la existencia de estos medios, aunque no se detalla un domicilio postal específico para Chile.
+*   ✅ **Art. 14 d) Categorías, clases o tipos de datos que trata; descripción genérica del universo de personas; finalidades de los tratamientos; base de legitimidad:**
+    *   La sección "Información que recopilamos" detalla las categorías de datos.
+    *   El universo de personas se describe implícitamente como usuarios de los servicios de Discord.
+    *   La sección "Cómo usamos tu información" describe las finalidades y menciona "bases legales" para el tratamiento.
+*   ✅ **Art. 14 e) La política y las medidas de seguridad adoptadas:** La sección "Cómo protegemos tu información" aborda este punto de manera general.
+*   ✅ **Art. 14 j) La fuente de la cual provienen los datos personales:** Se detalla en "Información que nos aportas", "Información que recopilamos de manera automática" e "Información que recibimos de otros medios".
+*   ✅ **Art. 14 k) Cuando el tratamiento está basado en el consentimiento del titular, la existencia del derecho a retirarlo:** La política menciona el consentimiento como una base legal y la sección "Cómo controlar tu privacidad" sugiere la capacidad de gestionar consentimientos, aunque la explicitud del derecho a retirarlo y sus consecuencias podría ser mayor.
+*   ✅ **Art. 14 quáter.- Deber de protección desde el diseño y por defecto:** La política declara "Limitamos la información obligatoria" y "Te damos el control", lo cual se alinea con estos principios.
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen o Cumplen Parcialmente con la Ley 21.719**
+
+*   ❎ **Art. 14 b) Representante legal (en Chile):** No se individualiza un representante legal de Discord Inc. en Chile, lo cual es un requisito para responsables de tratamiento no establecidos en el territorio nacional que traten datos de titulares que se encuentren en Chile.
+*   ❎ **Art. 14 d) Destinatarios a los que se prevé comunicar o ceder los datos:** Si bien la sección "Cómo revelamos tu información" es genérica, la ley requiere una mayor especificidad sobre las categorías de destinatarios.
+*   ❎ **Art. 14 d) En caso de tratamientos que se basan en la satisfacción de intereses legítimos, cuáles serían éstos:** La política menciona "fines comerciales legítimos" como base legal, pero no detalla cuáles son esos intereses legítimos específicos, como lo exige la ley.
+*   ❎ **Art. 14 f) El derecho que le asiste al titular para solicitar acceso, rectificación, supresión, oposición y portabilidad de sus datos personales:** Aunque la sección "Cómo controlar tu privacidad" y "Servicios que ofrecen terceros" (que podría interpretarse como una forma de portabilidad) aluden a ciertos controles, la política no enuncia explícitamente y de forma clara todos estos derechos (ARSOP + Portabilidad) conforme a la ley chilena para todos los usuarios. La sección "Información sobre las leyes locales de privacidad" es demasiado genérica.
+*   ❎ **Art. 14 g) El derecho que le asiste al titular de recurrir ante la Agencia (de Protección de Datos de Chile):** No se menciona explícitamente el derecho del titular a recurrir ante la autoridad de control chilena.
+*   ❎ **Art. 14 h) Transferencia de datos personales a un tercer país u organización internacional y si éstos ofrecen o no un nivel adecuado de protección. En caso de que no cuenten con un nivel adecuado de protección, se deberá informar si existen garantías que justifiquen tal transferencia:** La sección "Transferencias internacionales de datos" es genérica. No especifica si los países a los que se transfieren datos desde Chile cuentan con un nivel adecuado de protección según los estándares chilenos, ni detalla las garantías específicas (ej. Cláusulas Contractuales Tipo adaptadas a Chile, si aplicase) que justificarían tales transferencias en ausencia de adecuación.
+*   ❎ **Art. 14 i) El periodo durante el que se conservarán los datos personales:** La sección "Retención de datos" indica que se conservan "por el tiempo necesario para los fines descritos", lo cual es vago. La ley exige la especificación del período o, si no es posible, los criterios utilizados para determinar ese plazo.
+*   ❎ **Art. 14 l) La existencia de decisiones automatizadas, incluida la elaboración de perfiles. Información significativa sobre la lógica aplicada, así como las consecuencias previstas:** La política menciona el uso de información para "identificar infracciones" o "evitar la distribución de contenido dañino", lo que sugiere decisiones automatizadas y perfiles. Sin embargo, no proporciona información significativa sobre la lógica aplicada ni las consecuencias previstas para el titular, como exige la ley.
+*   ❎ **Deber de notificación de vulneraciones de seguridad (Artículo no citado explícitamente en el prompt, pero parte integral de la ley):** La política no detalla el procedimiento de notificación a la Agencia de Protección de Datos de Chile y a los titulares en caso de vulneraciones de seguridad, especialmente cuando se refieran a datos sensibles, de menores, o datos económicos, conforme a los plazos y requisitos de la ley chilena.
+*   ❎ **Medidas de seguridad (Artículo no citado explícitamente en el prompt, pero parte integral de la ley):** Si bien se menciona la protección de la información, la política no detalla las medidas técnicas y organizativas específicas que se aplican (ej. seudonimización, cifrado, capacidad de garantizar confidencialidad, integridad, disponibilidad y resiliencia, capacidad de restauración), como lo sugiere la ley.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+Para alinear la política de privacidad de Discord con la Ley 21.719 de Chile, se recomienda:
+
+1.  **Designar e identificar un representante legal en Chile:** Si Discord Inc. trata datos de titulares en Chile sin tener un establecimiento en el país.
+2.  **Detallar los destinatarios de datos:** Especificar las categorías de terceros a los que se comunican o ceden los datos personales.
+3.  **Especificar los intereses legítimos:** Si se utiliza esta base de legitimación, detallar claramente cuáles son esos intereses.
+4.  **Enumerar explícitamente los derechos ARSOP y de portabilidad:** Incluir una sección clara que informe a los titulares chilenos sobre sus derechos de acceso, rectificación, supresión, oposición y portabilidad, y cómo ejercerlos.
+5.  **Informar sobre el derecho a recurrir ante la Agencia de Protección de Datos de Chile.**
+6.  **Detallar las transferencias internacionales:** Especificar los países destinatarios, si cuentan con nivel de protección adecuado según Chile, y las garantías específicas aplicadas si no lo tienen.
+7.  **Precisar los períodos de conservación:** Establecer plazos concretos de conservación o, en su defecto, los criterios claros y objetivos utilizados para determinar dichos plazos para cada categoría de datos.
+8.  **Proporcionar información sobre decisiones automatizadas:** Si se realizan, explicar la lógica aplicada de forma comprensible y las consecuencias previstas para los titulares.
+9.  **Incluir un procedimiento de notificación de brechas de seguridad:** Detallar cómo y cuándo se notificará a la Agencia de Protección de Datos de Chile y a los titulares afectados, conforme a la ley.
+10. **Describir las medidas de seguridad:** Detallar las medidas técnicas y organizativas implementadas para proteger los datos, considerando los ejemplos de la ley (seudonimización, cifrado, etc.).
+11. **Adaptar la sección "Información sobre las leyes locales de privacidad":** En lugar de una mención genérica, esta sección debería contener la información específica requerida por la ley chilena o remitir claramente a las secciones de la política principal donde se abordan estos puntos para los usuarios chilenos.
+
+**5. Puntuación General de Cumplimiento (por sección relevante de la ley mencionada en el prompt)**
+
+*   Art. 14 b) Individualización del responsable, representante legal y DPO:
+    *   Responsable: ✅
+    *   Representante Legal en Chile: ❎
+    *   DPO: ✅
+*   Art. 14 c) Domicilio y medios de contacto: ✅ (General, podría ser más específico para Chile)
+*   Art. 14 d) Categorías de datos, universo, destinatarios, finalidades, base de legitimidad, intereses legítimos:
+    *   Categorías, universo, finalidades, base de legitimidad: ✅
+    *   Destinatarios (especificidad): ❎
+    *   Intereses legítimos (especificación): ❎
+*   Art. 14 e) Política y medidas de seguridad (declaración general): ✅
+*   Art. 14 f) Derechos ARSOP y Portabilidad (explicitados para Chile): ❎
+*   Art. 14 g) Derecho a recurrir ante la Agencia (Chile): ❎
+*   Art. 14 h) Transferencias internacionales (adecuación/garantías para Chile): ❎
+*   Art. 14 i) Período de conservación (especificidad): ❎
+*   Art. 14 j) Fuente de los datos: ✅
+*   Art. 14 k) Derecho a retirar el consentimiento (explicitado): ✅ (Aunque podría ser más prominente)
+*   Art. 14 l) Decisiones automatizadas (lógica, consecuencias): ❎
+*   Art. 14 quáter.- Deber de protección desde el diseño y por defecto: ✅
+*   Deber de notificación de vulneraciones (específico para Chile): ❎
+*   Medidas de seguridad técnicas y organizativas (específicas): ❎
+
+**6. Puntuación Total**
+
+*   Total ✅: 8
+*   Total ❎: 10
+
+**Conclusión:**
+La política de privacidad de Discord establece una base general para la protección de datos, cumpliendo con varios de los requisitos informativos. Sin embargo, presenta carencias significativas en cuanto a la especificidad y detalle exigidos por la Ley 21.719 de Chile, especialmente en lo referente a los derechos de los titulares chilenos, la justificación de transferencias internacionales, la concreción de los periodos de retención, la transparencia en decisiones automatizadas, la figura del representante legal en Chile y los procedimientos de notificación de brechas de seguridad adaptados a la normativa local. Se requieren adaptaciones importantes para alcanzar un cumplimiento pleno.

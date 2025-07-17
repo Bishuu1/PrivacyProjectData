@@ -1,0 +1,74 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE COMPAÑÍA CHILENA DE COMUNICACIONES S.A. (COOPERATIVA.CL) FRENTE A LA LEY 19.628 SOBRE PROTECCIÓN DE DATOS PERSONALES DE CHILE**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de Compañía Chilena de Comunicaciones S.A. (en adelante, "la Compañía") para su sitio web Cooperativa.cl establece lo siguiente:
+
+*   **Recopilación de Datos:** La Compañía obtiene y registra información de sus lectores mediante métodos manuales (peticiones formales de datos como nombre, correo, dirección, con indicación de fines y carácter voluntario) y automáticos (procesos computacionales que generan registros de actividad sin identificación individual para establecer patrones).
+*   **Finalidad Principal:** El objetivo es brindar servicios personalizados, ofrecer avisos y contenidos pertinentes, identificar usuarios para servicios personalizados, realizar estudios estadísticos, diseñar mejoras, administrar el sistema y comunicar incidencias, ofertas o novedades por correo electrónico.
+*   **No Comercialización de Datos Identificables:** Declara no hacer públicas, vender ni alquilar listas con nombres, direcciones, teléfonos u otra información que identifique a los usuarios.
+*   **Compartir Datos con Terceros:** Indica que si los datos debieran ser compartidos con socios comerciales o patrocinantes, el usuario será informado antes de la recolección o se pedirá autorización previa a la transferencia.
+*   **Naturaleza de la Política:** Establece que la política se entrega de modo informativo y no constituye un compromiso contractual con los lectores.
+*   **Propiedad Intelectual:** Incluye cláusulas sobre derechos de autor y propiedad de los contenidos del sitio.
+*   **Contacto:** Proporciona un correo electrónico (`internet@cooperativa.cl`) para consultas sobre permisos de uso de contenido.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+Basado en los extractos proporcionados de la Ley 19.628:
+
+*   **Fines Específicos, Explícitos y Lícitos (Ley 19.628, p.10 b):** La política declara los fines para los cuales se recolectan los datos, como "brindar servicios más personalizados", "realización de estudios estadísticos", "comunicar incidencias, ofertas o novedades". Esto cumple parcialmente con la explicitación de fines.
+*   **Consentimiento para la Cesión de Datos (Artículo 15):** La política indica que "Si los datos recopilados del usuario debieran ser compartidos con socios comerciales o patrocinantes, el usuario será informado de ello antes de que éstos sean recogidos o se le pedirá su autorización en forma previa a la transferencia". Esto se alinea con el requisito de obtener consentimiento para la cesión si no estaba contemplado en la recolección inicial.
+*   **Limitación del Tratamiento (Ley 19.628, p.10 b):** Al declarar que no se venden ni alquilan listas con información que identifique a los usuarios, se establece una limitación al tratamiento, aunque podría ser más explícita respecto a otros usos no previstos.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+La política presenta varias omisiones y deficiencias significativas respecto a las obligaciones de la Ley 19.628:
+
+*   **Informar y poner a disposición antecedentes de licitud del tratamiento (Ley 19.628, p.10 a):** La política no detalla la base de licitud para todos los tratamientos (especialmente los automáticos) ni cómo el titular puede acceder a los antecedentes que acrediten dicha licitud. El disclaimer de que "no está suscribiendo un compromiso contractual" debilita la seriedad de la información proporcionada.
+*   **Recogida de fuentes lícitas (Ley 19.628, p.10 b):** Si bien los "mecanismos manuales" implican voluntariedad, los "mecanismos automáticos" no especifican la base de licitud (ej. consentimiento para cookies no esenciales).
+*   **Comunicar o ceder información exacta, completa y actual (Ley 19.628, p.10 c):** Aunque se menciona la autorización para ceder, no se aborda el compromiso de que la información cedida sea exacta, completa y actual.
+*   **Suprimir o anonimizar datos precontractuales (Ley 19.628, p.10 d):** No se menciona esta obligación específica.
+*   **Informar sobre la política y medidas de seguridad (Ley 19.628, p.11 e):** La política existe, pero no describe en absoluto las "medidas de seguridad adoptadas para proteger las bases de datos personales".
+*   **Informar sobre los derechos de los titulares (Ley 19.628, p.11 f):** La política omite completamente la mención de los derechos de acceso, rectificación, supresión, oposición y portabilidad de los datos personales, ni cómo ejercerlos. Este es un incumplimiento grave.
+*   **Informar sobre el derecho a recurrir ante la Agencia (Ley 19.628, p.11 g):** No se informa al titular sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales en caso de que el responsable rechace o no responda sus solicitudes.
+*   **Informar sobre transferencias internacionales (Ley 19.628, p.11 h):** No se menciona si se realizan transferencias de datos personales a terceros países u organizaciones internacionales, ni si estos ofrecen un nivel adecuado de protección o las garantías existentes en caso contrario. La mención de "socios comerciales o patrocinantes" podría implicar transferencias, pero no se detalla.
+*   **Disclaimer Problemático:** La cláusula "Mediante la generación de esta Política de Privacidad de Datos Personales, la Compañía no está suscribiendo un compromiso contractual con sus lectores sino que ésta se entrega de modo informativo" es contraria al espíritu de la ley, que busca que las políticas de privacidad establezcan obligaciones claras para el responsable y derechos para los titulares.
+*   **Falta de Información sobre Plazos de Conservación:** No se indica por cuánto tiempo se conservarán los datos personales.
+*   **Falta de un Contacto Específico para Privacidad:** Si bien se ofrece un correo, es para "permisos" de contenido, no explícitamente para ejercer derechos de privacidad o consultas al respecto.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+Para alinear la política de privacidad con la Ley 19.628, se recomienda:
+
+1.  **Eliminar el Disclaimer:** Suprimir la cláusula que indica que la política es meramente informativa y no contractual. La política debe reflejar los compromisos de la Compañía.
+2.  **Detallar Bases de Licitud:** Especificar claramente la base legal para cada tipo de tratamiento de datos, incluyendo los datos recolectados automáticamente (ej. consentimiento para cookies, interés legítimo detallado).
+3.  **Incluir Derechos de los Titulares:** Incorporar una sección detallada sobre los derechos de acceso, rectificación, supresión, oposición y portabilidad (ARCOP), explicando cómo los titulares pueden ejercerlos y los plazos de respuesta.
+4.  **Informar sobre Recurso ante la Agencia:** Mencionar el derecho del titular a recurrir ante la Agencia de Protección de Datos Personales.
+5.  **Describir Medidas de Seguridad:** Incluir una descripción general de las medidas técnicas y organizativas implementadas para proteger los datos personales.
+6.  **Información sobre Transferencias Internacionales:** Si se realizan, detallar los países u organizaciones receptoras, el nivel de protección que ofrecen o las garantías adoptadas.
+7.  **Plazos de Conservación:** Especificar los criterios utilizados para determinar los períodos durante los cuales se conservarán los datos personales.
+8.  **Obligación de Supresión/Anonimización:** Mencionar la obligación de suprimir o anonimizar datos obtenidos para medidas precontractuales cuando corresponda.
+9.  **Contacto de Privacidad:** Designar un canal o persona de contacto específica para consultas y el ejercicio de derechos en materia de protección de datos.
+10. **Actualización y Revisión:** Revisar y actualizar la política periódicamente para asegurar su conformidad con la legislación vigente y las prácticas de la empresa.
+11. **Lenguaje Claro y Sencillo:** Redactar la política en un lenguaje claro, sencillo y accesible para los usuarios.
+
+**5. Puntuación general de cumplimiento**
+
+| Sección Legal (Ley 19.628)                                                                                                | Cumple |
+| :-------------------------------------------------------------------------------------------------------------------------- | :----: |
+| a) Informar y poner a disposición antecedentes de licitud del tratamiento (p.10 a)                                          |   ❎    |
+| b) Asegurar recogida de fuentes lícitas, fines específicos, explícitos, lícitos y tratamiento limitado a fines (p.10 b)     |   ✅    |
+| c) Comunicar o ceder información exacta, completa y actual (p.10 c)                                                         |   ❎    |
+| d) Suprimir o anonimizar datos precontractuales (p.10 d)                                                                    |   ❎    |
+| e) Informar política y medidas de seguridad adoptadas (p.11 e)                                                              |   ❎    |
+| f) Informar derecho del titular a acceso, rectificación, supresión, oposición y portabilidad (ARCOP) (p.11 f)                |   ❎    |
+| g) Informar derecho del titular de recurrir ante la Agencia (p.11 g)                                                        |   ❎    |
+| h) Informar sobre transferencia a tercer país y nivel de protección/garantías (p.11 h)                                      |   ❎    |
+| Artículo 15 - Cesión de datos personales (consentimiento, fines, etc.)                                                      |   ✅    |
+
+**6. Puntuación total**
+
+**Total: 2 ✅ de 9 secciones evaluadas.**
+
+**Conclusión General:**
+La política de privacidad de Compañía Chilena de Comunicaciones S.A. para Cooperativa.cl presenta deficiencias significativas en cuanto al cumplimiento de las obligaciones establecidas en la Ley 19.628. Si bien menciona algunos aspectos básicos como la finalidad de la recolección y el consentimiento para la cesión, omite elementos cruciales como la información sobre los derechos de los titulares (ARCOP), las medidas de seguridad, el derecho a recurrir ante la autoridad de control y detalles sobre transferencias internacionales. El disclaimer que le resta carácter vinculante es particularmente preocupante. Se requiere una revisión y actualización exhaustiva para adecuarla a la normativa chilena de protección de datos.

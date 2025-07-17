@@ -1,0 +1,89 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE FARMACIAS CRUZ VERDE SpA FRENTE A LA LEY CHILENA DE PROTECCIÓN DE DATOS PERSONALES (BASADA EN EXTRACTOS DE LA LEY 19.628)**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de Farmacias Cruz Verde SpA (en adelante, "Cruz Verde") establece su compromiso con la protección de datos personales de sus clientes. Identifica a Farmacias Cruz Verde SpA como el responsable del tratamiento, con domicilio en Av. El Salto 4875, Huechuraba.
+
+La política detalla:
+*   **Alcance:** Tipos de datos recolectados (presencial y digital), finalidad del tratamiento, con quién se comparten, derechos del titular y medidas de seguridad.
+*   **Definiciones:** Clarifica términos como dato personal, dato sensible, derechos ARCO, titular y tratamiento.
+*   **Principios:** Adhiere a principios de licitud, equidad, transparencia, limitación de la finalidad, minimización, exactitud, limitación del plazo de conservación, integridad, confidencialidad y responsabilidad, referenciando el GDPR.
+*   **Finalidades del tratamiento:** Personalización de experiencia, gestión de beneficios (Club Cruz Verde y alianzas), verificación de identidad para beneficios, gestión de solicitudes, contacto con información personalizada, análisis de hábitos de compra, gestión de riesgo crediticio y prevención de fraudes.
+*   **Tipos de datos tratados:** Identificación (RUT, nombre), contactabilidad (celular, email), servicios digitales (navegación), transaccionales (compras) y biométricos (huella digital, audios).
+*   **Comunicación de datos:** Comparte datos con empresas relacionadas, de verificación de identidad, de última milla, proveedores de beneficios, empresas de contacto (email/celular) y servicios de almacenamiento, bajo acuerdos de confidencialidad.
+*   **Plazo de conservación:** Por el tiempo necesario para los fines declarados o según normativa vigente.
+*   **Medidas de seguridad:** Adhesión a estándares y políticas corporativas (NIST, ISO/IEC 27001, SANS 20).
+*   **Derechos del titular:** Menciona los derechos de acceso, rectificación, cancelación y oposición (ARCO) conforme a la Ley N.º 19.628.
+*   **Vigencia:** Indefinida, con actualizaciones publicadas en su sitio web.
+*   **Uso de Cookies:** Informa sobre el uso de cookies para personalizar la experiencia y mostrar publicidad, con opción de deshabilitarlas.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+Basado en los extractos proporcionados de la Ley 19.628:
+
+*   **Identificación del responsable (parcial):** Se individualiza al responsable de datos (Farmacias Cruz Verde SpA, RUT) y su domicilio postal (Ley 19.628, p.10, b) y p.11, c)).
+*   **Categorías de datos y finalidades:** Se describen las categorías de datos que se tratan y las finalidades de los tratamientos (Ley 19.628, p.11, d)).
+*   **Destinatarios de los datos:** Se identifican los tipos de destinatarios a los que se prevé comunicar o ceder los datos (Ley 19.628, p.11, d)).
+*   **Principios (declaración):** La política declara la adhesión a principios fundamentales como licitud, finalidad, proporcionalidad (minimización), calidad (exactitud) y responsabilidad (Ley 19.628, Art. 3°).
+*   **Recolección para fines específicos, explícitos y lícitos:** La política establece las finalidades del tratamiento (Ley 19.628, p.10, b) y Art. 3°, b)).
+*   **Comunicación de información (parcial):** Se indica que se comparte información "estrictamente necesaria" y se vela por estándares de protección en terceros (Ley 19.628, p.10, c)).
+*   **Mención de derechos:** Se reconocen los derechos ARCO de los titulares (aunque la forma de ejercerlos no está del todo clara).
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+*   **Falta de individualización completa del responsable:**
+    *   No se individualiza al **representante legal** del responsable de datos (Ley 19.628, p.10, b)).
+    *   No se identifica al **encargado de prevención** (o Delegado de Protección de Datos), si existiere, lo cual es altamente recomendable y esperable para una organización de este tamaño (Ley 19.628, p.10, b)).
+*   **Falta de medio de contacto específico para solicitudes de titulares:**
+    *   No se proporciona una **dirección de correo electrónico específica, formulario de contacto o medio tecnológico equivalente** claramente destinado a la notificación de solicitudes de los titulares para ejercer sus derechos (Ley 19.628, p.11, c)). Si bien se menciona el sitio web, no se especifica un canal directo y de fácil acceso para estos fines.
+*   **Omisión de la base de legitimidad del tratamiento:**
+    *   La política **no indica explícitamente la base de legitimidad** para cada una de las finalidades del tratamiento (ej. consentimiento, ejecución de contrato, interés legítimo, obligación legal) (Ley 19.628, p.11, d)). Este es un requisito fundamental.
+    *   En caso de basarse en **intereses legítimos**, no se especifican cuáles serían estos (Ley 19.628, p.11, d)).
+*   **Información sobre licitud del tratamiento:**
+    *   No se detalla cómo se pondrán a disposición del titular los **antecedentes que acrediten la licitud del tratamiento** ni cómo se entregará de manera expedita dicha información si es requerida (Ley 19.628, p.10, a)).
+*   **Supresión o anonimización de datos precontractuales:**
+    *   No se menciona la obligación de **suprimir o anonimizar los datos personales del titular cuando fueron obtenidos para la ejecución de medidas precontractuales** y el contrato no se celebra (Ley 19.628, p.10, d)).
+*   **Principio de proporcionalidad (conservación):**
+    *   La declaración sobre el plazo de conservación ("durante el tiempo que sean necesarios para los fines declarados, o bien por el plazo que establezca la normativa vigente") es genérica. No se explicita que, una vez cumplidos los fines, los datos **deben ser suprimidos o anonimizados**, ni que un período mayor requiere **autorización legal o consentimiento del titular** (Ley 19.628, p.11, Principio de proporcionalidad).
+*   **Descripción del universo de personas:**
+    *   Si bien se infiere que son "clientes", la "descripción genérica del universo de personas que comprenden sus bases de datos" podría ser más explícita (Ley 19.628, p.11, d)).
+*   **Referencia a GDPR:** Aunque no es un incumplimiento per se, basar los principios en el GDPR y enlazar a dicha norma puede generar confusión. La política debe asegurar el cumplimiento primordial de la legislación chilena.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Completar Identificación:** Incluir el nombre y datos de contacto del representante legal y del Encargado de Prevención de Datos Personales (DPO), si ha sido designado.
+2.  **Establecer Canal de Contacto Específico:** Designar y comunicar claramente una dirección de correo electrónico (ej. privacidad@cruzverde.cl), un formulario web específico o un medio tecnológico equivalente para que los titulares puedan ejercer sus derechos y realizar consultas sobre privacidad.
+3.  **Especificar Bases de Licitud:** Para cada finalidad de tratamiento declarada, indicar explícitamente la base legal que lo legitima (consentimiento del titular, cumplimiento de una obligación legal, ejecución de un contrato, interés legítimo del responsable, etc.). Si se invoca el interés legítimo, detallar cuál es.
+4.  **Detallar Procedimiento para Acreditar Licitud:** Explicar cómo los titulares pueden solicitar y obtener información que acredite la licitud del tratamiento de sus datos.
+5.  **Incluir Política sobre Datos Precontractuales:** Añadir una sección que aborde la supresión o anonimización de datos obtenidos en fases precontractuales si el contrato no llega a formalizarse.
+6.  **Precisar Política de Conservación:** Detallar que los datos serán conservados solo por el tiempo estrictamente necesario para los fines, y que posteriormente serán suprimidos o anonimizados, salvo que se requiera consentimiento o autorización legal para un plazo mayor.
+7.  **Clarificar Universo de Titulares:** Describir de forma más precisa el universo de personas cuyos datos se tratan (ej. "clientes actuales y potenciales, usuarios de nuestros canales digitales, miembros del Club Cruz Verde, etc.").
+8.  **Mecanismo de Consentimiento para Cookies:** Si se utilizan cookies no esenciales que recopilan datos personales, se debe implementar y describir un mecanismo claro para obtener el consentimiento del usuario antes de su activación, además de la opción de deshabilitarlas.
+9.  **Revisión Integral bajo Ley 21.719:** Aunque el análisis se basa en extractos de la Ley 19.628, es crucial que la política sea revisada y actualizada para reflejar plenamente todos los requisitos de la nueva Ley 21.719 (que modifica y complementa la 19.628), una vez que sus disposiciones entren plenamente en vigor y se emitan los reglamentos correspondientes.
+10. **Lenguaje Claro y Accesible:** Mantener el esfuerzo por un lenguaje claro, pero asegurar que todos los requisitos legales estén cubiertos de forma precisa.
+
+**5. Puntuación general de cumplimiento (basado en los extractos legales proporcionados)**
+
+*   **Obligaciones (Ley 19.628, p.10):**
+    *   a) Informar y poner a disposición antecedentes de licitud: ❎
+    *   b) Asegurar recogida lícita, fines específicos, limitación: ✅
+    *   c) Comunicar o ceder información exacta, completa y actual: ✅ (Parcialmente, por la diligencia con terceros)
+    *   d) Suprimir o anonimizar datos precontractuales: ❎
+    *   e) Cumplir con los demás deberes, principios y obligaciones: (Depende del cumplimiento global)
+*   **Información a proveer (Ley 19.628, p.10-11):**
+    *   b) Individualización del responsable, representante legal, encargado de prevención: ❎
+    *   c) Domicilio postal, correo electrónico, formulario de contacto para solicitudes: ❎
+    *   d) Categorías, universo, destinatarios, finalidades, base de legitimidad, intereses legítimos: ❎ (Principalmente por la ausencia de base de legitimidad)
+*   **Principios (Ley 19.628, Art. 3°, p.4 y p.11):**
+    *   a) Principios de licitud y lealtad (acreditar licitud): ❎
+    *   b) Principio de finalidad: ✅
+    *   c) Principio de proporcionalidad (limitación estricta y conservación): ❎
+    *   d) Principio de calidad: ✅
+    *   e) Principio de responsabilidad: ✅
+
+**6. Puntuación total**
+
+Sumando los ✅ del total de secciones evaluadas: **5 ✅ de 12 secciones evaluadas.**
+
+**Conclusión General:**
+La política de privacidad de Cruz Verde demuestra una intención de ser transparente y proteger los datos personales, cubriendo varios aspectos informativos básicos. Sin embargo, presenta omisiones significativas respecto a requisitos clave de la Ley 19.628, especialmente en cuanto a la individualización completa del responsable y sus contactos para derechos, la especificación de las bases de legitimidad para el tratamiento, y detalles sobre la conservación y supresión de datos. Es fundamental abordar estas deficiencias para asegurar un cumplimiento más robusto con la normativa chilena de protección de datos.

@@ -1,0 +1,121 @@
+## Evaluación de Política de Privacidad de SQM bajo la Ley 21.719
+
+**Fecha de Evaluación:** 23 de mayo de 2024
+
+**Documento Evaluado:** Política de Privacidad de SQM (disponible en https://www.sqm.com/politica-de-privacidad/, consultada el 03/02/2025 según el pie de página del documento proporcionado).
+
+**Marco Legal de Referencia:** Ley 19.628 sobre Protección de la Vida Privada, con las modificaciones introducidas por la Ley 21.719. Específicamente, se considerarán los requisitos del artículo 14 ter y otras obligaciones pertinentes.
+
+---
+
+### 1. Resumen de los Puntos Principales de la Política de Privacidad
+
+La política de privacidad de SQM establece lo siguiente:
+
+*   **Introducción:** Declara la importancia de la seguridad de la información privada y el propósito de informar sobre los datos que se conservan.
+*   **Notificación de Cambios:** SQM se reserva el derecho de actualizar la política sin previo aviso, publicando la versión modificada en el sitio. Indica que se enviará una alerta cuando se modifique y que la versión actual está accesible mediante un botón en el sitio.
+*   **Consentimiento:** Indica que SQM recoge datos personales suministrados voluntariamente (nombre, empresa, email).
+*   **Uso de Datos Personales:** Los datos se utilizan para proveer información solicitada por el usuario y para mejorar el contenido y funcionalidad del sitio.
+*   **Datos Click-Stream (Cookies):** Informa sobre el uso de cookies para reconocer al usuario, crear una base de datos de elecciones y preferencias, y la posibilidad de configurar el navegador para rechazar cookies.
+*   **Integridad y Seguridad de la Información:** SQM adoptará medidas comerciales razonables para resguardar la información, manteniéndola por el tiempo necesario. Describe medidas de seguridad como firewalls y protección de contraseñas, y capacitación de empleados. Advierte que no puede garantizar la inexistencia absoluta de incidentes de seguridad.
+*   **Preguntas:** Ofrece un canal para que los usuarios notifiquen preguntas o inquietudes sobre la política o el procesamiento de datos a través de "sqm-nutrition.com".
+
+---
+
+### 2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley
+
+Basado en el artículo 14 ter y otras obligaciones:
+
+*   **Artículo 14 ter literal a) (Versión actualizada):** La política menciona que se publicará la versión actualizada y que se puede acceder a la versión actual en el sitio. Si bien la notificación de cambios "sin previo aviso" es problemática, el compromiso de publicar la versión actualizada y hacerla accesible cumple parcialmente con el espíritu de este literal.
+*   **Artículo 14 ter literal e) (Política y medidas de seguridad):** La política describe de forma general las medidas de seguridad adoptadas (firewalls, protección de contraseñas, capacitación de empleados, medidas comerciales razonables).
+
+---
+
+### 3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley
+
+La política de privacidad de SQM presenta varias omisiones y deficiencias significativas respecto a los requisitos de la Ley 21.719:
+
+*   **Artículo 14 ter literal b) (Individualización del responsable, representante legal y encargado de prevención):**
+    *   No se individualiza al representante legal de SQM.
+    *   No se identifica a un encargado de prevención de datos (o Data Protection Officer - DPO), si existiere. Si bien SQM es el responsable, falta la información adicional requerida.
+*   **Artículo 14 ter literal c) (Domicilio postal, correo electrónico, formulario de contacto para solicitudes de titulares):**
+    *   No se proporciona un domicilio postal.
+    *   Si bien se menciona "notificarnos" para preguntas o inquietudes, no se establece un correo electrónico específico, formulario de contacto dedicado o medio tecnológico equivalente de fácil acceso *específicamente para las solicitudes de los titulares de datos* (derechos ARSOP). La referencia a "sqm-nutrition.com" para notificar inquietudes es vaga y podría no ser el canal adecuado o suficientemente claro para ejercer derechos.
+*   **Artículo 14 ter literal d) (Detalle del tratamiento de datos):**
+    *   **Categorías, clases o tipos de datos:** Solo menciona "nombre, el nombre de su empresa, y su dirección electrónica" y "datos click-stream". Esto es limitado y podría no cubrir todas las categorías de datos que realmente se tratan.
+    *   **Descripción genérica del universo de personas:** No se describe el universo de personas que comprenden sus bases de datos (ej. "usuarios del sitio web", "clientes potenciales", etc.).
+    *   **Destinatarios a los que se prevé comunicar o ceder los datos:** No se informa si los datos se comunican o ceden a terceros, y quiénes serían estos destinatarios.
+    *   **Finalidades de los tratamientos:** Menciona "proveer la información de interés que usted solicita" y "mejorar el contenido y funcionalidad". Estas finalidades son genéricas. La ley exige especificar *las* finalidades de *los* tratamientos que realiza, lo que implica mayor detalle.
+    *   **Base de legitimidad del tratamiento:** Se infiere el consentimiento para los datos suministrados voluntariamente ("SQM recoge los datos personales que voluntariamente nos suministra"). Sin embargo, no se explicita la base de legitimidad para todos los tratamientos (ej. para el uso de cookies o para la "mejora del contenido y funcionalidad" que podría basarse en interés legítimo).
+    *   **Intereses legítimos (si aplica):** Si algún tratamiento se basa en la satisfacción de intereses legítimos, no se especifican cuáles serían estos.
+*   **Artículo 14 ter literal f) (Derechos del titular: acceso, rectificación, supresión, oposición y portabilidad):**
+    *   No se informa explícitamente al titular sobre su derecho a solicitar acceso, rectificación, supresión, oposición y portabilidad de sus datos personales.
+    *   No se describe el procedimiento para ejercer estos derechos ante el responsable.
+*   **Artículo 14 ter literal g) (Derecho a recurrir ante la Agencia):**
+    *   No se informa al titular sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales en caso de que el responsable rechace o no responda oportunamente sus solicitudes.
+*   **Artículo 14 ter literal h) (Transferencia internacional de datos):**
+    *   No se informa si se realizan transferencias de datos personales a terceros países u organizaciones internacionales.
+    *   En caso de realizarse, no se indica si estos ofrecen un nivel adecuado de protección o las garantías que justificarían tal transferencia.
+*   **Obligaciones Generales (página 10 del extracto legal):**
+    *   **Literal b) (Recoger datos de fuentes lícitas, fines específicos, explícitos y lícitos, limitación al cumplimiento de estos fines):** Las finalidades declaradas son genéricas, lo que dificulta evaluar la especificidad y licitud completa.
+*   **Artículo 34 bis literal b) (Infracciones leves - carecer de individualización de domicilio postal, correo electrónico):** La ausencia de un domicilio postal y un correo electrónico claramente designado para solicitudes de los titulares constituye un incumplimiento.
+*   **Notificación de Cambios:** La frase "SQM se reserva el derecho a actualizar o modificar esta declaración de privacidad en cualquier momento sin previo aviso" es contraria al principio de transparencia y podría ser problemática, aunque luego se matiza con el envío de una alerta. La ley exige que la información sea clara y accesible.
+
+---
+
+### 4. Recomendaciones para Mejorar el Cumplimiento
+
+Para alinear la política de privacidad de SQM con la Ley 21.719, se recomienda:
+
+1.  **Individualización Completa (Art. 14 ter b):**
+    *   Incluir el nombre completo y RUT del representante legal de SQM en Chile.
+    *   Designar e identificar a un Encargado de Prevención de Datos (DPO) o la persona/departamento responsable de la protección de datos, con sus datos de contacto.
+2.  **Canales de Contacto Claros (Art. 14 ter c):**
+    *   Especificar un domicilio postal en Chile.
+    *   Proporcionar una dirección de correo electrónico dedicada (ej. privacidad@sqm.com) o un formulario de contacto específico en el sitio web para que los titulares puedan ejercer sus derechos y realizar consultas sobre protección de datos.
+3.  **Detalle Exhaustivo del Tratamiento (Art. 14 ter d):**
+    *   Listar todas las categorías de datos personales que se tratan (ej. datos de identificación, datos de contacto, datos de navegación, datos profesionales, etc.).
+    *   Describir el universo de personas titulares de los datos (ej. visitantes del sitio web, solicitantes de información, candidatos a empleo, etc.).
+    *   Identificar claramente si los datos se comunican o ceden a terceros (ej. proveedores de servicios, empresas del grupo, autoridades) y con qué fines.
+    *   Detallar todas las finalidades específicas para cada tratamiento de datos. Por ejemplo, en lugar de "mejorar el contenido", especificar "análisis estadístico del uso del sitio para optimizar la navegación y los contenidos ofrecidos".
+    *   Para cada finalidad, indicar la base de legitimidad (consentimiento, ejecución de contrato, obligación legal, interés legítimo, etc.).
+    *   Si se invoca el interés legítimo, explicar detalladamente en qué consiste dicho interés y cómo se ha ponderado frente a los derechos de los titulares.
+4.  **Información sobre Derechos de los Titulares (Art. 14 ter f):**
+    *   Enumerar explícitamente los derechos de acceso, rectificación, supresión, oposición y portabilidad.
+    *   Describir de manera clara y sencilla el procedimiento que los titulares deben seguir para ejercer estos derechos, incluyendo los canales habilitados para ello y los plazos de respuesta esperados.
+5.  **Derecho a Reclamar ante la Agencia (Art. 14 ter g):**
+    *   Informar a los titulares de su derecho a presentar una reclamación ante la Agencia de Protección de Datos Personales de Chile si consideran que sus derechos no han sido debidamente atendidos por SQM.
+6.  **Transferencias Internacionales (Art. 14 ter h):**
+    *   Declarar si se realizan transferencias internacionales de datos personales.
+    *   En caso afirmativo, indicar los países u organizaciones destinatarias, si cuentan con un nivel adecuado de protección y, de no ser así, las garantías adoptadas (ej. cláusulas contractuales tipo, normas corporativas vinculantes).
+7.  **Revisión de la Cláusula de "Notificación de Cambios":**
+    *   Eliminar la frase "sin previo aviso" para la modificación de la política. Aunque se mencione una alerta, la práctica recomendada es notificar los cambios con antelación razonable o, al menos, no declarar explícitamente que se harán sin aviso.
+8.  **Cookies:**
+    *   Detallar los tipos de cookies utilizadas (necesarias, de rendimiento, de funcionalidad, de publicidad), su finalidad específica, su duración y si son propias o de terceros.
+    *   Implementar un banner o sistema de gestión de consentimiento de cookies que permita al usuario aceptar o rechazar las cookies no esenciales antes de su instalación, en línea con el requisito de consentimiento explícito.
+9.  **Lenguaje Claro y Accesible:** Asegurar que toda la política esté redactada en un lenguaje claro, sencillo y fácilmente comprensible para el ciudadano medio.
+
+---
+
+### 5. Puntuación General de Cumplimiento (Artículo 14 ter)
+
+*   **a) Versión actualizada:** ✅ (Con observaciones sobre la notificación "sin previo aviso")
+*   **b) Individualización del responsable y su representante legal y la identificación del encargado de prevención:** ❎
+*   **c) Domicilio postal, la dirección de correo electrónico, el formulario de contacto o medio tecnológico equivalente para solicitudes:** ❎
+*   **d) Categorías, clases o tipos de datos; universo de personas; destinatarios; finalidades; base de legitimidad; intereses legítimos:** ❎
+*   **e) Política y las medidas de seguridad adoptadas:** ✅
+*   **f) Derecho del titular para solicitar acceso, rectificación, supresión, oposición y portabilidad:** ❎
+*   **g) Derecho del titular de recurrir ante la Agencia:** ❎
+*   **h) Transferencia de datos personales a un tercer país u organización internacional y nivel de protección/garantías:** ❎
+
+---
+
+### 6. Puntuación Total
+
+**Total de ✅: 2 / 8**
+
+---
+
+**Conclusión General:**
+
+La política de privacidad de SQM, en su estado actual, presenta incumplimientos significativos respecto a las exigencias del artículo 14 ter de la Ley 19.628, modificada por la Ley 21.719. Si bien aborda aspectos básicos como la existencia de una política y medidas generales de seguridad, carece de la información detallada y los mecanismos específicos que la nueva legislación chilena exige para garantizar la transparencia y el ejercicio efectivo de los derechos de los titulares de datos personales. Se requiere una revisión y actualización profunda para alcanzar el cumplimiento normativo.

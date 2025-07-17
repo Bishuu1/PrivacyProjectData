@@ -1,0 +1,73 @@
+**EVALUACIÓN DE POLÍTICA DE PRIVACIDAD CONFORME A LA LEY CHILENA**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad proporcionada por "El Editor" (presumiblemente La Tercera) se centra en dos áreas principales:
+
+*   **Entrega de Información a Terceros:**
+    *   Declara que el sitio contiene enlaces a sitios web de terceros y que "El Editor" no es responsable de las prácticas de privacidad ni del contenido de dichos sitios, instando a los usuarios a revisar las políticas de esos terceros.
+    *   Afirma adherirse a estándares de la industria para la seguridad de la información personal, protegiéndola de accesos no autorizados.
+    *   Advierte que, como en toda actividad online, existe la posibilidad de intercepciones ilegales de información personal por terceros o mal uso por otros usuarios de información recolectada del sitio.
+*   **Publicidad a Terceros:**
+    *   Informa que utiliza compañías de publicidad de terceros (menciona eXelate) para mostrar anuncios en el sitio.
+    *   Estas compañías emplean cookies, .gifs de 1x1 píxel o guías web para medir y mejorar la efectividad de los anuncios.
+    *   Indica que estas compañías pueden usar "información anónima" sobre las visitas al sitio web y otros (fecha/hora del banner, banner mostrado, cookie, dirección IP) y que esta información "no recolectará ninguna información cuál pueda personalmente identificarte o pueda ser conectada a ti".
+    *   Señala que esta información puede usarse para preferencias de mercado online.
+    *   Proporciona un enlace para que los usuarios vean o cambien opciones de preferencia online con eXelate.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+Basándose estrictamente en los extractos de la Ley 19.628 proporcionados:
+
+*   **Información sobre cesión a terceros (parcial):** La política informa que se utiliza publicidad de terceros y que estas compañías pueden acceder a cierta información (aunque la califica de anónima). Esto se alinea parcialmente con la necesidad de informar sobre cesiones, aunque carece de detalles cruciales.
+*   **Mención de medidas de seguridad (genérica):** La política menciona que "El Editor se adhiere a los estándares reconocidos por la industria para asegurar cualquier información personal en nuestra posesión". Si bien es una declaración genérica, reconoce la necesidad de proteger los datos. (Referencia indirecta al espíritu del Art. 20 e) de la Ley 19.628, aunque este artículo aplica a órganos públicos, el principio de seguridad es general).
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+La política presenta varias omisiones e imprecisiones significativas en relación con los extractos de la Ley 19.628 proporcionados, especialmente con los requisitos de información al titular (página 11 de los extractos):
+
+*   **Falta de identificación clara del responsable y su domicilio:** La política habla de "El Editor". Aunque el pie de página de la web indica "© 2025 La Tercera", la política en sí misma debería identificar claramente al responsable del tratamiento y su domicilio legal en Chile. (Incumple p.11 c)).
+*   **Falta de información sobre la finalidad y base legal del tratamiento:** No se especifican todas las finalidades para las cuales se tratan los datos personales (más allá de la publicidad) ni la base jurídica que legitima dichos tratamientos (consentimiento, interés legítimo, obligación legal, etc.). (Incumple p.11 a)).
+*   **Información insuficiente sobre las categorías de datos tratados:** Solo se mencionan datos "anónimos" para publicidad (IP, cookie, etc.). No se detallan otras categorías de datos personales que presumiblemente se recolectan (ej. para suscripciones, comentarios, contacto), ni se aclara si la dirección IP es considerada dato personal. La afirmación de que la IP y cookies "no recolectarán ninguna información cuál pueda personalmente identificarte" es discutible y podría ser inexacta, ya que las direcciones IP pueden ser consideradas datos personales. (Incumple p.11 b) y potencialmente el deber de informar de manera "exacta, completa y actual" del Art. 20 c) si se aplicara analógicamente).
+*   **Omisión de la especificación de intereses legítimos:** Si el tratamiento se basara en intereses legítimos (por ejemplo, para la publicidad), estos no se especifican. (Incumple p.11 d)).
+*   **Descripción genérica de medidas de seguridad:** La referencia a "estándares reconocidos por la industria" es vaga y no detalla la política ni las medidas concretas adoptadas. (Cumplimiento muy débil de p.11 e)).
+*   **Omisión total de los derechos de los titulares:** No se informa al titular sobre su derecho a solicitar acceso, rectificación, supresión, oposición y portabilidad de sus datos personales. Este es un incumplimiento grave. (Incumple p.11 f)).
+*   **Omisión del derecho a recurrir ante la Agencia:** No se informa al titular sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales si el responsable rechaza o no responde oportunamente sus solicitudes. (Incumple p.11 g)).
+*   **Información insuficiente sobre transferencias internacionales:** Se menciona a eXelate, que probablemente opera internacionalmente. No se informa si se transfieren datos a un tercer país u organización internacional, si estos ofrecen un nivel adecuado de protección, o las garantías que justificarían tal transferencia si no hay nivel adecuado. (Incumple p.11 h)).
+*   **No se mencionan los plazos de conservación de los datos.**
+*   **No se establece un procedimiento claro para que los titulares ejerzan sus derechos.**
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+Para alinear la política de privacidad con los requisitos de la Ley 19.628 (según los extractos proporcionados), se recomienda:
+
+1.  **Identificación del Responsable:** Incluir el nombre completo o razón social del responsable del tratamiento de datos (ej. "La Tercera S.A."), su RUT y domicilio legal en Chile.
+2.  **Finalidades y Base Legal:** Detallar explícitamente cada una de las finalidades para las que se recolectan y tratan datos personales (ej. gestión de suscripciones, envío de newsletters, personalización de contenido, publicidad dirigida, análisis estadístico, etc.) y la base legal para cada una (consentimiento del titular, cumplimiento de obligación legal, interés legítimo del responsable, etc.).
+3.  **Categorías de Datos:** Especificar claramente todas las categorías de datos personales que se tratan (ej. nombre, correo electrónico, dirección IP, historial de navegación, datos de pago, etc.). Aclarar el tratamiento de la dirección IP como dato personal.
+4.  **Intereses Legítimos:** Si se invoca el interés legítimo como base para algún tratamiento, detallar cuáles son esos intereses.
+5.  **Medidas de Seguridad:** Describir de forma más concreta las medidas técnicas y organizativas implementadas para proteger los datos personales, en lugar de una mención genérica a "estándares de la industria".
+6.  **Derechos de los Titulares:** Incorporar una sección clara y detallada que informe a los titulares sobre sus derechos de acceso, rectificación, supresión (cancelación), oposición y portabilidad, y explicar el procedimiento para ejercerlos (ej. un correo electrónico de contacto específico, un formulario).
+7.  **Agencia de Protección de Datos:** Informar a los titulares sobre su derecho a presentar reclamos ante la Agencia de Protección de Datos Personales.
+8.  **Transferencias Internacionales:** Si se realizan transferencias internacionales de datos (ej. a través de eXelate u otros proveedores de servicios en el extranjero), identificar los países destinatarios, indicar si cuentan con un nivel adecuado de protección y, en caso contrario, las garantías adoptadas (ej. cláusulas contractuales tipo).
+9.  **Plazos de Conservación:** Establecer los plazos durante los cuales se conservarán los datos personales o los criterios utilizados para determinar dichos plazos.
+10. **Cookies:** Detallar de forma más exhaustiva el uso de cookies y tecnologías similares, los tipos de cookies, su finalidad, si son propias o de terceros, y cómo el usuario puede gestionarlas o deshabilitarlas (más allá del enlace específico de eXelate).
+11. **Lenguaje Claro y Sencillo:** Redactar la política en un lenguaje claro, sencillo y fácilmente comprensible para el usuario medio.
+
+**5. Puntuación general de cumplimiento**
+
+Evaluación basada en los requisitos de información al titular (página 11 de los extractos de la Ley 19.628):
+
+*   a) Propósitos del tratamiento y base legal: ❎
+*   b) Categorías de datos tratados: ❎
+*   c) Identidad y domicilio del responsable (y encargado, si aplica): ❎
+*   d) Intereses legítimos (si se basan en ellos): ❎
+*   e) Política y medidas de seguridad: ❎ (Demasiado genérico para considerarse cumplimiento)
+*   f) Derechos del titular (acceso, rectificación, supresión, oposición, portabilidad): ❎
+*   g) Derecho a recurrir ante la Agencia: ❎
+*   h) Transferencia de datos a tercer país u organización internacional: ❎
+
+**6. Puntuación total**
+
+Puntuación total: **0 ✅ / 8 secciones evaluadas.**
+
+La política de privacidad proporcionada presenta deficiencias significativas en cuanto al cumplimiento de los requisitos informativos básicos establecidos en los extractos de la Ley 19.628. Requiere una revisión y actualización exhaustiva para adecuarse a la normativa chilena de protección de datos personales.

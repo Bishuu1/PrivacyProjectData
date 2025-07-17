@@ -1,0 +1,93 @@
+**Evaluación de la Política de Privacidad de Netflix bajo la Ley 21.719 de Chile**
+
+A continuación, se presenta una evaluación detallada de la política de privacidad de Netflix en relación con los requisitos establecidos por la Ley 21.719 sobre protección de datos personales en Chile.
+
+**1. Resumen de los puntos principales de la política de privacidad de Netflix**
+
+La política de privacidad de Netflix detalla:
+*   **Información de Contacto:** Proporciona un correo electrónico (`privacy@netflix.com`) para el Responsable de Protección de Datos y un enlace (`netflix.com/legal/corpinfo`) para identificar a la entidad responsable de los datos.
+*   **Recopilación de Información:** Describe exhaustivamente las categorías de información personal que recopila, incluyendo: información personal (contacto, autenticación, nombre, teléfono, dirección, género, fecha de nacimiento para planes con anuncios), información de pago, información del perfil/cuenta, información de uso (interacciones, actividad de juego, historial, búsquedas), información de publicidad (para planes con anuncios), información de la red y del dispositivo (IDs, IP, características de software/hardware, cookies), y comunicaciones.
+*   **Fuentes de Información:** Especifica que la información se obtiene directamente del usuario, automáticamente mediante el uso del servicio, de Socios (fabricantes de TV, ISPs, operadores), de Proveedores de servicios (procesamiento de pagos, seguridad, marketing), de fuentes de dominio público y de Agencias publicitarias.
+*   **Uso de la Información:** Indica que la información se utiliza para prestar, mantener, mejorar y promover el servicio, incluyendo personalización y recomendaciones; administrar el negocio (pagos, comunicaciones transaccionales, soporte); investigar, analizar y mejorar los servicios; y permitir promociones e integraciones de Socios.
+*   **Divulgación de Información:** Aunque no se detalla explícitamente en la sección "Cómo usamos su información personal" a quién se divulga, las secciones "De dónde recopilamos" y "Categorías de información" implican divulgación a Socios, Proveedores de Servicios y Agencias Publicitarias. La política general de Netflix (no completamente extraída aquí) suele detallar más sobre la divulgación.
+*   **Derechos de Privacidad:** Menciona que se explican los derechos de privacidad y cómo ejercerlos, dirigiendo las consultas al Responsable de Protección de Datos.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+Basado en los extractos de la Ley 21.719 proporcionados:
+
+*   ✅ **Artículo 14 ter b) (Parcialmente): Individualización del responsable y encargado de prevención.**
+    *   Netflix identifica al "responsable de los datos" a través de un enlace (`netflix.com/legal/corpinfo`) y proporciona contacto para su "responsable de Protección de Datos" (que podría asimilarse al "encargado de prevención"). No se menciona explícitamente al "representante legal" en el texto proporcionado de la política.
+*   ✅ **Artículo 14 ter c) Domicilio postal, correo electrónico, etc.**
+    *   Proporciona una dirección de correo electrónico (`privacy@netflix.com`) para contacto. El domicilio postal podría estar en la información corporativa enlazada.
+*   ✅ **Artículo 14 ter d) (Parcialmente): Categorías de datos, universo, destinatarios, finalidades.**
+    *   **Categorías, clases o tipos de datos que trata:** Cumple detalladamente.
+    *   **Descripción genérica del universo de personas:** Implícitamente son los usuarios del servicio de Netflix. Podría ser más explícito.
+    *   **Destinatarios a los que se prevé comunicar o ceder los datos:** Menciona Socios, Proveedores de Servicios, Agencias Publicitarias, lo que cubre la comunicación. La "cesión" a otro responsable necesitaría mayor claridad si ocurre.
+    *   **Finalidades de los tratamientos:** Cumple detalladamente.
+*   ✅ **Artículo 14 ter j) Fuente de la cual provienen los datos.**
+    *   Cumple, detallando si provienen directamente del titular, automáticamente, de socios, proveedores de servicios, fuentes públicas, etc.
+*   ✅ **Artículo 14 ter l) (Parcialmente): Existencia de decisiones automatizadas, incluida la elaboración de perfiles.**
+    *   Menciona "recomendaciones personalizadas" y "publicidades conductuales", lo que implica elaboración de perfiles y decisiones automatizadas. Enlaza a `netflix.com/recommendations` para más información sobre recomendaciones, lo que podría contener la lógica aplicada y consecuencias. La política principal debería resumir esta información.
+*   ✅ **Artículo 16 sexies (Parcialmente): Datos de geolocalización.**
+    *   Menciona la recopilación de direcciones IP que "pueden usarse para determinar la ubicación general de su dispositivo, como su ciudad, estado/provincia y código postal". Informa que esto se usa para personalizar el servicio. Si solo se trata de ubicación general derivada de IP, la información proporcionada podría ser suficiente. Si se trata de geolocalización más precisa, se requeriría mayor detalle sobre duración y cesión a terceros para servicios de valor añadido.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+*   ❎ **Artículo 14 ter b) (Parcialmente): Individualización del representante legal.**
+    *   No se menciona explícitamente al "representante legal" del responsable de datos en Chile dentro del texto de la política proporcionada.
+*   ❎ **Artículo 14 ter d) (Principalmente): Base de legitimidad del tratamiento e intereses legítimos.**
+    *   La política describe las finalidades, pero **no especifica la base de legitimidad** para cada tratamiento conforme a la ley chilena (consentimiento, ejecución de contrato, interés legítimo, obligación legal, etc.). Tampoco detalla cuáles serían los intereses legítimos si esa fuera la base para algún tratamiento. Este es un incumplimiento significativo.
+*   ❎ **Artículo 14 ter e) Política y medidas de seguridad.**
+    *   La política proporcionada no describe "la política y las medidas de seguridad adoptadas para proteger las bases de datos personales". Generalmente, las políticas de privacidad públicas son genéricas en este punto, pero la ley chilena exige esta información.
+*   ❎ **Artículo 14 ter f) Derecho del titular a solicitar acceso, rectificación, supresión, oposición y portabilidad.**
+    *   Si bien la política menciona que "se explican sus derechos de privacidad y cómo puede ejercerlos", no enumera explícitamente los derechos de acceso, rectificación, supresión, oposición y portabilidad conforme a la ley chilena en el texto proporcionado.
+*   ❎ **Artículo 14 ter g) Derecho del titular de recurrir ante la Agencia.**
+    *   No se informa al titular sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales en caso de que el responsable rechace o no responda oportunamente sus solicitudes.
+*   ❎ **Artículo 14 ter h) Transferencia de datos personales a un tercer país u organización internacional.**
+    *   Siendo Netflix una empresa global, es seguro que existen transferencias internacionales. La política no especifica si estos países u organizaciones ofrecen un nivel adecuado de protección según los estándares chilenos, ni las garantías que justificarían tal transferencia en caso de no existir un nivel adecuado.
+*   ❎ **Artículo 14 ter i) Período durante el cual se conservarán los datos personales.**
+    *   La política no establece un período específico de conservación de los datos personales o, al menos, los criterios utilizados para determinar dicho plazo.
+*   ❎ **Artículo 14 ter k) Derecho a retirar el consentimiento.**
+    *   Si alguno de los tratamientos se basa en el consentimiento del titular (por ejemplo, para ciertos tipos de publicidad o cookies no esenciales), la política debe informar explícitamente sobre la existencia del derecho a retirarlo en cualquier momento y cómo hacerlo, sin que ello afecte la licitud del tratamiento previo. No se observa esta mención de forma clara y generalizada.
+*   ❎ **Artículo 14 ter l) (Parcialmente): Información significativa sobre lógica aplicada y consecuencias de decisiones automatizadas.**
+    *   Aunque se menciona la personalización y se enlaza a más información, la política principal debería contener un resumen más claro sobre la "lógica aplicada" y las "consecuencias previstas" para el titular de la elaboración de perfiles y decisiones automatizadas, más allá de solo "recomendar contenido".
+*   ❎ **Artículo 16 sexies (Parcialmente): Datos de geolocalización.**
+    *   Si se recopilan datos de geolocalización más precisos que la ubicación general derivada de IP (ej. GPS en app móvil), la política debería detallar de forma más explícita el tipo de datos, la duración específica del tratamiento y si se comunican o ceden a terceros para servicios con valor añadido, cumpliendo con el deber de información "clara, suficiente y oportuna".
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+Para alinear la política de privacidad de Netflix con la Ley 21.719 de Chile, se recomienda:
+
+1.  **Individualización Completa:** Incluir explícitamente la individualización del representante legal del responsable de datos en Chile.
+2.  **Base de Legitimidad:** Para cada finalidad de tratamiento, especificar claramente la base de legitimidad que lo justifica (consentimiento, contrato, interés legítimo, obligación legal, etc.). Si se invoca el interés legítimo, detallar cuál es.
+3.  **Política y Medidas de Seguridad:** Describir, al menos de forma general pero suficiente, la política y las medidas de seguridad implementadas para proteger los datos personales.
+4.  **Enumeración de Derechos ARSOPP:** Listar explícitamente los derechos de acceso, rectificación, supresión, oposición y portabilidad, y los mecanismos para ejercerlos.
+5.  **Derecho a Reclamar ante la Agencia:** Informar al titular de su derecho a recurrir ante la Agencia de Protección de Datos Personales de Chile.
+6.  **Transferencias Internacionales:** Detallar las transferencias internacionales de datos, los países destinatarios, si cuentan con un nivel adecuado de protección y, en caso contrario, las garantías adoptadas (ej. cláusulas contractuales tipo adaptadas a Chile, si aplica).
+7.  **Período de Conservación:** Establecer los plazos de conservación de los datos personales o los criterios claros para determinar dichos plazos para cada categoría de datos y finalidad.
+8.  **Derecho a Retirar el Consentimiento:** Si se utiliza el consentimiento como base de legitimidad para algún tratamiento, indicar claramente el derecho a retirarlo en cualquier momento y el procedimiento para ello.
+9.  **Decisiones Automatizadas y Perfiles:** Integrar en la política principal información más significativa sobre la lógica aplicada en la elaboración de perfiles y decisiones automatizadas, así como las consecuencias previstas para el titular.
+10. **Datos de Geolocalización Específicos:** Si se tratan datos de geolocalización más allá de la IP (ej. GPS), detallar el tipo de dato, finalidad específica, duración del tratamiento y si se comunican o ceden a terceros para servicios con valor añadido.
+11. **Adaptación Lingüística y Legal:** Asegurar que la terminología utilizada se alinee con la ley chilena (ej. "cesión" vs "divulgación", "encargado de tratamiento" vs "proveedor de servicios" cuando actúan por cuenta del responsable).
+
+**5. Puntuación general de cumplimiento**
+
+*   Artículo 14 ter b) (Individualización responsable, rep. legal, encargado prevención): ❎ (Parcialmente, falta representante legal explícito)
+*   Artículo 14 ter c) (Contacto): ✅
+*   Artículo 14 ter d) (Categorías, universo, destinatarios, finalidades, base legitimidad, int. legítimos): ❎ (Falta base de legitimidad e intereses legítimos)
+*   Artículo 14 ter e) (Política y medidas de seguridad): ❎
+*   Artículo 14 ter f) (Derechos ARSOPP): ❎
+*   Artículo 14 ter g) (Derecho a recurrir ante la Agencia): ❎
+*   Artículo 14 ter h) (Transferencia internacional): ❎
+*   Artículo 14 ter i) (Período de conservación): ❎
+*   Artículo 14 ter j) (Fuente de los datos): ✅
+*   Artículo 14 ter k) (Derecho a retirar consentimiento): ❎
+*   Artículo 14 ter l) (Decisiones automatizadas, perfiles): ❎ (Parcialmente, falta detalle en política principal)
+*   Artículo 16 sexies (Datos de geolocalización): ❎ (Parcialmente, si va más allá de IP general)
+
+**6. Puntuación total**
+
+Sumando los ✅ del total de secciones evaluadas (considerando los 12 puntos específicos del Art. 14 ter y Art. 16 sexies como ítems separados):
+
+**Puntuación Total: 2 / 12**

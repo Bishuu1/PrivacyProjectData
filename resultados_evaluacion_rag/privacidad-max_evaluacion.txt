@@ -1,0 +1,81 @@
+**Evaluación de la Política de Privacidad de Max con Respecto a la Ley Chilena de Protección de Datos Personales (Basada en los Artículos Proporcionados)**
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad de Max**
+
+La política de privacidad de Max, actualizada el 27 de febrero de 2024, describe cómo Warner Bros. Discovery (WBD) y su familia de empresas recopilan, usan y divulgan información personal de los usuarios de sus diversos servicios (Max, CNN, WB Games, etc.).
+
+*   **Responsable del Tratamiento:** Se indica que diferentes miembros de WBD son responsables dependiendo del servicio, y se remite a una "Lista de Responsables" y "Lista de Afiliadas".
+*   **Exclusión:** No aplica a servicios dirigidos a menores, para los cuales existe una "Política de Privacidad Infantil".
+*   **Información Recopilada:** Detalla diversas categorías de información, incluyendo: de contacto y cuenta, de pago y compras, demográfica (incluyendo datos sensibles como salud, raza, creencias religiosas, orientación sexual), de ubicación (aproximada y precisa), técnica y de dispositivos, fotos/videos/audios, de uso y visualización (incluyendo interacciones detalladas como clics y pulsaciones), de redes sociales, y otra información proporcionada por el usuario (encuestas, comunicaciones, datos biométricos en estudios).
+*   **Fuentes de Información:** Además de la información proporcionada por el usuario, se obtiene de amigos, empresas autorizadas por el usuario, sitios web y herramientas vinculadas, fuentes de acceso público, proveedores de tecnología y servicios de WBD, socios comerciales y publicitarios, y empresas conjuntas o socios promocionales.
+*   **Uso de la Información:** Los fines incluyen la prestación de servicios (streaming, juegos, visitas a estudios), mejora de servicios, comunicaciones, publicidad y marketing, funcionamiento del negocio, seguridad y prevención del fraude, cumplimiento legal y de términos de uso, y otros fines con consentimiento. Se menciona la derivación de datos agregados y la retención de información "mientras la necesitemos para conseguir los fines para los que la usamos". Se remite a un "Cuadro de Bases Legales" para el RGPD y leyes equiparables.
+*   **Divulgación de Información:** Se comparte con proveedores de servicios, y se infiere que también con afiliadas y socios comerciales.
+*   **Cookies y Otros Identificadores:** Se menciona una sección sobre este tema.
+*   **Control de la Información:** Se indica una sección sobre cómo el usuario puede controlar su información.
+*   **Transferencias Internacionales:** Se menciona una sección dedicada.
+*   **Cambios a la Política:** Se prevé la posibilidad de cambios.
+*   **Contacto:** Se proporciona información sobre cómo contactar a WBD.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley (Según Artículos Proporcionados)**
+
+*   ✅ **Art. (info en políticas) b) Individualización del responsable (parcial):** La política identifica que WBD es la familia de empresas y remite a una "Lista de Responsables" para la entidad específica.
+*   ✅ **Art. (info en políticas) c) Domicilio postal, correo electrónico, etc.:** La sección "Cómo contactarnos" (aunque no detallada en el extracto) y la mención de métodos de contacto para preguntas sobre el responsable sugieren que se proporciona esta información.
+*   ✅ **Art. (info en políticas) d) Categorías de datos, descripción del universo de personas, destinatarios, finalidades, base de legitimidad:**
+    *   **Categorías de datos:** Detalladas en "Información que recopilamos".
+    *   **Descripción del universo de personas:** Implícitamente son los usuarios de los servicios de WBD.
+    *   **Destinatarios:** Mencionados en "¿A quién le revelamos su información?" (Proveedores de servicios, se infiere afiliadas y socios).
+    *   **Finalidades:** Detalladas en "Cómo utilizamos la Información que recopilamos".
+    *   **Base de legitimidad:** Se remite a un "Cuadro de Bases Legales", lo cual es una práctica aceptable si dicho cuadro es accesible y claro.
+*   ✅ **Art. (info en políticas) f) Derecho de acceso, rectificación, supresión, oposición y portabilidad:** La sección "Cómo puede controlar su Información" está destinada a cubrir estos derechos.
+*   ✅ **Art. (info en políticas) h) Transferencia de datos personales a tercer país:** Existe una sección "Transferencias internacionales", que se presume aborda los requisitos de adecuación o garantías.
+*   ✅ **Art. (info a sujetos) j) Fuente de los datos personales (incluyendo fuentes de acceso público):** La sección "Nuestras fuentes de Información" menciona explícitamente "Fuentes de acceso público".
+*   ✅ **Art. 16 sexies - Datos de geolocalización (parcial):** Se informa sobre la recopilación de "Información de la ubicación" (aproximada y precisa) y su uso para personalización.
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley (Según Artículos Proporcionados)**
+
+*   ❎ **Art. (info a sujetos) i) Periodo de conservación de los datos personales:** La política indica "Solo conservamos Información mientras la necesitemos para conseguir los fines para los que la usamos, como lo permite la legislación". Esto es demasiado genérico y no cumple con la exigencia de informar "el periodo durante el cual se conservarán los datos personales" o, al menos, los criterios utilizados para determinar ese plazo de forma más específica para las distintas categorías de datos o finalidades.
+*   ❎ **Art. (info a sujetos) k) Derecho a retirar el consentimiento:** Si bien se menciona que se pedirá consentimiento "cuando lo exija la ley" y que se puede usar información "con su consentimiento", no se explicita claramente "la existencia del derecho a retirarlo en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo a su retirada". Esta precisión es fundamental.
+*   ❎ **Art. (info a sujetos) l) Existencia de decisiones automatizadas, incluida la elaboración de perfiles (lógica y consecuencias):** La política menciona personalización, recomendaciones, modelado, segmentación y publicidad dirigida, lo que implica decisiones automatizadas y perfiles. Sin embargo, no proporciona "información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular". La información es muy general.
+*   ❎ **Art. 14 quáter - Deber de protección desde el diseño y por defecto:** La política no menciona explícitamente la adopción de este principio fundamental en el desarrollo y operación de sus servicios.
+*   ❎ **Art. (info en políticas) b) Individualización del representante legal y encargado de prevención:** La política remite a una lista de responsables, pero no menciona la figura del "representante legal" en Chile para cada responsable, ni la "identificación del encargado de prevención, si existiere" (equivalente al DPO). Esto es crucial para la rendición de cuentas local.
+*   ❎ **Art. (info en políticas) e) Política y medidas de seguridad adoptadas:** La política menciona la seguridad como un fin ("Seguridad, protección y prevención del fraude") pero no describe "la política y las medidas de seguridad adoptadas para proteger las bases de datos personales que administra". Se requiere una descripción, aunque sea general, de las medidas técnicas y organizativas.
+*   ❎ **Art. (info en políticas) g) Derecho a recurrir ante la Agencia:** No se menciona el derecho que asiste al titular de recurrir ante la Agencia de Protección de Datos Personales de Chile en caso de que el responsable rechace o no responda oportunamente sus solicitudes.
+*   ❎ **Art. 16 sexies - Datos de geolocalización (parcial):** Aunque se informa la recolección y finalidad general, no se detalla la "duración del tratamiento" específica para datos de geolocalización, ni se aclara de forma explícita "si los datos se comunicarán o cederán a un tercero para la prestación de un servicio con valor añadido" relacionado específicamente con la geolocalización.
+*   ❎ **Art. (ejercicio de derechos) - Mecanismos expeditos, ágiles, eficaces y gratuitos:** Si bien existe la sección "Cómo puede controlar su Información", la política no detalla si los mecanismos son "expeditos, ágiles y eficaces" y "sencillos en su operación". Tampoco se especifica que el ejercicio de los derechos de rectificación, supresión y oposición son "siempre gratuitos", ni que el acceso es gratuito "al menos trimestralmente", ni las condiciones para el cobro de costos directos por solicitudes reiteradas de acceso o portabilidad.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Periodo de Conservación:** Especificar los periodos de conservación para las distintas categorías de datos o, en su defecto, los criterios claros y precisos utilizados para determinar dichos plazos (ej. "mientras dure la suscripción y por X años más para cumplir obligaciones legales").
+2.  **Retiro del Consentimiento:** Incluir una cláusula explícita que informe sobre el derecho a retirar el consentimiento en cualquier momento, y que dicho retiro no afectará la licitud del tratamiento previo.
+3.  **Decisiones Automatizadas:** Proveer información más significativa sobre la lógica aplicada en la elaboración de perfiles y decisiones automatizadas (ej. principales parámetros considerados para recomendaciones o publicidad) y las consecuencias concretas para el titular (ej. tipo de contenido o publicidad que verá).
+4.  **Privacidad desde el Diseño y por Defecto:** Incorporar una declaración sobre el compromiso de WBD con los principios de privacidad desde el diseño y por defecto en el desarrollo y operación de sus servicios.
+5.  **Identificación Local:** Para los usuarios en Chile, identificar claramente al responsable específico del tratamiento dentro del grupo WBD que opera en Chile, su representante legal en Chile, y el "encargado de prevención" (DPO) o punto de contacto para la protección de datos en Chile, con datos de contacto locales si es posible.
+6.  **Medidas de Seguridad:** Describir, al menos de forma general, las medidas técnicas y organizativas implementadas para proteger los datos personales (ej. cifrado, controles de acceso, políticas de seguridad interna).
+7.  **Derecho a Reclamar ante la Agencia:** Informar explícitamente a los titulares en Chile sobre su derecho a presentar reclamos ante la Agencia de Protección de Datos Personales de Chile.
+8.  **Datos de Geolocalización:** Detallar la duración específica del tratamiento de datos de geolocalización y si estos se ceden a terceros para servicios de valor añadido, especificando cuáles.
+9.  **Ejercicio de Derechos:** Asegurar que la sección "Cómo puede controlar su Información" detalle que los mecanismos son ágiles y sencillos, y especificar la gratuidad de los derechos ARCO y las condiciones de acceso trimestral gratuito, conforme a la ley chilena.
+10. **Lenguaje Claro y Accesible:** Aunque la política es extensa, asegurar que la información crucial sea fácilmente comprensible para el usuario medio, especialmente en lo referente a sus derechos y cómo ejercerlos. Considerar un resumen específico para Chile o un anexo que aborde los puntos de la ley chilena.
+
+**5. Puntuación General de Cumplimiento (Según Artículos Proporcionados)**
+
+*   Art. (info a sujetos) i) Periodo de conservación: ❎
+*   Art. (info a sujetos) j) Fuente de los datos: ✅
+*   Art. (info a sujetos) k) Derecho a retirar consentimiento: ❎
+*   Art. (info a sujetos) l) Decisiones automatizadas: ❎
+*   Art. 14 quáter - Privacidad desde el diseño y por defecto: ❎
+*   Art. (info en políticas) b) Individualización del responsable, rep. legal, encargado prevención: ❎ (parcialmente cumple con responsable, pero falta rep. legal y encargado)
+*   Art. (info en políticas) c) Contacto del responsable: ✅
+*   Art. (info en políticas) d) Categorías, finalidades, base legitimidad, etc.: ✅
+*   Art. (info en políticas) e) Política y medidas de seguridad: ❎
+*   Art. (info en políticas) f) Derechos ARCOP: ✅
+*   Art. (info en políticas) g) Derecho a recurrir ante la Agencia: ❎
+*   Art. (info en políticas) h) Transferencia internacional: ✅
+*   Art. 16 sexies - Datos de geolocalización: ❎ (parcialmente cumple, pero faltan detalles)
+*   Art. (ejercicio de derechos) - Mecanismos y gratuidad: ❎
+
+**6. Puntuación Total**
+
+✅: 5
+❎: 9
+
+**Puntuación Total: 5 / 14**

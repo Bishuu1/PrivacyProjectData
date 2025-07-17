@@ -1,0 +1,82 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE COPEC S.A. Y FILIALES FRENTE A LA LEY CHILENA DE PROTECCIÓN DE DATOS PERSONALES (BASADA EN EXTRACTOS PROPORCIONADOS)**
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad**
+
+La política de privacidad de COPEC S.A. y sus filiales (en adelante "la Sociedad") establece su compromiso con la protección de datos personales de Clientes y/o Usuarios. Detalla cómo se accede, trata y protege la información, ya sea proporcionada directamente o recolectada a través de diversos canales (puntos de venta, estaciones de servicio, sitios web, aplicaciones móviles, etc.).
+
+Principales aspectos:
+*   **Aplicación:** Define el grupo de compañías que componen "la Sociedad" y excluye sitios de terceros.
+*   **Marco Normativo:** Declara conformidad con la Ley N°19.628 y Ley N°19.496.
+*   **Responsable del Tratamiento:** Designa a Copec S.A. como responsable, proporcionando RUT, representante legal, domicilio, teléfono y correo de contacto.
+*   **Definiciones:** Incluye términos clave como Cliente, Consentimiento, Datos Personales, Datos Sensibles, Encargado, Responsable, Titular, Tratamiento, Transferencia, Transmisión.
+*   **Licitud del Tratamiento:** Fundamenta el tratamiento en el consentimiento expreso, contratos y la ley vigente.
+*   **Finalidad del Tratamiento:** Detalla objetivos generales (prestación de servicios, cumplimiento legal, confirmación de información, seguridad) y específicos (operativos para apps, comerciales, operacionales para retiros de productos, preventivos incluyendo grabación de llamadas y CCTV, e históricos/estadísticos). Autoriza el compartir datos dentro del grupo de la Sociedad para estos fines.
+*   **Traspaso de Datos:** Especifica que los datos pueden compartirse con las empresas del grupo, concesionarios, consignatarios, franquiciados, y proveedores de servicios necesarios. También en situaciones como actualización de relaciones contractuales, cumplimiento de obligaciones, prevención de delitos y respuesta a autoridades.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley (Según Extractos Proporcionados)**
+
+Basándose en los extractos de la ley proporcionados (principalmente Ley 19.628, aunque la solicitud menciona Ley 21.719):
+
+*   ✅ **Art. 13.b (parcial) - Individualización del responsable y su representante legal:** La política identifica a Copec S.A. como responsable (IV. RESPONSABLE DEL TRATAMIENTO DE DATOS), su RUT (99.520.000-7) y a Arturo Natho Gamboa como Representante Legal.
+*   ✅ **Art. 13.c - Domicilio postal, dirección de correo electrónico, medio de contacto:** Se proporciona el domicilio (EL BOSQUE NORTE 0211 Y/O AV ISIDORA GOYENECHEA 2915), teléfono ((56 2)2 461 7000) y una casilla de correo electrónico de contacto (llamanos@copec.cl) (IV. RESPONSABLE DEL TRATAMIENTO DE DATOS).
+*   ✅ **Art. 13.d (parcial) - Categorías de datos, descripción del universo de personas, destinatarios, finalidades, base de legitimidad:**
+    *   **Categorías de datos:** Se definen "Datos Personales" y "Datos Sensibles" con ejemplos (V. DEFINICIONES).
+    *   **Universo de personas:** Se refiere a "Clientes y/o Usuarios" (V. DEFINICIONES).
+    *   **Destinatarios:** Se mencionan las empresas del grupo, concesionarios, franquiciados y proveedores (VIII. TRASPASO DE DATOS).
+    *   **Finalidades:** Se detallan en la sección VII. FINALIDAD DEL TRATAMIENTO DE DATOS.
+    *   **Base de legitimidad:** Se menciona el consentimiento, los contratos y la ley vigente (VI. LICITUD DEL TRATAMIENTO DE DATOS).
+*   ✅ **Obligaciones (Art. no especificado) b) - Recoger datos con fines específicos, explícitos y lícitos:** La política declara que el tratamiento se limita al cumplimiento de fines específicos y explícitos (VII. FINALIDAD DEL TRATAMIENTO DE DATOS).
+*   ✅ **Art. 3.a - Principio de licitud y lealtad:** La política declara su compromiso con la privacidad y el cumplimiento normativo (I. NUESTRO COMPROMISO, III. MARCO NORMATIVO, VI. LICITUD DEL TRATAMIENTO DE DATOS).
+*   ✅ **Art. 3.b - Principio de finalidad:** Las finalidades son recolectadas con fines específicos, explícitos y lícitos (VII. FINALIDAD DEL TRATAMIENTO DE DATOS).
+*   ✅ **Art. 12 - Regla general del tratamiento de datos (consentimiento):** La política enfatiza la obtención del consentimiento libre, informado y específico (V.b DEFINICIONES, VI. LICITUD DEL TRATAMIENTO DE DATOS).
+*   ✅ **Art. 15 (parcial) - Cesión de datos personales:** La política indica que la cesión (denominada "traspaso") se realiza con el consentimiento del titular para los fines establecidos (VII. FINALIDAD DEL TRATAMIENTO DE DATOS, VIII. TRASPASO DE DATOS).
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen o Cumplen Parcialmente con la Ley (Según Extractos Proporcionados)**
+
+*   ❎ **Marco Normativo Desactualizado:** La política cita la Ley N°19.628 y la Ley N°19.496 (III. MARCO NORMATIVO). Si bien la Ley 19.628 sigue vigente en muchos aspectos, la Ley 21.719 (mencionada en la tarea) introduce modificaciones sustanciales y crea la Agencia de Protección de Datos Personales. La política debería reflejar el marco normativo más actual y completo, incluyendo la Ley 21.719 una vez que sus disposiciones relevantes estén plenamente operativas y reemplacen o complementen a la 19.628. **Este es un punto crítico.**
+*   ❎ **Art. 13.a - Versión de la política:** La política no indica explícitamente un número de versión o fecha de última actualización en su encabezado o pie de página, lo cual es una buena práctica y requerido por la ley para identificar la versión aplicable.
+*   ❎ **Art. 13.b (parcial) - Identificación del encargado de prevención, si existiere:** No se menciona la existencia ni la identificación de un "encargado de prevención". Si existe, debe ser identificado.
+*   ❎ **Art. 13.d (parcial) - Intereses legítimos:** Si bien se mencionan finalidades como "fines preventivos" o "fines históricos", si alguna de estas se basa en la satisfacción de intereses legítimos como base de legitimidad (en lugar del consentimiento o contrato), la política debería especificar cuáles serían esos intereses legítimos de forma clara, tal como lo exige la ley. La política actual se basa principalmente en "consentimiento", "contratos" y "ley vigente".
+*   ❎ **Obligaciones (Art. no especificado) d) - Suprimir o anonimizar datos precontractuales:** La política no menciona explícitamente la obligación de suprimir o anonimizar los datos personales del titular cuando fueron obtenidos para la ejecución de medidas precontractuales y el contrato no se perfecciona.
+*   ❎ **Derechos de los Titulares (implícito en "solicitudes que realicen los titulares" Art. 13.c y en el espíritu de la ley):** Aunque la política menciona que los titulares pueden solicitar la cancelación de envíos de ofertas (VII.2.b), no detalla de forma clara y accesible el procedimiento para ejercer los derechos de acceso, rectificación, cancelación (supresión) y oposición (derechos ARCO), ni los nuevos derechos que podría introducir la Ley 21.719 (como portabilidad). La mención a "llamanos@copec.cl" como contacto es general.
+*   ❎ **Transferencias Internacionales de Datos:** La política define "Transferencia de Datos Personales" (V.l) indicando que puede ser dentro o fuera del país. Sin embargo, no detalla las condiciones, salvaguardas o bases legales específicas bajo las cuales se realizarían transferencias internacionales, lo cual es un aspecto crucial en la protección de datos.
+*   ❎ **Claridad en la Cesión a Terceros:** Si bien se menciona la cesión a concesionarios, franquiciados y proveedores (VIII.2), y se indica que el consentimiento se obtiene al aceptar la política (VII), sería más robusto asegurar que el consentimiento para estas cesiones específicas sea suficientemente informado y específico, o que se detalle claramente cómo la cesión es necesaria para la ejecución del contrato o se basa en otro fundamento legal válido.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Actualizar el Marco Normativo:** Revisar y actualizar la sección III para reflejar la Ley 21.719 y sus implicaciones, una vez que sus disposiciones sean plenamente aplicables y reemplacen o modifiquen la Ley 19.628.
+2.  **Incluir Versión y Fecha:** Añadir un número de versión y fecha de última actualización visible en la política.
+3.  **Identificar al Encargado de Prevención:** Si existe un Encargado de Prevención de Delitos o una figura similar con responsabilidades en protección de datos, identificarlo conforme al Art. 13.b.
+4.  **Detallar Intereses Legítimos:** Si se utiliza la base de "intereses legítimos" para algún tratamiento, especificar claramente cuáles son esos intereses (Art. 13.d).
+5.  **Especificar Supresión de Datos Precontractuales:** Incluir una cláusula sobre la supresión o anonimización de datos obtenidos en fases precontractuales si el contrato no se concreta.
+6.  **Detallar Ejercicio de Derechos ARSOP:** Crear una sección específica que explique claramente los derechos de los titulares (Acceso, Rectificación, Supresión, Oposición, y Portabilidad si aplica bajo la nueva ley) y el procedimiento detallado para ejercerlos, incluyendo los canales específicos y plazos de respuesta.
+7.  **Regular Transferencias Internacionales:** Si se realizan transferencias internacionales de datos, detallar los países destinatarios (o criterios para determinarlos), las finalidades, las bases legales y las salvaguardas implementadas para proteger los datos.
+8.  **Clarificar Consentimiento para Cesiones:** Asegurar que el consentimiento para la cesión de datos a terceros (especialmente aquellos fuera del grupo directo de la Sociedad) sea inequívocamente específico e informado, o que la base legal para dicha cesión (ej. necesidad contractual) esté claramente justificada y explicada.
+9.  **Revisar Definiciones y Alcance:** Asegurar que todas las definiciones y el alcance de la política estén alineados con la terminología y requisitos de la Ley 21.719.
+10. **Lenguaje Claro y Sencillo:** Aunque la política es relativamente clara, revisar para asegurar que sea fácilmente comprensible para el ciudadano medio, evitando jerga legal innecesaria.
+
+**5. Puntuación General de Cumplimiento (Basada en Extractos de Ley 19.628 Proporcionados)**
+
+*   Marco Normativo (Referencia a Ley 21.719): ❎
+*   Art. 13.a (Versión de la política): ❎
+*   Art. 13.b (Individualización del responsable y representante legal): ✅
+*   Art. 13.b (Identificación del encargado de prevención, si existiere): ❎
+*   Art. 13.c (Domicilio postal, correo electrónico, medio de contacto): ✅
+*   Art. 13.d (Categorías, universo, destinatarios, finalidades, base de legitimidad): ✅
+*   Art. 13.d (Especificación de intereses legítimos, si aplica): ❎
+*   Obligaciones - Art. (no especificado) b (Fines específicos, explícitos, lícitos): ✅
+*   Obligaciones - Art. (no especificado) d (Suprimir/anonimizar datos precontractuales): ❎
+*   Art. 3.a (Principio de licitud y lealtad): ✅
+*   Art. 3.b (Principio de finalidad): ✅
+*   Art. 12 (Consentimiento libre, informado y específico): ✅
+*   Art. 15 (Cesión de datos con consentimiento/base legal): ✅
+*   Derechos de los Titulares (Acceso, Rectificación, Supresión, Oposición - ARSOP): ❎
+*   Transferencias Internacionales de Datos (Regulación y Salvaguardas): ❎
+
+**6. Puntuación Total**
+
+Total de ✅: 8
+Total de ❎: 7
+
+**Conclusión Parcial:**
+La política de privacidad de COPEC S.A. y filiales demuestra un esfuerzo por cumplir con varios aspectos de la Ley 19.628. Sin embargo, presenta omisiones importantes y áreas de mejora significativas para alinearse completamente con los requisitos de dicha ley y, fundamentalmente, para prepararse y cumplir con las exigencias de la más reciente Ley 21.719. La falta de referencia a la Ley 21.719 y la ausencia de detalles sobre el ejercicio de derechos ARSOP son las deficiencias más notables. Se recomienda una revisión exhaustiva y actualización de la política.

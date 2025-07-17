@@ -1,0 +1,84 @@
+**Evaluación de la Política de Privacidad de Clientes Entel (Noviembre 2022) frente a la Ley de Protección de Datos Personales de Chile**
+
+**Introducción**
+La presente evaluación analiza la Política de Privacidad de Clientes Entel, con fecha de actualización de noviembre de 2022, a la luz de las disposiciones pertinentes de la Ley N° 19.628 sobre Protección de la Vida Privada, según el texto proporcionado (que incluye referencias a futuras modificaciones o interpretaciones, dado el contexto de la Ley 21.719). Se examinará el cumplimiento de la política con los principios, obligaciones y derechos establecidos en la legislación chilena.
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad**
+La política de Entel establece los siguientes puntos clave:
+*   **Identificación del Responsable:** Identifica a EMPRESA NACIONAL DE TELECOMUNICACIONES S.A. y ENTEL PCS TELECOMUNICACIONES S.A. como responsables del tratamiento de datos.
+*   **Principios Rectores:** Adopta explícitamente principios como legalidad, finalidad, proporcionalidad, minimización, temporalidad, calidad, responsabilidad, seguridad y confidencialidad.
+*   **Compromisos:** Se compromete a usar datos para la ejecución de contratos, fines consentidos u obligaciones legales, solicitando solo datos necesarios. Invoca el Art. 4° de la Ley N° 19.628 para excepciones al consentimiento.
+*   **Finalidades del Tratamiento:** Detalla el uso de datos para:
+    *   **Ejecución del servicio:** Gestión de conectividad, facturación, calidad, reclamos.
+    *   **Comunicaciones comerciales:** Envío de publicidad propia o de terceros (con autorización), uso de empresas de marketing como encargados. Ofrece opt-out por canal específico.
+    *   **Mejora de experiencia y otras finalidades:** Análisis de datos (big data/no big data) para estudios, marketing, detección de fraude, informes estadísticos agregados. Uso de cookies para funcionalidad y rastreo para publicidad de terceros.
+*   **Comunicación de Datos:** Indica que podrá comunicar datos a empresas del grupo Entel, proveedores, socios comerciales (encargados) y organismos del Estado. Menciona transferencias nacionales y transfronterizas.
+*   **Fuentes y Tipos de Datos:** Describe cómo se recopilan (compra, uso de red, registro web/app, contacto, concursos) y qué datos se almacenan (identificativos, contractuales, de pago, tráfico, atención al cliente, geolocalización con consentimiento, cuenta online, facturación).
+*   **Conservación:** Por el tiempo necesario para la prestación del servicio o según plazos legales (ej. 1 año para IPs según CPP).
+*   **Seguridad:** Afirma tomar medidas para proteger los datos, incluyendo contraseñas y estándares de protección.
+*   **Derechos del Titular:** Menciona el derecho de acceso y rectificación, con mecanismos para ejercerlos. El texto proporcionado se interrumpe antes de listar otros derechos.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley**
+❎ / ✅
+
+*   ✅ **Información sobre la Licitud del Tratamiento (Obligaciones a):** La política en sí misma es un esfuerzo por informar al titular. Declara que el tratamiento se basa en la autorización legal, el consentimiento o la ejecución contractual.
+*   ✅ **Recolección para Fines Específicos, Explícitos y Lícitos (Obligaciones b, Principio de Finalidad Art. 3b):** La política detalla diversas finalidades para la recolección y uso de datos, como la prestación del servicio, facturación, y mejoras.
+*   ✅ **Principio de Licitud y Lealtad (Art. 3a):** La política declara que el tratamiento se efectuará con autorización legal o consentimiento, lo cual se alinea con este principio.
+*   ✅ **Regla General del Tratamiento con Consentimiento (Art. 12):** Se reconoce el consentimiento como base para el tratamiento, por ejemplo, explícitamente para datos de geolocalización con fines comerciales.
+*   ✅ **Calidad de los Datos (Obligaciones c):** Se menciona el compromiso con la exactitud y actualización de los datos, y se proporcionan canales para que el titular solicite la rectificación.
+*   ✅ **Deberes de Seguridad:** La sección 8 ("Guardamos tu información de forma segura") indica la adopción de medidas y controles para proteger los datos personales.
+*   ✅ **Derechos de Acceso y Rectificación:** La política reconoce explícitamente estos derechos y ofrece vías para su ejercicio.
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen o Cumplen Parcialmente con la Ley**
+❎ / ✅
+
+*   ❎ **Consentimiento Específico e Informado para Cesión de Datos (Art. 15, Art. 12):**
+    *   La política indica que "Entel podrá comunicar tus datos a terceros... con la finalidad de poder cumplir la prestación de los servicios o para los fines que se explican anteriormente". Si estos "fines" incluyen marketing por parte de "asociados comerciales" o si los datos de cookies se comparten con "otras organizaciones o empresas" para *su* publicidad, esto constituye una cesión. El Art. 15 exige consentimiento del titular para la cesión, salvo excepciones (contrato, interés legítimo según Art. 13d -no detallado aquí-, o ley). La política no aclara si se obtiene un consentimiento *específico y previo* para estas cesiones a terceros para sus propios fines, distinto del consentimiento general para el servicio o la política.
+    *   La sección de cookies (4.c) que menciona "rastrear la actividad en línea, de manera que terceros puedan ofrecer publicidad. Estas cookies pueden compartir esa información con otras organizaciones o empresas" es una cesión de datos si la información compartida es personal o permite identificar al usuario. Esto requiere consentimiento explícito para la cesión a esas terceras organizaciones.
+*   ❎ **Consentimiento Libre, Informado y Específico (Art. 12):**
+    *   La política no detalla cómo se obtiene el consentimiento para las distintas finalidades, especialmente para el envío de comunicaciones comerciales o el uso de cookies no esenciales. Un consentimiento general al aceptar la política podría no ser suficiente si no es granular y específico para cada finalidad que lo requiera.
+    *   El mecanismo de opt-out para comunicaciones comerciales ("únicamente efectivo con respecto al medio de envío") podría considerarse restrictivo y no facilitar un retiro del consentimiento amplio y sencillo para todas las comunicaciones comerciales de Entel si así lo desea el titular.
+*   ❎ **Información Completa sobre Cesiones (Art. 15):**
+    *   Si bien se mencionan categorías de destinatarios ("Empresas del grupo Entel", "Proveedores y socios comerciales encargados del tratamiento", "Organismos del Estado"), para las cesiones que requieren consentimiento, se debería informar de manera más precisa sobre la identidad de los cesionarios o, al menos, las categorías específicas y las finalidades de dicha cesión. La distinción entre "encargado de tratamiento" y "cesionario" (que se convierte en un nuevo responsable) debe ser clara.
+    *   No se menciona que la cesión de datos deba constar por escrito o por un medio que permita acreditarla, como lo exige el Art. 15.
+*   ❎ **Supresión o Anonimización de Datos Precontractuales (Obligaciones d):** La política no menciona explícitamente la obligación de suprimir o anonimizar datos personales obtenidos para la ejecución de medidas precontractuales si estas no derivan en un contrato.
+*   ❎ **Derechos de los Titulares (Supresión y Oposición):** El texto de la política proporcionado se interrumpe en la sección de derechos, mencionando solo acceso y rectificación. La ley también consagra los derechos de supresión y oposición, los cuales deben ser informados y garantizados.
+*   ❎ **Transferencias Internacionales de Datos:** La política menciona que "Entel podrá comunicar tus datos a terceros ya sea en forma nacional o transfronteriza". Sin embargo, no se especifican los países destinatarios ni las garantías adecuadas para dichas transferencias, lo cual es crucial para asegurar un nivel de protección equivalente.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+*   **Consentimiento para Cesión:**
+    *   Implementar mecanismos para obtener el consentimiento explícito, específico e informado del titular *antes* de cualquier cesión de datos personales a terceros (incluyendo empresas del grupo para fines distintos a los del responsable original, "asociados comerciales", y otras organizaciones vía cookies) para sus propios fines, a menos que aplique una excepción legal clara.
+    *   Distinguir claramente en la política y en los procesos de obtención de consentimiento entre encargados de tratamiento y cesionarios.
+*   **Consentimiento Granular:**
+    *   Asegurar que el consentimiento se obtenga de forma granular para las diferentes finalidades que lo requieran (ej. marketing de Entel, marketing de terceros, uso de cookies analíticas/publicitarias). Evitar el consentimiento tácito o por omisión.
+    *   Facilitar un mecanismo de opt-out para comunicaciones comerciales que sea global y sencillo, no limitado al canal específico de la última comunicación.
+*   **Información Detallada sobre Cesiones:**
+    *   Proporcionar información más detallada sobre las categorías de terceros cesionarios y las finalidades específicas de dichas cesiones.
+    *   Asegurar que los acuerdos de cesión de datos consten por escrito o por un medio acreditable.
+*   **Derechos de los Titulares:**
+    *   Completar la sección de derechos del titular, incluyendo explícitamente los derechos de supresión (cancelación) y oposición, y los procedimientos para ejercerlos.
+*   **Datos Precontractuales:**
+    *   Incluir una cláusula que informe sobre la supresión o anonimización de los datos recogidos en fases precontractuales si no se llega a formalizar el contrato.
+*   **Transferencias Internacionales:**
+    *   Especificar los países a los que se podrían transferir datos y las salvaguardas adoptadas para protegerlos (ej. cláusulas contractuales tipo, decisiones de adecuación si existieran, consentimiento informado específico para la transferencia).
+*   **Política de Cookies:**
+    *   Asegurar que la política de cookies (referenciada mediante enlace) permita una gestión granular del consentimiento para los diferentes tipos de cookies, especialmente aquellas que implican tratamiento y/o cesión de datos personales a terceros para sus propios fines.
+*   **Claridad en Bases de Licitud:**
+    *   Para cada finalidad de tratamiento, especialmente aquellas que implican compartir datos, indicar de forma más explícita la base legal que lo justifica (consentimiento, ejecución contractual, obligación legal, interés legítimo del responsable – este último con la debida ponderación de derechos).
+
+**5. Puntuación General de Cumplimiento**
+
+*   Resumen de los puntos principales de la política de privacidad: ✅
+*   Evaluación de cumplimiento: aspectos que cumplen con la ley: ✅
+*   Identificación de incumplimientos: aspectos que no cumplen o cumplen parcialmente con la ley: ✅
+*   Recomendaciones para mejorar el cumplimiento: ✅
+
+**6. Puntuación Total**
+
+4/4 ✅
+
+**Conclusión General**
+La Política de Privacidad de Clientes Entel (Noviembre 2022) demuestra un esfuerzo por alinearse con varios principios y obligaciones de la Ley N° 19.628. Cubre aspectos fundamentales como la identificación del responsable, la enunciación de principios, la descripción de finalidades y el reconocimiento de algunos derechos de los titulares.
+
+Sin embargo, existen áreas significativas que requieren mejora para un cumplimiento más robusto, especialmente en lo relativo al consentimiento para la cesión de datos a terceros (incluyendo el uso de cookies para publicidad de terceros y la comunicación a "asociados comerciales"), la granularidad del consentimiento para distintas finalidades, la información completa sobre todos los derechos de los titulares (incluyendo supresión y oposición), y la claridad sobre las transferencias internacionales. La política se beneficiaría de una mayor especificidad y de la implementación de mecanismos que aseguren un consentimiento verdaderamente libre, informado y específico, particularmente para operaciones de tratamiento que van más allá de la estricta ejecución del contrato o el cumplimiento de obligaciones legales. Es crucial que Entel revise y actualice su política y prácticas para abordar estas brechas, especialmente considerando la evolución legislativa y las crecientes expectativas de los titulares respecto a la protección de su privacidad.

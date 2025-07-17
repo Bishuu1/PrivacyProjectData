@@ -1,0 +1,106 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE CNN CHILE FRENTE A LA LEY 19.628**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de CNN Chile, con fecha de entrada en vigor y última actualización el 2 de julio de 2024, establece su compromiso con la privacidad del usuario y el cumplimiento normativo.
+
+Principales aspectos:
+*   **Alcance:** Aplica al sitio web `https://www.cnnchile.com` y otros sitios operados por CNN Chile. Advierte que no cubre sitios de terceros enlazados.
+*   **Definición de Información Personal:** Cualquier información que pueda usarse para identificar a una persona, incluyendo datos personales, de dispositivos, de pago e información de uso de servicios online.
+*   **Tipos de Información Recopilada:**
+    *   **Proporcionada voluntariamente:** Información entregada consciente y activamente por el usuario (ej. al registrarse, suscribirse).
+    *   **Recopilada automáticamente:** Información enviada por dispositivos al acceder a servicios (ej. datos de registro como IP, tipo de navegador, páginas visitadas, tiempo en página, errores técnicos).
+*   **Solicitud de Información Personal:** Se puede solicitar información personal (sin detallar cuáles específicamente en esta sección general) al suscribirse a boletines o al contactarlos.
+*   **Base de Licitud ("Razones legítimas"):** Afirma que solo recopila y usa información personal cuando existe una "razón legítima" y que sea "razonablemente necesaria" para prestar servicios.
+*   **Finalidades del Tratamiento:**
+    *   Proporcionar funciones y servicios de la plataforma.
+    *   Permitir personalizar la experiencia en el sitio.
+    *   Contacto y comunicación.
+    *   Análisis, investigación de mercado y desarrollo comercial.
+    *   Publicidad y marketing (propio y de terceros).
+    *   Permitir acceso y uso del sitio web y plataformas asociadas.
+*   **Combinación de Datos:** Posibilidad de combinar datos proporcionados voluntariamente y recopilados automáticamente con información de otras fuentes.
+*   **Seguridad:** Uso de "medios comercialmente aceptables" para proteger la información. Reconoce que ningún método es 100% seguro. Responsabilidad del usuario en la seguridad de sus contraseñas.
+*   **Conservación de Datos:** Solo por el tiempo necesario según la finalidad. Eliminación o anonimización posterior, salvo obligación legal, contable, de notificación o fines de archivo/investigación.
+*   **Privacidad de Niños:** Servicios no dirigidos a menores de 13 años; no se recopila información de ellos a sabiendas.
+*   **Divulgación a Terceros:** Lista categorías de terceros (matriz/filial, proveedores de servicios TI, almacenamiento, marketing, asesores, autoridades, etc.) y nombra algunos específicos (Google Analytics, MailChimp, Google AdSense).
+*   **Derechos del Titular:**
+    *   Elección de proporcionar datos.
+    *   Garantía de consentimiento si se proporciona información de terceros.
+    *   Cambio de opinión sobre marketing directo.
+    *   Acceso a datos personales.
+    *   Corrección de datos.
+    *   No discriminación por ejercer derechos.
+    *   Notificación de filtraciones de datos (cumpliendo leyes aplicables).
+    *   Presentación de quejas ante CNN Chile y derecho a contactar a una autoridad de protección de datos.
+    *   Cancelar suscripción a comunicaciones.
+*   **Uso de Cookies:** Se utilizan cookies; remite a una Política de Cookies.
+*   **Transferencias Comerciales:** En caso de adquisición o quiebra, los datos (incluida información personal) se transferirán, y el adquirente podrá seguir usándolos según esta política.
+*   **Cambios a la Política:** Posibilidad de modificar la política a discreción.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley (basado en los extractos proporcionados de la Ley 19.628)**
+
+*   ✅ **Información sobre el derecho a recurrir ante la Agencia (Art. 13 letra g):** La política menciona que el titular "También tiene derecho a ponerse en contacto con un organismo regulador o una autoridad de protección de datos en relación a su queja", lo cual se alinea con este requisito.
+*   ✅ **Información sobre finalidades del tratamiento (Art. 13 letra b, en parte):** La sección "Recopilación y uso de información" detalla varias finalidades para las cuales se recopilan y usan los datos.
+*   ✅ **Información sobre categorías de datos tratados (Art. 13 letra c, en parte):** Se mencionan "Datos de registro" con ejemplos específicos. También se habla de "Información personal" que se solicita, aunque sin detallar exhaustivamente todos los campos posibles en la sección general.
+*   ✅ **Deber de secreto o confidencialidad (Art. 14 bis):** Aunque no se cita explícitamente el deber de secreto, el compromiso general con la privacidad y las medidas de seguridad ("protegeremos utilizando medios comercialmente aceptables") sugieren una intención de cumplir con la confidencialidad. La política también indica que la información se protege contra "acceso, divulgación, copia, uso o modificación no autorizados".
+*   ✅ **Obligación de recoger datos con fines específicos, explícitos y lícitos (Obligaciones del responsable, pág. 10, letra b):** La política declara que la información se recopila para fines definidos y que el tratamiento se limita a estos.
+*   ✅ **Mención de derechos de acceso y rectificación (Art. 13 letra f, en parte):** La política menciona explícitamente el derecho de "Acceso: puede solicitar detalles de la información personal que tenemos sobre usted" y "Corrección: si cree que la información que tenemos sobre usted está desactualizada o es incompleta, irrelevante o engañosa, póngase en contacto con nosotros...".
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley (basado en los extractos proporcionados de la Ley 19.628)**
+
+*   ❎ **Identidad y domicilio del responsable (Art. 13 letra a):** La política se refiere a "CNN Chile" pero no especifica la razón social completa, RUT (Rol Único Tributario) y domicilio legal en Chile del responsable del tratamiento de datos. Esto es fundamental para que el titular sepa a quién dirigirse.
+*   ❎ **Base jurídica del tratamiento (Art. 13 letra b):** Si bien se mencionan "razones legítimas", no se detallan las bases legales específicas para cada tratamiento (consentimiento, ejecución de contrato, interés legítimo, obligación legal). La ley exige claridad sobre esto.
+*   ❎ **Detalle de intereses legítimos (Art. 13 letra d):** Si el tratamiento se basa en la satisfacción de intereses legítimos, la política debe especificar cuáles son estos. La mención genérica de "razón legítima" es insuficiente.
+*   ❎ **Política y medidas de seguridad detalladas (Art. 13 letra e):** La frase "medios comercialmente aceptables" es vaga y no describe la política ni las medidas de seguridad concretas adoptadas para proteger las bases de datos. La ley espera una descripción más sustantiva.
+*   ❎ **Derechos de supresión, oposición y portabilidad (Art. 13 letra f):** La política omite mencionar explícitamente los derechos de supresión (eliminación), oposición al tratamiento y portabilidad de los datos personales, los cuales son derechos que asisten al titular según la ley.
+*   ❎ **Información sobre transferencias internacionales (Art. 13 letra h):** La política menciona el uso de terceros como Google Analytics, MailChimp y Google AdSense, que probablemente implican transferencias internacionales de datos. No se informa si los países u organizaciones receptoras ofrecen un nivel adecuado de protección, ni se mencionan garantías que justifiquen tal transferencia en caso de no existir dicho nivel adecuado.
+*   ❎ **Cesión de datos personales (Art. 15):**
+    *   No se especifica claramente si la "Divulgación de información personal a terceros" (que constituye una cesión) se realiza siempre con el consentimiento del titular o bajo qué otra causal legal (ejecución de contrato, interés legítimo detallado, disposición legal).
+    *   No se indica si, en caso de que el consentimiento inicial no haya considerado la cesión, este se recabará antes de que se produzca.
+    *   La sección "Transferencias comerciales" indica que el usuario "acepta que tales transferencias pueden ocurrir", lo cual podría interpretarse como un consentimiento, pero debería ser más explícito y separado para una cesión tan significativa.
+*   ❎ **Información sobre la licitud del tratamiento y su acreditación (Obligaciones del responsable, pág. 10, letra a):** Si bien la política busca informar, no detalla cómo el titular puede acceder a los antecedentes que acrediten la licitud del tratamiento que realiza CNN Chile.
+*   ❎ **Supresión o anonimización de datos precontractuales (Obligaciones del responsable, pág. 10, letra d):** No hay mención específica a esta obligación.
+*   ❎ **Contacto del responsable sin domicilio en Chile (si aplica):** Si la entidad legal de CNN Chile que opera el sitio y trata los datos no tiene domicilio en Chile, la política no señala un correo electrónico u otro medio de contacto idóneo para recibir comunicaciones de los titulares y de la Agencia, como lo exige la ley para responsables extranjeros que traten datos de residentes en Chile. (Se asume que CNN Chile tiene una entidad legal en Chile, pero la política debería aclararlo).
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Identificación del Responsable:** Incluir la razón social completa, RUT y domicilio legal en Chile de la entidad responsable del tratamiento de datos personales (ej. "CNN Chile, Razón Social S.A., RUT XX.XXX.XXX-X, domiciliada en [Dirección Completa], Santiago, Chile").
+2.  **Bases de Licitud:** Para cada finalidad de tratamiento, especificar la base legal que lo justifica (consentimiento del titular, cumplimiento de una obligación legal, ejecución de un contrato, interés legítimo del responsable, etc.).
+3.  **Detalle de Intereses Legítimos:** Si se invoca el interés legítimo como base para algún tratamiento, describir de forma clara y precisa cuáles son esos intereses.
+4.  **Política y Medidas de Seguridad:** Describir de manera más concreta las medidas técnicas y organizativas implementadas para garantizar la seguridad de los datos personales (ej. cifrado, controles de acceso, protocolos de seguridad, capacitación del personal, etc.), en lugar de usar términos genéricos.
+5.  **Derechos Completos del Titular:** Enumerar y explicar todos los derechos ARSOP: Acceso, Rectificación, Supresión, Oposición y Portabilidad. Indicar claramente el procedimiento y el canal de contacto específico para ejercer estos derechos (ej. un correo electrónico dedicado como `privacidad@cnnchile.com` o un formulario en el sitio web).
+6.  **Transferencias Internacionales:**
+    *   Identificar si los terceros mencionados (Google Analytics, MailChimp, etc.) implican transferencias de datos a países sin nivel adecuado de protección.
+    *   Si es así, informar sobre las garantías adoptadas para justificar dichas transferencias (ej. Cláusulas Contractuales Tipo, Normas Corporativas Vinculantes, consentimiento explícito del titular para la transferencia específica tras ser informado de los riesgos, etc.).
+7.  **Cesión de Datos:**
+    *   Para cada tipo de cesión a terceros, indicar la base legal (consentimiento explícito, cumplimiento de contrato donde el titular es parte, interés legítimo del cedente o cesionario debidamente justificado, o mandato legal).
+    *   Asegurar que, si el consentimiento original no cubría la cesión, se obtendrá un nuevo consentimiento específico antes de realizarla.
+    *   Aclarar que la cesión constará por escrito o medio equivalente.
+8.  **Acreditación de Licitud:** Indicar cómo el titular puede solicitar y obtener los antecedentes que acreditan la licitud del tratamiento.
+9.  **Datos Precontractuales:** Incluir una mención sobre la supresión o anonimización de datos obtenidos para medidas precontractuales, si aplica al modelo de negocio.
+10. **Contacto para la Agencia (si aplica):** Si el responsable no tiene domicilio en Chile, designar y publicar un correo electrónico u otro medio de contacto para la Agencia de Protección de Datos y los titulares.
+
+**5. Puntuación general de cumplimiento (según Art. 13 y otros relevantes de los extractos)**
+
+*   Art. 13 letra a) Identidad y domicilio del responsable: ❎
+*   Art. 13 letra b) Finalidades y base jurídica del tratamiento: ❎ (Finalidades parcialmente, base jurídica insuficiente)
+*   Art. 13 letra c) Categorías de datos tratados: Partial ✅ (Mejorable en especificidad para "información personal") -> Para ser estrictos: ❎
+*   Art. 13 letra d) Detalle de intereses legítimos (si aplica): ❎
+*   Art. 13 letra e) Política y medidas de seguridad adoptadas: ❎
+*   Art. 13 letra f) Derechos del titular (Acceso, Rectificación, Supresión, Oposición, Portabilidad): ❎ (Solo Acceso y Rectificación mencionados explícitamente)
+*   Art. 13 letra g) Derecho a recurrir ante la Agencia: ✅
+*   Art. 13 letra h) Transferencia internacional de datos: ❎
+*   Art. 15 Cesión de datos personales (consentimiento y fines): ❎
+*   Art. 14 bis Deber de secreto o confidencialidad: ✅ (Implícito y parcialmente cubierto)
+*   Obligaciones del responsable (pág. 10):
+    *   a) Informar y acreditar licitud: ❎
+    *   b) Fines específicos, explícitos, lícitos y limitados: ✅
+    *   c) Comunicar o ceder información exacta, completa y actual: ❎ (Vinculado a problemas con Art. 15)
+    *   d) Suprimir o anonimizar datos precontractuales: ❎
+
+**6. Puntuación total**
+
+Sumando los ✅ del total de secciones evaluadas (considerando los puntos principales de Art. 13 y las obligaciones más relevantes):
+
+**Puntuación Total: 3 / 14** ✅

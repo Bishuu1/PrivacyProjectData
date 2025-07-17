@@ -1,0 +1,96 @@
+## Evaluación de la Política de Privacidad de "EL ESPAÑOL" frente a la Ley 21.719 de Chile
+
+**Fecha de Evaluación:** 3 de marzo de 2025
+
+**Experto:** Experto Legal en Privacidad y Protección de Datos Personales en Chile.
+
+**Objeto de la Evaluación:** Política de Privacidad de www.elespanol.com, titularidad de EL LEÓN DE EL ESPAÑOL PUBLICACIONES, S.A.
+
+---
+
+### 1. Resumen de los Puntos Principales de la Política de Privacidad
+
+La política de privacidad de "EL ESPAÑOL" establece:
+
+*   **Identificación del Responsable:** EL LEÓN DE EL ESPAÑOL PUBLICACIONES, S.A., con N.I.F. español y domicilio en Madrid, incluyendo un Delegado de Protección de Datos (DPO).
+*   **Datos Tratados:** Datos recabados de usuarios y clientes (web, app, relación), datos de navegación (cookies), y datos de terceros (socios, redes sociales) con consentimiento previo. Se exige veracidad y consentimiento para datos de terceros. Se identifican campos obligatorios. Se informa sobre elaboración de perfiles con consentimiento (cookies).
+*   **Finalidades y Legitimación:** Detalla diversas finalidades (atender solicitudes, gestionar alta/actividad, enviar newsletter, marketing, sorteos, selección de personal, obligaciones legales, gestionar comentarios, elaborar perfiles, funcionamiento web) y sus bases de legitimación (consentimiento, ejecución contractual, interés legítimo, obligación legal).
+*   **Conservación de Datos:** Especifica plazos de conservación para diferentes categorías de datos, vinculados a la finalidad o plazos legales/prescripción. Los comentarios de usuarios se publican de forma "indefinida" salvo retirada.
+*   **Destinatarios y Transferencias Internacionales:** Comunicación a autoridades si es legalmente necesario. Para sorteos, se usan proveedores que garanticen seguridad. Indica que "no están previstas transferencias internacionales de datos", pero la información de cookies de terceros "puede ser objeto de este tipo de operaciones", remitiendo a la Política de Cookies. Se comprometen a medidas si fueran necesarias.
+*   **Sociedades del Grupo:** Comunicación a sociedades del grupo para fines comerciales (con consentimiento) o gestión administrativa común (interés legítimo).
+*   **Publicación de Noticias:** Tratamiento de datos de personas noticiables basado en interés público y libertad de información (Constitución Española). Datos obtenidos de investigación periodística.
+*   **Menores de Edad:** Prohibido uso sin supervisión adulta. Menores de 14 años requieren consentimiento parental.
+*   **Derechos de los Interesados:** Enumera derechos de acceso, rectificación, supresión, limitación, portabilidad, oposición y retirada del consentimiento. Indica cómo ejercerlos y la posibilidad de reclamar ante la Agencia Española de Protección de Datos.
+*   **Medidas de Seguridad:** Declaración genérica de adopción de medidas técnicas y organizativas.
+
+---
+
+### 2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley 21.719 (o se acercan a sus principios)
+
+Aunque la política está redactada bajo el marco normativo español (RGPD y LOPDGDD), algunos de sus elementos se alinearían con los principios de la Ley 21.719:
+
+*   **Identificación del Responsable (Art. 13):** ✅ La política identifica claramente al responsable del tratamiento y proporciona datos de contacto, incluyendo un Delegado de Protección de Datos, lo cual es una buena práctica.
+*   **Finalidades del Tratamiento (Art. 5º b, Art. 13 c):** ✅ Las finalidades del tratamiento están especificadas (Sección 2.3).
+*   **Base de Licitud (Art. 12, 13):** ✅ La política detalla las bases de legitimación para cada tratamiento (consentimiento, relación contractual, interés legítimo, obligación legal), lo cual es un requisito fundamental.
+*   **Derechos de los Interesados (Art. 5º y otros):** ✅ La política enumera derechos que son sustancialmente similares a los otorgados por la ley chilena (acceso, rectificación, supresión, etc.) y el derecho a retirar el consentimiento (Art. 13 k).
+*   **Información sobre la Fuente de los Datos (Art. 5º a, Art. 13 j):** ✅ Se indica que los datos provienen de los usuarios, navegación, y de terceros con consentimiento (Sección 2.1, 2.2).
+*   **Tratamiento de Datos de Menores (Ley 21.719, mención a niños y niñas menores de catorce años en notificación de brechas):** ✅ La política establece la necesidad de consentimiento parental para menores de 14 años, lo cual es una práctica protectora.
+
+---
+
+### 3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley 21.719
+
+La política presenta varias áreas de incumplimiento o carencias significativas respecto a la Ley 21.719:
+
+*   **Jurisdicción y Ley Aplicable:** ❎ El incumplimiento fundamental es que la política está diseñada para cumplir con la normativa europea (RGPD) y española, no con la Ley 21.719 de Chile. Se refiere a la Constitución Española y a la Agencia Española de Protección de Datos. Para operar y tratar datos de titulares en Chile, debería adecuarse explícitamente a la ley chilena.
+*   **Conservación de Datos por Período Indeterminado (Extracto Ley):** ❎ La política indica que los "comentarios serán publicados de forma indefinida". La ley chilena permite el almacenamiento por período indeterminado para fines de investigación histórica, estadística o científica, *previa anonimización*. Los comentarios de usuarios no suelen ser anonimizados por defecto y no encajan en esas finalidades específicas. Esto contraviene el principio de limitación del plazo de conservación.
+*   **Datos de Geolocalización (Art. 16 sexies):** ❎ La política menciona la recopilación de datos "por el hecho de navegar y mediante el uso de cookies" (Sección 2.1), lo cual podría incluir datos de geolocalización. Sin embargo, no informa de manera clara, suficiente y oportuna sobre:
+    *   El tipo específico de datos de geolocalización tratados.
+    *   La finalidad y duración específica del tratamiento de estos datos de geolocalización.
+    *   Si los datos de geolocalización se comunicarán o cederán a un tercero para la prestación de un servicio con valor añadido.
+*   **Transferencias Internacionales de Datos (Art. 13 h):** ❎ La política indica que "No están previstas transferencias internacionales de datos, si bien la información recabada por cookies de terceros puede ser objeto de este tipo de operaciones". Esto es ambiguo. Si efectivamente hay transferencias (incluso vía cookies), se debe informar si los países de destino cuentan con un nivel adecuado de protección o, en su defecto, si existen garantías que justifiquen tal transferencia, conforme al Art. 13 h) de la ley chilena. Remitir genéricamente a una política de cookies no es suficiente en el cuerpo principal de la política de privacidad.
+*   **Decisiones Automatizadas y Elaboración de Perfiles (Art. 5º f, Art. 13 l):** ❎ La política menciona la "elaboración de perfiles, tipologías y segmentaciones de los usuarios en base a sus gustos y preferencias" (Sección 2.3) y que se podrá "inferir gustos o intereses" (Sección 2.1). Sin embargo, no proporciona "información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular", como exige la ley chilena.
+*   **Notificación de Vulneraciones de Seguridad (Extracto Ley):** ❎ La política menciona la adopción de "medidas técnicas y organizativas apropiadas" (Sección 6), pero no detalla el procedimiento de notificación a la autoridad de control chilena ni a los titulares en caso de vulneraciones de seguridad que ocasionen destrucción, filtración, pérdida, alteración o acceso no autorizado a datos, especialmente si son sensibles, de menores de 14 años, o de carácter económico, como lo exige la ley.
+*   **Privacidad desde el Diseño y por Defecto (Art. 14 quáter):** ❎ No hay una mención explícita al cumplimiento de los principios de protección de datos desde el diseño y por defecto en el desarrollo y operación de sus sistemas y servicios.
+*   **Derechos de Personas Fallecidas (Extracto Ley):** ❎ La política no aborda el tratamiento de los datos de personas fallecidas ni los derechos de sus herederos o las limitaciones que el titular fallecido pudo haber establecido.
+*   **Datos Relativos a Obligaciones de Carácter Económico, Financiero, Bancario o Comercial (Título III):** ❎ Si bien la política menciona el cumplimiento de "obligaciones fiscales, administrativas", no aborda específicamente las regulaciones del Título III de la ley chilena si llegase a tratar datos de esta naturaleza de forma más extensa que la mera facturación.
+
+---
+
+### 4. Recomendaciones para Mejorar el Cumplimiento
+
+1.  **Adaptación Jurisdiccional:** Crear una versión de la política de privacidad específica para Chile o un anexo que aborde los requisitos de la Ley 21.719, haciendo referencia a la autoridad de control chilena pertinente.
+2.  **Revisar Plazos de Conservación:** Ajustar la política de conservación de comentarios de usuarios para que no sea "indefinida" sin anonimización, o justificarla bajo un marco legal chileno si existiera y fuera aplicable.
+3.  **Detallar Tratamiento de Geolocalización:** Si se tratan datos de geolocalización, incluir la información específica requerida por el Art. 16 sexies.
+4.  **Clarificar Transferencias Internacionales:** Investigar y declarar explícitamente si las cookies de terceros u otros mecanismos resultan en transferencias internacionales. Si es así, detallar los países de destino y las garantías o niveles de adecuación conforme a la ley chilena.
+5.  **Información sobre Perfiles y Decisiones Automatizadas:** Proveer información significativa sobre la lógica aplicada en la elaboración de perfiles y las consecuencias previstas para el titular.
+6.  **Establecer Procedimiento de Notificación de Brechas:** Incorporar un apartado que describa el procedimiento para notificar vulneraciones de seguridad a la autoridad chilena y a los titulares afectados, según los criterios de la Ley 21.719.
+7.  **Incorporar Privacidad desde el Diseño y por Defecto:** Mencionar el compromiso de la organización con estos principios.
+8.  **Considerar Datos de Personas Fallecidas:** Incluir disposiciones sobre el tratamiento de datos de personas fallecidas si es pertinente para los servicios ofrecidos.
+9.  **Especificar Fuente de Datos Públicos:** Si se utilizan fuentes de acceso público más allá del contexto periodístico, indicarlo claramente (Art. 13 j).
+
+---
+
+### 5. Puntuación General de Cumplimiento (frente a Ley 21.719)
+
+*   **Identificación del Responsable (Art. 13):** ✅
+*   **Información sobre el Tratamiento (General):** ❎ (Principalmente por jurisdicción y omisiones clave)
+*   **Finalidades y Legitimación (Art. 5º b, Art. 13 c, Art. 12, 13):** ✅
+*   **Conservación de Datos (Extracto Ley, Principio de Limitación):** ❎
+*   **Destinatarios y Transferencias Internacionales (Art. 13 h):** ❎
+*   **Derechos de los Interesados (Art. 5º y otros, Art. 13 k):** ✅
+*   **Datos de Menores (Práctica general vs. mención específica en ley chilena):** ✅
+*   **Datos de Geolocalización (Art. 16 sexies):** ❎
+*   **Información sobre Decisiones Automatizadas y Perfiles (Art. 5º f, Art. 13 l):** ❎
+*   **Notificación de Brechas de Seguridad (Extracto Ley):** ❎
+*   **Privacidad desde el Diseño y por Defecto (Art. 14 quáter):** ❎
+*   **Fuente de los Datos (Art. 5º a, Art. 13 j):** ✅
+*   **Derecho a Retirar el Consentimiento (Art. 13 k):** ✅
+
+---
+
+### 6. Puntuación Total
+
+**Total de ✅: 6 / 13 Secciones Evaluadas**
+
+**Conclusión General:** La política de privacidad de "EL ESPAÑOL", en su forma actual, **no cumple con los requisitos específicos de la Ley 21.719 de Chile**. Si bien adopta principios generales de protección de datos alineados con el RGPD que tienen paralelos en la ley chilena, su enfoque jurisdiccional en España y la omisión de varios requisitos explícitos de la Ley 21.719 la hacen inadecuada para regular el tratamiento de datos personales de titulares en Chile. Se requieren modificaciones sustanciales para alcanzar el cumplimiento.

@@ -1,0 +1,77 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE PUNTO TICKET FRENTE A LA LEY CHILENA DE PROTECCIÓN DE DATOS PERSONALES (BASADA EN EXTRACTOS DE LA LEY 19.628)**
+
+**Introducción**
+La presente evaluación analiza los "Términos y Condiciones de Compra Punto Ticket" (en adelante, "la Política") proporcionados, para determinar su conformidad con las disposiciones de la Ley 19.628 sobre Protección de la Vida Privada, en el contexto de las obligaciones y derechos que esta establece para el tratamiento de datos personales. Se asume que los extractos de la Ley 19.628 proporcionados son los relevantes para la evaluación, aunque se menciona la Ley 21.719, el análisis se basa en el texto legal efectivamente suministrado.
+
+**1. Resumen de los puntos principales de la política de privacidad (contenidos en los Términos y Condiciones)**
+
+*   **Identificación del Responsable:** La política identifica a Punto Ticket SpA, su RUT, domicilio y representante legal.
+*   **Referencia Normativa:** Declara respetar la Ley N° 19.628 sobre Protección de la Vida Privada.
+*   **Recolección de Datos:** Indica que el cliente debe registrarse con "datos personales" para la compra de tickets y acceso a servicios.
+*   **Finalidad (Implícita y General):** El registro tiene como objetivo que el cliente tenga acceso a su compra, eventos, revisión de devoluciones y servicios de la Ticketera.
+*   **Veracidad de los Datos:** Establece que el usuario garantiza la autenticidad de los datos y es responsable de mantenerlos actualizados y de las manifestaciones falsas.
+*   **Seguridad (Superficial):** Menciona mecanismos de identificación mediante contraseña secreta, asumiendo que es el titular quien ingresa.
+*   **Cesión de Datos (Limitada):** En la cláusula SEXTO, se menciona la posibilidad de subcontratar el servicio de cobranza "previa firma de un contrato de servicios que asegure la privacidad".
+*   **Ausencia de Derecho a Retracto:** Se informa explícitamente que no opera el derecho a retracto para la compra de tickets.
+*   **Servicio al Cliente:** Proporciona un enlace para contacto ante dudas o problemas.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+*   ✅ **Identificación del Responsable del Tratamiento:** La política identifica claramente a Punto Ticket SpA como la entidad responsable, incluyendo su RUT, domicilio y representante legal (Avenida Alonso de Córdova 5320, oficina 2001, Piso 20, Las Condes, Santiago, Punto Ticket SpA, RUT: 76.510.420-3, representante legal Sr. Paulo Viñales Gómez). Esto es un requisito básico para la transparencia.
+*   ✅ **Mención del Marco Legal Aplicable (Parcial):** La política menciona explícitamente el respeto a la Ley N° 19.628. Si bien es una declaración, muestra conocimiento de la normativa (aunque la implementación detallada es donde se observan deficiencias).
+*   ✅ **Cesión de Datos con Medidas de Resguardo (Parcial y Específico):** En la cláusula SEXTO, al referirse a la subcontratación del servicio de cobranza, se indica que será "previa firma de un contrato de servicios que asegure la privacidad". Esto se alinea parcialmente con el Art. 15 sobre la necesidad de que la cesión conste y se tomen resguardos, aunque no aborda el consentimiento específico para dicha cesión si no fue informado al momento de la recolección.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+*   ❎ **Información sobre la Licitud del Tratamiento (Obligaciones a):** La política no informa de manera detallada y accesible los antecedentes que acreditan la licitud del tratamiento más allá de la aceptación genérica de los T&C. No se especifica la base de licitud para cada finalidad.
+*   ❎ **Fines Específicos, Explícitos y Lícitos (Obligaciones b):** Si bien se infiere que los datos se usan para la venta de entradas y gestión de la cuenta, los fines no están detallados de forma "específica y explícita". Por ejemplo, no se menciona si los datos se usarán para marketing, perfilamiento, análisis, etc., y cómo se obtendría el consentimiento para ello.
+*   ❎ **Comunicación de Información Exacta, Completa y Actual (Obligaciones c):** La política pone la responsabilidad de la veracidad y actualización principalmente en el usuario. Si bien el usuario debe proporcionar datos veraces, el responsable también tiene deberes respecto a la calidad del dato.
+*   ❎ **Supresión o Anonimización (Obligaciones d):** No se menciona ningún procedimiento o política respecto a la supresión o anonimización de datos, especialmente aquellos que podrían haber sido obtenidos para medidas precontractuales si una compra no se concreta, o tras el cumplimiento de la finalidad.
+*   ❎ **Consentimiento Libre, Informado y Específico (Art. 12):** El consentimiento se obtiene mediante la aceptación de los Términos y Condiciones generales. No parece existir un mecanismo para un consentimiento "específico" para distintas finalidades del tratamiento de datos (si las hubiere más allá de la mera transacción). La información proporcionada para que el consentimiento sea "informado" es escasa.
+*   ❎ **Derechos del Titular (Art. 4):** La política no enumera ni explica los derechos de acceso, rectificación, supresión, oposición, portabilidad y bloqueo. Tampoco establece un procedimiento claro y accesible para que los titulares ejerzan estos derechos, más allá de un enlace genérico a "Servicio al Cliente". No se menciona cómo se comunicarían los cambios a terceros en caso de rectificación, supresión u oposición.
+*   ❎ **Cesión de Datos Personales (Art. 15):**
+    *   Solo se menciona la cesión para servicios de cobranza. No se informa si los datos se ceden a otros terceros (ej. productoras de eventos, empresas de marketing, etc.).
+    *   Para la cesión al servicio de cobranza, no se indica si se recaba un consentimiento específico si este fin no fue informado al momento de la recolección inicial. La aceptación de los T&C generales podría no ser suficiente para una cesión no detallada.
+*   ❎ **Plazos de Conservación:** No se informa durante cuánto tiempo se conservarán los datos personales.
+*   ❎ **Medidas de Seguridad:** Solo se menciona una "contraseña secreta". No se detallan las medidas técnicas y organizativas implementadas para proteger los datos personales.
+*   ❎ **Información sobre Transferencias Internacionales:** Si se utiliza "Queue-it" como "plataforma externa líder a nivel mundial", es muy probable que existan transferencias internacionales de datos. La política no informa sobre esto, ni las garantías adoptadas.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+*   ✅ **Desarrollar una Política de Privacidad Dedicada:** Separar la política de privacidad de los Términos y Condiciones generales de compra para darle la entidad y detalle que requiere.
+*   ✅ **Detallar los Datos Recolectados y sus Finalidades:** Especificar qué categorías de datos personales se recolectan (ej. nombre, RUT, correo, dirección, datos de pago, etc.) y para qué fines explícitos y lícitos se utilizará cada categoría de datos (ej. gestión de cuenta, procesamiento de compra, envío de información del evento, marketing con consentimiento previo, etc.).
+*   ✅ **Fortalecer el Mecanismo de Consentimiento:** Implementar mecanismos para obtener un consentimiento que sea genuinamente libre, informado (proporcionando toda la información necesaria antes de la recolección) y específico para cada finalidad que exceda la ejecución del contrato. Considerar opciones de opt-in para fines secundarios como el marketing. Informar sobre el derecho a revocar el consentimiento.
+*   ✅ **Informar y Facilitar el Ejercicio de Derechos ARCO+PB:**
+    *   Enumerar claramente los derechos de acceso, rectificación, supresión, oposición, portabilidad y bloqueo.
+    *   Establecer un procedimiento claro, sencillo y gratuito para que los titulares ejerzan estos derechos (ej. un correo electrónico específico, un formulario en el sitio web).
+    *   Indicar los plazos de respuesta y cómo se informará al titular sobre las acciones tomadas.
+    *   Especificar cómo se notificarán las rectificaciones o supresiones a terceros a quienes se hayan comunicado los datos.
+*   ✅ **Transparencia en la Cesión de Datos:**
+    *   Identificar a las categorías de terceros a quienes se podrían ceder los datos (ej. productoras, empresas de despacho, procesadores de pago, agencias de marketing).
+    *   Indicar la finalidad de cada cesión y la base legal (principalmente consentimiento, salvo excepciones legales).
+    *   Obtener consentimiento específico para cesiones no cubiertas por la ejecución del contrato o el interés legítimo debidamente ponderado e informado.
+*   ✅ **Establecer Plazos de Conservación:** Definir y comunicar por cuánto tiempo se conservarán los datos personales, vinculándolo al cumplimiento de las finalidades para las que fueron recogidos o a obligaciones legales.
+*   ✅ **Detallar Medidas de Seguridad:** Describir de forma general las medidas técnicas y organizativas implementadas para garantizar la seguridad, confidencialidad e integridad de los datos personales.
+*   ✅ **Informar sobre Transferencias Internacionales:** Si se realizan transferencias internacionales de datos (ej. por uso de proveedores de servicios en el extranjero como Queue-it), informar sobre ello, los países de destino y las garantías adecuadas que se han implementado.
+*   ✅ **Designar un Encargado o Canal Específico para Protección de Datos:** Aunque se identifica al representante legal, es recomendable tener un punto de contacto o departamento específico para consultas y ejercicio de derechos en materia de protección de datos.
+
+**5. Puntuación general de cumplimiento**
+
+*   Identificación del Responsable: ✅
+*   Información sobre Licitud del Tratamiento: ❎
+*   Fines Específicos, Explícitos y Lícitos: ❎
+*   Calidad de los Datos (Exactitud, Actualidad): ❎
+*   Supresión/Anonimización: ❎
+*   Consentimiento (Libre, Informado, Específico): ❎
+*   Derechos del Titular (Información y Ejercicio): ❎
+*   Cesión de Datos (Información y Consentimiento): ❎ (Parcialmente ✅ por la mención de contrato para cobranza, pero globalmente deficiente)
+*   Plazos de Conservación: ❎
+*   Medidas de Seguridad: ❎
+*   Transferencias Internacionales: ❎
+
+**6. Puntuación total**
+
+*   Puntuación Total: **1 ✅ de 11 secciones evaluadas.**
+
+**Conclusión Final**
+La política de privacidad de Punto Ticket, tal como se presenta en sus Términos y Condiciones, muestra deficiencias significativas en el cumplimiento de varios aspectos cruciales de la Ley 19.628. Si bien se identifica al responsable y se menciona la ley, carece de la especificidad, transparencia y mecanismos necesarios para garantizar adecuadamente los derechos de los titulares y cumplir con las obligaciones del responsable del tratamiento. Se requieren mejoras sustanciales, idealmente a través de una política de privacidad dedicada y detallada, para alinearse con los estándares de protección de datos exigidos por la legislación chilena.

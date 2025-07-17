@@ -1,0 +1,79 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE SAMSUNG ELECTRONICS CHILE LTDA. FRENTE A LA LEY 21.719 (SEGÚN ARTICULADO PROPORCIONADO)**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de Samsung Electronics Chile Ltda. ("Samsung") describe cómo recopila, utiliza, divulga, transfiere y almacena la información personal de sus clientes a través de sus dispositivos, sitios web y aplicaciones ("Servicios").
+
+*   **Información Recopilada:**
+    *   **Proporcionada directamente:** Datos para crear cuentas (nombre, email), información para procesar pedidos (nombre, contacto, dirección, tarjeta de crédito), comunicaciones.
+    *   **Sobre el uso de los Servicios:** Información del dispositivo (modelo, IMEI, IP, OS), registro (duración uso, búsquedas, cookies), ubicación (GPS, WiFi, antenas), voz (grabaciones para comandos, con proveedor externo), uso de apps y sitios web.
+    *   **De fuentes externas:** Información pública y comercial, redes sociales (con consentimiento).
+    *   **Otra información:** Con consentimiento o para fines descritos al momento de la recogida; grabación de videollamadas/llamadas.
+*   **Uso de la Información:**
+    *   Registro, prestación de servicios, contenido personalizado, publicidad, evaluación y análisis de mercado, mejora de servicios, mantenimiento, sorteos, otros fines con consentimiento.
+    *   Combinación de información para fines coherentes con la política.
+    *   Base jurídica: ejecución de contrato, cumplimiento legal, intereses legítimos de Samsung (gestionar relación, mejorar servicios), consentimiento (comunicaciones comerciales).
+*   **Divulgación de Información:**
+    *   No se divulga para fines de marketing de terceros sin consentimiento.
+    *   Se comparte con: Filiales del grupo Samsung, empresas colaboradoras (proveedores de servicios inalámbricos, etc.), proveedores de servicios para Samsung (facturación, email), otras partes (por ley, para proteger derechos, en transacciones corporativas), otras partes con consentimiento del usuario.
+*   **Transferencia Internacional de Datos:**
+    *   La información se transfiere, almacena y trata en la República de Corea y otros países (EEE, EEUU, UK, China, etc.), cuyas normativas pueden no ser tan completas como las chilenas.
+    *   Se toman medidas adecuadas (ej. cláusulas contractuales tipo) para proteger los datos.
+*   **Derechos del Usuario:**
+    *   Se ofrecen opciones de configuración (AdHub, combinación de información).
+    *   Se reconocen derechos de la Ley 19.628 (información, modificación, eliminación/cancelación/bloqueo, copia en formato estructurado, oposición, copia de registro alterado).
+    *   Se indica cómo ejercerlos (dirección física y link a Samsung Account).
+    *   Se menciona el derecho a recurrir a tribunales si Samsung no responde o deniega la solicitud.
+*   **Seguridad:**
+    *   Implementación de medidas técnicas y físicas razonables, aunque se advierte que ninguna transmisión es absolutamente segura.
+*   **Consentimiento para Transferencia Internacional:**
+    *   El uso de los Servicios implica la aceptación de la recogida, transferencia, almacenamiento y tratamiento fuera del país de residencia.
+*   **Actualizaciones:**
+    *   La política puede actualizarse, informando mediante aviso y requiriendo aceptación para continuar usando los Servicios. Se indica la "fecha de entrada en vigor".
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+Basado en los artículos proporcionados:
+
+*   **Artículo 13 a) (Versión actualizada):** ✅ La política menciona que se actualiza, que se informará de los cambios y que la versión más actualizada estará disponible con una "fecha de entrada en vigor".
+*   **Artículo 13 b) (Individualización del responsable):** ✅ Se individualiza a "Samsung Electronics Chile Ltda. y sus filiales" como responsable del tratamiento.
+*   **Artículo 13 c) (Domicilio postal):** ✅ Se proporciona un domicilio postal: "Samsung Chile, ubicado en Cerro el Plomo 6000, Piso 6, Las Condes, Santiago de Chile".
+*   **Artículo 13 d) (Categorías de datos, universo de personas, destinatarios, finalidades, base de legitimidad):**
+    *   **Categorías de datos:** ✅ Detalladas en la sección "1. ¿Qué información recopilamos sobre usted?".
+    *   **Universo de personas:** ✅ Se infiere que son "clientes" y "usuarios" de los Servicios de Samsung.
+    *   **Destinatarios:** ✅ Detallados en la sección "3. ¿A quién divulgamos su información?".
+    *   **Finalidades:** ✅ Detalladas en la sección "2. ¿Cómo utilizamos su información?".
+    *   **Base de legitimidad:** ✅ Mencionada en la sección 2: "ejecución del contrato", "cumplir con los requisitos legales", "intereses legítimos de Samsung", "consentimiento".
+    *   **Intereses legítimos (cuáles serían):** ✅ Se mencionan ejemplos como "gestionar nuestra relación con usted y mejorar los Servicios".
+*   **Artículo 13 e) (Política y medidas de seguridad):** ✅ La sección "6. ¿Qué hacemos para mantener segura su información?" describe las medidas adoptadas, aunque de forma general.
+*   **Artículo 13 f) (Derechos del titular: acceso, rectificación, supresión, oposición y portabilidad):** ✅ La sección "5. Sus derechos" enumera derechos equivalentes (información, modificación, eliminación/cancelación/bloqueo, copia en formato estructurado, oposición), aunque los basa en la Ley 19.628. El concepto de portabilidad está presente con "solicitar copia de los datos en formato estructurado, de uso común y lectura mecánica".
+*   **Artículo 13 h) (Transferencia internacional, nivel de protección, garantías):** ✅ La sección "4. Transferencia internacional de datos" indica los países, reconoce que el nivel de protección puede no ser equivalente y menciona el uso de "cláusulas contractuales tipo" como garantía.
+*   **Artículo 15 (Cesión de datos personales):** ✅ La política establece que no se divulgará información a terceros para sus propios fines de marketing sin consentimiento (sección 3). Las divulgaciones a filiales, empresas colaboradoras y proveedores de servicios se enmarcan en la prestación de servicios solicitados, ejecución de contrato o con consentimiento. La base de legitimidad para el tratamiento (que incluye la cesión) se menciona en la sección 2.
+*   **Obligaciones (página 10 de 42):**
+    *   **a) Informar y poner a disposición antecedentes de licitud:** ✅ La política en sí misma es un esfuerzo por informar.
+    *   **b) Asegurar recolección de fuentes lícitas, fines específicos, explícitos, lícitos, tratamiento limitado:** ✅ Los principios de finalidad y licitud se reflejan en la política.
+*   **Artículo 3° Principios (Licitud, Lealtad, Finalidad):** ✅ La política declara recoger datos para fines específicos y explícitos, y el tratamiento se basa en fundamentos jurídicos como el consentimiento o la ejecución de un contrato, lo que se alinea con estos principios.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+*   **Artículo 13 b) (Representante legal y encargado de prevención):** ❎ No se individualiza al representante legal de Samsung Electronics Chile Ltda. ni se menciona la existencia (o no) de un encargado de prevención de datos.
+*   **Artículo 13 c) (Correo electrónico, formulario de contacto o medio tecnológico equivalente para notificar solicitudes):** ❎ Si bien se proporciona un link (`https://account.samsung.com/membership/intro`) para ejercer derechos, no se ofrece explícitamente una dirección de correo electrónico o un formulario de contacto específico y de fácil acceso para que los titulares notifiquen *cualquier tipo* de solicitud relacionada con sus datos, más allá del ejercicio de derechos ARSOP. El link dirige a la gestión de la cuenta Samsung, lo cual puede ser suficiente, pero no es un canal de comunicación directo y claramente identificado para *todas* las notificaciones de solicitudes.
+*   **Artículo 13 d) (Descripción genérica del universo de personas):** ❎ Aunque se infiere, la descripción del "universo de personas que comprenden sus bases de datos" podría ser más explícita que solo "clientes" o "usuarios".
+*   **Artículo 13 g) (Derecho a recurrir ante la Agencia):** ❎ La política indica que el titular puede "recurrir ante los tribunales de justicia correspondientes". La ley establece el derecho a recurrir ante la "Agencia de Protección de Datos Personales". Esto es una diferencia significativa.
+*   **Obligaciones (página 10 de 42):**
+    *   **c) Comunicar o ceder información exacta, completa y actual:** ❎ No hay una declaración explícita del compromiso de asegurar que la información comunicada o cedida sea exacta, completa y actual, aunque se podría inferir de las buenas prácticas.
+    *   **d) Suprimir o anonimizar datos de medidas precontractuales:** ❎ No se menciona específicamente la obligación de suprimir o anonimizar los datos personales del titular cuando fueron obtenidos para la ejecución de medidas precontractuales y el contrato no se perfecciona.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Representante Legal y Encargado de Prevención:** Incluir en la política la individualización del representante legal de Samsung Electronics Chile Ltda. y, si existe, la identificación del encargado de prevención de datos.
+2.  **Canal de Contacto Específico:** Establecer y comunicar claramente una dirección de correo electrónico dedicada (ej. `privacidad.cl@samsung.com`) o un formulario de contacto específico en el sitio web chileno para todas las consultas y solicitudes de los titulares relativas a sus datos personales, además del portal de la cuenta Samsung.
+3.  **Universo de Personas:** Especificar con mayor detalle el universo de personas cuyas bases de datos se administran (ej. "usuarios de dispositivos móviles Samsung, compradores de productos en nuestra tienda online, participantes en promociones, usuarios de aplicaciones Samsung específicas", etc.).
+4.  **Recurso ante la Agencia:** Modificar la sección de derechos para indicar que, en caso de que el responsable rechace o no responda oportunamente, el titular tiene derecho a recurrir ante la **Agencia de Protección de Datos Personales** de Chile, en lugar de (o además de, si aplica) los tribunales de justicia.
+5.  **Exactitud de Datos Cedidos:** Añadir un compromiso explícito de que la información comunicada o cedida a terceros será exacta, completa y actual, en la medida de lo posible y con la colaboración del titular para mantenerla actualizada.
+6.  **Datos Precontractuales:** Incluir una cláusula que aborde el tratamiento (supresión o anonimización) de los datos recopilados durante fases precontractuales si el contrato finalmente no se celebra.
+7.  **Referencia Legal Actualizada:** Aunque la política menciona la Ley 19.628, sería recomendable, una vez que la Ley 21.719 esté plenamente vigente y sea la referencia principal, actualizar las menciones legales para reflejar la nueva normativa, especialmente en la sección de derechos. (Esta recomendación es general, ya que la evaluación se basa en el articulado proporcionado que parece ser de la nueva ley).
+
+**5. Puntuación general de cumplimiento**
+
+| Sección de la Ley (Artículos proporcionados)

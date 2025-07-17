@@ -1,0 +1,84 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE MICROSOFT FRENTE A LA LEY 21.719 DE CHILE**
+
+**1. Resumen de los puntos principales de la política de privacidad de Microsoft**
+
+La Declaración de Privacidad de Microsoft, actualizada en enero de 2025, detalla los datos personales que la empresa recopila, cómo los trata y con qué fines. Cubre una amplia gama de productos y servicios, incluyendo software, servidores, dispositivos y sitios web.
+
+Principales aspectos:
+*   **Datos Recopilados:** Microsoft recopila datos a través de interacciones directas con los usuarios (ej. creación de cuentas, consultas de búsqueda), datos obtenidos del uso de sus productos (ej. datos de dispositivos, historial de exploración) y datos de terceros (ej. agentes de datos, servicios de comunicación con permiso del usuario, fuentes públicas). Las categorías de datos incluyen nombre y contacto, credenciales, datos demográficos, datos de pago, datos de suscripción, interacciones, datos de dispositivos y uso, intereses, contenido consumido, búsquedas, datos de voz, texto, imágenes, contactos, datos sociales y datos de ubicación.
+*   **Uso de Datos:** Los datos se utilizan para operar con efectividad, ofrecer mejores experiencias, personalizar servicios, celebrar y ejecutar contratos, y cumplir obligaciones legales. Las bases jurídicas mencionadas son el consentimiento, intereses legítimos ponderados, necesidad contractual y obligaciones legales.
+*   **Compartición de Datos:** Se describen las razones por las que se comparten datos personales, incluyendo con filiales, subsidiarias, proveedores de servicios, asociados, desarrolladores y otros fabricantes.
+*   **Control del Usuario:** Se indica que los usuarios tienen opciones sobre la tecnología que usan y los datos que comparten, y se menciona una sección sobre cómo acceder y controlar los datos personales.
+*   **Cookies y Tecnologías Similares:** Se explica el uso de cookies para almacenar preferencias, ayudar con el inicio de sesión, proporcionar anuncios personalizados y analizar operaciones.
+*   **Transferencias Internacionales:** Microsoft se adhiere a marcos de privacidad de datos como el UE-EE. UU., su extensión al Reino Unido y Suiza-EE. UU.
+*   **Menores:** Se menciona una página de "Privacidad para los más jóvenes".
+*   **Contacto:** Se proporciona un formulario web para contactar al Director de Privacidad de Microsoft o al Responsable de Protección de Datos de la UE.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+Basado en los extractos de la Ley 21.719 proporcionados:
+
+*   **Información sobre la versión de la política (Art. Título III, letra a)):** La política indica "Última actualización: enero de 2025". ✅
+*   **Categorías, clases o tipos de datos que trata (Art. Título III, letra d)):** La sección "Datos personales que recopilamos" es extensa y detalla múltiples categorías de datos (Nombre y datos de contacto, Credenciales, Datos demográficos, etc.). ✅
+*   **Descripción genérica del universo de personas (Art. Título III, letra d)):** Se infiere de la descripción de productos ("empresas de todo el mundo, dispositivos de uso doméstico, software que los estudiantes emplean en su centro educativo y desarrolladores de servicios"). ✅
+*   **Destinatarios a los que se prevé comunicar o ceder los datos (Art. Título III, letra d)):** La sección "Razones por las que compartimos datos personales" y la mención de obtener datos de "filiales, subsidiarias y terceros relacionados con Microsoft" y compartir con "proveedores de servicios", "asociados", "desarrolladores", "otros fabricantes" cumple parcialmente. ✅
+*   **Finalidades de los tratamientos (Art. Título III, letra d)):** La sección "Cómo usamos los datos personales" describe los propósitos ("operar con efectividad y ofrecerle las mejores experiencias con nuestros productos", "celebrar y ejecutar contratos", "cumplimiento de obligaciones legales"). ✅
+*   **Base de legitimidad del tratamiento (Art. Título III, letra d)):** Se mencionan "consentimiento, intereses legítimos ponderados, la necesidad de celebrar y ejecutar contratos y el cumplimiento de obligaciones legales". ✅
+*   **Fuente de la cual provienen los datos personales y si proceden de fuentes de acceso público (Art. Título III, letra j)):** Se indica que los datos provienen directamente del usuario, de la interacción con productos, y de terceros, incluyendo "Orígenes disponibles públicamente, como conjuntos de datos públicos abiertos, académicos y comerciales". ✅
+*   **Existencia del derecho a retirar el consentimiento (Art. Título III, letra k)):** Se menciona el consentimiento como base jurídica y la sección "Cómo acceder a tus datos personales y controlarlos" sugiere la posibilidad de gestionar consentimientos, aunque no se detalla explícitamente el derecho a retirarlo "en cualquier momento" y sus consecuencias sobre la licitud previa. Se considera un cumplimiento parcial. ✅
+*   **Información sobre el tipo de datos de geolocalización (Art. 16 sexies):** La sección "Datos de ubicación" describe los tipos de datos de geolocalización recopilados (precisa e imprecisa, GNSS, torres de telefonía móvil, zonas Wi-Fi, IP). ✅
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+*   **Individualización del responsable de datos y su representante legal en Chile (Art. Título III, letra b)):** La política menciona al "Director de Privacidad de Microsoft" y al "Responsable de Protección de Datos de la UE", y a "Microsoft Ireland Operations Limited". No se individualiza un responsable de datos específico para Chile ni su representante legal en el territorio nacional, como exige la ley chilena. ❎
+*   **Identificación del encargado de prevención, si existiere (Art. Título III, letra b)):** No se menciona un "encargado de prevención" en los términos de la ley chilena. ❎
+*   **Domicilio postal en Chile (Art. Título III, letra c)):** Se proporciona un formulario web y se hace referencia a información de contacto de "Microsoft Ireland Operations Limited". No se especifica un domicilio postal en Chile para notificaciones de los titulares. ❎
+*   **Detalle de los intereses legítimos (Art. Título III, letra d)):** Aunque se menciona "intereses legítimos ponderados" como base de legitimidad, la política no detalla cuáles serían estos intereses específicos para los distintos tratamientos que se basan en ellos, como requiere la ley ("cuáles serían éstos"). ❎
+*   **Información sobre transferencias internacionales a países sin nivel adecuado de protección y garantías (Art. Título III, letra h) y Art. 28):** Si bien se mencionan los marcos de privacidad UE-EE.UU., etc., no se informa explícitamente si otros países a los que se podrían transferir datos no cuentan con un nivel adecuado de protección según los estándares chilenos, ni se detallan las garantías específicas que justificarían tales transferencias para cada caso (más allá de los marcos mencionados, que son principalmente relevantes para datos de la UE/RU/Suiza). La ley chilena requiere esta información de forma proactiva. ❎
+*   **Período durante el cual se conservarán los datos personales (Art. Título III, letra i)):** La política no especifica los plazos de conservación para las distintas categorías de datos o finalidades de tratamiento. La mención a "almacenar y utilizar los datos por un período indeterminado de tiempo" en la ley se refiere a fines específicos (investigación científica, histórica, estadística) y con anonimización para publicación, lo cual no es una regla general de conservación. ❎
+*   **Existencia de decisiones automatizadas, incluida la elaboración de perfiles: información significativa sobre la lógica aplicada y consecuencias (Art. Título III, letra l)):** La política menciona "anuncios personalizados", "personalización" y "Capacidades de inteligencia artificial y Microsoft Copilot", que implican elaboración de perfiles y decisiones automatizadas. Sin embargo, no proporciona "información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular" de forma clara y detallada como exige la ley. ❎
+*   **Deber de protección desde el diseño y por defecto (Art. 14 quáter):** Si bien las prácticas de Microsoft pueden incorporar estos principios, la política de privacidad no declara explícitamente el compromiso de cumplir con la protección de datos desde el diseño y por defecto, como un principio rector. ❎
+*   **Datos de geolocalización: duración del tratamiento y comunicación/cesión a terceros para servicios con valor añadido (Art. 16 sexies):** La política informa el tipo de datos de geolocalización y genéricamente su finalidad, pero no especifica la "duración del tratamiento" de estos datos de geolocalización, ni si "se comunicarán o cederán a un tercero para la prestación de un servicio con valor añadido" de forma específica para la geolocalización. ❎
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Responsable en Chile:** Designar e identificar claramente en la política al responsable del tratamiento de datos para los usuarios en Chile y a su representante legal en el país, conforme al Art. Título III, letra b).
+2.  **Encargado de Prevención:** Si aplica según la estructura de Microsoft en Chile, identificar al encargado de prevención.
+3.  **Contacto Local:** Proveer un domicilio postal en Chile y/o un canal de contacto específico y de fácil acceso para los titulares de datos en Chile, además del formulario web general (Art. Título III, letra c)).
+4.  **Detalle de Intereses Legítimos:** Especificar cuáles son los intereses legítimos concretos que se persiguen cuando esta sea la base de licitud para un tratamiento determinado (Art. Título III, letra d)).
+5.  **Claridad en Transferencias Internacionales:**
+    *   Identificar los países o tipos de destinatarios fuera de Chile a los que se transfieren datos.
+    *   Para aquellos países que no ofrezcan un nivel de protección adecuado según la normativa chilena, detallar las garantías específicas que se aplican para legitimar dichas transferencias (ej. cláusulas contractuales tipo adaptadas a Chile, normas corporativas vinculantes aprobadas por la autoridad chilena, etc.), más allá de los marcos con EE.UU. (Art. Título III, letra h) y Art. 28).
+6.  **Plazos de Conservación:** Establecer y comunicar los períodos específicos o los criterios utilizados para determinar el período durante el cual se conservarán las distintas categorías de datos personales (Art. Título III, letra i)).
+7.  **Decisiones Automatizadas y Perfiles:** Proporcionar información más detallada y comprensible sobre la lógica aplicada en las decisiones automatizadas (incluida la elaboración de perfiles) y las consecuencias significativas que dichos tratamientos pueden tener para los titulares (Art. Título III, letra l)).
+8.  **Privacidad desde el Diseño y por Defecto:** Incluir una declaración explícita del compromiso de la empresa con los principios de protección de datos desde el diseño y por defecto en el desarrollo y operación de sus productos y servicios (Art. 14 quáter).
+9.  **Información Específica sobre Geolocalización:** Detallar la duración específica del tratamiento de los datos de geolocalización y, si aplica, informar de manera clara si estos datos se comunican o ceden a terceros para la prestación de servicios con valor añadido, identificando dichos servicios o terceros (Art. 16 sexies).
+10. **Derecho a Retirar el Consentimiento:** Reforzar la redacción sobre el derecho a retirar el consentimiento, asegurando que se mencione explícitamente que puede hacerse "en cualquier momento" y que "no afecta a la licitud del tratamiento basado en el consentimiento previo a su retirada" (Art. Título III, letra k)).
+
+**5. Puntuación general de cumplimiento**
+
+*   Información sobre la versión de la política: ✅
+*   Individualización del responsable de datos y representante legal en Chile: ❎
+*   Identificación del encargado de prevención: ❎
+*   Domicilio postal en Chile y medio de contacto local accesible: ❎
+*   Categorías, clases o tipos de datos que trata: ✅
+*   Descripción genérica del universo de personas: ✅
+*   Destinatarios a los que se prevé comunicar o ceder los datos: ✅
+*   Finalidades de los tratamientos: ✅
+*   Base de legitimidad del tratamiento: ✅
+*   Detalle de los intereses legítimos específicos: ❎
+*   Información sobre transferencias internacionales (países no adecuados y garantías específicas para Chile): ❎
+*   Período durante el cual se conservarán los datos personales: ❎
+*   Fuente de los datos (y si son de acceso público): ✅
+*   Existencia del derecho a retirarlo el consentimiento (conforme a ley): ✅
+*   Existencia de decisiones automatizadas (lógica aplicada y consecuencias): ❎
+*   Deber de protección desde el diseño y por defecto (declaración explícita): ❎
+*   Datos de geolocalización (tipo de datos): ✅
+*   Datos de geolocalización (duración, comunicación/cesión para valor añadido): ❎
+
+**6. Puntuación total**
+
+✅: 9
+❎: 9
+
+**Puntuación Total: 9 / 18**

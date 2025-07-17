@@ -1,0 +1,86 @@
+**EVALUACIÓN DE POLÍTICA DE PRIVACIDAD FRENTE A LA LEY 19.628**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de Ripley establece lo siguiente:
+*   **Datos Recopilados:** Ripley puede solicitar datos personales como nombre, RUT, correo electrónico, domicilio y teléfono, informando específicamente qué datos se solicitan en cada oportunidad.
+*   **Uso Interno y Confidencialidad:** Los datos no serán manejados por empresas ajenas al grupo Ripley y se tratarán confidencialmente, conforme a la legislación, para procesar compras, despachos, postventa y, opcionalmente, para envío de publicidad.
+*   **Cesión a Empresas Relacionadas:** Se podrán comunicar o ceder datos a empresas del grupo Ripley (Ripley Corp S.A., Ripley Chile S.A., etc.) para mejorar la información y comercialización de productos y servicios.
+*   **Cesión a Terceros:** Los usuarios autorizan la comunicación de datos a empresas externas para: (i) cumplir condiciones de compra (ej. transportistas), (ii) mejorar el servicio y experiencia del cliente, y (iii) evaluar el ofrecimiento de nuevos servicios (ej. garantías extendidas).
+*   **Derechos del Titular:** Los clientes inscritos en Ripley.com pueden requerir información, rectificación, eliminación y/o cancelación de sus datos a través de la sección "Necesitas ayuda" en Ripley.com, conforme a la Ley N° 19.628.
+*   **Mandatarios:** Se contempla la posibilidad de compartir datos con terceros que actúen como mandatarios (encargados de tratamiento).
+*   **Seguridad:** Ripley.com utiliza certificado SSL Extended Validation de 2048 bits para seguridad y privacidad de datos y transacciones.
+*   **Uso de Cookies:** Se utilizan cookies para mejorar la experiencia de navegación, recordar preferencias y analizar la navegación. Se informa que los clientes pueden bloquearlas, aunque esto podría restringir funcionalidades. Se remite a una "Política sobre el uso de cookies de Ripley.com" para más detalles.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+*   **Información sobre datos recolectados y finalidades primarias:** ✅
+    La política informa sobre los tipos de datos que se podrían solicitar (nombre, RUT, etc.) y las finalidades principales del tratamiento (procesar compra, despacho, postventa). Esto se alinea parcialmente con la obligación de informar fines específicos, explícitos y lícitos (Obligaciones, letra b).
+*   **Mención del tratamiento confidencial:** ✅
+    Se establece que los datos "serán tratados de manera confidencial, conforme a lo establecido por la legislación vigente", lo cual se relaciona con el deber de secreto o confidencialidad (Art. 14 bis).
+*   **Reconocimiento de algunos derechos del titular:** ✅
+    Se mencionan los derechos a requerir información, rectificación, eliminación y/o cancelación de datos, haciendo referencia a la Ley N° 19.628 (Art. 4º, parcialmente).
+*   **Información sobre cesión para cumplimiento contractual:** ✅
+    Se indica la cesión a terceros para "dar cumplimiento a las condiciones de la compra del usuario o cliente" (ej. transportistas), lo cual puede encuadrarse en la cesión necesaria para la ejecución de un contrato (Art. 15).
+*   **Información sobre medidas de seguridad:** ✅
+    Se menciona el uso de certificado SSL, lo que demuestra una preocupación por la seguridad de la información, un principio implícito en la debida diligencia del responsable.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+*   **Consentimiento para la cesión de datos y finalidades secundarias:** ❎
+    La política indica que "los usuarios y clientes autorizan a Ripley para comunicar su información personal a empresas externas o terceros en general" para fines como "mejorar el nivel del servicio" o "evaluar el ofrecimiento de nuevos servicios", y a empresas relacionadas para "mejorar la información y comercialización". Esta "autorización" general no cumple con el requisito de un consentimiento que, si no se otorgó al momento de la recolección para esos fines específicos de cesión, "debe recabarse antes que se produzca" (Art. 15). Los fines de cesión son amplios y no necesariamente cubiertos por el consentimiento inicial para la compra.
+*   **Detalle completo de los derechos del titular y su ejercicio:** ❎
+    No se mencionan todos los derechos del titular establecidos en el Art. 4º, como el derecho de oposición, portabilidad y bloqueo. Además, el mecanismo para ejercerlos ("ingresar a Ripley.com (sección “Necesitas ayuda”)") es vago y podría no cumplir con ser un "medio tecnológico equivalente de uso común y fácil acceso mediante el cual se le notifican las solicitudes" (Información al titular, letra c). No se menciona el carácter personal, intransferible e irrenunciable de los derechos, ni la posibilidad de ejercicio por herederos.
+*   **Identificación clara del responsable del tratamiento:** ❎
+    La política menciona a "Ripley" de forma genérica. No se individualiza la razón social específica de la entidad responsable del tratamiento de datos, ni su representante legal, ni la identificación del encargado de prevención si existiere (Información al titular, letra b). Si bien se listan empresas del grupo para cesiones, no queda claro cuál es el responsable primario.
+*   **Base de legitimidad para todos los tratamientos y cesiones:** ❎
+    No se especifica claramente la base de legitimidad para todas las finalidades, especialmente para las cesiones a empresas relacionadas con fines de "mejorar información y comercialización" o a terceros para "mejorar el servicio" o "evaluar nuevos servicios". Si se basa en interés legítimo, este no se describe (Información al titular, letra d; Art. 15).
+*   **Información sobre supresión/anonimización de datos precontractuales:** ❎
+    No se menciona la obligación de suprimir o anonimizar datos personales obtenidos para la ejecución de medidas precontractuales si estas no concluyen en un contrato (Obligaciones, letra d).
+*   **Información sobre la forma de documentar la cesión:** ❎
+    El Art. 15 establece que "La cesión de datos deberá constar por escrito o a través de cualquier medio" que permita acreditarla. La política no menciona cómo se cumple este requisito.
+*   **Información sobre antecedentes que acrediten la licitud del tratamiento:** ❎
+    La política no indica explícitamente cómo se ponen a disposición del titular los antecedentes que acrediten la licitud del tratamiento, más allá de la propia política (Obligaciones, letra a).
+*   **Limitación del tratamiento a los fines:** ❎
+    Si bien se mencionan fines primarios, la amplitud de los fines para cesión ("mejorar la información y comercialización", "mejorar el nivel del servicio", "evaluar el ofrecimiento de nuevos servicios") podría no cumplir estrictamente con que el tratamiento se limite al cumplimiento de fines "específicos, explícitos y lícitos" (Obligaciones, letra b).
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+*   **Consentimiento Específico:** Implementar mecanismos para obtener consentimiento explícito, informado y granular para cada finalidad de tratamiento y, especialmente, para cada tipo de cesión de datos que no sea estrictamente necesaria para la ejecución del contrato. Diferenciar claramente el consentimiento para la transacción principal de los consentimientos para fines secundarios o cesiones.
+*   **Derechos del Titular:**
+    *   Listar todos los derechos ARCOPOL (Acceso, Rectificación, Cancelación/Supresión, Oposición, Portabilidad y Limitación/Bloqueo).
+    *   Indicar su carácter personal, intransferible e irrenunciable, y la posibilidad de ejercicio por herederos con las salvedades legales.
+    *   Establecer un procedimiento y canal de contacto claro, directo y de fácil acceso para el ejercicio de estos derechos (ej. correo electrónico específico, formulario dedicado).
+*   **Identificación del Responsable:**
+    *   Especificar la razón social completa, RUT y domicilio de la entidad o entidades del grupo Ripley que actúan como responsables del tratamiento.
+    *   Identificar al representante legal y, si existe, al encargado de prevención o Delegado de Protección de Datos.
+*   **Base de Legitimidad:**
+    *   Para cada finalidad de tratamiento y cada cesión, indicar de forma explícita la base de legitimidad (consentimiento del titular, ejecución de contrato, interés legítimo del responsable, obligación legal, etc.).
+    *   Si se invoca el interés legítimo, describirlo y justificarlo conforme al Art. 13 letra d) (aunque no provisto en su totalidad aquí, es referenciado).
+*   **Cesión de Datos:**
+    *   Detallar con mayor precisión los destinatarios o categorías de destinatarios de las cesiones y los fines específicos para cada una.
+    *   Indicar que la cesión se documentará conforme a la ley.
+*   **Datos Precontractuales:** Incluir una cláusula sobre la supresión o anonimización de datos obtenidos para medidas precontractuales que no resulten en un contrato.
+*   **Claridad y Accesibilidad:** Redactar la política en un lenguaje claro, sencillo y comprensible para el titular promedio. Asegurar que sea fácilmente accesible en todo momento.
+*   **Política de Cookies:** Asegurar que la "Política sobre el uso de cookies" a la que se remite sea completa, informe detalladamente sobre los tipos de cookies, sus finalidades, duración, si son propias o de terceros, y ofrezca un mecanismo efectivo para que el usuario otorgue o revoque su consentimiento.
+*   **Licitud del Tratamiento:** Indicar cómo el titular puede acceder a los antecedentes que acreditan la licitud del tratamiento, más allá de la lectura de la política.
+
+**5. Puntuación general de cumplimiento**
+
+*   Información sobre datos recolectados y finalidades primarias: ✅
+*   Mención del tratamiento confidencial: ✅
+*   Reconocimiento de algunos derechos del titular: ✅
+*   Información sobre cesión para cumplimiento contractual: ✅
+*   Información sobre medidas de seguridad: ✅
+*   Consentimiento para la cesión de datos (fines secundarios/amplios): ❎
+*   Detalle completo de los derechos del titular y su ejercicio: ❎
+*   Identificación clara del responsable del tratamiento: ❎
+*   Base de legitimidad clara para todos los tratamientos y cesiones: ❎
+*   Información sobre supresión/anonimización (precontractual): ❎
+*   Información sobre documentación de la cesión: ❎
+*   Información sobre antecedentes que acrediten la licitud del tratamiento: ❎
+*   Limitación del tratamiento a los fines (especialmente en cesiones): ❎
+
+**6. Puntuación total**
+
+✅✅✅✅✅ (5 de 13 secciones evaluadas como cumpliendo)

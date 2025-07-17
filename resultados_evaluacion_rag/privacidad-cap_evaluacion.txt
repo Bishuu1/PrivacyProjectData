@@ -1,0 +1,108 @@
+## Evaluación de Política de Privacidad - CAP S.A. IR
+
+**Fecha de Evaluación:** 23 de mayo de 2024
+**Legislación de Referencia:** Ley 19.628 sobre Protección de la Vida Privada (actualizada según los extractos proporcionados, que parecen reflejar modificaciones o un proyecto de ley como la Ley 21.719, aunque el encabezado del documento diga Ley 19.628 y fecha 2025).
+
+---
+
+### 1. Resumen de los puntos principales de la política de privacidad
+
+La política de privacidad de CAP S.A. IR establece que:
+*   Los datos personales de los visitantes del sitio están sujetos a esta política.
+*   La Empresa declara garantizar la seguridad y confidencialidad de los datos, adoptando niveles de seguridad "razonablemente eficaces" e instalando medios técnicos para evitar pérdida, mal uso, alteración, acceso no autorizado y robo.
+*   Advierte que la seguridad en Internet no es invulnerable y la protección de información ingresada voluntariamente no es absoluta.
+*   Se exime de responsabilidad por la seguridad de datos en caso de mantenimiento y alojamiento del sitio por terceros, así como por divulgación de datos por fuentes ajenas o acceso ilegal/violación del sistema por no autorizados.
+*   El sitio recopila información cuando los visitantes ingresan directamente los datos.
+*   Esta información será utilizada por personal a cargo o terceros contratados para enviar información autorizada por los usuarios o atender consultas.
+*   Los servicios de información por correo electrónico se proporcionan con consentimiento expreso, permitiendo edición o cancelación.
+*   Se reserva el derecho de usar "Cookies" (archivos de texto) para conocer comportamiento de navegación, intereses y preferencias, con el fin de adaptar contenidos.
+*   Afirma que las cookies se asocian anónimamente y no proporcionan datos personales identificatorios.
+*   El visitante puede limitar o impedir la instalación de cookies a través de la configuración de su navegador.
+*   Proporciona una dirección de correo electrónico (`ir@cap.cl`) y una dirección física (Gertrudis Echeñique 220, Las Condes, Santiago, Chile).
+
+---
+
+### 2. Evaluación de cumplimiento: aspectos que cumplen con la ley
+
+Basado en los extractos de la ley proporcionados:
+
+*   **Información de Contacto (parcialmente cumple con Art. X, p.11, c)):** La política proporciona una dirección de correo electrónico (`ir@cap.cl`) y un domicilio postal (Gertrudis Echeñique 220, Las Condes, Santiago, Chile), lo cual es un medio de contacto.
+*   **Finalidad del Tratamiento (parcialmente cumple con Art. X, p.11, d) y Principio de Finalidad Art. 3°, b)):** Se mencionan finalidades como "enviar información expresamente autorizada por los usuarios o atender consultas y/o solicitudes de información de los visitantes". Para las cookies, la finalidad es "conocer el comportamiento de navegación, intereses y preferencias de los visitantes del sitio web con el fin de adaptar sus contenidos y servicios a sus necesidades".
+*   **Base de Legitimidad (parcialmente cumple con Art. X, p.11, d)):** Se menciona el "consentimiento expreso de los usuarios" para los servicios de información por correo electrónico.
+*   **Mención de Medidas de Seguridad (parcialmente cumple con Art. X, p.11, e)):** La política menciona que se adoptan "niveles de seguridad de protección de los datos personales razonablemente eficaces, instalando todos los medios y dispositivos técnicos a disposición del sector".
+
+---
+
+### 3. Identificación de incumplimientos: aspectos que no cumplen con la ley
+
+La política presenta varias omisiones e incumplimientos significativos respecto a los artículos proporcionados:
+
+*   **Individualización del Responsable y Representante Legal (incumple Art. X, p.11, b)):** No se individualiza claramente al "responsable de datos" con su razón social completa y RUT, ni a su representante legal. Tampoco se menciona si existe un encargado de prevención (Delegado de Protección de Datos). Se refiere genéricamente a "La Empresa" o "La Compañía".
+*   **Detalle de Categorías de Datos, Universo de Personas, Destinatarios (incumple Art. X, p.11, d)):**
+    *   No se especifican las "categorías, clases o tipos de datos que trata" más allá de "datos personales de los visitantes" o "información recopilada en sus bases de datos cuando los visitantes ingresan directamente los datos". Esto es muy genérico.
+    *   Si bien se menciona "visitantes del Sitio" como universo, no se detalla más.
+    *   Los "destinatarios a los que se prevé comunicar o ceder los datos" se mencionan vagamente como "personal a cargo del Sitio o por terceros contratados", sin mayor especificación o identificación de estos terceros.
+*   **Base de Legitimidad para todos los tratamientos (incumple Art. X, p.11, d)):** Solo se menciona el consentimiento para emails. No se especifica la base de legitimidad para la recolección general de datos ingresados directamente, ni para el uso de cookies (si se basa en interés legítimo, no se especifica cuál sería este).
+*   **Política y Medidas de Seguridad (incumple Art. X, p.11, e)):** Aunque se mencionan, la descripción es genérica. Más importante aún, las extensas cláusulas de exención de responsabilidad ("el mantenimiento y alojamiento del sitio Web puede ser prestado por terceros, cuyas medidas de seguridad y protección de datos no están bajo la custodia de La Empresa y de los que ésta no responde", "La Compañía no será responsable bajo ninguna circunstancia por la divulgación de datos personales... por fuentes ajenas... ni será responsable por los daños causados por ellos... acceso ilegal o la violación del sistema") son problemáticas y podrían contravenir el deber de diligencia y responsabilidad del responsable del tratamiento. El responsable debe asegurar que los terceros encargados del tratamiento ofrezcan garantías suficientes.
+*   **Derechos de los Titulares (ARSOP) (incumple Art. X, p.11, f)):** No se informa sobre el derecho que asiste al titular para solicitar acceso, rectificación, supresión, oposición y portabilidad de sus datos personales, ni el procedimiento para ejercerlos.
+*   **Derecho a Recurrir ante la Agencia (incumple Art. X, p.11, g)):** No se informa al titular sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales en caso de que el responsable rechace o no responda oportunamente sus solicitudes.
+*   **Transferencia Internacional de Datos (incumple Art. X, p.11, h)):** No se menciona si se realizan transferencias de datos personales a terceros países u organizaciones internacionales, ni si estos ofrecen un nivel adecuado de protección o las garantías que justificarían tal transferencia. Esto es relevante si el alojamiento o los "terceros contratados" están fuera de Chile.
+*   **Información sobre la Versión de la Política (incumple Art. X, p.11, a) - "versión de la misma"):** No se indica la fecha de la última actualización de la política ni cómo se informará de cambios.
+*   **Acreditación de Licitud y Fuentes Lícitas (incumple Art. X, p.10, a) y b)):** La política no detalla cómo el responsable acreditará la licitud del tratamiento ni cómo asegura que los datos se recojan de fuentes lícitas (aunque "ingresan directamente los datos" sugiere una fuente lícita).
+*   **Supresión o Anonimización de Datos Precontractuales (incumple Art. X, p.10, d)):** No se menciona esta obligación.
+
+---
+
+### 4. Recomendaciones para mejorar el cumplimiento
+
+Para alinear la política con la legislación chilena de protección de datos, se recomienda:
+
+1.  **Identificación Completa:** Incluir la razón social completa y RUT de "La Empresa" como responsable del tratamiento, así como el nombre y datos de contacto de su representante legal. Si existe un Encargado de Prevención (DPO), identificarlo.
+2.  **Detalle de Datos y Tratamientos:**
+    *   Especificar las categorías de datos personales que se recolectan (ej: nombre, correo electrónico, IP, datos de navegación, etc.).
+    *   Describir con mayor precisión el universo de personas.
+    *   Identificar claramente a los destinatarios o categorías de destinatarios de los datos, incluyendo a los "terceros contratados".
+    *   Para cada finalidad de tratamiento, indicar la base de legitimidad correspondiente (consentimiento, interés legítimo, obligación legal, etc.). Si se invoca el interés legítimo, detallar cuál es.
+3.  **Derechos de los Titulares:** Incorporar una sección clara y accesible que informe a los titulares sobre sus derechos de acceso, rectificación, supresión, oposición y portabilidad (derechos ARSOP), y el procedimiento detallado para ejercerlos ante el responsable.
+4.  **Agencia de Protección de Datos:** Informar a los titulares sobre su derecho a presentar reclamos ante la Agencia de Protección de Datos Personales si sus solicitudes no son atendidas o son rechazadas.
+5.  **Transferencias Internacionales:** Si se realizan transferencias internacionales de datos (ej. uso de servidores o proveedores de servicios en el extranjero), declararlo explícitamente, indicando el país de destino, si cuenta con un nivel adecuado de protección y, en caso contrario, las garantías adoptadas.
+6.  **Seguridad de los Datos:** Revisar las cláusulas de exención de responsabilidad. Si bien se pueden reconocer los límites de la seguridad absoluta, el responsable no puede eximirse de su deber de diligencia en la elección de proveedores (encargados) y en la implementación de medidas adecuadas. Describir de forma más concreta las medidas de seguridad implementadas.
+7.  **Cookies:** Detallar los tipos de cookies utilizadas (necesarias, de rendimiento, de funcionalidad, de publicidad), su propósito específico, su duración y si son propias o de terceros. Implementar un mecanismo de gestión de consentimiento de cookies granular y efectivo, que vaya más allá de la simple configuración del navegador.
+8.  **Retención de Datos:** Informar sobre los plazos o criterios para la conservación de los datos personales.
+9.  **Actualización de la Política:** Indicar la fecha de la última versión de la política y el medio por el cual se comunicarán las futuras actualizaciones a los titulares.
+10. **Obligaciones Adicionales:** Asegurar que la política refleje el cumplimiento de otras obligaciones, como la supresión de datos obtenidos para medidas precontractuales si no se concreta el contrato.
+
+---
+
+### 5. Puntuación general de cumplimiento
+
+| Sección de la Ley (según extractos)                                                                                                                               | Cumple |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: |
+| **Obligaciones (p.10)**                                                                                                                                            |        |
+| a) Informar y poner a disposición antecedentes que acrediten licitud.                                                                                              |   ❎    |
+| b) Recoger de fuentes lícitas con fines específicos, explícitos, lícitos; tratamiento limitado a fines.                                                             |   ❎    |
+| c) Comunicar o ceder información exacta, completa y actual.                                                                                                        |   ❎    |
+| d) Suprimir o anonimizar datos precontractuales.                                                                                                                   |   ❎    |
+| e) Cumplir con demás deberes, principios y obligaciones.                                                                                                           |   ❎    |
+| **Información en Política de Privacidad (p.11)**                                                                                                                   |        |
+| a) Informar versión de la política.                                                                                                                                |   ❎    |
+| b) Individualización del responsable, representante legal, encargado de prevención.                                                                                |   ❎    |
+| c) Domicilio postal, correo electrónico, formulario de contacto o medio tecnológico equivalente.                                                                     |   ✅    |
+| d) Categorías de datos, universo de personas, destinatarios, finalidades, base de legitimidad, intereses legítimos.                                                |   ❎    |
+| e) Política y medidas de seguridad adoptadas.                                                                                                                      |   ❎    |
+| f) Derecho ARSOP (acceso, rectificación, supresión, oposición, portabilidad).                                                                                      |   ❎    |
+| g) Derecho a recurrir ante la Agencia.                                                                                                                             |   ❎    |
+| h) Transferencia internacional de datos y nivel de protección/garantías.                                                                                           |   ❎    |
+| **Principios (p.4)**                                                                                                                                               |        |
+| a) Licitud y lealtad (responsable debe acreditar licitud).                                                                                                         |   ❎    |
+| b) Finalidad (recolectados con fines específicos, explícitos, lícitos; tratamiento limitado).                                                                      |   ✅    |
+
+---
+
+### 6. Puntuación total
+
+**Total de ✅: 2 / 15**
+
+---
+
+**Conclusión:** La política de privacidad de CAP S.A. IR presenta deficiencias significativas en cuanto al cumplimiento de los requisitos establecidos en los extractos de la Ley 19.628 (y sus posibles modificaciones reflejadas en los textos, asimilables a la Ley 21.719). Requiere una revisión y actualización exhaustiva para adecuarse a la normativa chilena de protección de datos personales.

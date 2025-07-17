@@ -1,0 +1,101 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE YAHOO FRENTE A LA LEY 21.719 DE CHILE**
+
+**1. Resumen de los puntos principales de la política de privacidad de Yahoo**
+
+La política de privacidad de Yahoo, con última actualización en septiembre de 2024, establece cómo Yahoo Inc. (empresa de EE. UU., actuando como responsable de datos) y sus afiliadas recopilan, usan y comparten información de los usuarios de sus servicios (AOL, Yahoo, etc.).
+
+*   **Compromiso:** Priorizar al usuario, ser transparente, mantener la seguridad de los datos y ofrecer opciones significativas.
+*   **Alcance:** Aplica a marcas, sitios web, aplicaciones, servicios de publicidad, productos y tecnologías de Yahoo.
+*   **Controles del Usuario:** Proporciona herramientas ("Controles de Privacidad") para gestionar información de cuenta, preferencias de marketing, datos de ubicación e historial de búsqueda.
+*   **Recopilación de Datos:**
+    *   **Datos proporcionados por el usuario:** Al crear cuentas, comunicarse, publicar contenido, usar servicios de pago (datos financieros).
+    *   **Información de Dispositivos:** IPs, cookies, IDs de dispositivo y publicidad, tipo de navegador, sistema operativo, red móvil, configuración. Permite vincular actividades entre dispositivos.
+    *   **Información de Ubicación:** De diversas fuentes, gestionable por el usuario.
+    *   **Información de Cookies y otras Tecnologías:** Para entender actividades dentro y fuera de sus servicios, incluyendo interacciones con contenido y anuncios.
+    *   **Información de Otros:** De otros usuarios, terceros (ej. al conectar cuentas con Facebook/Twitter), fuentes públicas, anunciantes y empresas afiliadas.
+*   **Uso de la Información:**
+    *   Proveer, personalizar, mejorar y desarrollar servicios y contenido.
+    *   Analizar contenido (incluyendo correos electrónicos y mensajes).
+    *   Cumplir solicitudes con autorización del usuario.
+    *   Conectar anunciantes con publicidad relevante.
+    *   Ofrecer publicidad orientada basada en actividad, intereses inferidos y ubicación.
+    *   Contactar al usuario (información de cuenta, marketing).
+    *   Vincular actividades y cuentas del usuario.
+    *   Realizar promociones, investigaciones e innovación.
+    *   Crear analíticas e informes (agregados o seudónimos) para externos.
+    *   Detectar y proteger contra actividades fraudulentas o ilegales.
+*   **Cómo se Comparte la Información:**
+    *   Con empresas afiliadas de Yahoo.
+    *   **Con consentimiento del usuario:** Con empresas, organizaciones u otras personas ajenas a Yahoo.
+    *   **Dentro de Yahoo:** Entre servicios y afiliadas.
+    *   **Con socios:**
+        *   **Socios confiables:** Que trabajan en nombre de Yahoo bajo directrices y confidencialidad.
+        *   **Publicidad, analíticas y socios de negocios:** Información agregada o seudónima (no personal identificable como email o teléfono).
+    *   **Para fines legales y otros propósitos:** Para cumplir procesos legales, hacer cumplir condiciones, responder a denuncias, solicitudes de atención al cliente, etc.
+*   **Especificidad para UE/EEE/Reino Unido:** Menciona una sección específica (Sección 10, no provista en el extracto) sobre bases legales para el tratamiento de datos para usuarios en estas regiones.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+Basado en los extractos de la Ley 21.719 proporcionados:
+
+*   **Información sobre categorías de datos tratados (Art. d, Título III):** La política, especialmente en la Sección 4 ("Recopilación y Uso de Datos – General"), detalla las categorías de datos que recopila (datos proporcionados, de dispositivos, de ubicación, de cookies, de otros). ✅
+*   **Información sobre finalidades del tratamiento (Art. d, Título III):** La Sección 5 ("Cómo Usamos esta Información") describe de manera amplia las finalidades para las cuales se utilizan los datos recopilados. ✅
+*   **Información sobre destinatarios de los datos (Art. d, Título III):** La Sección 6 ("Cómo Compartimos esta Información") indica con quiénes se comparte la información (afiliadas, socios con consentimiento, socios para publicidad/analítica con datos no identificables, fines legales). ✅
+*   **Fuente de la cual provienen los datos personales, incluyendo fuentes de acceso público (Art. j, Información a proporcionar):** La Sección 4.f ("Información de Otros") menciona explícitamente la recopilación de datos "Mediante fuentes públicas de acceso". También detalla otras fuentes como el propio usuario, dispositivos, cookies, terceros y afiliadas. ✅
+*   **Información sobre el tratamiento de datos de geolocalización (Art. 16 sexies):** La política informa sobre la recopilación de datos de geolocalización (Sección 4.d) y su uso para ofrecer servicios basados en ubicación y publicidad (Sección 5.a.xi). Indica que se puede gestionar a través de la "Página de ubicaciones" o la configuración del dispositivo. ✅ (Parcial, ver incumplimientos)
+*   **Existencia de decisiones automatizadas, incluida la elaboración de perfiles (Art. l, Información a proporcionar):** La política menciona la "publicidad orientada en función de la actividad en su dispositivo, intereses inferidos y datos de ubicación" (Sección 5.a.v) y la vinculación de actividades y cuentas con un solo ID de usuario (Sección 5.a.vii), lo que constituye elaboración de perfiles y decisiones automatizadas. ✅ (Parcial, ver incumplimientos)
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+*   **Individualización del responsable de datos y su representante legal en Chile (Art. b, Título III):** La política identifica a "Yahoo Inc. la empresa establecida en EE. UU." como responsable. Sin embargo, la Ley 21.719, para responsables de datos no establecidos en Chile que traten datos de titulares chilenos, probablemente requerirá la designación de un representante legal en Chile. Esto no se menciona. ❎
+*   **Identificación del encargado de prevención (DPO) (Art. b, Título III):** No se menciona la figura de un Encargado de Prevención o Delegado de Protección de Datos, que si bien la ley dice "si existiere", es una figura clave para la gobernanza de datos. ❎
+*   **Domicilio postal y medio tecnológico específico para notificaciones de solicitudes de titulares en Chile (Art. c, Título III):** Si bien se mencionan "Controles de Privacidad", no se proporciona un domicilio postal en Chile ni un correo electrónico o formulario de contacto inequívocamente destinado a ejercer los derechos ARSOPL (Acceso, Rectificación, Supresión, Oposición, Portabilidad y Limitación) bajo la ley chilena. La política es genérica y orientada a un público global o estadounidense. ❎
+*   **Base de legitimidad del tratamiento específica para Chile (Art. d, Título III):** La política menciona el consentimiento (Sección 5.a.iii, 6.a.i) y hace referencia a una sección específica para bases legales en la UE/EEE/Reino Unido (Sección 5.c), pero no detalla las bases de legitimidad aplicables bajo la Ley 21.719 para usuarios chilenos (ej. consentimiento, ejecución de contrato, interés legítimo del responsable, etc.). Si se basa en "intereses legítimos", no se especifica cuáles serían estos de cara a la ley chilena. ❎
+*   **Información sobre transferencias internacionales y garantías (Art. h, Información a proporcionar):** Siendo Yahoo una empresa de EE.UU., los datos de usuarios chilenos son transferidos internacionalmente. La política no informa si EE.UU. cuenta con un nivel adecuado de protección según los estándares chilenos (lo cual es improbable sin un acuerdo de adecuación) ni detalla las "garantías que justifiquen tal transferencia" (ej. Cláusulas Contractuales Tipo adaptadas a Chile, Normas Corporativas Vinculantes aprobadas por la Agencia chilena). ❎
+*   **Período durante el cual se conservarán los datos personales (Art. i, Información a proporcionar):** La política no especifica los plazos de conservación de los datos personales para las distintas finalidades. Solo menciona que "Es posible que accedamos, conservemos y revelemos información para investigar..." (Sección 6.a.iv), lo cual es situacional y no una política general de retención. La ley chilena (Art. 16 quáter, no provisto en su totalidad pero referenciado) permite almacenamiento indefinido solo para fines históricos, estadísticos o científicos previa anonimización, lo cual no parece ser el caso general aquí. ❎
+*   **Derecho a retirar el consentimiento y sus efectos (Art. k, Información a proporcionar):** Si bien se ofrecen "opciones para gestionar su experiencia" y "optar por dejar de ver anuncios orientados" (Sección 5.b), no se establece de forma explícita y clara el derecho general a retirar el consentimiento para cualquier tratamiento basado en él, en cualquier momento, y que esto no afectará la licitud del tratamiento previo a su retirada, como lo exige la ley. ❎
+*   **Información significativa sobre la lógica aplicada en decisiones automatizadas y consecuencias previstas (Art. l, Información a proporcionar):** Aunque se menciona la elaboración de perfiles para publicidad orientada basada en "intereses inferidos", no se proporciona "información significativa sobre la lógica aplicada" (cómo se infieren esos intereses, qué algoritmos se usan de forma comprensible) ni se detallan todas las "consecuencias previstas de dicho tratamiento para el titular" más allá de recibir publicidad. ❎
+*   **Protección desde el diseño y por defecto (Art. 14 quáter):** Si bien Yahoo menciona esfuerzos por "mantenerlos seguros y ofrecerle opciones significativas" (Sección 2.a), la política no declara explícitamente la adopción del principio de protección de datos desde el diseño y por defecto en el desarrollo y operación de sus servicios, como un compromiso fundamental. ❎
+*   **Derecho a la portabilidad de los datos (Art. 14 quáter, parte final):** La política no menciona explícitamente el derecho del titular a que sus datos personales se transmitan directamente de responsable a responsable cuando sea técnicamente posible. Los "Controles de Privacidad" podrían permitir la descarga, pero la portabilidad directa no está clara. ❎
+*   **Datos de geolocalización: duración y cesión a terceros para servicios con valor añadido (Art. 16 sexies):** La política informa sobre la recopilación y finalidad de los datos de geolocalización, pero no especifica la "duración del tratamiento" de estos datos de forma clara, ni si "se comunicarán o cederán a un tercero para la prestación de un servicio con valor añadido" de forma específica para la geolocalización, más allá de las cláusulas generales de compartición. ❎
+*   **Principio de confidencialidad (Art. h, Título I):** La política menciona que se proporciona información a "socios de confianza... en función de las medidas de confidencialidad adecuadas" (Sección 6.a.iii.1). Sin embargo, no establece de manera explícita el deber general de secreto o confidencialidad para Yahoo y quienes tengan acceso a los datos, ni que este deber subsiste aún después de concluida la relación con el titular, como lo exige la ley. ❎
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Designar un Representante Legal en Chile:** Si Yahoo trata datos de titulares en Chile de forma significativa, debe designar un representante legal en el país.
+2.  **Considerar un Encargado de Prevención (DPO):** Nombrar o designar un contacto claro para asuntos de protección de datos que pueda interactuar con la autoridad chilena y los titulares.
+3.  **Establecer un Canal de Contacto Específico para Chile:** Proveer un domicilio postal en Chile (del representante) y/o una dirección de correo electrónico o formulario de contacto específico y de fácil acceso para que los titulares chilenos ejerzan sus derechos ARSOPL.
+4.  **Adaptar la Política para Chile:** Crear un anexo o sección específica para Chile que detalle:
+    *   Las bases de legitimidad específicas de la Ley 21.719 para cada tratamiento (consentimiento, interés legítimo detallado, ejecución contractual, obligación legal, etc.).
+    *   Los plazos concretos o criterios para determinar la conservación de los datos personales.
+    *   Información clara sobre las transferencias internacionales de datos a EE.UU. (u otros países), indicando la falta de decisión de adecuación y detallando las garantías específicas implementadas (ej. Cláusulas Contractuales Tipo, si son adaptadas o reconocidas por la ley chilena).
+    *   El derecho explícito a retirar el consentimiento en cualquier momento, sin afectar la licitud del tratamiento previo, y cómo ejercerlo.
+    *   Mayor detalle sobre la lógica aplicada en decisiones automatizadas y elaboración de perfiles, y todas sus consecuencias previstas para el titular.
+    *   La mención explícita del derecho a la portabilidad y cómo ejercerlo.
+    *   Para datos de geolocalización: especificar la duración del tratamiento y si se ceden a terceros para servicios de valor añadido, informando claramente al titular.
+5.  **Incorporar Principios Explícitos:**
+    *   Declarar el compromiso con la protección de datos desde el diseño y por defecto.
+    *   Establecer claramente el deber de confidencialidad de Yahoo y su personal, y su subsistencia tras la finalización de la relación con el titular.
+6.  **Revisión Legal Local:** Someter la política de privacidad (y su adaptación para Chile) a una revisión por parte de abogados chilenos especializados en protección de datos para asegurar su plena conformidad con la Ley 21.719.
+
+**5. Puntuación general de cumplimiento (por sección relevante de la ley chilena)**
+
+*   `a) Información clara y accesible sobre la política (Art. 14 quáter)`: ✅ (La política es pública y extensa, aunque su aplicabilidad directa a Chile es el problema)
+*   `b) Individualización del responsable y representante legal en Chile, encargado de prevención (Art. b, Título III)`: ❎
+*   `c) Domicilio y medios de contacto para solicitudes de titulares en Chile (Art. c, Título III)`: ❎
+*   `d) Categorías de datos, universo, destinatarios, finalidades, base de legitimidad (específica para Chile), intereses legítimos (Art. d, Título III)`: ❎ (Principalmente por la falta de base de legitimidad clara para Chile e intereses legítimos no detallados)
+*   `h) Principio de confidencialidad (explícito y persistente) (Art. h, Título I)`: ❎
+*   `i) Período de conservación de los datos (Art. i, Información a proporcionar)`: ❎
+*   `j) Fuente de los datos (incluyendo acceso público) (Art. j, Información a proporcionar)`: ✅
+*   `k) Derecho a retirar el consentimiento (claro y explícito) (Art. k, Información a proporcionar)`: ❎
+*   `l) Existencia de decisiones automatizadas (información sobre lógica y consecuencias) (Art. l, Información a proporcionar)`: ❎ (Falta detalle en lógica y consecuencias completas)
+*   `Transferencias internacionales (información sobre nivel de protección o garantías) (Art. h, Información a proporcionar)`: ❎
+*   `Artículo 14 quáter - Protección desde el diseño y por defecto (compromiso explícito)`: ❎
+*   `Artículo 14 quáter - Derecho a la portabilidad`: ❎
+*   `Artículo 16 sexies - Datos de geolocalización (información completa según ley: tipo, finalidad, duración, cesión para valor añadido)`: ❎ (Falta duración y detalles de cesión específica)
+
+**6. Puntuación total**
+
+Sumando los ✅ del total de secciones evaluadas: **2 / 13**
+
+**Conclusión:** La política de privacidad de Yahoo, en su forma actual, presenta deficiencias significativas para cumplir con los requisitos específicos de la Ley 21.719 de Chile. Si bien es completa en muchos aspectos generales de privacidad, carece de la especificidad y los elementos requeridos por la legislación chilena, especialmente en lo referente a la designación de un representante local, bases de legitimación para Chile, información sobre transferencias internacionales, periodos de conservación, y la articulación clara de ciertos derechos de los titulares conforme a la ley chilena. Se requieren adaptaciones sustanciales para alcanzar un nivel de cumplimiento adecuado.

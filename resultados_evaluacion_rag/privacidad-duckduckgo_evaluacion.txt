@@ -1,0 +1,77 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE DUCKDUCKGO CONFORME A LA LEY CHILENA DE PROTECCIÓN DE DATOS PERSONALES**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de DuckDuckGo se centra en el principio fundamental de "No rastrear" ("We don’t track you"). Sus puntos clave son:
+
+*   **No recolección de historial:** No guardan ni comparten el historial de búsqueda o navegación de los usuarios.
+*   **Uso temporal de datos técnicos:** La información del dispositivo (IP, tipo de navegador, idioma, etc.) se usa temporalmente solo para entregar contenido y por seguridad (detectar bots), pero no se guarda la dirección IP ni identificadores únicos con las búsquedas. Las direcciones IP nunca se registran en disco.
+*   **Anonimización de búsquedas:** Las búsquedas son anónimas. Se guardan consultas de búsqueda anónimas (desconectadas de identificadores) solo el tiempo necesario para analizar tendencias. Para búsquedas locales, se utiliza una ubicación cercana aleatoria que no se registra.
+*   **Protección con proveedores:** Evitan que sus proveedores de hosting y contenido creen un historial de búsquedas y navegación, solicitando contenido en nombre del usuario y asegurando la entrega cifrada. Comparten información anónima del navegador y dispositivo con estos proveedores solo para fines de seguridad y visualización.
+*   **Modelo de negocio:** Ganan dinero a través de anuncios de búsqueda privados, basados en la página de resultados de búsqueda (contextuales) y no en perfiles de usuario. Los clics en anuncios son gestionados por la red de Microsoft, que se ha comprometido a no asociar el comportamiento de clics con un perfil de usuario.
+*   **Funciones opcionales:** Para funciones opcionales que requieren datos personales (ej. Email Protection), solo se solicita la información necesaria, se informa sobre su uso y se ofrece la opción de darse de baja.
+*   **Mejora del producto:** Utilizan métodos anónimos y consideran información pública para mejorar el producto.
+*   **No uso de cookies de rastreo:** Usan cookies anónimas y almacenamiento local solo para configuraciones anónimas y experimentos, no para identificar usuarios o sus búsquedas.
+*   **Comunicaciones directas:** Si el usuario proporciona información personal directamente (ej. newsletter, soporte), se protege, se limita su uso al propósito declarado y se elimina cuando ya no es necesaria, salvo obligación legal.
+*   **Derechos de privacidad:** Reconocen los derechos de privacidad legales y dirigen a los usuarios a una página de "Privacy Rights" para solicitar eliminación o copia de la información personal limitada que puedan tener.
+*   **Transferencias internacionales:** Mencionan la posibilidad de transferencias internacionales de la información personal limitada que poseen, comprometiéndose a seguir los requisitos legales aplicables.
+*   **No venta de datos:** Nunca han vendido información personal.
+*   **Actualizaciones de la política:** Notificarán cambios publicando la versión modificada en su sitio web.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley (basado en los artículos proporcionados)**
+
+La política de DuckDuckGo, en su espíritu y en varias de sus declaraciones, se alinea con principios fundamentales de la protección de datos.
+
+*   ✅ **c) Finalidades del tratamiento:** La política es clara sobre las finalidades para las cuales se tratan los datos (entrega de contenido, seguridad, análisis de tendencias anónimas, funcionamiento de funciones opcionales).
+*   ✅ **e) La política y las medidas de seguridad adoptadas para proteger las bases de datos personales que administra:** Aunque no detalla técnicamente todas las medidas, la política enfatiza el uso de conexiones cifradas, la anonimización como medida de protección y controles de acceso para el personal. El principio de "no recolección" es en sí una medida de seguridad primordial.
+*   ✅ **i) El periodo durante el que se conservarán los datos personales:** Se indica que los datos anónimos se conservan "just enough time to analyze anonymous trends" y la información personal proporcionada voluntariamente se conserva "as long as necessary for the stated purpose... deleting it when it is no longer required, unless a longer period is required by law." Esto cumple con el principio de limitación del plazo de conservación.
+*   ✅ **j) La fuente de la cual provienen los datos personales y, en su caso, si proceden de fuentes de acceso público:** Se infiere que los datos provienen directamente del dispositivo del usuario (automáticamente para datos técnicos) o son proporcionados por el usuario (búsquedas, suscripción a newsletter). Mencionan que para mejorar el producto pueden revisar información "publicly available".
+*   ✅ **k) Cuando el tratamiento está basado en el consentimiento del titular, la existencia del derecho a retirarlo en cualquier momento:** Para funciones opcionales como la newsletter, se indica explícitamente: "You can also unsubscribe at any time, at which point we will delete it." Para otras funciones opcionales, se menciona que informan "how you can subsequently opt out."
+*   ✅ **l) La existencia de decisiones automatizadas, incluida la elaboración de perfiles. En tales casos, información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular:** La política es enfática en que *no* crean perfiles de usuario para la búsqueda principal ni para la publicidad ("search ads on DuckDuckGo are based on the search results page you’re viewing, and not based on you as a person"). Esto indica la ausencia de elaboración de perfiles personales para estas finalidades.
+*   ✅ **Artículo 14 quáter.- Deber de protección desde el diseño y por defecto:** La filosofía central de "no rastrear" y minimizar la recolección de datos es un claro ejemplo de privacidad desde el diseño y por defecto.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley (basado en los artículos proporcionados)**
+
+A pesar de su fuerte enfoque en la privacidad, la política presenta omisiones o falta de especificidad respecto a ciertos requisitos de la ley chilena (según los artículos provistos):
+
+*   ❎ **a) Identidad y datos de contacto del responsable y, en su caso, del encargado del tratamiento:** Si bien se menciona "Duck Duck Go, Inc.", la política no proporciona de forma clara y accesible dentro del mismo documento los datos de contacto específicos del responsable del tratamiento (dirección postal, correo electrónico específico para consultas de privacidad en el marco de la ley chilena).
+*   ❎ **b) Datos de contacto del delegado de protección de datos:** No se menciona la figura del Delegado de Protección de Datos ni sus datos de contacto, lo cual podría ser requerido dependiendo del volumen y tipo de tratamiento.
+*   ❎ **d) La base jurídica del tratamiento... Cuando los tratamientos se basan en la satisfacción de intereses legítimos, cuáles serían éstos:** Aunque se infiere que el tratamiento para la funcionalidad básica del buscador se basa en la necesidad para proveer el servicio (que podría ser un interés legítimo o ejecución contractual) y para funciones opcionales en el consentimiento, la política no articula explícitamente las bases legales de cada tratamiento conforme a la terminología y opciones de la ley chilena (ej. consentimiento, interés legítimo, obligación legal, ejecución de contrato). No se detallan cuáles serían los intereses legítimos específicos si esta fuera la base.
+*   ❎ **f) El derecho que le asiste al titular para solicitar ante el responsable, acceso, rectificación, supresión, oposición y portabilidad de sus datos personales, de conformidad a la ley:** La política menciona una "Privacy Rights page" para solicitar "deletion or a copy". Sin embargo, no enumera explícitamente todos los derechos ARSOP (Acceso, Rectificación, Supresión, Oposición y Portabilidad) como se requiere, ni detalla el procedimiento específico para ejercerlos bajo la ley chilena.
+*   ❎ **g) El derecho que le asiste al titular de recurrir ante la Agencia, en caso de que el responsable rechace o no responda oportunamente las solicitudes que le formule:** No se menciona el derecho de los titulares a recurrir ante la Agencia de Protección de Datos Personales de Chile.
+*   ❎ **h) En su caso, la transferencia de datos personales a un tercer país u organización internacional y si éstos ofrecen o no un nivel adecuado de protección. En caso de que no cuenten con un nivel adecuado de protección, se deberá informar si existen garantías que justifiquen tal transferencia:** La política menciona que pueden transferir "limited personal information... to countries other than the country in which it was received" y que "will follow applicable legal requirements". Sin embargo, no especifica a qué países, si estos ofrecen un nivel adecuado de protección según los estándares chilenos, ni cuáles serían las garantías específicas (ej. cláusulas contractuales tipo, normas corporativas vinculantes) que justificarían tal transferencia en caso de no existir un nivel adecuado.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+Para alinear la política de privacidad de DuckDuckGo con los requisitos específicos de la ley chilena (basándose en los artículos proporcionados):
+
+1.  **Identificación del Responsable:** Incluir una sección clara con el nombre completo de la entidad legal responsable del tratamiento de datos para los usuarios en Chile, su RUT (si aplica como entidad con operaciones o establecimiento en Chile), dirección física y un correo electrónico de contacto específico para asuntos de privacidad.
+2.  **Delegado de Protección de Datos (DPO):** Si corresponde según la ley chilena (por volumen o tipo de datos), designar un DPO e incluir sus datos de contacto. Si no es obligatorio, considerar hacerlo como buena práctica.
+3.  **Bases Legales del Tratamiento:** Especificar claramente la base legal para cada tipo de tratamiento de datos personales que realizan (ej. consentimiento para la newsletter, interés legítimo para la seguridad del servicio, necesidad contractual para proveer el buscador). Si se invoca el interés legítimo, detallar cuál es ese interés.
+4.  **Derechos de los Titulares:** Enumerar explícitamente todos los derechos que asisten a los titulares según la ley chilena: acceso, rectificación, supresión, oposición y portabilidad. Describir el procedimiento para ejercer estos derechos, incluyendo los plazos de respuesta esperados.
+5.  **Derecho a Reclamar ante la Agencia:** Informar a los titulares sobre su derecho a presentar una reclamación ante la Agencia de Protección de Datos Personales de Chile si consideran que sus derechos no han sido debidamente atendidos por DuckDuckGo.
+6.  **Transferencias Internacionales de Datos:**
+    *   Identificar los países a los que se podrían transferir datos personales.
+    *   Indicar si dichos países han sido declarados con un nivel adecuado de protección por la autoridad chilena.
+    *   En caso de que no exista un nivel adecuado, detallar las garantías específicas que se aplican para proteger los datos en dichas transferencias (ej. Cláusulas Contractuales Tipo aprobadas, consentimiento explícito para la transferencia específica informada).
+7.  **Adaptación Lingüística y Regional:** Considerar una versión o anexo de la política de privacidad específicamente adaptado para Chile, utilizando la terminología de la ley chilena para mayor claridad y cumplimiento.
+
+**5. Puntuación general de cumplimiento**
+
+*   a) Identidad y datos de contacto del responsable: ❎
+*   b) Datos de contacto del DPO: ❎
+*   c) Finalidades del tratamiento: ✅
+*   d) Base jurídica del tratamiento: ❎
+*   e) Política y medidas de seguridad: ✅
+*   f) Derechos del titular (ARSOP): ❎
+*   g) Derecho a recurrir ante la Agencia: ❎
+*   h) Transferencias internacionales: ❎
+*   i) Período de conservación: ✅
+*   j) Fuente de los datos: ✅
+*   k) Derecho a retirar el consentimiento: ✅
+*   l) Decisiones automatizadas/perfiles: ✅
+*   Artículo 14 quáter (Privacidad por diseño/defecto): ✅
+
+**6. Puntuación total**
+
+✅✅✅✅✅✅✅ (7 de 13 secciones evaluadas cumplen satisfactoriamente)

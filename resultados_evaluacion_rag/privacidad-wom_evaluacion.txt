@@ -1,0 +1,102 @@
+## Evaluación de la Política de Privacidad de APP WOM frente a la Ley de Protección de Datos Personales de Chile
+
+A continuación, se presenta una evaluación detallada de la Política de Privacidad de la APP WOM en relación con los extractos proporcionados de la Ley 19.628 (referenciada en el documento como Ley 21.719, aunque los artículos citados corresponden a la ley vigente 19.628 y sus modificaciones).
+
+### 1. Resumen de los puntos principales de la política de privacidad
+
+La política de privacidad de la APP WOM establece que:
+
+*   **Aceptación:** La descarga y/o uso de la APP implica la aceptación de los T&Cs, que incluyen la política de privacidad.
+*   **Autorización General (2.1):** El usuario autoriza a WOM a recolectar, almacenar, usar, suprimir y actualizar datos demográficos, económicos, de servicios, comerciales y de localización.
+*   **Finalidades Generales (2.1):**
+    *   Cumplimiento de obligaciones y cálculo de riesgo económico o crediticio (de manera irrevocable).
+    *   Publicación de directorios telefónicos.
+    *   Prevención y control de fraudes.
+    *   Beneficio propio o de terceros (con fuente de licitud) para fines comerciales o publicitarios, en Chile o el exterior.
+    *   Cesión de información para cálculo de riesgo crediticio a entidades financieras con convenio.
+*   **Referencia a Política General:** Se remite a las Políticas para el Tratamiento de Datos Personales en www.wom.cl.
+*   **Derechos del Titular (2.1):** Menciona el derecho a conocer, actualizar, rectificar, suprimir datos y revocar la autorización (salvo excepciones legales).
+*   **No Comercialización sin Consentimiento (2.1):** WOM no revelará ni comercializará datos a terceros ajenos a WOM y sus empresas relacionadas, salvo consentimiento del usuario (esto parece contradecir puntos anteriores sobre cesión para beneficio de terceros o riesgo crediticio si el consentimiento no es específico).
+*   **Datos Específicos para Funcionamiento de la App (2.2):** Se informa y consiente el tratamiento de datos necesarios para el funcionamiento de la app y mejor experiencia, incluyendo:
+    *   Información personal (nombre, ID, dirección, teléfono).
+    *   Datos de ubicación precisa (búsqueda de tiendas).
+    *   Fotos (personalizar perfil).
+    *   Registro de llamadas (menú digital interactivo).
+    *   Información de la app y rendimiento (fallas, diagnóstico).
+    *   Archivos y documentos (descargar facturas).
+    *   Actividad en apps (páginas vistas, toques, apps instaladas).
+    *   Información de dispositivo (estadísticas).
+    *   Datos de productos/servicios y tráfico (mostrar consumos).
+    *   Datos del dispositivo (SO, versión app, red).
+*   **Ubicación en Segundo Plano (2.3):** Se informa que se recopila ubicación incluso con la app cerrada para monitorear niveles de servicio, calidad y compatibilidad de red, y ofrecer experiencia personalizada.
+*   **Retención de Datos (2.4):** Los datos necesarios para la APP WOM se tratarán solo mientras se sea usuario.
+*   **Cookies y Terceros (2.5):** Se utilizan cookies (incluyendo Google Analytics/Firebase) para analizar interacciones. La descarga/uso implica consentimiento. Se informa sobre Google Analytics y la transferencia de datos a EE.UU. bajo Privacy Shield (actualmente invalidado). Se ofrece opción de oponerse al tratamiento de Google.
+
+### 2. Evaluación de cumplimiento: aspectos que cumplen con la ley
+
+*   ✅ **Principio de Licitud (Art. 3a, parcialmente Art. 12):** La política intenta basar el tratamiento en el consentimiento del titular al aceptar los T&Cs. Para ciertos datos (sección 2.2), se argumenta necesidad para la ejecución del contrato.
+*   ✅ **Principio de Finalidad (Art. 3b, parcialmente):** La política enuncia diversas finalidades para la recolección de datos (e.g., funcionamiento de la app, cálculo de riesgo, fines comerciales, prevención de fraude, búsqueda de tiendas).
+*   ✅ **Información sobre Tratamiento de Datos de Geolocalización (Art. 16 sexies, parcialmente):**
+    *   Se informa sobre el tipo de datos de geolocalización tratados (precisa y en segundo plano).
+    *   Se informa la finalidad del tratamiento (búsqueda de tiendas, monitoreo de red, experiencia personalizada).
+    *   Se informa la duración (mientras sea usuario para datos de la app, lo que implícitamente cubriría la geolocalización para esos fines).
+*   ✅ **Mención de Derechos del Titular (Art. 4, parcialmente):** La política menciona los derechos a conocer, actualizar, rectificar, suprimir y revocar la autorización (sección 2.1).
+*   ✅ **Referencia a una Política Más Detallada:** La remisión a la política general en la web de WOM (www.wom.cl) es una buena práctica, asumiendo que dicha política complementa y detalla aspectos no cubiertos aquí.
+
+### 3. Identificación de incumplimientos: aspectos que no cumplen con la ley
+
+*   ❎ **Consentimiento Libre, Informado y Específico (Art. 12):**
+    *   El consentimiento obtenido mediante la aceptación general de los T&Cs para una amplia gama de tratamientos (incluyendo cesiones a terceros, fines publicitarios de terceros, publicación en directorios, tratamiento de datos sensibles como "registro de llamadas" o "apps instaladas") no cumple con el requisito de ser "específico". Cada finalidad que no sea estrictamente necesaria para la ejecución del contrato o que implique categorías especiales de datos o cesiones debería requerir un consentimiento diferenciado y explícito.
+    *   La afirmación de que la autorización para el "cálculo de riesgo económico o crediticio" es "de manera irrevocable" (sección 2.1) contraviene la naturaleza del consentimiento, que debe ser esencialmente revocable, y los derechos del titular (Art. 4), que son irrenunciables.
+*   ❎ **Cesión de Datos Personales (Art. 15):**
+    *   La política indica que los datos podrán ser cedidos para "beneficio propio o de terceros... con ﬁnes comerciales o publicitarios" y para "cálculo de riesgo crediticio... por las entidades ﬁnancieras". Si el consentimiento inicial (aceptación de T&Cs) no consideró específicamente estas cesiones con el detalle requerido (identidad del cesionario o categorías de cesionarios, finalidad específica de la cesión), se requeriría un nuevo consentimiento antes de que la cesión se produzca. La redacción actual sugiere un consentimiento general que no sería suficiente.
+    *   No se especifica si la cesión constará por escrito o medio equivalente, aunque esto es más una obligación interna de WOM.
+*   ❎ **Tratamiento de Datos de Geolocalización (Art. 16 sexies):**
+    *   Aunque se informa el tipo, finalidad y duración, el consentimiento para la geolocalización en segundo plano (sección 2.3) está agrupado con la aceptación general de los T&Cs. Dada la naturaleza potencialmente intrusiva de la geolocalización en segundo plano, se requeriría un consentimiento más específico y granular, idealmente con una opción de activación/desactivación clara y separada dentro de la app.
+    *   No se indica explícitamente si los datos de geolocalización se cederán a un tercero para la prestación de un servicio con valor añadido (aunque las finalidades descritas parecen internas).
+*   ❎ **Derechos del Titular (Art. 4):**
+    *   La enumeración de derechos en la sección 2.1 es incompleta. Faltan mencionar explícitamente los derechos de **oposición** (aunque la revocación puede cubrirlo parcialmente), **portabilidad** y **bloqueo**.
+    *   La política no detalla el procedimiento para ejercer estos derechos dentro del documento de la APP WOM, remitiendo genéricamente a la política web. Sería preferible una mención más directa o un enlace específico.
+*   ❎ **Principio de Finalidad (Art. 3b) y Minimización de Datos:**
+    *   La recolección de "registro de llamadas" para "activar la opción de menú digital interactivo" (sección 2.2.4) y "actividad en apps tales como... apps instaladas" (sección 2.2.7) parece excesiva y potencialmente no necesaria para las finalidades declaradas o para el funcionamiento esencial de una app de autogestión de servicios de telecomunicaciones. Se debería evaluar si existen medios menos invasivos para lograr dichas funcionalidades o solicitar un consentimiento muy específico y justificado.
+    *   La finalidad de "publicación de directorios telefónicos" (sección 2.1) requiere un consentimiento explícito y separado, no pudiendo inferirse de la aceptación general de los T&Cs.
+*   ❎ **Comunicación de Cambios a Terceros (Extracto Ley, pág. 9):** La política no menciona la obligación del responsable de comunicar a los cesionarios los cambios realizados en virtud de la rectificación, supresión u oposición del titular.
+*   ❎ **Transferencias Internacionales de Datos (Cookies y Terceros, 2.5):** La mención al "Privacy Shield" como mecanismo de adecuación para transferencias a Google en EE.UU. es obsoleta, ya que dicho acuerdo fue invalidado. Se requieren otros mecanismos válidos (Cláusulas Contractuales Tipo, etc.) para legitimar dichas transferencias.
+
+### 4. Recomendaciones para mejorar el cumplimiento
+
+1.  **Consentimiento Granular:** Implementar mecanismos de consentimiento granular y específico para las distintas finalidades del tratamiento, especialmente para:
+    *   Cesión de datos a terceros (con identificación del tercero o categoría y finalidad).
+    *   Uso de datos para fines comerciales/publicitarios (propios y de terceros).
+    *   Publicación en directorios telefónicos.
+    *   Tratamiento de datos de geolocalización (especialmente en segundo plano).
+    *   Tratamiento de datos potencialmente sensibles o no estrictamente necesarios (ej. registro de llamadas, apps instaladas).
+    *   Eliminar la cláusula de "irrevocabilidad" del consentimiento para el cálculo de riesgo crediticio.
+2.  **Claridad en Cesiones:** Detallar claramente cuándo y a quién se cederán los datos, y obtener consentimiento específico para ello, conforme al Art. 15.
+3.  **Gestión de Geolocalización:**
+    *   Solicitar consentimiento específico para el uso de datos de geolocalización, especialmente para el rastreo en segundo plano.
+    *   Proporcionar controles claros en la app para que el usuario pueda activar/desactivar esta función fácilmente.
+    *   Si se ceden a terceros para servicios de valor añadido, indicarlo claramente y obtener consentimiento.
+4.  **Derechos ARSOP+B (Acceso, Rectificación, Supresión, Oposición, Portabilidad y Bloqueo):**
+    *   Enumerar todos los derechos del titular conforme al Art. 4.
+    *   Describir de forma clara y accesible el procedimiento para ejercer estos derechos directamente en la política de la app o mediante un enlace directo a la sección pertinente de la política web.
+5.  **Revisión de Necesidad y Minimización de Datos:** Evaluar la real necesidad de recolectar datos como "registro de llamadas" y "apps instaladas". Si no son estrictamente necesarios para el servicio principal ofrecido por la APP WOM, deben ser opcionales y requerir consentimiento explícito.
+6.  **Transferencias Internacionales:** Actualizar la política para reflejar los mecanismos de transferencia internacional de datos válidos y vigentes, reemplazando la mención al Privacy Shield.
+7.  **Comunicación de Modificaciones a Terceros:** Incluir una cláusula que indique que, en caso de rectificación, supresión u oposición de datos que hayan sido previamente cedidos, WOM comunicará dichos cambios a los cesionarios.
+8.  **Lenguaje Claro y Sencillo:** Aunque es un documento legal, esforzarse por utilizar un lenguaje lo más claro y comprensible posible para el usuario medio.
+
+### 5. Puntuación general de cumplimiento
+
+*   **Principio de Licitud y Lealtad (Art. 3a, Art. 12 - Consentimiento):** ❎
+*   **Principio de Finalidad (Art. 3b):** ❎ (Algunas finalidades son claras, pero otras son demasiado amplias o la recolección de datos para ellas es cuestionable).
+*   **Cesión de Datos Personales (Art. 15):** ❎
+*   **Datos de Geolocalización (Art. 16 sexies):** ❎ (Aunque se informa, el consentimiento es deficiente).
+*   **Derechos del Titular de Datos (Art. 4):** ❎ (Enumeración incompleta y falta de procedimiento claro en esta política).
+*   **Comunicación de Cambios a Terceros (Extracto Ley):** ❎ (No se menciona).
+
+### 6. Puntuación total
+
+*   **Puntuación Total:** 0 ✅ de 6 secciones evaluadas directamente contra la ley.
+
+**Conclusión General:**
+La política de privacidad de la APP WOM presenta deficiencias significativas en cuanto al cumplimiento de los principios y disposiciones de la ley chilena de protección de datos personales, especialmente en lo relativo a la obtención de un consentimiento libre, informado y específico para las diversas finalidades y cesiones de datos que se plantean. Se requiere una revisión profunda y la implementación de las recomendaciones para alinearla con la normativa vigente.

@@ -1,0 +1,104 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE INFOBAE FRENTE A LA LEY CHILENA DE PROTECCIÓN DE DATOS PERSONALES (BASADA EN EXTRACTOS PROPORCIONADOS)**
+
+**Fecha de Evaluación:** 22 de mayo de 2024
+**Política Evaluada:** Políticas de Protección de Datos Personales de Infobae (versión aparentemente del 2 o 3 de marzo de 2025)
+**Legislación de Referencia:** Extractos proporcionados de la Ley 19.628 (con mención a la Ley 21.719 en el prompt, aunque los artículos citados son de la 19.628). Se evaluará conforme a los artículos y principios explícitamente entregados.
+
+---
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad**
+
+La política de privacidad de Infobae establece lo siguiente:
+*   **Responsable del Tratamiento:** INFOBAE, a través de sus empresas subsidiarias o filiales, especificando que el Anexo correspondiente al país de residencia del usuario indicará la compañía responsable.
+*   **Datos Personales Recopilados:** Información facilitada al acceder, registrarse, suscribirse, y la generada durante la navegación y uso de servicios. Exige veracidad y actualización de datos.
+*   **Finalidades y Legitimación:**
+    *   **I. Gestión de registro y servicios:** Ejecución de contrato.
+    *   **II. Acciones comerciales personalizadas (perfilamiento):** Consentimiento del usuario.
+    *   **III. Envío de comunicaciones comerciales (similares a las contratadas):** Interés legítimo de INFOBAE.
+    *   **IV. Análisis para personalizar contenidos (cookies):** Interés legítimo y consentimiento para cookies.
+*   **Destinatarios:** Empresas de servicios TI y agencias de marketing. Aseguran cumplimiento normativo de estos terceros. No comunicación a otros terceros salvo obligación legal. Declaran no prever transferencias internacionales.
+*   **Conservación:** Mientras exista interés mutuo, no se ejerzan derechos de supresión/oposición/limitación, o sea necesario para el propósito, necesidades del usuario, ejecución contractual u obligaciones legales.
+*   **Derechos de los Interesados:** Acceso, actualización, rectificación, cese de envío de publicidad, supresión. Se ejercen según datos de contacto en anexos por país. Revocación de consentimiento posible.
+*   **Eliminación de Datos:** Solicitud vía correo electrónico a datospersonales@infobae.com.
+*   **Menores:** Servicios no dirigidos a menores de 16 años.
+*   **Anexos:** Se proporcionan anexos específicos para Argentina, México, Colombia, Perú y España, detallando el responsable local, cómo ejercer derechos y ley aplicable. **No se incluye un anexo para Chile.**
+
+---
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley (Según Extractos)**
+
+*   ✅ **Principio de Finalidad (Art. sin número, "b) Principio de finalidad"):** La política declara que los datos se recolectan para fines específicos, explícitos y lícitos (Sección 2 "FINALIDAD Y LEGITIMACIÓN"). Se detallan las finalidades.
+*   ✅ **Bases de Licitud (Art. 12/13 referenciados, específicamente d) Interés legítimo):** La política identifica las bases de legitimación para sus tratamientos, incluyendo la ejecución de contrato, el consentimiento y el interés legítimo (Sección 2). Para el interés legítimo, se mencionan fines como "mejorar sus servicios, productos, marcas y experiencia de usuario" y "mejorar sus contenidos".
+*   ✅ **Información sobre Tratamiento (Parte de Art. 14.d):**
+    *   La política describe las categorías genéricas de datos que trata ("aquellos que el usuario facilite... así como aquellos que se generen durante su navegación").
+    *   Describe el universo de personas ("usuarios y visitantes de sus Plataformas").
+    *   Menciona los destinatarios ("empresas que nos prestan servicios relacionados con las tecnologías de la información o a agencias de marketing").
+    *   Indica las finalidades y la base de legitimidad.
+
+---
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley (Según Extractos)**
+
+*   ❎ **Ámbito de Aplicación Territorial y Responsable para Chile (Art. 1° bis y Art. 14.b):**
+    *   La política establece que el responsable específico se encuentra en el anexo por país. **No existe un anexo para Chile.** Esto implica que no se individualiza claramente el responsable del tratamiento para los usuarios en Chile, ni su representante legal, ni el encargado de prevención si existiere, como lo exige el Art. 14.b.
+    *   Si Infobae trata datos de personas en Chile (lo cual es altamente probable si ofrece contenido a "Mundo" y tiene anexos para otros países de la región), la ley chilena sería aplicable (Art. 1° bis). La ausencia de un anexo chileno es una omisión crítica.
+*   ❎ **Información de Contacto para Chile (Art. 14.c):**
+    *   Al no haber un anexo para Chile, no se proporciona un domicilio postal específico en Chile ni se clarifica si el correo genérico datospersonales@infobae.com es el medio designado para notificaciones de solicitudes de titulares chilenos bajo la ley chilena. El Art. 14.c requiere "domicilio postal, la dirección de correo electrónico, el formulario de contacto o la identificación del medio tecnológico equivalente...".
+*   ❎ **Detalle del Interés Legítimo (Art. 14.d y Art. 12/13.d):**
+    *   Si bien se menciona el interés legítimo, la ley exige que se informe "cuáles serían éstos" (Art. 14.d) y que "el titular podrá exigir siempre ser informado sobre el tratamiento que lo afecta y el interés legítimo en base al cual se efectúa dicho tratamiento" (Art. 12/13.d). La política no informa explícitamente sobre este derecho del titular a exigir información detallada sobre el interés legítimo específico aplicado.
+*   ❎ **Datos de Geolocalización (Art. 16 sexies):**
+    *   La política no menciona de forma específica el tratamiento de datos de geolocalización. Si Infobae trata este tipo de datos (por ejemplo, para personalizar contenido regionalmente o a través de apps móviles), la política omite informar de manera clara, suficiente y oportuna sobre el tipo de datos de geolocalización tratados, la finalidad, duración y si se comunicarán a terceros para servicios con valor añadido, como exige el Art. 16 sexies.
+*   ❎ **Conservación Indeterminada y Anonimización para Publicaciones (Extracto sobre "responsable podrá almacenar... por un período indeterminado"):**
+    *   La política de Infobae en su sección 4 ("CONSERVACIÓN DE LOS DATOS PERSONALES") indica que los datos se conservarán "mientras exista un interés mutuo... o mientras usted no ejerza su derecho de supresión...". Esto no se alinea directamente con la disposición legal que permite el almacenamiento por tiempo indeterminado *para finalidades específicas (como históricas, estadísticas o científicas)* y la obligación de anonimizar para publicaciones.
+    *   La política no menciona si efectúa publicaciones con resultados y análisis obtenidos de datos personales, ni el compromiso de anonimizar dichos datos previamente, como lo exige la ley si se acoge a esta finalidad de tratamiento y conservación extendida.
+*   ❎ **Derechos de los Interesados (Ejercicio para Chile):**
+    *   Si bien se listan algunos derechos, la forma de ejercerlos para los titulares en Chile no está clara debido a la ausencia de un anexo chileno y de un responsable y contacto claramente designado para Chile.
+*   ❎ **Acreditación de Licitud (Art. 12/13 "El responsable deberá acreditar la licitud..." y Art. sin número "El responsable deberá ser capaz de acreditar la licitud..."):**
+    *   Aunque la política declara bases de licitud, la falta de un responsable claro y un anexo para Chile dificulta que Infobae demuestre proactivamente y gestione adecuadamente la acreditación de licitud frente a los titulares y la autoridad chilena.
+
+---
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Crear un Anexo Específico para Chile:** Este anexo debe incluir:
+    *   La individualización completa de la entidad legal de Infobae que actúa como responsable del tratamiento para los datos de usuarios en Chile (Razón social, RUT, domicilio legal).
+    *   Nombre y datos de contacto del representante legal en Chile.
+    *   Si existe, la identificación del encargado de prevención de datos en Chile.
+    *   Un domicilio postal en Chile y/o un canal de contacto electrónico específico y de fácil acceso para que los titulares chilenos ejerzan sus derechos y realicen consultas.
+2.  **Detallar el Tratamiento de Datos de Geolocalización:** Si se tratan datos de geolocalización, incluir una sección específica o actualizar la existente para cumplir con el Art. 16 sexies, informando:
+    *   Tipo de datos de geolocalización tratados.
+    *   Finalidad específica del tratamiento.
+    *   Duración del tratamiento de estos datos.
+    *   Si se comunican o ceden a terceros para servicios con valor añadido, y quiénes son esos terceros.
+3.  **Clarificar la Aplicación del Interés Legítimo:**
+    *   Ser más específico sobre los intereses legítimos perseguidos en cada caso.
+    *   Incluir explícitamente el derecho del titular a ser informado sobre el tratamiento que lo afecta y el interés legítimo específico que lo fundamenta, y cómo puede solicitar esta información.
+4.  **Ajustar la Política de Conservación:**
+    *   Si Infobae realiza publicaciones con resultados y análisis basados en datos de usuarios y pretende conservarlos por tiempo indeterminado para ello, debe declarar explícitamente esta finalidad y el compromiso de adoptar medidas necesarias para anonimizar los datos que se publiquen, conforme a la ley.
+    *   Para otras finalidades, establecer plazos de conservación más concretos o criterios claros para su determinación, en lugar de la fórmula genérica "mientras exista un interés mutuo".
+5.  **Revisar y Completar la Lista de Derechos:** Asegurar que todos los derechos conferidos por la ley chilena (incluyendo aquellos que pudieran estar en la Ley 21.719 si esta fuera la referencia final y completa) estén listados y que el procedimiento para ejercerlos desde Chile sea claro.
+6.  **Transferencias Internacionales:** La afirmación "No se prevén transferencias de datos personales a terceros países u organizaciones internacionales" debe ser verificada rigurosamente. Si se utilizan proveedores de servicios (ej. cloud, marketing) ubicados fuera de Chile, esto constituye una transferencia internacional y debe ser gestionada y comunicada conforme a la ley.
+
+---
+
+**5. Puntuación General de Cumplimiento (Según Extractos Proporcionados)**
+
+*   Identificación del Responsable y Contacto para Chile (Art. 14.b, 14.c): ❎
+*   Información sobre Tratamiento (Art. 14.d): ✅ (Parcial, con observaciones sobre interés legítimo)
+*   Principio de Finalidad: ✅
+*   Bases de Licitud (incluyendo Interés Legítimo Art. 12/13.d): ✅ (Parcial, con observaciones sobre detalle y derecho de información del titular)
+*   Datos de Geolocalización (Art. 16 sexies): ❎ (Si aplica, no está cubierto)
+*   Conservación de Datos y Anonimización para Publicaciones: ❎
+*   Derechos de los Titulares (Ejercicio para Chile): ❎
+*   Ámbito de Aplicación Territorial (Reconocimiento y adaptación para Chile Art. 1° bis): ❎
+
+---
+
+**6. Puntuación Total**
+
+Sumando los ✅ del total de secciones evaluadas: **3 / 8**
+
+---
+
+**Conclusión General:**
+La política de privacidad de Infobae presenta una estructura general que aborda varios principios de protección de datos. Sin embargo, su principal deficiencia, desde la perspectiva de la legislación chilena (basada en los extractos proporcionados), es la **ausencia de una adaptación específica para Chile**, materializada en la falta de un anexo que identifique al responsable local y los mecanismos de ejercicio de derechos para los titulares chilenos. Adicionalmente, hay omisiones importantes respecto al tratamiento de datos de geolocalización (si aplica) y a las condiciones específicas para la conservación indefinida de datos con fines de publicación anonimizada. Se requieren ajustes significativos para considerar que cumple adecuadamente con las disposiciones analizadas de la ley chilena.

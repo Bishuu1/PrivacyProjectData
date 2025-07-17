@@ -1,0 +1,63 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE CLARO CHILE FRENTE A LA LEY 19.628**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de Claro Chile establece lo siguiente:
+*   Se aplica a quienes acceden a su sitio web www.clarochile.cl.
+*   El tratamiento de datos personales se limita a aquellos entregados voluntariamente por clientes/usuarios a través del sitio web.
+*   Declara tener políticas de seguridad y controles para la confidencialidad de los datos de usuarios registrados.
+*   Advierte que puede entregar información personal a Autoridades/Instituciones Gubernamentales en procesos judiciales sin consentimiento del titular, aunque se reserva el derecho de cuestionar dichos requerimientos.
+*   El usuario autoriza a Claro y sus empresas relacionadas, filiales o matrices (conforme a la Ley 19.628) al tratamiento de datos para finalidades estadísticas y de marketing propias, y para comunicar ofertas y promociones exclusivas de Claro.
+*   Los datos personales podrán ser comunicados a terceros proveedores para cumplir las finalidades mencionadas, quienes deberán guardar reserva y confidencialidad.
+*   Informa que el cliente/usuario puede solicitar la modificación, rectificación, eliminación y/o cancelación de sus datos, y la eliminación de registros para envío de publicidad.
+*   Claro puede modificar la política para adaptarla a la normativa o aclarar su interpretación, informando a los usuarios, quienes son responsables de mantenerse al tanto.
+*   Menciona derechos de propiedad intelectual sobre el contenido del sitio web.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley (basado en los extractos proporcionados)**
+
+*   **Información sobre tratamiento voluntario (Obligaciones b - parcialmente):** La política indica que el tratamiento se efectúa sobre datos "entregados voluntariamente", lo que sugiere una base de licitud (consentimiento) para la recolección inicial.
+*   **Finalidades específicas (Obligaciones b - parcialmente):** Se mencionan finalidades como "estadísticas y de marketing propios de la empresa y/o servicio, así como comunicar ofertas y promociones únicamente de ésta".
+*   **Mención de derechos del titular (Relación con el titular, Art. 4º - parcialmente):** Se informa que el cliente/usuario puede solicitar "la modificación, rectificación eliminación y/o cancelación de sus datos personales" y "la eliminación de los registros o base de datos de envió de publicidad".
+*   **Comunicación a terceros con fines específicos (Cesión de datos personales, Art. 15 - parcialmente):** Se indica que los datos podrán ser comunicados a "terceros proveedores, para cumplir con las finalidades recién mencionadas", y que estos deben guardar confidencialidad. Se basa en la autorización inicial del usuario.
+*   **Posibilidad de modificación de la política:** Se establece que la política puede ser modificada y que esto será informado.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley (basado en los extractos proporcionados)**
+
+*   **Falta de información sobre licitud y acceso a antecedentes (Obligaciones a):** No se detalla cómo el titular puede acceder a los antecedentes que acrediten la licitud del tratamiento ni se compromete a entregarla de manera expedita.
+*   **Limitación del tratamiento a los fines (Obligaciones b):** Si bien se mencionan fines, la cesión a "empresas relacionadas, filiales o matrices" para "finalidades estadísticas y de marketing propios de la empresa y/o servicio" podría ser interpretada como amplia si no se detalla más.
+*   **Información exacta, completa y actual en cesiones (Obligaciones c):** No se especifica cómo se asegura esto en las comunicaciones o cesiones.
+*   **Supresión o anonimización de datos precontractuales (Obligaciones d):** No se menciona esta obligación específica.
+*   **Derechos del titular incompletos (Relación con el titular, Art. 4º):** La política menciona modificación, rectificación, eliminación y cancelación. Sin embargo, el Art. 4º de la ley también incluye los derechos de **acceso, oposición, portabilidad y bloqueo**, los cuales no son mencionados explícitamente.
+*   **Falta de individualización del responsable y otros contactos (Versión de la misma b, c):**
+    *   No se individualiza claramente al "responsable de datos" (Razón Social completa, RUT), ni a su representante legal.
+    *   No se identifica a un "encargado de prevención" (o Delegado de Protección de Datos).
+    *   No se proporciona un "domicilio postal", una "dirección de correo electrónico" específica para temas de privacidad, ni un "formulario de contacto" o "medio tecnológico equivalente" para que los titulares notifiquen sus solicitudes de derechos.
+*   **Información insuficiente sobre el tratamiento (Versión de la misma d):**
+    *   **Categorías de datos:** No se describen las "categorías, clases o tipos de datos que trata" (ej. datos identificatorios, de contacto, de navegación, etc.). Se limita a "datos personales".
+    *   **Destinatarios:** Se mencionan "empresas relacionadas, filiales o matrices" y "terceros proveedores" de forma genérica, sin mayor detalle sobre quiénes son o los criterios para su selección.
+    *   **Base de legitimidad para todas las operaciones:** Si bien se alude al consentimiento ("autoriza"), para las cesiones a múltiples entidades ("empresas relacionadas, filiales o matrices") y "terceros proveedores", la generalidad del consentimiento podría ser cuestionable. No se exploran otras bases de legitimidad como el interés legítimo (y su justificación si aplicara).
+*   **Consentimiento para cesión (Cesión de datos personales, Art. 15):** El Art. 15 establece que si el consentimiento original no consideró la cesión, debe recabarse antes. La política agrupa la autorización para el tratamiento por Claro y la cesión a relacionadas y proveedores en una sola cláusula. Esto podría no cumplir con el requisito de un consentimiento informado y específico para cada cesión si no se detallan los cesionarios o categorías de cesionarios al momento de recabar el consentimiento.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+*   **Identificación completa del responsable:** Incluir la razón social completa de Claro Chile, su RUT, y los datos de su representante legal. Designar y comunicar los datos de un Encargado de Prevención o Delegado de Protección de Datos, si corresponde.
+*   **Canal de comunicación claro para derechos:** Establecer y comunicar una dirección de correo electrónico específica (ej. privacidad@claro.cl), un domicilio postal y/o un formulario en el sitio web para que los titulares ejerzan sus derechos y realicen consultas sobre privacidad.
+*   **Detallar categorías de datos:** Especificar qué tipos de datos personales se recolectan y tratan (ej. nombre, RUT, correo electrónico, dirección IP, historial de navegación, datos de consumo, etc.).
+*   **Especificar destinatarios de datos:** Identificar de forma más precisa las "empresas relacionadas, filiales o matrices" y las categorías de "terceros proveedores" a los que se ceden los datos, junto con la finalidad específica de cada cesión.
+*   **Listar todos los derechos del titular:** Incluir explícitamente todos los derechos ARCOPOL (Acceso, Rectificación, Cancelación/Supresión, Oposición, Portabilidad y Bloqueo/Limitación del tratamiento) y describir el procedimiento para ejercerlos.
+*   **Clarificar base de legitimidad:** Para cada finalidad y tipo de tratamiento (incluyendo cesiones), indicar claramente la base de legitimidad (consentimiento, ejecución de contrato, interés legítimo, obligación legal). Si se usa el interés legítimo, justificarlo.
+*   **Consentimiento granular para cesiones:** Asegurar que el consentimiento para la cesión de datos sea específico, especialmente si los destinatarios no están claramente identificados o si las finalidades de la cesión son amplias. Considerar mecanismos para obtener consentimiento separado para cesiones no previstas inicialmente.
+*   **Informar sobre plazos de conservación:** Indicar por cuánto tiempo se conservarán los datos personales o los criterios utilizados para determinar ese plazo.
+*   **Procedimiento de actualización de la política:** Detallar cómo se notificarán efectivamente los cambios sustanciales en la política a los titulares, y no solo indicar que es responsabilidad del usuario revisarla.
+*   **Mencionar la posibilidad de reclamar ante la autoridad:** Aunque no está en los extractos, es buena práctica informar al titular de su derecho a recurrir ante la autoridad de control en caso de disconformidad.
+
+**5. Puntuación general de cumplimiento**
+
+*   Obligaciones: ❎
+*   Relación con el titular: ❎
+*   Versión de la misma (información en la política): ❎
+*   Cesión de datos personales: ❎
+
+**6. Puntuación total**
+
+**0/4** ✅

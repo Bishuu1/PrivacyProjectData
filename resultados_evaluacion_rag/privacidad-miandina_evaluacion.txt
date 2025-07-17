@@ -1,0 +1,82 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE EMBOTELLADORA ANDINA S.A. FRENTE A LA LEY DE PROTECCIÓN DE DATOS PERSONALES DE CHILE**
+
+**Nota Preliminar:** La presente evaluación se realiza con base en los extractos de la Ley 19.628 proporcionados, asumiendo que estos reflejan los principios y obligaciones que serían relevantes bajo la Ley 21.719 (aunque la Ley 21.719 aún no se encuentra vigente y la referencia a "Ley 21.719" en la solicitud parece ser un error, ya que la ley vigente y citada es la 19.628. La evaluación se basará estrictamente en los artículos y obligaciones proporcionados).
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad**
+
+La política de privacidad de Embotelladora Andina S.A. (en adelante, "Andina") para su sitio web dirigido a clientes y futuros clientes establece lo siguiente:
+*   **Identificación del Responsable:** Embotelladora Andina S.A., RUT 91.144.000-8.
+*   **Consentimiento:** Se basa en la aceptación explícita del Usuario para la recolección, procesamiento, tratamiento y almacenamiento de datos personales y sensibles. El no estar de acuerdo implica no usar el sitio web.
+*   **Datos Recolectados:** Nombre completo, RUT/CI, domicilio, correo electrónico, teléfono, preferencias y "otros datos personales necesarios".
+*   **Finalidades del Tratamiento:** Amplias y variadas, incluyendo verificación de identidad, mantenimiento de cuentas, seguridad, prestación de servicios, marketing y publicidad (genérica o personalizada), estudios de mercado y demográficos, mejora del sitio web, gestión de despachos, generación de información estadística anonimizada, creación de inteligencia de negocios, y cumplimiento de normativas y cooperación con autoridades.
+*   **Cesión y Comunicación de Datos:**
+    *   A empresas relacionadas, auditores externos o proveedores para los fines de la política (considerados no terceros para efectos de la política, lo cual es una declaración interna de Andina).
+    *   A empresas externas para almacenamiento y procesamiento, incluyendo transferencias internacionales.
+    *   A autoridades para cumplir normativa o en investigaciones.
+*   **Seguridad:** Menciona altos estándares y uso de tecnología SSL.
+*   **Legitimación:** Funcionamiento del sitio web, interés legítimo de Andina, protección de intereses del usuario o terceros, y consentimiento del usuario.
+*   **Actualizaciones:** Cambios a la política serán informados y requerirán nueva aceptación.
+*   **Derechos del Titular:** Menciona que el usuario será informado sobre cómo ejercer sus derechos, pero no detalla el procedimiento en la política misma.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley (Según Extractos Proporcionados)**
+
+*   ✅ **Principio de Licitud y Lealtad (Art. 3° a)):** La política declara que el tratamiento se realiza de conformidad con las leyes de Chile y que se respeta la privacidad. Intenta informar al usuario.
+*   ✅ **Principio de Finalidad (Art. 3° b); Obligaciones b)):** La política enumera explícitamente las finalidades para las cuales se recolectan y tratan los datos personales.
+*   ✅ **Regla General del Tratamiento de Datos - Consentimiento (Art. 12):** La política establece que la base legal principal es la aceptación explícita y el consentimiento del usuario para el tratamiento de sus datos. Se requiere aceptación para usar el sitio.
+*   ✅ **Identificación del Responsable (Información a proveer b)):** Se individualiza claramente a Embotelladora Andina S.A. con su RUT.
+*   ✅ **Categorías de Datos Tratados (Información a proveer d)):** Se listan las categorías de datos personales que se tratan (nombre, RUT, domicilio, etc.).
+*   ✅ **Finalidades de los Tratamientos (Información a proveer d)):** Se detallan las finalidades del tratamiento en la cláusula QUINTA.
+*   ✅ **Base de Legitimidad del Tratamiento (Información a proveer d)):** Se mencionan las bases de legitimación en la cláusula SEXTA (consentimiento, interés legítimo, necesidad para el funcionamiento).
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley (Según Extractos Proporcionados)**
+
+*   ❎ **Informar y poner a disposición antecedentes de licitud de forma expedita (Obligaciones a)):** Si bien la política informa, no detalla el procedimiento específico y expedito para que el titular acceda a los antecedentes que acrediten la licitud del tratamiento cuando lo requiera, ni cómo ejercer sus derechos ARCO (Acceso, Rectificación, Cancelación, Oposición) de manera clara. Solo menciona que "será informado respecto a cómo puede ejercer sus derechos".
+*   ❎ **Limitación del Tratamiento a Fines Específicos (Obligaciones b)):** La categoría "Otros datos personales necesarios para llevar a cabo la actividad que el Usuario quiera ejecutar en el Sitio Web" es vaga y podría no cumplir con el requisito de "fines específicos, explícitos y lícitos", ya que no especifica qué otros datos podrían ser.
+*   ❎ **Comunicar o ceder información exacta, completa y actual (Obligaciones c)):** Aunque no es un incumplimiento directo de la política en sí, es una obligación continua que la política debe reflejar como compromiso. La política no enfatiza este punto.
+*   ❎ **Supresión o anonimización de datos precontractuales (Obligaciones d)):** La política no menciona específicamente el tratamiento (supresión o anonimización) de datos obtenidos para medidas precontractuales si el contrato no se concreta.
+*   ❎ **Cesión de Datos Personales (Art. 15):**
+    *   La política indica que compartir datos con "empresas relacionadas", "auditores externos o proveedores" "no se consideraran terceros para efectos de esta Política de Privacidad". Esto es una interpretación incorrecta desde la perspectiva legal. Salvo que actúen como encargados de tratamiento bajo un contrato que cumpla los requisitos legales, son cesionarios (terceros). La cesión a estos requiere consentimiento específico o debe encuadrarse en las otras causales del Art. 15 (necesidad para contrato, interés legítimo, ley).
+    *   El consentimiento para la cesión parece estar agrupado con la aceptación general de la política, lo que podría no cumplir con el requisito de ser "específico" para cada cesión o tipo de cesión, especialmente si no se consideró la cesión al momento de la recolección inicial (aunque aquí se pide aceptar la política que ya incluye la cesión).
+    *   No se menciona que la cesión "deberá constar por escrito o a través de cualquier medio" que permita acreditarla.
+*   ❎ **Identificación del Representante Legal y Encargado de Prevención (Información a proveer b)):** No se individualiza al representante legal ni se menciona si existe un encargado de prevención (o Delegado de Protección de Datos).
+*   ❎ **Domicilio Postal, Correo Electrónico o Medio de Contacto para Solicitudes de Titulares (Información a proveer c)):** La política no proporciona una dirección de correo electrónico específica, formulario de contacto dedicado o medio tecnológico claro y de fácil acceso para que los titulares realicen solicitudes relativas a sus derechos. Solo se menciona el sitio web de forma genérica.
+*   ❎ **Descripción Genérica del Universo de Personas (Información a proveer d)):** No se describe claramente el "universo de personas que comprenden sus bases de datos" (ej. "clientes actuales del canal online", "potenciales clientes que se registran", etc.). Se infiere que son "clientes y futuros clientes", pero podría ser más explícito.
+*   ❎ **Destinatarios Específicos de Cesiones (Información a proveer d)):** Si bien se mencionan categorías de destinatarios (empresas relacionadas, proveedores, etc.), para un cumplimiento más robusto, se esperaría mayor detalle o la posibilidad de acceder a una lista actualizada de estos, especialmente si se considera la incorrecta calificación de "no terceros".
+*   ❎ **Detalle de Intereses Legítimos (Información a proveer d)):** Cuando se invoca el interés legítimo como base, la ley exige especificar "cuáles serían éstos". La política menciona "Embotelladora Andina tiene un interés legítimo en garantizar y mejorar la funcionalidad y el funcionamiento sin errores del Sitio Web, adaptándose a las necesidades de los Usuarios", lo cual es genérico. Se requiere mayor especificidad para cada tratamiento basado en interés legítimo.
+*   ❎ **Retención de Datos:** La política no especifica los plazos de conservación de los datos personales para las distintas finalidades, lo cual es una omisión importante en relación con el principio de finalidad y la obligación de suprimir datos cuando ya no son necesarios.
+*   ❎ **Transferencias Internacionales de Datos:** Si bien se menciona la posibilidad de transferir datos a servidores en el extranjero (Cláusula QUINTA, punto 13), no se detallan los países de destino ni las garantías adecuadas para dichas transferencias (ej. cláusulas contractuales tipo, decisiones de adecuación, etc.), lo cual es crucial bajo normativas modernas de protección de datos.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Detallar Procedimiento para Ejercicio de Derechos:** Incluir una sección específica que explique claramente cómo los titulares pueden ejercer sus derechos de acceso, rectificación, cancelación, oposición y portabilidad (si aplica), proporcionando un canal de contacto directo y expedito para ello (ej. un correo electrónico dedicado como dpo@andina.cl o un formulario específico).
+2.  **Especificar "Otros Datos Personales":** Eliminar la categoría vaga "Otros datos personales necesarios" o detallar qué tipo de datos podrían ser, vinculándolos a finalidades específicas.
+3.  **Aclarar Cesiones de Datos:**
+    *   Corregir la afirmación de que empresas relacionadas, auditores o proveedores "no se considerarán terceros". Reconocerlos como cesionarios o, si actúan por cuenta de Andina, establecer claramente su rol como "Encargados de Tratamiento" y las obligaciones contractuales correspondientes.
+    *   Obtener consentimiento específico para las cesiones a terceros que no estén cubiertas por otras bases legales (ej. ejecución de contrato, interés legítimo debidamente justificado).
+    *   Mencionar que las cesiones se documentarán conforme a la ley.
+4.  **Completar Información del Responsable:** Incluir el nombre del representante legal y, si existe, del Encargado de Prevención o Delegado de Protección de Datos.
+5.  **Especificar Universo de Titulares:** Describir de forma más precisa el universo de personas cuyos datos se tratan.
+6.  **Detallar Intereses Legítimos:** Para cada tratamiento basado en interés legítimo, explicar de forma concreta cuál es dicho interés y cómo se ha ponderado frente a los derechos de los titulares.
+7.  **Establecer Plazos de Retención:** Definir y comunicar los plazos durante los cuales se conservarán los datos personales para cada finalidad, o los criterios utilizados para determinar dichos plazos.
+8.  **Regular Transferencias Internacionales:** Si se realizan transferencias internacionales, especificar los países de destino y las garantías adoptadas para proteger los datos (ej. adhesión del destinatario a principios equivalentes, cláusulas contractuales, etc.).
+9.  **Consentimiento para Datos Sensibles:** Si se recolectan "datos sensibles" (la política los menciona pero no los especifica), asegurar que se obtiene el consentimiento reforzado que la ley exige para su tratamiento, detallando la finalidad específica para la cual se recogen.
+10. **Revisar Finalidades Amplias:** Algunas finalidades, como la "creación... de inteligencia de negocios y para compartir dichas conclusiones de manera estadística, agregada y anonimizada con terceros" (Punto 11, QUINTA), deben asegurar que el proceso de anonimización sea robusto e irreversible para que los datos dejen de ser personales. Si no es así, sigue siendo tratamiento de datos personales.
+
+**5. Puntuación General de Cumplimiento (por sección relevante de la ley o principio)**
+
+*   **Identificación del Responsable y Contacto para Derechos:** ❎ (Falta representante legal, DPO si existe, y canal específico para derechos)
+*   **Información sobre Tratamiento (Fines, Tipos de Datos, Base Legal, Destinatarios, Interés Legítimo):** ❎ (Vaguedad en "otros datos", descripción de universo, detalle de destinatarios e intereses legítimos)
+*   **Consentimiento (Libre, Informado, Específico):** ❎ (Consentimiento para cesiones podría no ser suficientemente específico o granular; mención de datos sensibles sin detalle)
+*   **Cesión de Datos (Legalidad y Transparencia):** ❎ (Incorrecta calificación de "no terceros", falta de detalle en documentación de cesión)
+*   **Derechos de los Titulares (Información y Ejercicio):** ❎ (No se detalla el procedimiento para ejercer derechos)
+*   **Seguridad de los Datos:** ✅ (Menciona medidas, aunque la efectividad real es una cuestión de implementación)
+*   **Principios Generales (Licitud, Finalidad, Lealtad):** ❎ (Aunque se declaran, las omisiones en otros puntos debilitan su cumplimiento práctico, especialmente la finalidad por falta de plazos de retención y vaguedad)
+*   **Retención de Datos:** ❎ (Ausencia total de información sobre plazos)
+*   **Transferencias Internacionales:** ❎ (Mención sin garantías ni detalles suficientes)
+
+**6. Puntuación Total**
+
+*   **Total de ✅: 1/9**
+
+**Conclusión General:**
+La política de privacidad de Embotelladora Andina S.A. muestra una intención de cumplir con la normativa de protección de datos, identificando al responsable, las finalidades generales y basándose en el consentimiento. Sin embargo, presenta carencias significativas en cuanto a la especificidad de la información proporcionada, la claridad en los procedimientos para el ejercicio de derechos, la correcta conceptualización de las cesiones de datos, la falta de información sobre plazos de retención y las garantías para transferencias internacionales. Se requieren mejoras sustanciales para alinearla completamente con las obligaciones y principios de la Ley 19.628 (y por extensión, con los estándares esperados bajo un marco legal actualizado como el que busca la Ley 21.719, aunque esta última no sea la directamente aplicada aquí según los extractos).

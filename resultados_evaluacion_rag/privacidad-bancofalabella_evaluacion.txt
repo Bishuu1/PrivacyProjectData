@@ -1,0 +1,72 @@
+**EVALUACIÓN DE POLÍTICA DE PRIVACIDAD CONFORME A LA LEY 19.628 (MODIFICADA POR LEY 21.719)**
+
+**Introducción:**
+Se ha solicitado evaluar un documento denominado "PROTOCOLIZACION POLITICA DE PRIVACIDAD" de la Segunda Notaría de Santiago, con fecha 29 de junio de 2023, para determinar su cumplimiento con la Ley 19.628 sobre Protección de Datos Personales, considerando las modificaciones introducidas por la Ley 21.719.
+
+Es fundamental destacar que el documento proporcionado **no es la política de privacidad en sí misma**, sino una certificación notarial que indica que un documento (presumiblemente la política de privacidad) fue protocolizado. La evaluación se realizará sobre la base de que el contenido de la política de privacidad no ha sido provisto, y por lo tanto, se evaluará la ausencia de información requerida por ley.
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+El documento proporcionado es una certificación emitida por el Notario Público Francisco Leiva Carvajal (actuando su suplente Benjamín Andrés Castillo Montalvo) de la Segunda Notaría de Santiago. Dicha certificación indica:
+*   Que un documento denominado "PROTOCOLIZACION POLITICA DE PRIVACIDAD" es copia fiel de una Escritura Pública otorgada el 29-06-2023 bajo el Repertorio 47086.
+*   Incluye detalles de la firma electrónica avanzada y códigos de verificación.
+
+**El contenido sustantivo de la política de privacidad no se encuentra en el documento facilitado.** Por lo tanto, no es posible resumir sus puntos principales relativos al tratamiento de datos personales.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+Dado que el texto de la política de privacidad no ha sido proporcionado, no es posible identificar aspectos específicos de su contenido que cumplan con la Ley 19.628.
+
+El acto de protocolizar un documento ante notario es una formalidad que otorga fecha cierta y puede servir como medio de prueba de la existencia y contenido del documento original en esa fecha, pero no garantiza por sí mismo que el contenido de dicho documento (la política de privacidad) sea conforme a la ley de protección de datos.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+Al no tener acceso al contenido de la "POLITICA DE PRIVACIDAD" referenciada, se asume que la Notaría, como responsable del tratamiento de datos, debería tener una política que cumpla con los requisitos legales. Basándonos en la información que *debería* contener una política de privacidad según la Ley 19.628 (especialmente considerando los estándares que introduce la Ley 21.719, aunque su vigencia esté diferida para algunos aspectos, los principios y la necesidad de información clara son transversales y se reflejan en las exigencias para las políticas), la ausencia de la política misma para su revisión implica un incumplimiento en la demostración de conformidad.
+
+Una política de privacidad, para ser conforme, debería incluir, como mínimo (basado en el espíritu de la ley y las exigencias que se detallan en el extracto proporcionado, que parece referirse a los requisitos de información que deben estar disponibles):
+
+*   **Individualización del responsable de datos (Art. [X] lit. b)):** Aunque la Notaría y el Notario están identificados en el certificado, la política debería reiterar quién es el responsable del tratamiento de los datos personales que la Notaría maneja.
+*   **Datos de contacto para el ejercicio de derechos (Art. [X] lit. c)):** Domicilio postal, dirección de correo electrónico, formulario de contacto u otro medio accesible para que los titulares ejerzan sus derechos. El certificado notarial solo indica la dirección física de la Notaría.
+*   **Detalles sobre el tratamiento de datos (Art. [X] lit. d)):**
+    *   Categorías, clases o tipos de datos que trata.
+    *   Descripción genérica del universo de personas que comprenden sus bases de datos.
+    *   Destinatarios a los que se prevé comunicar o ceder los datos.
+    *   Finalidades de los tratamientos que realiza.
+    *   Base de legitimidad del tratamiento.
+    *   En caso de tratamientos basados en intereses legítimos, cuáles serían éstos.
+
+Dado que el documento provisto es solo una certificación de protocolización y no la política en sí, no se puede verificar la presencia de ninguno de estos elementos.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Proporcionar el texto completo de la "POLITICA DE PRIVACIDAD"** que fue protocolizada. Este es el paso fundamental y sine qua non para cualquier evaluación de cumplimiento.
+2.  Una vez disponible, asegurar que la política de privacidad incluya de manera clara y accesible, como mínimo:
+    *   La identificación completa del responsable del tratamiento (la Notaría, su RUT, representante legal).
+    *   La identificación del Encargado de Protección de Datos o de prevención, si existiere.
+    *   Un canal de comunicación claro y accesible (correo electrónico, formulario web, dirección postal específica para estos fines) para que los titulares de los datos puedan ejercer sus derechos (acceso, rectificación, cancelación, oposición, portabilidad, etc.).
+    *   Las finalidades específicas para las cuales se tratan los datos personales (ej. gestión de trámites notariales, cumplimiento de obligaciones legales, etc.).
+    *   La base legal que legitima cada tratamiento (consentimiento, obligación legal, ejecución de contrato, interés legítimo, etc.).
+    *   Las categorías de datos personales que se tratan (ej. datos identificativos, datos de contacto, datos biométricos si aplica, datos relativos a trámites específicos).
+    *   El universo de titulares cuyos datos se tratan (ej. clientes, comparecientes, empleados).
+    *   Si los datos se comunican o ceden a terceros, identificar a dichos destinatarios o categorías de destinatarios y la finalidad de dicha comunicación/cesión.
+    *   Los plazos de conservación de los datos personales o los criterios para determinarlos.
+    *   Las medidas de seguridad implementadas para proteger los datos personales.
+    *   Información sobre transferencias internacionales de datos, si las hubiere.
+    *   El procedimiento para que los titulares ejerzan sus derechos ARCO+ (Acceso, Rectificación, Cancelación, Oposición, y los que añada la nueva ley como portabilidad).
+    *   Referencia a la posibilidad de reclamar ante la Agencia de Protección de Datos Personales.
+3.  Hacer pública y fácilmente accesible la política de privacidad (ej. en el sitio web de la Notaría, en un lugar visible en sus dependencias físicas).
+
+**5. Puntuación general de cumplimiento**
+
+Dado que el contenido de la política de privacidad no ha sido proporcionado, la evaluación se basa en la ausencia de la información necesaria para verificar el cumplimiento de los requisitos específicos mencionados en el extracto de la ley.
+
+*   **Individualización del responsable de datos y su representante legal y la identificación del encargado de prevención, si existiere (Art. [X] lit. b)):** ❎ (No se puede verificar en el documento proporcionado).
+*   **Domicilio postal, la dirección de correo electrónico, el formulario de contacto o la identificación del medio tecnológico equivalente para notificar solicitudes de titulares (Art. [X] lit. c)):** ❎ (No se puede verificar en el documento proporcionado).
+*   **Categorías de datos, universo de personas, destinatarios, finalidades, base de legitimidad, intereses legítimos (Art. [X] lit. d)):** ❎ (No se puede verificar en el documento proporcionado).
+
+**6. Puntuación total**
+
+*   **Total de ✅:** 0 / 3
+
+**Conclusión Final:**
+El documento proporcionado es una certificación notarial de la protocolización de una política de privacidad, pero no es la política en sí. Por lo tanto, no es posible evaluar su contenido sustantivo frente a las exigencias de la Ley 19.628. Para realizar una evaluación adecuada, es imprescindible contar con el texto íntegro del documento "POLITICA DE PRIVACIDAD" que fue objeto de dicha protocolización. En su estado actual, y basándose únicamente en el documento de protocolización, no se puede afirmar que se cumpla con los requisitos de información y transparencia exigidos por la legislación de protección de datos personales.

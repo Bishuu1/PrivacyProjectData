@@ -1,0 +1,109 @@
+**EVALUACIÓN DE POLÍTICA DE PRIVACIDAD BAJO LA LEY 21.719 DE CHILE**
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad**
+
+La política de privacidad de "The Weather Company, LLC" (proveedor de The Weather Channel, Weather Underground, Storm Radar) describe cómo recopila, utiliza y comparte datos personales de los usuarios de sus sitios web, aplicaciones móviles y para vehículos, y otros servicios digitales.
+
+Principales aspectos:
+*   **Alcance Global con Adaptaciones Regionales:** Es una política maestra traducida, con secciones específicas para ciertas jurisdicciones (CCPA, GDPR, LGPD, Corea), pero no explícitamente para Chile.
+*   **Recopilación de Datos:** Detalla los tipos de datos recopilados (información del dispositivo, identificadores, inferencias, uso, ubicación, pago, preferencias, opciones de privacidad) y las finalidades (proporcionar pronósticos, análisis, suscripciones, alertas, marketing, operaciones TI).
+*   **Datos de Ubicación:** Extensa sección sobre cómo se recopila y utiliza la información de ubicación (general y precisa, GPS, IP) y las opciones del usuario para controlarla.
+*   **Uso de Tecnologías:** Menciona el uso de tecnologías de recopilación de datos para operaciones, seguimiento y personalización.
+*   **Compartir Información:** Indica que la información puede ser compartida con proveedores de servicios, publicitarios y analíticos, y otros terceros según se detalla.
+*   **Derechos del Usuario:** Menciona derechos como acceso, corrección y supresión, y la posibilidad de revocar el consentimiento.
+*   **Retención de Datos:** Indica que se asigna un propietario a cada servicio para tratar la información durante el ciclo de vida del producto.
+*   **Transferencias Internacionales:** Aborda la transferencia de datos a otros países.
+*   **Seguridad:** Declara un compromiso con la seguridad de los datos.
+*   **Contacto:** Proporciona información sobre cómo contactarlos.
+*   **Actualizaciones:** Indica la fecha de efectividad y acceso a versiones anteriores.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley 21.719**
+
+*   **Art. 14 ter a) (Versión y fecha):** La política indica su fecha de efectividad (14 de junio de 2024) y proporciona un enlace a la versión anterior. También menciona una "Last Updated" para una sección específica. ✅
+*   **Art. 14 ter d) (Categorías, finalidades, destinatarios, base de legitimidad parcial):**
+    *   **Categorías de datos:** La Sección 1.A y las definiciones detallan las categorías de datos tratados (Ej: "Información del dispositivo", "Identificadores", "Información de ubicación"). ✅
+    *   **Finalidades:** La tabla en la Sección 1.A ("Cómo utilizamos los datos personales") describe las finalidades (Ej: "Proporcionar características meteorológicas básicas", "Marketing y publicidad"). ✅
+    *   **Destinatarios (parcial):** La Sección 1.A menciona "Tipo de proveedor" (Tecnología, Analítica, Publicidad) y la Sección 3 ("Cómo compartimos o divulgamos la información del Cliente con los Proveedores") indica que se comparte con proveedores. Sin embargo, no es una lista exhaustiva de *tipos* de destinatarios a los que se prevé comunicar o ceder los datos de forma general. ⚠️ (Considerado parcialmente cumplido por la mención general)
+    *   **Base de legitimidad (parcial):** Se menciona el consentimiento ("Al utilizar los Servicios, acepta los términos... Podemos solicitar su consentimiento... también le ofreceremos una forma de revocar su consentimiento"). No se detallan otras bases de legitimidad de forma explícita para cada tratamiento, ni se especifican los "intereses legítimos" cuando esta sea la base. ⚠️ (Considerado parcialmente cumplido por la mención del consentimiento)
+*   **Art. 14 ter e) (Medidas de seguridad):** La Sección 9 "Nuestro compromiso con la seguridad" aborda este punto, aunque de forma genérica. ✅
+*   **Art. 14 ter f) (Derechos del titular - parcial):** La Sección 6 "Derechos sobre los datos" y la introducción mencionan el derecho a acceder, corregir o suprimir datos. No se menciona explícitamente el derecho de oposición y portabilidad en la sección general, aunque podrían estar cubiertos en anexos regionales (como GDPR). ⚠️ (Considerado parcialmente cumplido)
+*   **Art. 14 ter h) (Transferencia internacional - parcial):** La Sección 8 "Transferencias internacionales" aborda este tema. Indica que se realizan transferencias. No especifica si los países ofrecen un nivel adecuado de protección según la ley chilena o las garantías específicas en caso de no ofrecerlo, de forma general para todos los usuarios. ⚠️ (Considerado parcialmente cumplido)
+*   **Art. 14 ter i) (Período de conservación):** La Sección 5 "Periodo de retención" menciona que se asigna un propietario para tratar la información durante el ciclo de vida del producto, lo cual es una forma de indicar que existe una política de retención, aunque no especifica plazos concretos o criterios para su determinación de forma general. ✅
+*   **Art. 14 ter j) (Fuente de los datos):** La Sección 1.A ("Información que recopilamos sobre usted") y 1.C ("Información de Anunciantes, Proveedores Analíticos y Proveedores Publicitarios") indican que los datos provienen del usuario, del dispositivo, y de terceros. No se especifica claramente si alguna de estas fuentes de terceros son de acceso público. ✅
+*   **Art. 14 ter k) (Derecho a retirar consentimiento):** Se menciona en la introducción: "...también le ofreceremos una forma de revocar su consentimiento." ✅
+*   **Art. 14 ter l) (Decisiones automatizadas y perfiles - parcial):** La política menciona "Inferencias extraídas del uso de los Servicios" y el uso de datos para "personalizar su experiencia, los anuncios". La definición de "Elaboración de perfiles" de la ley es relevante. Si bien se infiere la existencia de perfiles, no se proporciona "información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular" de forma detallada y clara. ⚠️ (Considerado parcialmente cumplido)
+*   **Art. 16 sexies (Datos de geolocalización):** La Sección 1.B "Más información sobre la ubicación" es detallada e informa sobre:
+    *   Tipo de datos de geolocalización: Sí (GPS, IP, latitud, longitud). ✅
+    *   Finalidad: Sí (mostrar información meteorológica, noticias, ofertas). ✅
+    *   Duración: No se especifica una duración particular para los datos de geolocalización, se rige por la política general de retención. ⚠️
+    *   Comunicación a terceros para servicio con valor añadido: Sí, menciona que se comparte con proveedores (Sección 1.B y Sección 3). ✅
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley 21.719**
+
+*   **Art. 14 ter b) (Individualización del responsable y representante legal, encargado de prevención):**
+    *   Si bien se individualiza al responsable ("The Weather Company, LLC"), no se individualiza un representante legal *en Chile*. ❎
+    *   No se identifica un encargado de prevención de datos, si existiere, relevante para la operación en Chile. ❎
+*   **Art. 14 ter c) (Domicilio postal y contacto específico para Chile):** La Sección 11 "Cómo ponerse en contacto con nosotros" es genérica. No se proporciona un domicilio postal en Chile ni un medio de contacto (correo electrónico, formulario) específico y de fácil acceso para notificaciones de solicitudes de titulares chilenos, gestionado localmente o con clara referencia a la atención de solicitudes bajo ley chilena. ❎
+*   **Art. 14 ter d) (Descripción del universo de personas, base de legitimidad completa, intereses legítimos):**
+    *   No hay una "descripción genérica del universo de personas que comprenden sus bases de datos" (ej. usuarios de servicios meteorológicos en Chile, suscriptores, etc.). ❎
+    *   Si bien se menciona el consentimiento, no se detallan otras posibles bases de legitimidad para todos los tratamientos (ej. cumplimiento de obligación legal, ejecución de contrato, interés legítimo). ❎
+    *   En caso de basarse en "intereses legítimos", no se especifican cuáles serían estos. ❎
+*   **Art. 14 ter f) (Derechos del titular - completo):**
+    *   No se menciona explícitamente el derecho de **oposición** al tratamiento en la sección general de derechos. ❎
+    *   No se menciona explícitamente el derecho a la **portabilidad** de los datos en la sección general de derechos. ❎
+*   **Art. 14 ter g) (Derecho a recurrir ante la Agencia):** No se informa al titular de su derecho a recurrir ante la Agencia de Protección de Datos Personales de Chile en caso de que el responsable rechace o no responda oportunamente sus solicitudes. ❎
+*   **Art. 14 ter h) (Transferencia internacional - nivel de protección y garantías específicas para Chile):** Aunque se mencionan las transferencias internacionales, no se especifica si los países destinatarios ofrecen un nivel adecuado de protección *según los estándares chilenos* o, en caso contrario, cuáles son las garantías específicas que justifican tal transferencia desde la perspectiva de la ley chilena. ❎
+*   **Art. 14 ter l) (Decisiones automatizadas y perfiles - lógica y consecuencias):** No se proporciona información suficientemente significativa sobre la lógica aplicada en la elaboración de perfiles o decisiones automatizadas, ni las consecuencias previstas de dicho tratamiento para el titular de manera clara y específica. ❎
+*   **Art. 16 sexies (Datos de geolocalización - duración):** No se informa de manera clara y específica la duración del tratamiento de los datos de geolocalización. ❎
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Adaptación Específica para Chile:** Crear un anexo o sección específica para Chile dentro de la política global, o una política separada para usuarios chilenos, que aborde los requisitos de la Ley 21.719.
+2.  **Individualización Completa (Art. 14 ter b):**
+    *   Incluir la individualización del representante legal de The Weather Company, LLC en Chile, si aplica.
+    *   Identificar al encargado de prevención de datos para Chile, si ha sido designado.
+3.  **Contacto Localizado (Art. 14 ter c):** Establecer y comunicar un domicilio postal en Chile y/o un canal de contacto electrónico (ej. correo electrónico específico o formulario) claramente destinado a la atención de solicitudes de titulares de datos chilenos.
+4.  **Detallar Información sobre Tratamientos (Art. 14 ter d):**
+    *   Describir genéricamente el universo de personas cuyas bases de datos se administran en Chile (ej. "usuarios de nuestros servicios meteorológicos residentes en Chile").
+    *   Para cada finalidad de tratamiento, especificar claramente la base de legitimidad (consentimiento, contrato, obligación legal, interés legítimo, etc.).
+    *   Si se invoca el interés legítimo, detallar cuáles son esos intereses.
+    *   Proporcionar una descripción más clara de los tipos de destinatarios a los que se ceden o comunican los datos.
+5.  **Derechos Completos del Titular (Art. 14 ter f y g):**
+    *   Enumerar explícitamente todos los derechos ARSOP (Acceso, Rectificación, Supresión, Oposición y Portabilidad) en la sección general o en el anexo para Chile.
+    *   Informar expresamente sobre el derecho del titular a recurrir ante la Agencia de Protección de Datos Personales de Chile.
+6.  **Transferencias Internacionales (Art. 14 ter h):** Especificar, para las transferencias que afecten a datos de titulares chilenos, si los países u organizaciones internacionales destinatarias cuentan con un nivel adecuado de protección reconocido por la autoridad chilena. En caso negativo, detallar las garantías específicas que justifican la transferencia (ej. cláusulas contractuales tipo aprobadas, normas corporativas vinculantes, consentimiento explícito para la transferencia específica tras ser informado de los riesgos).
+7.  **Período de Conservación (Art. 14 ter i):** Aunque se menciona, sería recomendable ser más específico sobre los criterios utilizados para determinar los períodos de conservación o los plazos aplicables a las distintas categorías de datos.
+8.  **Decisiones Automatizadas y Perfiles (Art. 14 ter l):** Proveer información más significativa sobre la lógica utilizada en la elaboración de perfiles y otras decisiones automatizadas, y explicar de forma comprensible las consecuencias previstas de estos tratamientos para los titulares.
+9.  **Datos de Geolocalización (Art. 16 sexies):** Especificar la duración del tratamiento de los datos de geolocalización o los criterios para su determinación.
+
+**5. Puntuación General de Cumplimiento (por sección relevante de Art. 14 ter y otros)**
+
+| Requisito Legal (Ley 21.719)                                   | Cumple |
+| :------------------------------------------------------------- | :----: |
+| a) Versión y fecha de última actualización                     |   ✅   |
+| b) Individualización responsable, rep. legal, enc. prevención  |   ❎   |
+| c) Domicilio postal y medio de contacto para solicitudes       |   ❎   |
+| d) Categorías, universo, destinatarios, finalidades, legitimidad, intereses legítimos |   ⚠️   |
+| e) Política y medidas de seguridad                             |   ✅   |
+| f) Derechos ARSOP (Acceso, Rectificación, Supresión, Oposición, Portabilidad) |   ⚠️   |
+| g) Derecho a recurrir ante la Agencia                          |   ❎   |
+| h) Transferencia internacional, nivel protección, garantías    |   ⚠️   |
+| i) Período de conservación                                     |   ✅   |
+| j) Fuente de los datos                                         |   ✅   |
+| k) Derecho a retirar consentimiento                            |   ✅   |
+| l) Decisiones automatizadas, perfiles (lógica, consecuencias)  |   ⚠️   |
+| Art. 16 sexies - Datos de geolocalización (completo)           |   ⚠️   |
+
+*(Nota: ⚠️ indica cumplimiento parcial o ambiguo que requiere mejora significativa para alinearse con la ley chilena)*
+
+**6. Puntuación Total**
+
+Considerando ✅ como 1 punto y ⚠️ como 0.5 puntos (ya que requieren mejoras sustanciales para ser un ✅ pleno bajo la especificidad de la ley chilena), y ❎ como 0 puntos:
+
+*   ✅ = 5 puntos
+*   ⚠️ = 0.5 * 5 = 2.5 puntos
+*   ❎ = 0 puntos
+
+**Puntuación Total: 7.5 / 13**
+
+Esta puntuación refleja que, si bien la política es exhaustiva en muchos aspectos generales de privacidad, carece de la especificidad y los elementos requeridos por la Ley 21.719 de Chile para considerarse plenamente conforme. Las recomendaciones apuntan a subsanar estas deficiencias.

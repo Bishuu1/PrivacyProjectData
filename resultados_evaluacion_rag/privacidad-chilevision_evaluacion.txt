@@ -1,0 +1,118 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE PARAMOUNT BAJO LA LEY CHILENA DE PROTECCIÓN DE DATOS PERSONALES**
+
+**Fecha de Evaluación:** 26 de mayo de 2024
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad de Paramount**
+
+La política de privacidad de Paramount, con última modificación el 1 de julio de 2024, describe cómo Paramount y sus filiales recopilan, utilizan y comparten información personal de los usuarios que interactúan con sus diversos servicios (sitios web, aplicaciones, plataformas de transmisión, eventos en vivo, etc.).
+
+Principales aspectos:
+*   **Responsable del Tratamiento:** Se indica que será la empresa Paramount que proporciona el servicio específico, con un enlace a una lista de responsables.
+*   **Información Recopilada:**
+    *   **Proporcionada por el usuario:** Información de inscripción (nombre, email, teléfono, fecha de nacimiento, preferencias), información de facturación y pago, contenido publicado por el usuario (comentarios, fotos, videos), información para estudios de mercado, mensajes y comentarios, información sobre otras personas (con su permiso), información de proveedores/socios, e información proporcionada fuera de línea.
+    *   **Recopilada automáticamente:** Uso de los servicios, preferencias, identificadores online (IP, ID de publicidad, cookies), datos de localización (visitas a oficinas, asistencia a eventos, CCTV).
+    *   **Recopilada de terceros:** Socios comerciales (proveedores de TV/internet, operadores móviles), plataformas de redes sociales, empresas de publicidad personalizada, otras fuentes (licenciatarios de datos, información pública).
+    *   **Información inferida:** Preferencias, intereses, ubicación aproximada, hábitos de compra.
+*   **Uso de la Información:** Para proporcionar los servicios (crear cuentas, autenticar, procesar transacciones, atención al cliente), gestionar la relación con el usuario (interacciones en redes sociales, personalizar servicios), analizar y mejorar servicios, personalizar publicidad y marketing, seguridad y cumplimiento de obligaciones legales.
+*   **Compartir Información:** Se menciona una sección "CON QUIÉN COMPARTIMOS SU INFORMACIÓN Y POR QUÉ" (no detallada en el extracto).
+*   **Derechos y Opciones:** Se menciona una sección "SUS OPCIONES, DERECHOS Y CONTROLES" (no detallada).
+*   **Transferencias Internacionales:** Se menciona una sección (no detallada).
+*   **Privacidad de Niños:** Se menciona una sección (no detallada).
+*   **Retención:** Se menciona una sección (no detallada).
+*   **Cookies y Tecnologías de Seguimiento:** Se menciona una sección (no detallada).
+*   **Seguridad:** Se menciona una sección "PROTEGER SU INFORMACIÓN" (no detallada).
+*   **Contacto:** Se menciona una sección (no detallada).
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley**
+
+Basado en el extracto proporcionado y las secciones de la ley:
+
+*   **Art. 14 quáter d) (parcialmente): Categorías, clases o tipos de datos que trata; la descripción genérica del universo de personas que comprenden sus bases de datos; las finalidades de los tratamientos que realiza:**
+    *   La política detalla extensamente las "CATEGORÍAS DE DATOS" que recopila en la sección "INFORMACIÓN QUE RECOPILAMOS SOBRE USTED".
+    *   Describe el "UNIVERSO DE PERSONAS" de forma genérica como aquellos que interactúan con los Servicios de Paramount.
+    *   Las "FINALIDADES" se describen en la sección "CÓMO UTILIZAMOS SU INFORMACIÓN Y POR QUÉ".
+*   **Art. 14 quáter j) La fuente de la cual provienen los datos personales y, en su caso, si proceden de fuentes de acceso público:**
+    *   La política identifica claramente las fuentes: información proporcionada por el usuario, recopilada automáticamente, y de terceros (incluyendo "información disponible públicamente").
+*   **Art. 16 sexies (parcialmente): El tratamiento de los datos personales de geolocalización del titular se podrá realizar bajo las mismas fuentes de licitud establecidas en los artículos 12 y 13. El titular de datos deberá ser informado de manera clara, suficiente y oportuna, del tipo de datos de geolocalización que serán tratados...:**
+    *   La política informa sobre la recopilación de "Datos de localización" (IP para ubicación aproximada, presencia en oficinas/eventos, CCTV).
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen con la Ley**
+
+Basado en el extracto proporcionado:
+
+*   **Art. 14 quáter b) La individualización del responsable de datos y su representante legal y la identificación del encargado de prevención, si existiere:**
+    *   La política indica que "El responsable del tratamiento de su información personal será la empresa Paramount que le proporciona los Servicios de Paramount. Puede ver una lista de los responsables de tratamiento de Paramount aquí." Esto no individualiza directamente al responsable específico para Chile ni a su representante legal en Chile. Tampoco menciona un "encargado de prevención" (o DPO) específico para Chile o la forma de contactarlo si existiera.
+*   **Art. 14 quáter c) El domicilio postal, la dirección de correo electrónico, el formulario de contacto o la identificación del medio tecnológico equivalente de uso común y fácil acceso mediante el cual se le notifican las solicitudes que realicen los titulares:**
+    *   Aunque se menciona una sección "CONTACTO", el extracto no proporciona detalles que permitan verificar si se incluye un domicilio postal en Chile o un medio de contacto específico y fácilmente accesible para usuarios chilenos.
+*   **Art. 14 quáter d) (parcialmente): ...los destinatarios a los que se prevé comunicar o ceder los datos; la base de legitimidad del tratamiento; y en caso de tratamientos que se basan en la satisfacción de intereses legítimos, cuáles serían éstos:**
+    *   **Destinatarios:** Se menciona una sección "CON QUIÉN COMPARTIMOS SU INFORMACIÓN Y POR QUÉ", pero el contenido no está en el extracto, impidiendo evaluar si se identifican adecuadamente las categorías de destinatarios.
+    *   **Base de legitimidad:** La política menciona usos "como parte de nuestro acuerdo con usted", "para mantener nuestra relación con usted", "por nuestra obligación legal o permiso para hacerlo". Estas son generales. La ley exige especificar la base de legitimidad para cada finalidad.
+    *   **Intereses legítimos:** No se especifican cuáles serían los intereses legítimos cuando el tratamiento se base en ellos, como lo exige la ley.
+*   **Art. 14 quáter e) La política y las medidas de seguridad adoptadas para proteger las bases de datos personales que administra:**
+    *   Se menciona una sección "PROTEGER SU INFORMACIÓN", pero el extracto no detalla la política ni las medidas específicas, solo que existe una sección. La ley requiere informar sobre "la política y las medidas".
+*   **Art. 14 quáter f) El derecho que le asiste al titular para solicitar ante el responsable, acceso, rectificación, supresión, oposición y portabilidad de sus datos personales, de conformidad a la ley:**
+    *   Se menciona una sección "SUS OPCIONES, DERECHOS Y CONTROLES", pero el extracto no detalla si todos estos derechos (específicamente la portabilidad, que es un derecho clave en la nueva ley) están explícitamente mencionados y cómo ejercerlos.
+*   **Art. 14 quáter g) El derecho que le asiste al titular de recurrir ante la Agencia, en caso de que el responsable rechace o no responda oportunamente las solicitudes que le formule:**
+    *   No hay mención en el extracto de este derecho ni de la Agencia de Protección de Datos de Chile.
+*   **Art. 14 quáter h) En su caso, la transferencia de datos personales a un tercer país u organización internacional y si éstos ofrecen o no un nivel adecuado de protección. En caso de que no cuenten con un nivel adecuado de protección, se deberá informar si existen garantías que justifiquen tal transferencia:**
+    *   Se menciona una sección "TRANSFERENCIAS INTERNACIONALES", pero el extracto no permite evaluar si se informa sobre el nivel de adecuación de los países receptores o las garantías específicas aplicadas, especialmente para datos de titulares chilenos.
+*   **Art. 14 quáter i) El periodo durante el cual se conservarán los datos personales:**
+    *   Se menciona una sección "RETENCIÓN", pero el extracto no especifica los periodos o los criterios utilizados para determinarlos.
+*   **Art. 14 quáter k) Cuando el tratamiento está basado en el consentimiento del titular, la existencia del derecho a retirarlo en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo a su retirada:**
+    *   Aunque se espera que la sección "SUS OPCIONES, DERECHOS Y CONTROLES" lo cubra, el extracto no lo confirma explícitamente.
+*   **Art. 14 quáter l) La existencia de decisiones automatizadas, incluida la elaboración de perfiles. En tales casos, información significativa sobre la lógica aplicada, así como las consecuencias previstas de dicho tratamiento para el titular:**
+    *   La política menciona "construir un perfil sobre usted que nos ayude a mostrarle anuncios personalizados". Esto constituye elaboración de perfiles. Sin embargo, el extracto no proporciona "información significativa sobre la lógica aplicada" ni las "consecuencias previstas" de dicho tratamiento para el titular, más allá de la publicidad personalizada.
+*   **Art. 16 sexies (parcialmente): ...de la finalidad y duración del tratamiento y si los datos se comunicarán o cederán a un tercero para la prestación de un servicio con valor añadido:**
+    *   Si bien se informa el tipo de dato de geolocalización, el extracto no es suficientemente específico sobre la finalidad particular de cada tipo de dato de geolocalización, su duración específica, ni si se ceden a terceros para servicios con valor añadido y bajo qué condiciones.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Responsable del Tratamiento (Art. 14 quáter b):**
+    *   Individualizar claramente la entidad legal de Paramount que actúa como responsable del tratamiento para los usuarios en Chile.
+    *   Proporcionar el nombre y datos de contacto del representante legal en Chile.
+    *   Si existe un Encargado de Prevención de Datos (DPO) o figura similar con responsabilidades para Chile, identificarlo y proporcionar sus datos de contacto.
+2.  **Contacto (Art. 14 quáter c):**
+    *   Asegurar que la sección "CONTACTO" incluya un domicilio postal en Chile (si aplica) y/o una dirección de correo electrónico y/o formulario de contacto claramente accesible y funcional para los titulares de datos en Chile.
+3.  **Información sobre el Tratamiento (Art. 14 quáter d):**
+    *   En la sección "CON QUIÉN COMPARTIMOS SU INFORMACIÓN Y POR QUÉ", detallar las categorías de destinatarios de los datos personales.
+    *   Para cada finalidad de tratamiento, especificar la base de legitimidad correspondiente según la ley chilena (consentimiento, contrato, obligación legal, interés vital, interés público, interés legítimo).
+    *   Si se invoca el interés legítimo, detallar explícitamente cuáles son esos intereses legítimos.
+4.  **Medidas de Seguridad (Art. 14 quáter e):**
+    *   La sección "PROTEGER SU INFORMACIÓN" debe describir la política de seguridad y las principales medidas técnicas y organizativas adoptadas para proteger los datos, no solo afirmar que se protegen.
+5.  **Derechos de los Titulares (Art. 14 quáter f):**
+    *   La sección "SUS OPCIONES, DERECHOS Y CONTROLES" debe enumerar explícitamente todos los derechos ARSOP (Acceso, Rectificación, Supresión, Oposición, Portabilidad) y describir el procedimiento para ejercerlos.
+6.  **Derecho a Recurrir a la Agencia (Art. 14 quáter g):**
+    *   Incluir una declaración informando a los titulares de su derecho a recurrir ante la Agencia de Protección de Datos de Chile si su solicitud no es atendida o es rechazada.
+7.  **Transferencias Internacionales (Art. 14 quáter h):**
+    *   La sección "TRANSFERENCIAS INTERNACIONALES" debe especificar, para las transferencias desde Chile, si los países u organizaciones receptoras ofrecen un nivel adecuado de protección. Si no, se deben detallar las garantías que justifican la transferencia (ej. cláusulas contractuales tipo, normas corporativas vinculantes adaptadas a Chile).
+8.  **Periodo de Conservación (Art. 14 quáter i):**
+    *   La sección "RETENCIÓN" debe especificar los plazos concretos de conservación para las distintas categorías de datos o, si no es posible, los criterios utilizados para determinar dichos plazos.
+9.  **Retirada del Consentimiento (Art. 14 quáter k):**
+    *   Confirmar explícitamente en la sección de derechos que, cuando el tratamiento se base en el consentimiento, este puede ser retirado en cualquier momento, y explicar cómo hacerlo, sin afectar la licitud del tratamiento previo.
+10. **Decisiones Automatizadas y Perfiles (Art. 14 quáter l):**
+    *   Si se realizan decisiones automatizadas con efectos jurídicos o significativos, o elaboración de perfiles, se debe proporcionar información significativa sobre la lógica aplicada (no necesariamente el algoritmo completo, pero sí sus principios y criterios) y las consecuencias previstas de dicho tratamiento para el titular.
+11. **Geolocalización (Art. 16 sexies):**
+    *   Para cada tipo de dato de geolocalización tratado, detallar la finalidad específica, la duración del tratamiento y si se comunicarán o cederán a terceros para la prestación de un servicio con valor añadido, identificando a dichos terceros o sus categorías.
+12. **Adaptación a Chile:** Considerar la creación de un anexo o una versión específica de la política de privacidad para Chile que aborde directamente los requisitos de la Ley 21.719, en lugar de depender únicamente de una política global.
+
+**5. Puntuación General de Cumplimiento (basado en el extracto y Art. 14 quáter y Art. 16 sexies)**
+
+*   **Art. 14 quáter b) Individualización del responsable, representante legal, encargado de prevención:** ❎
+*   **Art. 14 quáter c) Domicilio postal y/o medio de contacto accesible:** ❎ (No verificable en extracto)
+*   **Art. 14 quáter d) Categorías de datos, universo, destinatarios, finalidades, base de legitimidad, intereses legítimos:** ❎ (Parcialmente cumplido, faltan destinatarios, base de legitimidad específica e intereses legítimos)
+*   **Art. 14 quáter e) Política y medidas de seguridad:** ❎ (No detalladas)
+*   **Art. 14 quáter f) Derechos ARSOP (incluida portabilidad):** ❎ (No verificable en extracto que se listen todos y cómo ejercerlos)
+*   **Art. 14 quáter g) Derecho a recurrir ante la Agencia:** ❎ (No mencionado)
+*   **Art. 14 quáter h) Transferencias internacionales (adecuación/garantías):** ❎ (No detallado)
+*   **Art. 14 quáter i) Periodo de conservación:** ❎ (No especificado)
+*   **Art. 14 quáter j) Fuente de los datos (incluidas fuentes públicas):** ✅
+*   **Art. 14 quáter k) Derecho a retirar el consentimiento:** ❎ (No verificado explícitamente)
+*   **Art. 14 quáter l) Decisiones automatizadas (lógica y consecuencias):** ❎ (Información insuficiente)
+*   **Art. 16 sexies) Información específica sobre geolocalización (finalidad, duración, cesión para valor añadido):** ❎ (Información insuficiente)
+
+**6. Puntuación Total**
+
+Total de ✅: **1 / 12**
+
+**Conclusión:**
+Basado en el extracto proporcionado, la política de privacidad de Paramount presenta deficiencias significativas en cuanto al cumplimiento de varios requisitos informativos clave establecidos por la legislación chilena de protección de datos personales. Se requieren adaptaciones y adiciones sustanciales para alinearla con la normativa local. Es crucial revisar las secciones no incluidas en el extracto ("CON QUIÉN COMPARTIMOS", "SUS OPCIONES, DERECHOS Y CONTROLES", "TRANSFERENCIAS INTERNACIONALES", "RETENCIÓN", "CONTACTO") para una evaluación completa, pero las omisiones identificadas en los puntos analizados son relevantes.

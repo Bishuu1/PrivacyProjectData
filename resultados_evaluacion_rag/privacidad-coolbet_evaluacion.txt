@@ -1,0 +1,120 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE COOLBET FRENTE A LA LEY CHILENA DE PROTECCIÓN DE DATOS PERSONALES (BASADA EN LOS ARTÍCULOS PROPORCIONADOS DE LA LEY 19.628 Y SUS MODIFICACIONES)**
+
+**1. Resumen de los Puntos Principales de la Política de Privacidad**
+
+La política de privacidad de Coolbet, actualizada el 7 de marzo de 2024, tiene como objetivo informar a los usuarios ("usted") sobre cómo la empresa ("nosotros", Coolbet) recopila, usa, conserva y comparte sus Datos Personales.
+
+Principales aspectos:
+*   **Controlador de Datos:** Identifica a Polar Limited (Malta) como el controlador de datos para usuarios en Chile.
+*   **Contacto:** Proporciona un correo electrónico para el Oficial de Protección de Datos (privacidad@coolbet.com) y para soporte general.
+*   **Finalidades del Tratamiento:** Los datos se procesan para la provisión de servicios de juego online (apuestas deportivas, casino, póker, etc.), atención al cliente, comunicaciones de servicio, seguridad, investigaciones, análisis y desarrollo de servicios, y mitigación de riesgos (incluyendo juego responsable y prevención de fraude).
+*   **Bases Legales (según RGPD):** Principalmente la ejecución de un contrato (Términos y Condiciones aceptados por el usuario) y el interés legítimo de la empresa.
+*   **Derechos del Usuario:** Menciona la posibilidad de gestionar preferencias y ejercer derechos a través de la configuración de la cuenta o contactando al servicio al cliente, y el derecho a oponerse al tratamiento basado en interés legítimo.
+*   **Uso de IA y Sistemas Automatizados:** Indica el uso de IA para atención al cliente y sistemas automatizados para personalizar la experiencia y para la segmentación de clientes con fines de mitigación de riesgos.
+*   **Referencia al RGPD:** La política hace múltiples referencias al Reglamento General de Protección de Datos (RGPD) de la UE.
+
+**2. Evaluación de Cumplimiento: Aspectos que Cumplen con la Ley (según artículos proporcionados)**
+
+Basado en los extractos de la Ley 19.628 proporcionados:
+
+*   **Artículo 14.a) Versión actualizada:** ✅
+    *   La política indica claramente su fecha de última actualización: "Última actualización: 7.March, 2024".
+*   **Artículo 14.c) Domicilio postal, correo electrónico, formulario de contacto:** ✅
+    *   **Domicilio postal del responsable:** Se indica el domicilio de Polar Limited en Malta (Regent House, Office 21, Bisazza Street, Sliema SLM1640, Malta).
+    *   **Dirección de correo electrónico:** Se proporciona privacidad@coolbet.com para el Oficial de Protección de Datos y soporte@coolbet.com para atención al cliente.
+    *   **Medio tecnológico equivalente:** Se menciona el "chat en vivo en nuestra página de servicio de atención al cliente".
+*   **Artículo 14.d) Categorías de datos (parcial), universo de personas, finalidades, base de legitimidad, intereses legítimos:**
+    *   **Universo de personas:** ✅ Se describe como "nuestros clientes ('usted')" y "visitante o Cliente de nuestros Servicios" (Sección 1.1, 5.2).
+    *   **Finalidades del tratamiento:** ✅ Detalladas en las secciones 5 y 6 (provisión de servicios, atención al cliente, seguridad, análisis, mitigación de riesgos, etc.).
+    *   **Base de legitimidad del tratamiento:** ✅ Se mencionan explícitamente la ejecución del contrato (6.1) y el interés legítimo (6.2).
+    *   **Intereses legítimos (cuando aplican):** ✅ Se describen en la sección 6.2 (seguridad, análisis, desarrollo de servicios, mitigación de riesgos).
+*   **Artículo 14.l) Existencia de decisiones automatizadas, incluida la elaboración de perfiles:** ✅
+    *   Se informa sobre el uso de sistemas automatizados para personalizar la experiencia (5.4), herramientas de IA en atención al cliente (6.1.2) y segmentación de clientes para mitigación de riesgos (6.2.3). Se mencionan las finalidades (consecuencias previstas) y de forma general la lógica (personalización, gestión de riesgos).
+*   **Artículo 12.a) Informar y poner a disposición antecedentes de licitud:** ✅
+    *   La política en sí busca cumplir con este deber, explicando las bases legales del tratamiento.
+*   **Artículo 12.b) Recoger datos de fuentes lícitas con fines específicos, explícitos y lícitos, y limitación del tratamiento:** ✅
+    *   La política establece que los datos se recopilan de los usuarios para fines específicos relacionados con los servicios ofrecidos.
+
+**3. Identificación de Incumplimientos: Aspectos que No Cumplen o Cumplen Parcialmente con la Ley (según artículos proporcionados)**
+
+*   **Artículo 14.b) Individualización del responsable de datos y su representante legal y la identificación del encargado de prevención, si existiere:** ⚠️ (Parcialmente Cumple)
+    *   **Responsable de datos:** ✅ Se individualiza a Polar Limited (Malta) para Chile.
+    *   **Representante legal (en Chile):** ❎ No se menciona un representante legal de Polar Limited en Chile, lo cual es un requisito para responsables de datos no establecidos en el territorio nacional que traten datos de titulares chilenos, especialmente si ofrecen bienes o servicios.
+    *   **Encargado de prevención:** ❎ No se menciona la existencia o identificación de un encargado de prevención. Si no existe, no es un incumplimiento, pero si existe, debe ser identificado.
+*   **Artículo 14.d) Categorías, clases o tipos de datos que trata; la descripción genérica del universo de personas que comprenden sus bases de datos; los destinatarios a los que se prevé comunicar o ceder los datos:** ⚠️ (Parcialmente Cumple)
+    *   **Categorías, clases o tipos de datos:** ❎ No se enumeran explícitamente las categorías de datos personales que se tratan (ej. datos de identificación, datos de contacto, datos de transacciones, datos técnicos, etc.). Se infieren, pero no se listan.
+    *   **Destinatarios a los que se prevé comunicar o ceder los datos:** ⚠️ Se menciona de forma genérica "proveedores de servicios externos" (6.2.2) y "Afiliados" (6.2.2), pero no se detallan las categorías de estos destinatarios ni los fines específicos de dichas comunicaciones o cesiones de forma exhaustiva.
+*   **Artículo 14.e) La política y las medidas de seguridad adoptadas para proteger las bases de datos personales que administra:** ❎
+    *   Si bien se menciona la seguridad como un interés legítimo (6.2.1 "Proteger activamente nuestros sistemas...") y la implementación de "procedimientos de seguridad" (6.1.1), no se describe la política ni las medidas de seguridad específicas (técnicas y organizativas) adoptadas. Es una mención muy genérica.
+*   **Artículo 14.f) El derecho que le asiste al titular para solicitar ante el responsable, acceso, rectificación, supresión, oposición y portabilidad de sus datos personales, de conformidad a la ley:** ⚠️ (Parcialmente Cumple)
+    *   Se mencionan "derechos y opciones" (1.1), la gestión de preferencias en "Mis datos de Coolbet" (1.2) y el derecho a oponerse al tratamiento por interés legítimo (6.2). Sin embargo, no se enumeran explícitamente todos los derechos ARSOP (Acceso, Rectificación, Supresión, Oposición y Portabilidad) conforme a la ley chilena, ni se detalla el procedimiento para ejercerlos.
+*   **Artículo 14.g) El derecho que le asiste al titular de recurrir ante la Agencia, en caso de que el responsable rechace o no responda oportunamente las solicitudes que le formule:** ❎
+    *   No se menciona el derecho del titular a recurrir ante la Agencia de Protección de Datos Personales de Chile.
+*   **Artículo 14.h) En su caso, la transferencia de datos personales a un tercer país u organización internacional y si éstos ofrecen o no un nivel adecuado de protección. En caso de que no cuenten con un nivel adecuado de protección, se deberá informar si existen garantías que justifiquen tal transferencia:** ⚠️ (Parcialmente Cumple)
+    *   Dado que el controlador es Polar Limited (Malta), existe una transferencia internacional de datos a Malta. Malta, como miembro de la UE, está sujeta al RGPD, lo que generalmente se considera un nivel adecuado de protección. Sin embargo, la política no lo declara explícitamente así desde la perspectiva de la ley chilena, ni menciona si Chile considera a Malta como país con nivel adecuado o qué garantías específicas se aplican para esta transferencia bajo la óptica chilena.
+*   **Artículo 14.i) El periodo durante el que se conservarán los datos personales:** ❎
+    *   No se especifica el período de conservación de los datos personales o, en su defecto, los criterios utilizados para determinar ese plazo.
+*   **Artículo 14.j) La fuente de la cual provienen los datos personales y, en su caso, si proceden de fuentes de acceso público:** ⚠️ (Parcialmente Cumple)
+    *   Se infiere que los datos provienen directamente del usuario ("información recopilamos y conservamos sobre usted"). No se menciona si se obtienen datos de fuentes de acceso público.
+*   **Artículo 14.k) Cuando el tratamiento está basado en el consentimiento del titular, la existencia del derecho a retirarlo en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo a su retirada:** ⚠️ (Parcialmente Cumple)
+    *   La política se basa principalmente en el contrato y el interés legítimo. Si bien se menciona la gestión de preferencias para marketing (6.2), lo que podría implicar consentimiento, no se establece de forma clara y general el derecho a retirar el consentimiento para cualquier tratamiento que se base en él, ni las implicaciones de dicha retirada.
+*   **Artículo 14 quáter.- Deber de protección desde el diseño y por defecto:** ❎
+    *   No hay una mención explícita a la adopción de medidas para la protección de datos desde el diseño y por defecto, aunque algunas prácticas descritas podrían alinearse con este principio.
+*   **Artículo 16 sexies.- Datos de geolocalización:** ❎
+    *   La política no menciona específicamente el tratamiento de datos de geolocalización. Si la empresa trata este tipo de datos (lo cual es común en plataformas de juego para verificar la ubicación del usuario), se debe informar claramente sobre el tipo de datos, finalidad, duración y si se ceden a terceros para servicios de valor añadido.
+*   **Artículo 12.c) Comunicar o ceder, en conformidad a las disposiciones de esta ley, información exacta, completa y actual:** ❎
+    *   No hay una declaración explícita de este compromiso, aunque se espera como parte de las buenas prácticas.
+*   **Artículo 12.d) Suprimir o anonimizar los datos personales del titular cuando fueron obtenidos para la ejecución de medidas precontractuales (y ya no son necesarios):** ❎
+    *   No se menciona este deber específico.
+
+**4. Recomendaciones para Mejorar el Cumplimiento**
+
+1.  **Representante Legal en Chile:** Designar e identificar un representante legal en Chile para Polar Limited, dado que trata datos de residentes chilenos ofreciendo servicios.
+2.  **Encargado de Prevención:** Si existe un encargado de prevención de delitos (figura relacionada con la responsabilidad penal de las personas jurídicas, que puede tener implicancias en la gestión de datos), identificarlo.
+3.  **Detalle de Datos Tratados:** Incluir una sección que enumere claramente las categorías de datos personales que se recopilan y tratan (ej. identificativos, de contacto, financieros, de conexión, de comportamiento en la plataforma, etc.).
+4.  **Destinatarios de Datos:** Especificar con mayor detalle las categorías de terceros a los que se comunican o ceden los datos (ej. proveedores de plataformas de pago, servicios de verificación de identidad, autoridades regulatorias, empresas del grupo con fines específicos) y las finalidades de dichas transferencias.
+5.  **Medidas de Seguridad:** Describir de forma más concreta las medidas técnicas y organizativas implementadas para garantizar la seguridad de los datos personales, más allá de menciones genéricas.
+6.  **Derechos de los Titulares (ARSOP):** Enumerar explícitamente todos los derechos de los titulares conforme a la ley chilena (Acceso, Rectificación, Supresión, Oposición, Portabilidad) y describir el procedimiento detallado para ejercerlos.
+7.  **Recurso ante la Agencia:** Informar expresamente sobre el derecho de los titulares a recurrir ante la Agencia de Protección de Datos Personales de Chile.
+8.  **Transferencias Internacionales:** Aclarar explícitamente que los datos se transfieren a Malta, indicar que este país (por ser miembro UE y aplicar RGPD) ofrece un nivel adecuado de protección según los estándares internacionales, y si existen acuerdos o cláusulas específicas que respalden la transferencia desde la perspectiva chilena.
+9.  **Período de Conservación:** Especificar los plazos de conservación de los datos personales o los criterios utilizados para determinar dichos plazos para las distintas categorías de datos y finalidades.
+10. **Fuente de los Datos:** Indicar si, además de los datos proporcionados por el usuario, se recopilan datos de fuentes de acceso público u otras fuentes.
+11. **Retirada del Consentimiento:** Si se utiliza el consentimiento como base de legitimación para algún tratamiento, establecer claramente el derecho a retirarlo en cualquier momento y cómo hacerlo, sin que afecte la licitud del tratamiento previo.
+12. **Protección desde el Diseño y por Defecto:** Incluir una declaración sobre el compromiso de la empresa con los principios de protección de datos desde el diseño y por defecto.
+13. **Datos de Geolocalización:** Si se tratan datos de geolocalización, añadir una sección específica que cumpla con los requisitos del Artículo 16 sexies (tipo de datos, finalidad, duración, comunicación a terceros).
+14. **Adaptación al Marco Legal Chileno:** Aunque la referencia al RGPD es positiva, la política debe estar primariamente alineada y hacer referencia explícita a la Ley 19.628 y sus modificaciones (o la Ley 21.719 si ya estuviera plenamente vigente y aplicable al caso), utilizando la terminología y los requisitos específicos de la legislación chilena.
+
+**5. Puntuación General de Cumplimiento (según artículos proporcionados)**
+
+*   **Art. 14.a) Versión actualizada:** ✅
+*   **Art. 14.b) Individualización del responsable, representante legal, encargado de prevención:** ❎ (Falta representante legal en Chile y mención a encargado de prevención si existe)
+*   **Art. 14.c) Domicilio postal, correo electrónico, contacto:** ✅
+*   **Art. 14.d) Categorías de datos, universo, destinatarios, finalidades, base de legitimidad, intereses legítimos:** ⚠️ (Falta detalle en categorías de datos y destinatarios)
+*   **Art. 14.e) Política y medidas de seguridad:** ❎
+*   **Art. 14.f) Derechos ARSOP:** ⚠️ (Mención genérica, falta detalle y enumeración completa)
+*   **Art. 14.g) Derecho a recurrir ante la Agencia:** ❎
+*   **Art. 14.h) Transferencias internacionales:** ⚠️ (Falta claridad desde la perspectiva chilena)
+*   **Art. 14.i) Período de conservación:** ❎
+*   **Art. 14.j) Fuente de los datos:** ⚠️ (Falta mención a fuentes de acceso público si aplica)
+*   **Art. 14.k) Derecho a retirar consentimiento:** ⚠️ (Poco claro si el consentimiento es base para algo más que marketing)
+*   **Art. 14.l) Decisiones automatizadas y perfiles:** ✅
+*   **Art. 14 quáter) Protección desde el diseño y por defecto:** ❎
+*   **Art. 16 sexies) Datos de geolocalización:** ❎ (Asumiendo que no se tratan; si se tratan, es un incumplimiento mayor)
+*   **Art. 12 (Deberes del responsable en general):**
+    *   a) Informar y acreditar licitud: ✅
+    *   b) Recoger de fuentes lícitas, fines específicos, explícitos, lícitos, limitación: ✅
+    *   c) Comunicar/ceder información exacta, completa, actual: ❎ (No se declara explícitamente)
+    *   d) Suprimir/anonimizar datos precontractuales: ❎
+
+**6. Puntuación Total**
+
+Sumando los ✅ del total de secciones evaluadas (considerando los sub-puntos del Art. 14 y Art. 12 como secciones individuales para este conteo):
+
+*   Total de puntos evaluados (considerando desglose): 18
+*   Puntos con ✅ (Cumple plenamente): 5
+*   Puntos con ⚠️ (Cumple parcialmente / Dudoso): 5
+*   Puntos con ❎ (No cumple / No se menciona): 8
+
+**Puntuación Total: 5 / 18 ✅**
+
+**Conclusión:** La política de privacidad de Coolbet muestra una base inspirada en el RGPD, lo cual es positivo en cuanto a principios generales. Sin embargo, presenta carencias significativas para cumplir plenamente con los requisitos específicos de la legislación chilena de protección de datos, según los artículos proporcionados. Se requieren adaptaciones y adiciones importantes para asegurar la conformidad.

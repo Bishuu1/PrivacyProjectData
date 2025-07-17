@@ -1,0 +1,98 @@
+**EVALUACIÓN DE POLÍTICA DE PRIVACIDAD DE BÍO BÍO COMUNICACIONES S.A. FRENTE A LA LEY 19.628 (ACTUALIZADA POR LEY 21.719)**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de Bío Bío Comunicaciones S.A. establece los siguientes puntos:
+*   **Compromiso:** Declara un compromiso con la seguridad de los datos de los usuarios y que la información personal solicitada se usará de acuerdo con los términos del documento.
+*   **Actualización:** Advierte que la política puede cambiar y recomienda su revisión continua.
+*   **Información Recogida:** Indica que se podrá recoger información personal como nombre, información de contacto (correo electrónico), información demográfica, y, cuando sea necesario, información específica para pedidos, entregas o facturación.
+*   **Uso de la Información:** La información se emplea para proporcionar el mejor servicio, mantener registro de usuarios y pedidos, mejorar productos/servicios, y enviar correos electrónicos periódicos con publicidad (cancelables).
+*   **Seguridad:** Afirma un alto compromiso con la seguridad, usando sistemas avanzados y actualizándolos constantemente para evitar accesos no autorizados.
+*   **Cookies:** Explica el uso de cookies para información de tráfico web, facilitar visitas recurrentes, reconocer individualmente al usuario para servicio personalizado, y análisis estadístico. Informa que el usuario puede eliminar, aceptar o negar las cookies, advirtiendo que declinarlas podría limitar el uso de algunos servicios.
+*   **Enlaces a Terceros:** Advierte que el sitio puede contener enlaces a otros sitios y que Bío Bío Comunicaciones S.A. no es responsable de la privacidad o protección de datos en esos sitios terceros, recomendando consultar sus políticas.
+*   **Control de Información Personal:** Indica que el usuario puede restringir la recopilación o uso de su información, marcar/desmarcar la opción de recibir información por correo, y cancelar la suscripción a boletines o publicidad.
+*   **Cesión de Datos:** Establece que la compañía no venderá, cederá ni distribuirá la información personal sin consentimiento, salvo requerimiento judicial.
+*   **Cambios en la Política:** Se reserva el derecho de cambiar los términos de la política en cualquier momento.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+La política de privacidad cumple parcialmente con algunos aspectos de la Ley 19.628:
+
+*   **Art. 10 letra b) (parcialmente):** Se mencionan fines específicos para la recogida de datos ("proporcionar el mejor servicio posible, particularmente para mantener un registro de usuarios, de pedidos en caso que aplique, y mejorar nuestros productos y servicios", envío de publicidad). Se infiere que la recogida es de fuentes lícitas (directamente del usuario).
+*   **Art. 11 letra a):** Se menciona que la política puede ser actualizada ("esta Política de Privacidad puede cambiar con el tiempo o ser actualizada"), lo que implica la existencia de versiones.
+*   **Art. 11 letra d) (parcialmente - categorías y finalidades):**
+    *   Se identifican algunas categorías de datos que se tratan ("Nombre, información de contacto como su dirección de correo electrónica e información demográfica").
+    *   Se describen las finalidades de los tratamientos ("proporcionar el mejor servicio posible, particularmente para mantener un registro de usuarios, de pedidos en caso que aplique, y mejorar nuestros productos y servicios. Es posible que sean enviados correos electrónicos periódicamente...").
+    *   Se mencionan los destinatarios en caso de cesión de forma genérica y condicionada ("no venderá, cederá ni distribuirá la información personal que es recopilada sin su consentimiento, salvo que sea requerido por un juez con un orden judicial").
+*   **Art. 14 bis (parcialmente):** Se declara un compromiso con la seguridad y la no distribución sin consentimiento, lo que se alinea con el deber de confidencialidad ("Bío Bío Comunicaciones S.A. está altamente comprometido para cumplir con el compromiso de mantener su información segura", "Esta compañía no venderá, cederá ni distribuirá la información personal que es recopilada sin su consentimiento").
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+La política presenta varias omisiones e incumplimientos significativos respecto a la Ley 19.628:
+
+*   **Art. 10 letra a):** No se informa ni se pone a disposición del titular los antecedentes que acrediten la licitud del tratamiento, ni se indica cómo solicitar dicha información de manera expedita.
+*   **Art. 10 letra c):** No se establece el compromiso de comunicar o ceder información exacta, completa y actual, aunque sí se menciona la condición de consentimiento o requerimiento judicial para la cesión.
+*   **Art. 10 letra d):** No se menciona la obligación de suprimir o anonimizar los datos personales del titular cuando fueron obtenidos para la ejecución de medidas precontractuales.
+*   **Art. 11 letra b):**
+    *   Si bien se menciona "Bío Bío Comunicaciones S.A.", no se proporciona la individualización completa del responsable de datos (RUT, domicilio legal completo).
+    *   No se individualiza al representante legal.
+    *   No se identifica al encargado de prevención, si existiere.
+*   **Art. 11 letra c):**
+    *   No se indica un domicilio postal específico para notificaciones.
+    *   No se proporciona una dirección de correo electrónico específica para la privacidad o un formulario de contacto dedicado para solicitudes de los titulares relativas a sus datos personales.
+*   **Art. 11 letra d):**
+    *   La descripción de "información demográfica" es genérica y podría especificarse más.
+    *   No se describe el universo de personas que comprenden sus bases de datos.
+    *   No se especifica la base de legitimidad del tratamiento para cada finalidad (ej. consentimiento explícito, interés legítimo, ejecución contractual).
+    *   En caso de basarse en intereses legítimos, no se especifican cuáles serían estos.
+*   **Art. 11 letra e):** La declaración sobre medidas de seguridad ("Usamos los sistemas más avanzados y los actualizamos constantemente") es muy genérica y no describe la política ni las medidas de seguridad concretas adoptadas para proteger las bases de datos.
+*   **Art. 11 letra f):** No se informa explícitamente sobre el derecho que asiste al titular para solicitar ante el responsable el acceso, rectificación, supresión, oposición y portabilidad de sus datos personales, conforme a la ley. Solo se menciona de forma general la posibilidad de "restringir la recopilación o el uso" y "cancelar" suscripciones.
+*   **Art. 11 letra g):** No se informa sobre el derecho que asiste al titular de recurrir ante la Agencia de Protección de Datos Personales en caso de que el responsable rechace o no responda oportunamente sus solicitudes.
+*   **Art. 11 letra h):** No se menciona si se realizan transferencias de datos personales a terceros países u organizaciones internacionales, ni si estos ofrecen un nivel adecuado de protección, ni las garantías en caso de no ofrecerlo.
+*   **Art. 11, último párrafo (si aplica):** Si Bío Bío Comunicaciones S.A. no tuviera domicilio en Chile pero tratara datos de residentes, debería señalar un medio de contacto idóneo para la Agencia y los titulares, lo cual no se especifica. (Se asume que tiene domicilio en Chile).
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+Para alinear la política de privacidad con la Ley 19.628, se recomienda:
+
+1.  **Identificación Completa del Responsable:** Incluir el nombre completo o razón social, RUT, domicilio legal, nombre del representante legal y, si existe, del encargado de prevención de delitos o delegado de protección de datos (Art. 11.b).
+2.  **Canales de Contacto Específicos:** Establecer y comunicar un domicilio postal, una dirección de correo electrónico específica para asuntos de privacidad y/o un formulario de contacto dedicado para que los titulares ejerzan sus derechos y realicen consultas (Art. 11.c).
+3.  **Detalle de Datos y Tratamientos:**
+    *   Especificar con mayor detalle las "categorías de datos" (ej. en "información demográfica", detallar qué tipo de datos incluye).
+    *   Describir el "universo de personas" (ej. usuarios registrados, suscriptores, visitantes del sitio).
+    *   Identificar claramente la "base de legitimidad" para cada tratamiento (consentimiento, contrato, interés legítimo, obligación legal). Si se invoca el interés legítimo, detallarlo (Art. 11.d).
+4.  **Información sobre Licitud:** Explicar cómo se asegura la licitud del tratamiento y cómo los titulares pueden solicitar los antecedentes que lo acrediten (Art. 10.a).
+5.  **Compromiso con Calidad de Datos:** Incluir una declaración sobre el compromiso de tratar y ceder datos exactos, completos y actuales (Art. 10.c).
+6.  **Datos Precontractuales:** Mencionar la obligación de suprimir o anonimizar datos obtenidos para medidas precontractuales una vez que estas no prosperen (Art. 10.d).
+7.  **Medidas de Seguridad Detalladas:** Describir de forma más concreta, sin comprometer la seguridad, las medidas técnicas y organizativas implementadas para proteger los datos personales (Art. 11.e). Por ejemplo, mencionar cifrado, controles de acceso, copias de seguridad, etc.
+8.  **Derechos de los Titulares (ARSOP):** Enumerar y explicar claramente los derechos de acceso, rectificación, supresión, oposición y portabilidad, y el procedimiento para ejercerlos (Art. 11.f).
+9.  **Recurso ante la Agencia:** Informar a los titulares sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales si sus solicitudes no son atendidas satisfactoriamente por el responsable (Art. 11.g).
+10. **Transferencias Internacionales:** Si se realizan, declarar las transferencias internacionales de datos, el país u organización destinataria, si cuentan con nivel adecuado de protección y, en caso contrario, las garantías adoptadas (Art. 11.h). Si no se realizan, indicarlo explícitamente.
+11. **Deber de Secreto:** Reforzar la mención al deber de secreto y confidencialidad, indicando que subsiste aún después de terminada la relación con el titular (Art. 14 bis).
+
+**5. Puntuación general de cumplimiento**
+
+*   Art. 10.a (Informar licitud): ❎
+*   Art. 10.b (Fuentes lícitas, fines específicos, limitación): ✅
+*   Art. 10.c (Comunicar/ceder exacta, completa, actual): ❎
+*   Art. 10.d (Suprimir/anonimizar precontractual): ❎
+*   Art. 11.a (Versión actualizada): ✅
+*   Art. 11.b (Individualización responsable, rep. legal, encargado prevención): ❎
+*   Art. 11.c (Domicilio postal, correo, formulario contacto): ❎
+*   Art. 11.d (Categorías de datos): ✅
+*   Art. 11.d (Universo de personas): ❎
+*   Art. 11.d (Destinatarios): ✅
+*   Art. 11.d (Finalidades): ✅
+*   Art. 11.d (Base de legitimidad): ❎
+*   Art. 11.d (Intereses legítimos): ❎
+*   Art. 11.e (Política y medidas de seguridad): ❎
+*   Art. 11.f (Derechos ARSOP): ❎
+*   Art. 11.g (Derecho a recurrir ante la Agencia): ❎
+*   Art. 11.h (Transferencias internacionales): ❎
+*   Art. 14 bis (Deber de secreto o confidencialidad): ✅
+
+**6. Puntuación total**
+
+Total de ✅: **6 / 18** secciones evaluadas.
+
+La política de privacidad de Bío Bío Comunicaciones S.A. presenta un cumplimiento bajo de las disposiciones de la Ley 19.628, principalmente en lo referente a la información mínima que debe contener una política de privacidad y a la explicitación de los derechos de los titulares y los mecanismos para ejercerlos. Requiere una revisión y actualización exhaustiva para adecuarse a la normativa vigente.

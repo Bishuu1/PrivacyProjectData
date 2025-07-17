@@ -1,0 +1,93 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE BANCO DE CHILE FRENTE A LA LEY 19.628 (ACTUALIZADA POR LEY 21.719)**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de Banco de Chile, titulada "Transparencia, Protección de la Información y Privacidad", se centra en los siguientes aspectos:
+
+*   **Transparencia de la Información:** Destaca el compromiso del banco con la entrega de información adecuada, completa, fluida y clara a clientes, usuarios e inversionistas, en conformidad con las regulaciones vigentes, incluyendo la Ley 19.496 sobre Protección de los Derechos de los Consumidores. Se mencionan canales de consulta y reclamos, y el acceso a información institucional y de productos.
+*   **Seguridad de la Información y Ciberseguridad:** Afirma proteger los activos de información conforme a principios de Confidencialidad, Integridad, Disponibilidad, entre otros, y en cumplimiento de la Ley 19.628 y el secreto bancario (Art. 154 Ley General de Bancos). Detalla la recopilación de información sobre el uso de aplicaciones (Mi Banco) y aplicaciones instaladas en dispositivos para detección de fraudes, proporcionando un correo de contacto para estos efectos (`app@bancochile.cl`). Menciona la solicitud de acceso a listas de contactos y almacenamiento de imágenes para funcionalidades específicas de sus apps (Mi Banco, Mi Pago), previa autorización del usuario.
+*   **Información de carácter personal:** Reitera el tratamiento de información personal conforme a la Ley 19.628 y el secreto bancario, asegurando confidencialidad y niveles de protección adecuados.
+*   **Información general:** Proporciona información sobre la institución, representante, domicilio, y acceso a través de su página web.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+Basado en los extractos de la Ley 19.628 proporcionados:
+
+*   **Mención general de cumplimiento normativo:** La política declara que el tratamiento de datos personales se realiza conforme a las regulaciones vigentes, especialmente la Ley 19.628 y la normativa sobre secreto bancario.
+*   **Identificación del responsable (parcial):** Se identifica a "Banco de Chile" como la institución responsable. Se menciona que se puede obtener información del "representante" y "domicilio" a través del sitio público.
+*   **Fines del tratamiento (parcial):** Se mencionan algunos fines específicos para la recopilación de datos a través de sus aplicaciones, como la realización de grabaciones para activación de productos, detección de fraudes, recarga de teléfonos, transferencia de dinero y guardado de imágenes para widgets, indicando que se solicita autorización.
+*   **Medidas de seguridad (general):** La política declara que se protegen los activos de información conforme a principios de Confidencialidad, Integridad, Disponibilidad y otros, y que se mantienen niveles de protección adecuados. (Ley 19.628, p. 11, literal e).
+*   **Base de legitimidad (parcial y específica para apps):** Para ciertas funcionalidades de las apps (uso de cámara, acceso a contactos, acceso a imágenes), se menciona que se solicita "autorización al cliente".
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+La política presenta omisiones significativas respecto a las obligaciones y contenidos mínimos exigidos por la Ley 19.628 (actualizada):
+
+*   **Obligaciones Generales (Ley 19.628, p. 10):**
+    *   **a) Informar y poner a disposición antecedentes de licitud del tratamiento:** No se detallan los antecedentes que acreditan la licitud de todos los tratamientos que realiza, más allá de la mención genérica a la ley y la autorización para funciones específicas de apps.
+    *   **b) Recoger datos de fuentes lícitas con fines específicos, explícitos y lícitos, y limitación a estos fines:** Si bien se mencionan algunos fines, no hay una declaración exhaustiva de todos los fines para los cuales se tratan los datos personales, ni una clara delimitación de las fuentes (más allá de "entregados por el cliente" o "uso de aplicaciones").
+    *   **d) Suprimir o anonimizar datos de medidas precontractuales:** No se menciona esta obligación.
+
+*   **Contenido Mínimo de la Política de Privacidad (Ley 19.628, p. 11):**
+    *   **a) Versión de la misma:** No se indica una fecha de última actualización o número de versión de la política de manera explícita en el cuerpo del texto analizado (aunque el pie de página general del sitio web indica "© 2025 Banco de Chile").
+    *   **b) Individualización completa del responsable, representante legal y encargado de prevención:** Si bien se nombra "Banco de Chile", no se individualiza claramente al representante legal para efectos de protección de datos, ni se menciona la existencia (o no) de un encargado de prevención (Delegado de Protección de Datos).
+    *   **c) Domicilio postal, dirección de correo electrónico, formulario de contacto o medio tecnológico para solicitudes de titulares:** El correo `app@bancochile.cl` se especifica para temas de seguridad de aplicaciones, no como un canal general para el ejercicio de derechos de los titulares. No se proporciona un domicilio postal específico o un correo electrónico dedicado para consultas o solicitudes de protección de datos.
+    *   **d) Detalles del tratamiento:**
+        *   **Categorías, clases o tipos de datos que trata:** Se mencionan ejemplos ("información personal", "datos de carácter personal", "uso de aplicaciones", "aplicaciones instaladas", "números telefónicos", "imágenes"), pero no una enumeración sistemática y completa de todas las categorías de datos tratados.
+        *   **Descripción genérica del universo de personas:** Se menciona "clientes", "usuarios", "inversionistas", lo cual es adecuado.
+        *   **Destinatarios a los que se prevé comunicar o ceder los datos:** No se informa sobre posibles comunicaciones o cesiones de datos a terceros (ej. proveedores de servicios, otras empresas del grupo, autoridades).
+        *   **Finalidades de los tratamientos (exhaustividad):** Aunque se mencionan algunas finalidades, no se presenta un listado exhaustivo de todas las finalidades para las cuales se tratan los datos personales.
+        *   **Base de legitimidad del tratamiento (exhaustividad):** Solo se menciona la "autorización" para casos específicos en apps. No se detallan las bases de legitimidad para todos los tratamientos (ej. consentimiento, ejecución de contrato, interés legítimo, obligación legal).
+        *   **Intereses legítimos (si aplica):** Si el tratamiento se basa en intereses legítimos, no se especifican cuáles serían estos. La detección de fraude podría ser un interés legítimo, pero no se articula como tal.
+    *   **f) Derecho del titular para solicitar acceso, rectificación, supresión, oposición y portabilidad (derechos ARSOP):** La política *no informa* a los titulares sobre estos derechos ni sobre el procedimiento para ejercerlos ante el Banco. Esta es una omisión crítica.
+    *   **g) Derecho del titular de recurrir ante la Agencia:** La política *no informa* al titular sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales en caso de que el responsable rechace o no responda oportunamente sus solicitudes. Esta es una omisión crítica.
+    *   **h) Transferencia de datos personales a un tercer país u organización internacional:** La política *no informa* si se realizan transferencias internacionales de datos, ni sobre el nivel de protección de los países u organizaciones receptoras, ni sobre las garantías existentes en caso de no contar con un nivel adecuado. Esta es una omisión importante.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+Para alinear la política de privacidad con las exigencias de la Ley 19.628 (actualizada), se recomienda a Banco de Chile:
+
+1.  **Incluir Fecha de Versión:** Especificar claramente la fecha de la última actualización o el número de versión de la política.
+2.  **Identificación Completa:**
+    *   Identificar al representante legal del Banco para efectos de protección de datos.
+    *   Designar (si no se ha hecho) y comunicar la identidad y datos de contacto del Encargado de Prevención o Delegado de Protección de Datos.
+3.  **Canal Específico para Derechos:** Establecer y comunicar claramente un domicilio postal, dirección de correo electrónico específica, formulario de contacto u otro medio tecnológico de fácil acceso para que los titulares puedan ejercer sus derechos y realizar consultas sobre protección de datos.
+4.  **Detallar el Tratamiento:**
+    *   Enumerar de forma clara y completa las categorías de datos personales que se tratan.
+    *   Listar exhaustivamente todas las finalidades para las cuales se tratan los datos personales.
+    *   Especificar la base de legitimidad para cada una de las finalidades del tratamiento (consentimiento, contrato, obligación legal, interés legítimo, etc.).
+    *   Si se utiliza el interés legítimo como base, detallar cuáles son esos intereses.
+    *   Identificar a los destinatarios o categorías de destinatarios a los que se comunican o ceden los datos personales, incluyendo proveedores de servicios o empresas del grupo.
+5.  **Informar sobre Derechos de los Titulares:**
+    *   Incorporar una sección detallada que informe a los titulares sobre sus derechos de acceso, rectificación, supresión, oposición y portabilidad (ARSOP).
+    *   Describir el procedimiento para ejercer estos derechos ante el Banco.
+6.  **Informar sobre Recurso ante la Agencia:** Incluir una mención explícita al derecho de los titulares de recurrir ante la Agencia de Protección de Datos Personales.
+7.  **Informar sobre Transferencias Internacionales:** Si se realizan transferencias internacionales de datos, detallar los países u organizaciones destinatarias, el nivel de protección que ofrecen y, en su caso, las garantías que justifican dicha transferencia. Si no se realizan, indicarlo.
+8.  **Información sobre Supresión Precontractual:** Mencionar la obligación de suprimir o anonimizar datos obtenidos para medidas precontractuales cuando corresponda.
+9.  **Licitud del Tratamiento:** Ser más explícito sobre cómo se asegura la licitud de cada tratamiento, vinculándolo a las bases de legitimación.
+10. **Revisión Integral:** Realizar una revisión integral de la política para asegurar que todos los puntos de la ley sean abordados de manera clara, completa y accesible para el titular.
+
+**5. Puntuación general de cumplimiento**
+
+**Obligaciones Generales (Ley 19.628, p. 10):**
+*   a) Informar y poner a disposición antecedentes de licitud del tratamiento: ❎
+*   b) Asegurar que los datos personales se recojan de fuentes lícitas con fines específicos, explícitos y lícitos, y que su tratamiento se limite al cumplimiento de estos fines: ❎ (Parcialmente cubierto para apps, pero no de forma general y exhaustiva)
+*   c) Comunicar o ceder, en conformidad a las disposiciones de esta ley, información exacta, completa y actual: ❎ (No se informa sobre comunicación o cesión en la política)
+*   d) Suprimir o anonimizar los datos personales del titular cuando fueron obtenidos para la ejecución de medidas precontractuales: ❎
+
+**Contenido Mínimo de la Política de Privacidad (Ley 19.628, p. 11):**
+*   a) Versión de la misma: ❎
+*   b) Individualización del responsable de datos y su representante legal y la identificación del encargado de prevención, si existiere: ❎ (Parcial para el responsable, ausente para representante legal específico y encargado)
+*   c) Domicilio postal, la dirección de correo electrónico, el formulario de contacto o la identificación del medio tecnológico equivalente para notificar solicitudes: ❎ (El correo provisto es para otro fin)
+*   d) Categorías, clases o tipos de datos; descripción genérica del universo de personas; destinatarios; finalidades; base de legitimidad; intereses legítimos: ❎ (Muy incompleto en varios aspectos cruciales como destinatarios, bases de legitimidad exhaustivas e intereses legítimos)
+*   e) La política y las medidas de seguridad adoptadas: ✅ (Se mencionan de forma general)
+*   f) El derecho que le asiste al titular para solicitar acceso, rectificación, supresión, oposición y portabilidad: ❎
+*   g) El derecho que le asiste al titular de recurrir ante la Agencia: ❎
+*   h) En su caso, la transferencia de datos personales a un tercer país u organización internacional y si éstos ofrecen o no un nivel adecuado de protección: ❎
+
+**6. Puntuación total**
+
+✅: 1
+❎: 11
+
+**Puntuación Total: 1 / 12**

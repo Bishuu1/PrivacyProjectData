@@ -1,0 +1,101 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE LETRAS.COM FRENTE A LA LEY 21.719 DE CHILE**
+
+**1. Resumen de los puntos principales de la política de privacidad de Letras.com**
+
+La política de privacidad de Letras.com, integrada en sus "Condiciones de Uso y Política de Privacidad", establece las reglas para el uso de sus sitios web y aplicaciones (Letras.mus.br, Letras.com, Ouvirmusica.com.br, App Android, App iOS), propiedad de VIGNOLI COMUNICAÇÃO LTDA.
+
+Principales aspectos relacionados con la privacidad:
+*   **Aceptación:** El simple acceso implica la aceptación de las condiciones y la política.
+*   **Registro:** Opcional para navegación básica, necesario para funcionalidades completas. Requiere información exacta y actualizada.
+*   **Responsable:** VIGNOLI COMUNICAÇÃO LTDA.
+*   **Contacto para privacidad:** Se proporciona el correo electrónico `contato@letras.mus.br` para consultas, solicitudes de eliminación de datos y denuncias de violación de derechos de autor.
+*   **Finalidad de la recolección de datos:**
+    *   Proporcionar, personalizar y mejorar la experiencia (contenido, recomendaciones, publicidad).
+    *   Comprender y analizar el uso para desarrollar nuevos productos/servicios.
+    *   Comunicación directa para fines de difusión de productos.
+*   **Datos recolectados (ejemplos):**
+    *   Datos de registro (obligatorios y opcionales).
+    *   Datos de uso de aplicaciones: identificadores de publicidad, atributos del dispositivo, aplicaciones instaladas, datos de sensores, datos de ubicación anónimos (GPS o red celular).
+    *   Cookies: para personalizar la experiencia (ej. autocompletar contraseña, informar actividades previas).
+*   **Eliminación de datos:** Se puede solicitar la eliminación definitiva de datos personales de registro vía email, con excepciones por obligaciones legales (Marco Civil de Internet de Brasil) o datos agregados/anonimizados.
+*   **Base legal y jurisdicción:** La política se rige explícitamente por la legislación brasileña, mencionando el Marco Civil de Internet (Ley 12.965/2014).
+*   **Terceros:** Menciona anuncios de YouTube y Spotify que persistirán incluso con suscripción premium. Permite optar por la no recolección de datos anónimos por Audience Science.
+*   **Contenido generado por el usuario:** VIGNOLI se considera un "proveedor de aplicaciones" y no se responsabiliza por el contenido publicado por usuarios, aunque se reserva el derecho de retirarlo bajo ciertas circunstancias (orden judicial o detección de violación grave).
+*   **Divulgación de datos:** Autorización para proporcionar datos personales e IPs a pedido del Poder Judicial.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley (Ley 21.719)**
+
+Considerando los extractos de la Ley 21.719 proporcionados:
+*   **Información de contacto para ejercicio de derechos (parcial):** La política proporciona una dirección de correo electrónico (`contato@letras.mus.br`) que podría servir como canal para que los titulares ejerzan algunos derechos y se comuniquen con el responsable. La ley chilena exige un domicilio físico o una dirección electrónica.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley (Ley 21.719)**
+
+La política de privacidad de Letras.com presenta múltiples incumplimientos respecto a los artículos de la Ley 21.719 proporcionados:
+
+*   **Información de contacto y notificaciones:**
+    *   No se especifica claramente que la dirección de correo electrónico proporcionada sea el medio para practicar válidamente las comunicaciones y notificaciones administrativas que disponga la ley chilena. La política está orientada a la ley brasileña.
+*   **Mecanismos y herramientas tecnológicas para el ejercicio de derechos:**
+    *   La ley exige mecanismos y herramientas tecnológicas que permitan el ejercicio expedito, ágil y eficaz de los derechos, con operación sencilla. La política solo menciona el correo electrónico para la supresión de datos y consultas generales. No se detallan mecanismos específicos para acceso, rectificación, oposición o portabilidad, ni se asegura que el correo electrónico cumpla con los criterios de agilidad y eficacia tecnológica requeridos.
+*   **Gratuidad de los derechos:**
+    *   La ley establece que los derechos de rectificación, supresión y oposición son siempre gratuitos, y el de acceso lo es al menos trimestralmente. La política no menciona la gratuidad de estos derechos.
+    *   No se informa sobre la posibilidad de exigir costos directos por el ejercicio del derecho de acceso o portabilidad más de una vez por trimestre.
+*   **Principios:**
+    *   **Licitud y Lealtad:** La política se basa en la legislación brasileña ("Marco Civil de Internet"). No hay referencia a la licitud del tratamiento bajo la ley chilena, ni cómo el responsable acreditaría dicha licitud en Chile.
+    *   **Finalidad:** Si bien se enumeran finalidades, no se garantiza explícitamente que los datos no serán tratados de manera incompatible con dichos fines, como lo exige la ley chilena.
+*   **Derecho de Portabilidad:**
+    *   La política no menciona en absoluto el derecho a la portabilidad de los datos personales, ni el derecho a que se transmitan directamente de responsable a responsable cuando sea técnicamente posible.
+*   **Elaboración de Perfiles:**
+    *   La política describe actividades que constituyen elaboración de perfiles ("personalizar y mejorar la experiencia", "brindarte un contenido personalizado, individualizado o adaptado a tu ubicación, recomendaciones, funcionalidades y publicidad", "observar comportamientos y tendencias de uso"). Sin embargo, no utiliza el término "elaboración de perfiles" ni informa al titular sobre este tratamiento específico en los términos que podría requerir la ley chilena (aunque los extractos no detallan requisitos específicos más allá de la definición).
+*   **Tercero Mandatario o Encargado:**
+    *   La política no define claramente si utiliza "terceros mandatarios o encargados" para el tratamiento de datos por cuenta del responsable (VIGNOLI), ni las responsabilidades y obligaciones contractuales que deberían existir según la ley chilena. Menciona "servicios de terceras partes" (YouTube, Spotify, Audience Science) pero no en el contexto de encargados de tratamiento bajo la ley chilena.
+*   **Agencia de Protección de Datos Personales y Registro Nacional de Sanciones y Cumplimiento:**
+    *   No hay mención alguna a la Agencia de Protección de Datos Personales de Chile ni al Registro Nacional de Sanciones y Cumplimiento, lo cual es relevante para los titulares en Chile.
+*   **Prevención de Infracciones (Art. 48):**
+    *   La política se compromete a "no utilizar la información de registro proporcionada para la realización de actividades ilícitas", pero no detalla las "acciones destinadas a prevenir la comisión de las infracciones" que la ley chilena exige adoptar a los responsables.
+*   **Acción Indemnizatoria:**
+    *   La política no informa a los titulares sobre su derecho a una acción indemnizatoria en caso de infracción a la ley chilena de protección de datos.
+*   **Aplicabilidad de la Ley Chilena:**
+    *   El principal incumplimiento es la falta de adaptación de la política a la legislación chilena. La política se declara regida por la ley brasileña, lo cual es problemático si la empresa trata datos personales de titulares en Chile de forma sistemática.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+Para que la política de privacidad de Letras.com cumpla con la Ley 21.719 de Chile, se recomienda:
+
+1.  **Adaptación a la Ley Chilena:** Crear una sección específica o un anexo a la política de privacidad aplicable a los titulares de datos en Chile, o bien una política separada, que reconozca la aplicación de la Ley 21.719.
+2.  **Información de Contacto Específica:** Designar y comunicar claramente el domicilio físico o la dirección electrónica en Chile (o un canal claramente designado para Chile) para el ejercicio de derechos y la recepción de notificaciones administrativas bajo la ley chilena.
+3.  **Mecanismos para el Ejercicio de Derechos:**
+    *   Implementar y describir herramientas tecnológicas (ej. un portal de usuario, formularios online dedicados) que permitan a los titulares ejercer todos sus derechos (acceso, rectificación, supresión, oposición, portabilidad) de forma expedita, ágil, eficaz y sencilla.
+    *   Especificar los plazos de respuesta para cada solicitud de derechos.
+4.  **Gratuidad de los Derechos:** Declarar explícitamente que el ejercicio de los derechos de rectificación, supresión y oposición es gratuito, y que el derecho de acceso es gratuito al menos trimestralmente. Indicar las condiciones bajo las cuales se podrían cobrar costos directos por acceso o portabilidad (más de una vez por trimestre).
+5.  **Principios:**
+    *   **Licitud y Lealtad:** Establecer las bases de licitud para el tratamiento de datos conforme a la ley chilena (consentimiento, obligación legal, contrato, interés legítimo, etc.) y estar preparado para acreditarla.
+    *   **Finalidad:** Ser más específico sobre las finalidades y garantizar que los datos no se usarán para fines incompatibles sin el consentimiento del titular o base legal correspondiente.
+6.  **Derecho de Portabilidad:** Incluir una sección que explique el derecho a la portabilidad, cómo ejercerlo, los formatos en que se entregarán los datos y la posibilidad de transmisión directa a otro responsable si es técnicamente viable.
+7.  **Elaboración de Perfiles:** Si se realiza elaboración de perfiles, informar explícitamente sobre ello, su lógica, consecuencias y el derecho del titular a oponerse o solicitar intervención humana, según corresponda bajo la ley chilena.
+8.  **Encargados de Tratamiento:** Identificar si se utilizan encargados de tratamiento y explicar que existen contratos que aseguran el cumplimiento de la ley por parte de estos.
+9.  **Referencia a la Autoridad Chilena:** Informar a los titulares sobre la existencia de la Agencia de Protección de Datos Personales de Chile y su derecho a reclamar ante ella.
+10. **Prevención de Infracciones:** Describir de manera general las medidas técnicas y organizativas adoptadas para prevenir infracciones a la ley de protección de datos.
+11. **Derecho a Indemnización:** Informar a los titulares sobre su derecho a interponer acciones indemnizatorias en caso de perjuicios derivados de infracciones a la ley.
+12. **Cookies y Tecnologías Similares:** Detallar de forma más granular los tipos de cookies, sus finalidades específicas, duración y cómo gestionarlas (aceptar, rechazar, configurar), asegurando que el consentimiento para cookies no esenciales sea explícito y granular, conforme a los estándares chilenos.
+
+**5. Puntuación general de cumplimiento**
+
+*   Información de contacto y ejercicio de derechos: ❎
+*   Mecanismos para el ejercicio de derechos: ❎
+*   Gratuidad de los derechos: ❎
+*   Principios (Licitud, Lealtad, Finalidad): ❎
+*   Derecho de portabilidad: ❎
+*   Información sobre elaboración de perfiles: ❎
+*   Información sobre cesión y encargados de tratamiento: ❎
+*   Mecanismos de prevención de infracciones: ❎
+*   Reconocimiento de la Agencia y el Registro Nacional: ❎
+*   Derecho a indemnización (del titular): ❎
+
+**6. Puntuación total**
+
+✅: 0
+❎: 10
+
+**Puntuación Total: 0/10**
+
+**Conclusión:** La política de privacidad de Letras.com, en su forma actual, no cumple con los requisitos fundamentales de la Ley 21.719 de Chile, principalmente debido a su enfoque en la legislación brasileña y la omisión de derechos y obligaciones clave establecidos en la normativa chilena. Se requiere una revisión y adaptación sustancial para alinearla con la ley chilena si la empresa trata datos personales de titulares en Chile.

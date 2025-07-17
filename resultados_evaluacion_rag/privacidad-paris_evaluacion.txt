@@ -1,0 +1,79 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE CENCOSUD RETAIL S.A. FRENTE A LA LEY CHILENA DE PROTECCIÓN DE DATOS PERSONALES**
+
+**Nota Preliminar:** La solicitud indica evaluar la política conforme a la "Ley 21.719". Sin embargo, los extractos legales proporcionados corresponden a la "Ley 19.628 sobre Protección de la Vida Privada" (actualizada). La Ley 21.719 no corresponde a una ley de protección de datos personales promulgada y vigente en Chile a la fecha de este análisis. La evaluación se realizará estrictamente con base en los artículos de la Ley 19.628 proporcionados en la solicitud. La política analizada tiene fecha de "Última actualización, 26 de septiembre de 2022", por lo que se enmarca en la vigencia de la Ley 19.628.
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de Cencosud Retail S.A. (en adelante, "la Política") establece las condiciones bajo las cuales se recolecta, almacena, utiliza y trata la información personal de los usuarios (registrados y no registrados) de sus plataformas Paris.cl y Paris app.
+
+*   **Identificación del Responsable:** Cencosud Retail S.A., con domicilio y representante legal individualizados.
+*   **Datos Recolectados:** Para usuarios registrados: nombre, apellidos, Cédula de Identidad, fecha de nacimiento, correo electrónico, número de contacto. Para compras: dirección de despacho y medio de pago.
+*   **Consentimiento:** Se obtiene el consentimiento expreso del usuario para el almacenamiento, procesamiento, tratamiento y disposición (comunicación, cesión, transferencia) de su información.
+*   **Finalidades del Tratamiento:**
+    *   Gestión de compras y servicios asociados (validación, estado, reclamos, cambios, devoluciones).
+    *   Mejora de productos/servicios y diseño de nuevos.
+    *   Envío de información técnica, publicidad, ofertas y promociones (propias o de empresas del Grupo Cencosud).
+    *   Realización de estudios demográficos, históricos, de comportamiento e investigaciones de mercado.
+*   **Cesión de Datos:** Se contempla la comunicación de información a empresas del Grupo Cencosud y a sociedades con las que se establezcan acuerdos comerciales, bajo ciertos requisitos y con el compromiso de resguardar la reserva y permitir la oposición del usuario.
+*   **Plazo de Conservación:** Los datos se conservarán mientras se requieran para cumplir las finalidades declaradas, sin perjuicio de los derechos del usuario.
+*   **Derechos del Usuario:** Se reconocen los derechos de acceso, cancelación, rectificación, oposición, revocación del consentimiento y solicitud de no envío de publicidad, conforme a la Ley N°19.628. Se indica un correo electrónico para ejercerlos (datospersonales@cencosud.cl).
+*   **Medidas de Seguridad:** Se menciona el uso de tecnología SSL para la autenticidad y cifrado de la información.
+*   **Cookies y Google Analytics:** Se informa sobre su uso para la experiencia de compra, personalización, publicidad y análisis estadístico, con la posibilidad de que el usuario las deshabilite.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley (según los artículos proporcionados de la Ley 19.628)**
+
+Basado en los extractos de la Ley 19.628 proporcionados:
+
+*   ✅ **Individualización del responsable y representante legal (Art. 13, lit. b, primera parte):** La política identifica claramente a Cencosud Retail S.A. como responsable (Punto I.1) y a su representante legal (Punto I.7).
+*   ✅ **Domicilio postal y dirección de correo electrónico para solicitudes (Art. 13, lit. c):** Se proporciona el domicilio postal del responsable (Punto I.1) y una dirección de correo electrónico específica para el ejercicio de derechos (Punto I.5: datospersonales@cencosud.cl).
+*   ✅ **Categorías de datos (parcialmente) y Finalidades del tratamiento (Art. 13, lit. d):**
+    *   Se describen las categorías de datos personales que se recolectan para el registro y la compra (Punto I.2).
+    *   Se enumeran las finalidades para las cuales se utilizarán los datos (Punto I.2).
+*   ✅ **Base de legitimidad del tratamiento (parcialmente) (Art. 13, lit. d):** La política se basa fundamentalmente en el "consentimiento expreso" del usuario para el tratamiento y la cesión de datos (Punto I.2).
+*   ✅ **Información sobre derechos del titular (Art. 13, lit. a de las obligaciones generales del responsable; Política Punto I.4):** La política informa sobre los derechos de acceso, rectificación, cancelación y oposición, y el derecho a revocar la autorización, haciendo referencia a la Ley N°19.628.
+*   ✅ **Licitud del tratamiento (Art. 3, lit. a):** Al basar el tratamiento en el consentimiento del titular, se busca cumplir con el principio de licitud.
+*   ✅ **Principio de finalidad (Art. 3, lit. b):** Se declaran fines específicos para la recolección de datos (Punto I.2).
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley (según los artículos proporcionados de la Ley 19.628)**
+
+*   ❎ **Referencia a la ley y consulta de su texto (Art. 13, lit. a, sobre información a proporcionar):** La política no incluye la "referencia a la presente ley y a la posibilidad de consultar su texto íntegro y actualizado en el sitio web de la Agencia o en la última versión de la misma". Solo menciona la Ley 19.628 al hablar de los derechos.
+*   ❎ **Identificación del encargado de prevención (Art. 13, lit. b):** No se menciona la existencia ni se identifica a un "encargado de prevención" (figura similar al Delegado de Protección de Datos), aunque la ley indica "si existiere". Si existe, debería identificarse. Si no, sería recomendable indicarlo.
+*   ❎ **Descripción genérica del universo de personas (Art. 13, lit. d):** Si bien se habla de "Usuarios, registrados y no registrados" (Punto I.1, I.2), podría ser más específico respecto a los distintos segmentos o perfiles que componen sus bases de datos. Es muy general.
+*   ❎ **Destinatarios a los que se prevé comunicar o ceder los datos (Art. 13, lit. d y Art. 15):**
+    *   La mención a "sociedades con que estas [empresas del Grupo Cencosud] establezcan acuerdos comerciales para el desarrollo de estrategias vinculadas con su giro" (Punto I.2) es excesivamente amplia y no permite al titular conocer con suficiente especificidad quiénes podrían ser estos destinatarios.
+    *   El Art. 15 establece que si el consentimiento inicial no consideró la cesión, debe recabarse antes. La política parece solicitar un consentimiento general para cesiones futuras a entidades no claramente definidas, lo que podría no cumplir con el requisito de un consentimiento informado y específico para cada tipo de cesión a terceros fuera del grupo empresarial directo, especialmente si esos "acuerdos comerciales" se establecen con posterioridad al otorgamiento del consentimiento inicial.
+*   ❎ **Base de legitimidad del tratamiento (Art. 13, lit. d):** Aunque se basa en el consentimiento, no se detallan otras posibles bases de legitimidad que podrían aplicar a ciertos tratamientos (ej. necesidad para la ejecución de un contrato para datos estrictamente necesarios para la compra y despacho, o interés legítimo). Si se invoca el interés legítimo para alguna finalidad o cesión, este debe ser explicitado ("cuáles serían éstos").
+*   ❎ **Plazo de conservación (Punto I.3):** La indicación de que los datos se conservarán "mientras se requieran para el cumplimiento de una o más de las finalidades" es genérica. Aunque la Ley 19.628 no es tan prescriptiva como normativas más modernas, se esperaría mayor especificidad o criterios claros para determinar dicho plazo para diferentes categorías de datos o finalidades.
+*   ❎ **Cesión de datos (Art. 15):** La cesión a "sociedades con que estas establezcan acuerdos comerciales" (Punto I.2) podría no cumplir con el requisito de que la cesión sea "para el cumplimiento de los fines del tratamiento" si estos fines no están claramente vinculados y son conocidos por el titular al momento de consentir, o si no se obtiene un nuevo consentimiento específico. La generalidad de esta cláusula es problemática.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Incluir Referencia a la Ley:** Añadir una sección que haga referencia explícita a la Ley N° 19.628 (y sus modificaciones) y señale dónde se puede consultar su texto actualizado (ej. sitio web de la Biblioteca del Congreso Nacional o futura Agencia de Protección de Datos).
+2.  **Encargado de Prevención:** Si existe un Encargado de Prevención de Datos (o DPO), individualizarlo. Si no existe, considerar su designación o, al menos, clarificar la estructura interna de responsabilidad en protección de datos.
+3.  **Detallar Universo de Personas:** Especificar con mayor detalle los diferentes grupos o categorías de personas cuyos datos se tratan (ej. clientes de Paris.cl, usuarios de la app Paris, participantes en programas de fidelidad específicos, etc.).
+4.  **Especificar Destinatarios de Cesiones:**
+    *   Limitar la cesión a terceros fuera del grupo Cencosud a casos donde exista un consentimiento específico e informado para dicha cesión, identificando claramente al tipo de destinatario y la finalidad de la cesión.
+    *   Evitar cláusulas de cesión genéricas a "sociedades con acuerdos comerciales" sin mayor detalle. Si se van a realizar estas cesiones, se debe obtener un consentimiento específico o asegurar que se cumple otra base de legitimación del Art. 15 (ej. interés legítimo claramente definido y justificado).
+5.  **Clarificar Bases de Legitimidad:** Además del consentimiento, identificar y explicar otras bases legales para el tratamiento cuando corresponda (ej. ejecución de contrato para el procesamiento de pedidos, interés legítimo para ciertas actividades de marketing directo o análisis, detallando cuál es ese interés).
+6.  **Especificar Plazos de Conservación:** Establecer plazos de conservación más concretos para distintas categorías de datos o, al menos, los criterios utilizados para determinar dichos plazos (ej. "datos de compra se conservarán por X años por obligaciones fiscales/contables", "datos para fines de marketing se conservarán mientras el usuario no revoque su consentimiento o por X tiempo desde la última interacción").
+7.  **Revisión de Consentimiento para Cesiones:** Asegurar que el consentimiento obtenido para la cesión de datos a terceros (especialmente aquellos fuera del grupo Cencosud y no esenciales para el servicio) sea específico, informado e inequívoco para esas cesiones particulares, conforme al Art. 15.
+8.  **Actualización General:** Considerar una revisión integral de la política a la luz de los estándares más recientes en protección de datos y prepararse para la eventual entrada en vigor de una nueva ley de protección de datos en Chile (que reemplazaría o modificaría sustancialmente la Ley 19.628), la cual previsiblemente será más exigente.
+
+**5. Puntuación general de cumplimiento (respecto a los artículos proporcionados)**
+
+Se evaluarán 5 secciones clave derivadas de los artículos proporcionados:
+
+1.  **Información sobre el responsable y medios de contacto (Art. 13 b, c):** ✅
+    *   *Justificación:* Se identifica al responsable, su domicilio, representante legal y correo de contacto para derechos. La mención al encargado de prevención es "si existiere".
+2.  **Información sobre el tratamiento (Art. 13 d - categorías, universo, finalidades, base legitimidad, intereses legítimos):** ❎
+    *   *Justificación:* Aunque se listan categorías y finalidades, la descripción del universo es genérica, la base de legitimidad se centra solo en el consentimiento sin detallar otras o especificar intereses legítimos.
+3.  **Información y condiciones sobre cesiones de datos (Art. 13 d - destinatarios; Art. 15):** ❎
+    *   *Justificación:* La descripción de destinatarios de cesiones a terceros ("sociedades con acuerdos comerciales") es demasiado vaga, y el consentimiento para tales cesiones podría no cumplir con los requisitos de especificidad del Art. 15.
+4.  **Referencia a la ley y mención de derechos (Art. 13 a de información a proporcionar; Política Punto I.4):** ❎
+    *   *Justificación:* Si bien se mencionan los derechos, falta la referencia explícita a la ley y cómo consultar su texto íntegro, como exige el Art. 13 lit. a) de la información a proporcionar.
+5.  **Cumplimiento de principios generales (Art. 3 - Licitud, Lealtad, Finalidad):** ❎
+    *   *Justificación:* Aunque se busca la licitud mediante el consentimiento y se declaran finalidades, la amplitud y vaguedad en las cesiones a terceros y la falta de detalle en las bases de legitimidad pueden comprometer los principios de lealtad y finalidad específica para todos los tratamientos comunicados.
+
+**6. Puntuación total:**
+
+**Total: 1 ✅ de 5 secciones evaluadas.**

@@ -1,0 +1,104 @@
+**EVALUACIÓN DE POLÍTICA DE PRIVACIDAD DE SONY PICTURES ENTERTAINMENT INC. BAJO LA LEY 21.719 DE CHILE**
+
+**Nota Preliminar:** La política de privacidad proporcionada tiene fecha de entrada en vigencia el 27 de julio de 2022. La Ley 21.719, si bien promulgada, tiene disposiciones que entrarán en vigor de forma diferida. Esta evaluación se realiza considerando los artículos de la Ley 21.719 citados en la solicitud, asumiendo su plena vigencia para el análisis. La política analizada es de carácter global y podría requerir adaptaciones específicas para Chile.
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de Sony Pictures Entertainment Inc. (SPE) establece cómo se recopilan, usan y comparten los datos personales a través de sus sitios web, aplicaciones y funcionalidades en línea ("Contenidos").
+
+*   **Responsable del Tratamiento:** SPE Inc. y/o sus subsidiarias. Se indica la sede corporativa en EE. UU. y se ofrece un enlace para identificar la entidad específica.
+*   **Datos Recopilados:**
+    *   **Proporcionados por el usuario:** Datos de identificación, contacto, pago, participación en concursos/encuestas, consultas, contenido generado por usuarios.
+    *   **Recopilados automáticamente:** Información de uso (tipo de navegador, SO, páginas visitadas, tiempo, historial, demografía), identificadores de dispositivos (IP, ubicación física).
+    *   **De terceros:** Proveedores de aplicaciones, datos externos, interacciones con servicios de terceros (redes sociales).
+*   **Finalidades y Bases Legales:**
+    *   **Cumplimiento de contrato:** Procesar registros, enviar información transaccional, procesar pagos, administrar cuentas.
+    *   **Intereses legítimos:** Acceso a contenidos, seguridad, cumplimiento de términos, ayudar a titulares de derechos, determinar ubicación, adaptar contenidos, análisis de uso, mejorar servicios, personalizar avisos (si la ley lo permite), asistencia.
+    *   **Consentimiento:** Envío de marketing, personalización de avisos (si se requiere consentimiento), uso de cookies, tratamiento de datos de menores (con consentimiento parental/tutor).
+    *   **Obligaciones legales:** Responder a solicitudes de autoridades.
+*   **Cookies y Tecnologías Similares:** Usadas para personalizar contenido, publicidad y mejorar funcionalidades, con consentimiento si la ley lo exige.
+*   **Cómo se comparte la información:** Públicamente (contenido generado por usuarios), con socios comerciales, empresas del grupo Sony, terceros procesadores de datos, o cuando la ley lo exige.
+*   **Transferencias Internacionales:** A EE. UU. y otras jurisdicciones, con "protecciones apropiadas".
+*   **Derechos del Titular:** Acceso, rectificación, eliminación, oposición, retiro de consentimiento (sujeto a ley aplicable).
+*   **Seguridad de Datos:** Medidas técnicas y organizativas.
+*   **Toma de Decisiones Automatizadas y Perfiles:** Declaran no realizar toma de decisiones *totalmente* automatizadas con efecto legal o análogo significativo.
+*   **Retención:** Solo durante el tiempo necesario para la finalidad del procesamiento.
+*   **Cambios en la Política:** Se pueden realizar modificaciones.
+*   **Contacto:** Se proporciona un enlace para contacto.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley (Ley 21.719)**
+
+Basado en los artículos proporcionados:
+
+*   **Artículo 14.d) (parcialmente):**
+    *   **Categorías, clases o tipos de datos que trata:** ✅ La política detalla las categorías de datos personales que recopila (Datos de identificación, Información de contacto, Información sobre pagos, etc.).
+    *   **Finalidades de los tratamientos que realiza:** ✅ Se enumeran diversas finalidades agrupadas por base de legitimación (cumplir contrato, intereses legítimos, consentimiento, obligaciones legales).
+    *   **Base de legitimidad del tratamiento:** ✅ Se identifican las bases legales para el tratamiento (contrato, intereses legítimos, consentimiento, obligaciones legales).
+    *   **En caso de tratamientos que se basan en la satisfacción de intereses legítimos, cuáles serían éstos:** ✅ Se especifican los intereses legítimos (proporcionar acceso, seguridad, adaptar contenidos, etc.).
+*   **Artículo 14.e) Política y medidas de seguridad:** ✅ La política menciona la adopción de "medidas técnicas y organizativas para proteger a los Datos personales".
+*   **Artículo 14.f) (parcialmente) Derecho que le asiste al titular para solicitar acceso, rectificación, supresión, oposición:** ✅ La política menciona los derechos de acceso, rectificación, eliminación (supresión) y objeción (oposición).
+*   **Artículo 14.h) (parcialmente) Transferencia de datos personales a un tercer país y si ofrecen o no un nivel adecuado de protección / garantías:** ✅ La política informa sobre transferencias a EE. UU. y otras jurisdicciones, y menciona que cuentan con "protecciones apropiadas".
+*   **Artículo 14.k) Derecho a retirar el consentimiento:** ✅ La política menciona el derecho a "retirar su consentimiento para determinados procesamientos".
+*   **Artículo 14.l) (parcialmente) Existencia de decisiones automatizadas, incluida la elaboración de perfiles:** ✅ La política declara que "No realizamos ninguna toma de decisiones o evaluación de perfiles totalmente automatizadas que tenga un efecto legal o análogo significativo en usted".
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley (Ley 21.719)**
+
+Basado en los artículos proporcionados:
+
+*   **Artículo 14.a) Individualización del responsable de datos y su representante legal:** ❎
+    *   Si bien se identifica a "Sony Pictures Entertainment Inc." y se menciona la posibilidad de que sean "algunas de sus subsidiarias", no se individualiza claramente un responsable específico para Chile ni se designa un representante legal en Chile, lo cual es crucial para la aplicación de la ley chilena. El enlace "Para identificar la entidad SPE responsable, haga clic aquí" podría subsanar la identificación del responsable, pero no la del representante legal en Chile.
+*   **Artículo 14.b) Identificación del encargado de prevención, si existiere:** ❎ No se menciona la existencia ni la identificación de un Encargado de Prevención (o Delegado de Protección de Datos).
+*   **Artículo 14.c) Domicilio postal, dirección de correo electrónico, formulario de contacto o medio tecnológico equivalente para notificar solicitudes:** ❎
+    *   Se proporciona un enlace genérico "Contáctenos". No se especifica un domicilio postal *en Chile* para notificaciones, ni una dirección de correo electrónico o formulario *específicamente designado* para el ejercicio de derechos de titulares chilenos de forma clara y de fácil acceso en el cuerpo principal de la política.
+*   **Artículo 14.d) (parcialmente):**
+    *   **Descripción genérica del universo de personas que comprenden sus bases de datos:** ❎ La política se refiere a usuarios de "cualesquier sitios web, aplicaciones y funcionalidades en línea", lo cual es amplio. Una descripción más acotada del universo de titulares (ej. "usuarios registrados", "suscriptores", "participantes de concursos") sería más precisa.
+    *   **Destinatarios a los que se prevé comunicar o ceder los datos:** ❎ Si bien se mencionan categorías generales ("socios comerciales", "empresas del grupo Sony", "terceros que contratamos para procesar datos"), la ley exige mayor especificidad o al menos los criterios para determinar dichos destinatarios.
+*   **Artículo 14.f) (parcialmente) Derecho a la portabilidad de sus datos personales:** ❎ La política menciona acceso, rectificación, eliminación y oposición, pero no incluye explícitamente el derecho a la portabilidad en la sección "Sus derechos".
+*   **Artículo 14.g) Derecho que le asiste al titular de recurrir ante la Agencia:** ❎ No se informa al titular sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales de Chile en caso de que el responsable rechace o no responda oportunamente sus solicitudes.
+*   **Artículo 14.h) (parcialmente) Nivel adecuado de protección o garantías en transferencias internacionales:** ❎ Aunque se mencionan "protecciones apropiadas", no se especifica si los países receptores (como EE. UU.) ofrecen un nivel adecuado de protección según los estándares chilenos, ni se detallan las garantías específicas que justificarían tal transferencia en ausencia de adecuación (ej. Cláusulas Contractuales Tipo aprobadas por la Agencia).
+*   **Artículo 14.i) El periodo durante el cual se conservarán los datos personales:** ❎ La política indica que los datos se retienen "solamente durante el tiempo necesario para cumplir con la finalidad para la cual se procesan". Esto es genérico y no cumple con la exigencia de informar "el periodo" o, en su defecto, los criterios utilizados para determinar ese plazo de forma más concreta.
+*   **Artículo 14.j) La fuente de la cual provienen los datos personales y, en su caso, si proceden de fuentes de acceso público:** ❎ Si bien se menciona que se recibe información "de terceros", no se especifica claramente si alguna de estas fuentes es de acceso público, como lo requiere la ley.
+*   **Artículo 14.l) (parcialmente) Información significativa sobre la lógica aplicada y consecuencias previstas en decisiones automatizadas/perfiles:** ❎ Aunque se indica que no se realizan decisiones *totalmente* automatizadas con *efecto legal significativo*, la política menciona la personalización de contenidos y avisos, lo que implica elaboración de perfiles. Si esta elaboración de perfiles no alcanza el umbral de "efecto legal significativo" pero aun así existe, se debería informar sobre la lógica aplicada y las consecuencias previstas de dicho perfilamiento, aunque sea de menor impacto. La redacción actual es un tanto evasiva.
+*   **Artículo 16 sexies.- Datos de geolocalización:** ❎
+    *   La política menciona la recopilación de "ubicación física del dispositivo" y el uso de la "ubicación aproximada" para adaptar contenidos. Sin embargo, no informa de manera clara, suficiente y oportuna sobre:
+        *   El tipo específico de datos de geolocalización que serán tratados (ej. GPS, triangulación de antenas, IP).
+        *   La duración específica del tratamiento de estos datos de geolocalización.
+        *   Si los datos de geolocalización se comunicarán o cederán a un tercero para la prestación de un servicio con valor añadido.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Responsable y Representante (Art. 14.a):** Designar e identificar claramente un representante legal en Chile para SPE y la entidad subsidiaria específica que actúa como responsable para los titulares chilenos.
+2.  **Encargado de Prevención (Art. 14.b):** Si corresponde por el volumen o tipo de datos tratados, designar un Encargado de Prevención e informar su identidad y datos de contacto. Si no es obligatorio, considerar su designación como buena práctica.
+3.  **Canal de Contacto Específico (Art. 14.c):** Establecer y comunicar claramente un domicilio postal en Chile, una dirección de correo electrónico dedicada o un formulario específico para que los titulares chilenos ejerzan sus derechos y realicen consultas sobre privacidad.
+4.  **Universo de Titulares y Destinatarios (Art. 14.d):** Precisar la descripción del universo de personas cuyas bases de datos se administran. Detallar los destinatarios de los datos o los criterios para su determinación.
+5.  **Derecho a la Portabilidad (Art. 14.f):** Incluir explícitamente el derecho a la portabilidad de los datos en la sección de derechos del titular.
+6.  **Recurso ante la Agencia (Art. 14.g):** Informar a los titulares sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales de Chile.
+7.  **Transferencias Internacionales (Art. 14.h):** Especificar si los países a los que se transfieren datos cuentan con un nivel adecuado de protección según la normativa chilena. En caso contrario, detallar las garantías específicas implementadas (ej. Cláusulas Contractuales Tipo, Normas Corporativas Vinculantes).
+8.  **Periodo de Conservación (Art. 14.i):** Establecer periodos de conservación específicos para las distintas categorías de datos y finalidades, o criterios claros y objetivos para determinar dichos periodos.
+9.  **Fuente de los Datos (Art. 14.j):** Indicar explícitamente si alguno de los datos personales proviene de fuentes de acceso público.
+10. **Decisiones Automatizadas y Perfilamiento (Art. 14.l):** Si se realiza elaboración de perfiles (incluso sin efecto legal significativo), proporcionar información significativa sobre la lógica aplicada y las consecuencias previstas para el titular. Aclarar qué se entiende por "totalmente automatizadas" y "efecto legal o análogo significativo".
+11. **Datos de Geolocalización (Art. 16 sexies):** Crear una sección específica o detallar en la existente: el tipo exacto de datos de geolocalización tratados, la finalidad específica, la duración del tratamiento de estos datos y si se comunican a terceros para servicios de valor añadido, solicitando el consentimiento específico si es necesario.
+12. **Adaptación a Chile:** Considerar la creación de un anexo o una versión de la política de privacidad específica para Chile que aborde estos puntos y utilice la terminología de la Ley 21.719.
+
+**5. Puntuación general de cumplimiento (por sección relevante de la ley citada)**
+
+| Artículo Ley 21.719 | Requisito Específico                                                                                                | Cumplimiento |
+| :------------------ | :------------------------------------------------------------------------------------------------------------------ | :----------: |
+| Art. 14.a           | Individualización del responsable y representante legal                                                              |      ❎      |
+| Art. 14.b           | Identificación del encargado de prevención                                                                          |      ❎      |
+| Art. 14.c           | Domicilio postal, correo electrónico o medio para notificar solicitudes                                               |      ❎      |
+| Art. 14.d           | Categorías, universo, destinatarios, finalidades, base de legitimidad, intereses legítimos                          |      ❎      |
+| Art. 14.e           | Política y medidas de seguridad                                                                                     |      ✅      |
+| Art. 14.f           | Derechos (acceso, rectificación, supresión, oposición, portabilidad)                                                |      ❎      |
+| Art. 14.g           | Derecho a recurrir ante la Agencia                                                                                  |      ❎      |
+| Art. 14.h           | Transferencia internacional (adecuación, garantías)                                                                 |      ❎      |
+| Art. 14.i           | Periodo de conservación                                                                                             |      ❎      |
+| Art. 14.j           | Fuente de los datos (y si son de acceso público)                                                                    |      ❎      |
+| Art. 14.k           | Derecho a retirar el consentimiento                                                                                 |      ✅      |
+| Art. 14.l           | Decisiones automatizadas/perfilamiento (información lógica y consecuencias)                                         |      ❎      |
+| Art. 16 sexies      | Información específica sobre tratamiento de datos de geolocalización (tipo, finalidad, duración, cesión a terceros) |      ❎      |
+
+**6. Puntuación total**
+
+Sumando los ✅ del total de secciones evaluadas:
+**Puntuación Total: 2 / 13**

@@ -1,0 +1,73 @@
+**Evaluación de Cumplimiento de Política de Privacidad Lider.cl con la Normativa Chilena de Protección de Datos Personales (basada en Ley 19.628, según texto proporcionado con modificaciones de Ley 21.719)**
+
+**1. Resumen de los puntos principales de la política de privacidad proporcionada**
+
+La "Política de Privacidad" de Lider.cl, según el extracto proporcionado, es extremadamente breve y de carácter introductorio. Los puntos principales que se pueden extraer son:
+*   **Ámbito de Aplicación:** Declara que la política se aplica a las operaciones en línea de Lider.cl y a las transacciones asociadas a la compra de productos en sus canales de venta.
+*   **Propósito Declarado:** Afirma que la política entrega a los clientes "información clara, destacada y de fácil acceso acerca de sus prácticas de privacidad".
+*   **Ubicación:** Se encuentra dentro del "Centro de ayuda" bajo "Información Legal y concursos".
+*   **Contacto General:** Se ofrece un número de WhatsApp para ayuda general, no específicamente para asuntos de privacidad.
+
+Es importante notar que el texto proporcionado parece ser más una declaración de intenciones o una introducción a la política, que la política de privacidad completa en sí misma.
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+Considerando la brevedad del texto, es difícil identificar cumplimientos sustanciales con los requisitos detallados en la ley. Sin embargo, se puede mencionar:
+*   **Intento de Informar (Obligación General a) pág. 10):** La declaración de que "Esta política entrega a los clientes información clara, destacada y de fácil acceso acerca de sus prácticas de privacidad" muestra una intención de cumplir con el deber de informar. No obstante, el contenido proporcionado no materializa esta intención con la información específica requerida.
+*   **Fácil Acceso (Obligación General a) pág. 10 y Requisito c) pág. 11):** Al estar ubicada en el "Centro de ayuda", se podría argumentar que se busca un "fácil acceso". Sin embargo, esto se refiere más a la ubicación del documento que a su contenido o a los canales específicos para ejercer derechos.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+El extracto de la política de privacidad proporcionado presenta múltiples incumplimientos respecto a la información que debe contener una política de privacidad según la Ley 19.628 (pág. 11 del documento de referencia):
+
+*   **Ausencia de Fecha de Entrada en Vigor y Última Versión (Requisito a) pág. 11):** No se indica la fecha de entrada en vigor de la política ni cuándo fue su última actualización.
+*   **Falta de Individualización del Responsable y Representante Legal (Requisito b) pág. 11):** No se identifica al responsable del tratamiento de datos, ni a su representante legal, ni al encargado de prevención si existiera.
+*   **Información de Contacto Insuficiente para Solicitudes de Titulares (Requisito c) pág. 11):** Aunque se menciona un WhatsApp, no se especifica un domicilio postal, una dirección de correo electrónico dedicada, o un formulario de contacto específico para que los titulares realicen solicitudes relativas a sus datos personales.
+*   **Omisión de Detalles Cruciales del Tratamiento (Requisito d) pág. 11):**
+    *   No se detallan las categorías, clases o tipos de datos que se tratan.
+    *   No hay una descripción genérica del universo de personas que comprenden sus bases de datos.
+    *   No se mencionan los destinatarios a los que se prevé comunicar o ceder los datos.
+    *   No se especifican las finalidades de los tratamientos que se realizan.
+    *   No se indica la base de legitimidad del tratamiento.
+    *   No se explicitan los intereses legítimos en caso de que el tratamiento se base en ellos.
+*   **Ausencia de Información sobre Medidas de Seguridad (Requisito e) pág. 11):** No se describe la política ni las medidas de seguridad adoptadas para proteger las bases de datos personales.
+*   **No se Informan los Derechos de los Titulares (Requisito f) pág. 11):** No se menciona el derecho de los titulares a solicitar acceso, rectificación, supresión, oposición y portabilidad de sus datos personales.
+*   **No se Informa sobre el Derecho a Recurrir ante la Agencia (Requisito g) pág. 11):** No se informa al titular sobre su derecho a recurrir ante la Agencia de Protección de Datos Personales si el responsable rechaza o no responde oportunamente sus solicitudes.
+*   **Ausencia de Información sobre Transferencias Internacionales (Requisito h) pág. 11):** No se proporciona información sobre si se realizan transferencias de datos personales a terceros países u organizaciones internacionales, ni sobre el nivel de protección o garantías aplicables.
+
+Además, en relación con las obligaciones generales del responsable (pág. 10):
+*   **Incumplimiento de Informar Antecedentes de Licitud (Obligación a) pág. 10):** Si bien se declara la intención, la información que acreditaría la licitud no se proporciona en el extracto.
+*   **Imposibilidad de Verificar Fines Específicos y Lícitos (Obligación b) pág. 10):** Al no detallarse los fines, no se puede evaluar este punto.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+Para que la política de privacidad de Lider.cl cumpla con la normativa chilena, se recomienda:
+1.  **Desarrollar una Política de Privacidad Completa y Detallada:** El texto actual es insuficiente. Se debe redactar un documento exhaustivo que aborde todos los puntos exigidos por la ley.
+2.  **Incluir Toda la Información Obligatoria (según pág. 11 de la ley):**
+    *   Fecha de entrada en vigor y última versión.
+    *   Identificación completa del responsable del tratamiento (razón social, RUT, domicilio), su representante legal y, si aplica, el encargado de prevención.
+    *   Canales de contacto claros y específicos para el ejercicio de derechos de los titulares (ej. correo electrónico dedicado a privacidad, formulario en línea, dirección postal).
+    *   Descripción detallada de: tipos de datos recolectados, universo de titulares, finalidades específicas para cada tipo de dato, base legal que legitima cada tratamiento (consentimiento, obligación legal, interés legítimo detallado, etc.), y posibles destinatarios o cesionarios de los datos.
+    *   Descripción general de las medidas de seguridad implementadas.
+    *   Explicación clara de los derechos de los titulares (acceso, rectificación, supresión, oposición, portabilidad) y el procedimiento para ejercerlos.
+    *   Información sobre el derecho a recurrir ante la Agencia de Protección de Datos Personales.
+    *   Si se realizan transferencias internacionales, detallar los países, el nivel de protección y las garantías.
+3.  **Asegurar Claridad y Accesibilidad:** Mantener un lenguaje claro y sencillo, y asegurar que la política completa sea fácilmente accesible desde todas las plataformas de Lider.cl.
+4.  **Revisión Legal Periódica:** Someter la política a revisiones legales periódicas para asegurar su continua conformidad con la legislación vigente y las interpretaciones de la Agencia.
+
+**5. Puntuación general de cumplimiento (basado en los requisitos de información de la política de privacidad - Ley 19.628, pág. 11, según texto proporcionado)**
+
+A continuación, se evalúa el cumplimiento del extracto de la política proporcionada frente a los requisitos específicos de contenido:
+
+*   a) Fecha de entrada en vigor y última versión: ❎
+*   b) Individualización del responsable de datos y su representante legal; identificación del encargado de prevención, si existiere: ❎
+*   c) Domicilio postal, la dirección de correo electrónico, el formulario de contacto o la identificación del medio tecnológico equivalente para notificar solicitudes: ❎
+*   d) Las categorías, clases o tipos de datos que trata; la descripción genérica del universo de personas; los destinatarios; las finalidades; la base de legitimidad; y los intereses legítimos (si aplica): ❎
+*   e) La política y las medidas de seguridad adoptadas: ❎
+*   f) El derecho que le asiste al titular para solicitar acceso, rectificación, supresión, oposición y portabilidad: ❎
+*   g) El derecho que le asiste al titular de recurrir ante la Agencia: ❎
+*   h) En su caso, la transferencia de datos personales a un tercer país y su nivel de protección o garantías: ❎
+
+**6. Puntuación total**
+
+Total de ✅: **0/8**

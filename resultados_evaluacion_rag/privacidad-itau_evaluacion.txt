@@ -1,0 +1,73 @@
+**EVALUACIÓN DE LA POLÍTICA DE PRIVACIDAD DE BANCO ITAÚ CHILE FRENTE A LA LEY 19.628**
+
+**1. Resumen de los puntos principales de la política de privacidad**
+
+La política de privacidad de Banco Itaú Chile, integrada dentro de un documento más amplio de "Términos de uso y Políticas de privacidad", establece las condiciones bajo las cuales la entidad trata la información de sus clientes y usuarios. Sus puntos clave son:
+
+*   **Alcance:** Aplica a todas las plataformas digitales de Itaú (sitios web, aplicaciones, etc.).
+*   **Definiciones:** Proporciona definiciones de términos relevantes como "datos personales", "datos sensibles", "responsable del tratamiento" (identificando a Itaú como tal), "encargado del tratamiento", "titular de datos", "transferencia" y "transmisión".
+*   **Obtención de datos:** Detalla los tipos de datos recolectados (identificación, biométricos, contacto, comerciales, económicos, financieros, transaccionales, del dispositivo, de otras aplicaciones instaladas, comportamiento de uso) y las fuentes (contacto directo, remoto, transacciones, bases de datos públicas).
+*   **Autorización para el tratamiento:** El usuario, al aceptar los términos, autoriza a Itaú a recolectar, transmitir, procesar y mantener datos, incluso fuera de Chile o en la nube, con empresas relacionadas o terceros procesadores, quienes deben mantener confidencialidad. Se autoriza el uso para fines publicitarios, comerciales, de cobranza, desarrollo de productos/servicios, informes estadísticos y límites de crédito, extendiéndose a su controlador, filiales y sociedades de apoyo al giro.
+*   **Enlaces a terceros:** Menciona la existencia de enlaces a sitios de terceros, sin responsabilidad para Itaú.
+*   **Transmisión y Transferencia:** Se remite a la sección de autorización, permitiendo el envío de datos dentro o fuera de Chile.
+*   **Secciones Ausentes o Incompletas:** La política proporcionada carece de secciones explícitas y detalladas sobre "Finalidad del tratamiento de los datos" (aunque se infieren algunos fines en la sección de autorización), "Período del tratamiento", "Seguridad de los datos" y "De la protección de datos" (donde se deberían detallar los derechos de los titulares).
+
+**2. Evaluación de cumplimiento: aspectos que cumplen con la ley**
+
+Basado en los extractos de la Ley 19.628 proporcionados:
+
+*   ✅ **Individualización del responsable (Pág. 11, b):** La política identifica a "Banco Itaú Chile" como el responsable del tratamiento de los datos.
+*   ✅ **Categorías de datos que trata (Pág. 11, d):** La sección "2. Obtención de datos" enumera las categorías de datos personales que se recolectan.
+*   ✅ **Destinatarios a los que se prevé comunicar o ceder los datos (Pág. 11, d):** La sección "3. Autorización tratamiento de información y datos personales" menciona la comunicación a sucursales, empresas relacionadas, terceros procesadores, controlador, filiales y sociedades de apoyo al giro.
+*   ✅ **Base de legitimidad del tratamiento (Pág. 11, d):** La política se basa principalmente en el consentimiento del titular, obtenido a través de la aceptación de los términos.
+*   ✅ **Recoger datos de fuentes lícitas (Pág. 10, b):** La política menciona fuentes como el contacto directo con el titular y bases de datos públicas, que pueden ser lícitas.
+
+**3. Identificación de incumplimientos: aspectos que no cumplen con la ley**
+
+*   ❎ **Informar y poner a disposición antecedentes que acrediten la licitud del tratamiento de manera expedita (Pág. 10, a):** Si bien la política existe, la falta de detalle en secciones cruciales dificulta que el titular pueda evaluar completamente la licitud y la información no se presenta de forma totalmente clara y completa.
+*   ❎ **Fines específicos, explícitos y lícitos, y limitación del tratamiento a estos fines (Pág. 10, b):** Aunque se infieren algunos fines en la sección "3. Autorización...", no existe una sección dedicada y explícita que detalle todas las finalidades del tratamiento. Los fines mencionados son amplios ("fines publicitarios, comerciales, de cobranza o para la adecuada ejecución, el perfeccionamiento o desarrollo de nuevos atributos de los productos y/o servicios"). La ley exige que sean "específicos" y "explícitos".
+*   ❎ **Suprimir o anonimizar datos de medidas precontractuales (Pág. 10, d):** La política no menciona este deber específico.
+*   ❎ **Individualización del representante legal y encargado de prevención (si existiere) (Pág. 11, b):** No se individualiza al representante legal de Banco Itaú Chile ni se menciona la existencia (o no) de un encargado de prevención (o Delegado de Protección de Datos).
+*   ❎ **Domicilio postal, correo electrónico, formulario de contacto o medio tecnológico equivalente para notificar solicitudes de los titulares (Pág. 11, c):** La política no proporciona de manera clara y accesible un punto de contacto específico para el ejercicio de los derechos de protección de datos.
+*   ❎ **Descripción genérica del universo de personas que comprenden sus bases de datos (Pág. 11, d):** Si bien se infiere que son "clientes y usuarios", una descripción más genérica podría ser más clara.
+*   ❎ **Informar sobre intereses legítimos si el tratamiento se basa en ellos (Pág. 11, d):** La política se centra en el consentimiento. Si se utilizaran intereses legítimos como base para algún tratamiento, esto no se especifica ni se detallan cuáles serían.
+*   ❎ **La política y las medidas de seguridad adoptadas (Pág. 11, e):** La sección "8. Seguridad de los datos" está ausente en el texto proporcionado. Es un requisito fundamental informar sobre las medidas de seguridad.
+*   ❎ **El derecho que le asiste al titular para solicitar acceso, rectificación, supresión, oposición y portabilidad (ARSOP) (Pág. 11, f; Art. 4º, Pág. 5):** La sección "9. De la protección de datos", que presumiblemente abordaría estos derechos, está ausente. No se informa explícitamente al titular sobre sus derechos ARSOP ni el procedimiento para ejercerlos.
+*   ❎ **El derecho que le asiste al titular de recurrir ante la Agencia (Pág. 11, g):** No se informa al titular sobre su derecho a recurrir ante la autoridad de control (Agencia de Protección de Datos Personales, una vez operativa).
+*   ❎ **Transferencia de datos a un tercer país u organización internacional y nivel de protección o garantías (Pág. 11, h):** La política menciona la posibilidad de transferencias internacionales ("fuera del territorio de la República de Chile o en la nube") y que el receptor debe mantener la confidencialidad. Sin embargo, no informa si los países receptores ofrecen un nivel adecuado de protección ni, en caso contrario, qué garantías específicas justifican tal transferencia, más allá de la obligación de confidencialidad contractual.
+*   ❎ **Período del tratamiento (Sección 5 ausente):** No se especifica por cuánto tiempo se conservarán los datos personales, lo cual es una omisión importante.
+
+**4. Recomendaciones para mejorar el cumplimiento**
+
+1.  **Completar Secciones Faltantes:** Es crucial desarrollar e incluir las secciones "4. Finalidad del tratamiento de los datos", "5. Período del tratamiento", "8. Seguridad de los datos" y "9. De la protección de datos".
+2.  **Detallar Finalidades:** En la sección de finalidades, enumerar de forma específica, explícita y lícita cada uno de los propósitos para los cuales se tratarán los datos personales, evitando generalidades.
+3.  **Especificar Períodos de Conservación:** Indicar los plazos o criterios utilizados para determinar por cuánto tiempo se conservarán los diferentes tipos de datos personales.
+4.  **Describir Medidas de Seguridad:** Detallar las medidas técnicas y organizativas implementadas para proteger los datos personales contra acceso no autorizado, pérdida, alteración o destrucción.
+5.  **Informar sobre Derechos ARSOP:** Incluir una sección clara que explique los derechos de acceso, rectificación, supresión, oposición y portabilidad, y el procedimiento detallado para que los titulares puedan ejercerlos.
+6.  **Proporcionar Datos de Contacto Específicos:** Incluir la individualización del representante legal y, si existe, del encargado de prevención/Delegado de Protección de Datos. Facilitar una dirección de correo electrónico y/o un formulario de contacto específico para consultas y solicitudes relativas a la protección de datos.
+7.  **Informar sobre Recurso ante la Agencia:** Mencionar el derecho del titular a recurrir ante la autoridad de control en caso de disconformidad.
+8.  **Detallar Transferencias Internacionales:** Para las transferencias internacionales, especificar los países de destino. Si no cuentan con un nivel adecuado de protección reconocido por la autoridad chilena, detallar las garantías específicas que se han implementado para proteger los datos (e.g., cláusulas contractuales tipo, normas corporativas vinculantes).
+9.  **Clarificar Base de Licitud:** Si se utilizan otras bases de licitud además del consentimiento (e.g., interés legítimo), especificarlas claramente y, en el caso de interés legítimo, detallar cuáles son.
+10. **Revisar la Obtención del Consentimiento:** Asegurar que el consentimiento sea verdaderamente libre, informado y específico para cada finalidad, especialmente para fines publicitarios o cesiones a empresas del grupo para fines distintos a la ejecución del contrato principal. Considerar mecanismos de consentimiento granular.
+11. **Mencionar Supresión por Medidas Precontractuales:** Incluir la obligación de suprimir o anonimizar datos obtenidos para medidas precontractuales si el contrato no se concreta.
+
+**5. Puntuación general de cumplimiento**
+
+*   Informar y poner a disposición antecedentes de licitud (Pág. 10, a): ❎
+*   Recoger de fuentes lícitas, fines específicos, explícitos, lícitos, tratamiento limitado (Pág. 10, b): ❎ (fines no explícitos ni específicos)
+*   Comunicar o ceder información exacta, completa y actual (Pág. 10, c): ❎ (asumido, pero no explícitamente garantizado en la política)
+*   Suprimir o anonimizar datos de medidas precontractuales (Pág. 10, d): ❎
+*   Individualización del responsable, representante legal, encargado de prevención (Pág. 11, b): ❎ (falta representante y encargado)
+*   Domicilio postal, correo electrónico o medio de contacto para solicitudes (Pág. 11, c): ❎
+*   Categorías de datos, universo de personas, destinatarios, finalidades, base de legitimidad, intereses legítimos (Pág. 11, d): ❎ (faltan finalidades explícitas, universo claro, detalle de intereses legítimos)
+*   Política y medidas de seguridad (Pág. 11, e): ❎
+*   Derecho ARSOP (Pág. 11, f; Art. 4º, Pág. 5): ❎
+*   Derecho a recurrir ante la Agencia (Pág. 11, g): ❎
+*   Transferencia internacional, nivel de protección y garantías (Pág. 11, h): ❎
+*   Consentimiento libre, informado y específico (Art. 12, Pág. 9): ❎ (información incompleta para ser plenamente informado y específico)
+
+**6. Puntuación total**
+
+Puntuación total: **0 ✅ de 12 secciones evaluadas.**
+
+**Conclusión:** La política de privacidad proporcionada por Banco Itaú Chile presenta deficiencias significativas en cuanto al cumplimiento de las obligaciones y requisitos de información establecidos en los extractos de la Ley 19.628. La ausencia de secciones críticas y la falta de detalle en otras impiden que se considere adecuada. Se requieren mejoras sustanciales para alinearla con la normativa vigente.
